@@ -17,6 +17,14 @@
   <meta name="theme-color" content="#2FAE6B">
   <title>Học Vui</title>
   <link rel="manifest" href="manifest.json">
+  <!-- Mở sẵn kết nối tới các máy chủ app cần, đỡ chờ khi tải lần đầu. -->
+  <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://firestore.googleapis.com">
+  <link rel="preconnect" href="https://identitytoolkit.googleapis.com">
+  <link rel="preconnect" href="https://securetoken.googleapis.com">
+  <link rel="preload" href="main.dart.js" as="script">
   <style>
     body { margin: 0; background: #E9F3F7; min-height: 100vh;
       font-family: -apple-system, system-ui, "Segoe UI", Roboto, sans-serif; color: #22314A; }
@@ -39,7 +47,8 @@
     <div id="help">
       <b>Tải lâu quá?</b><br>
       • Nếu bạn mở link từ Zalo, Messenger hay Facebook: bấm <b>•••</b> → <b>Mở bằng trình duyệt</b>.<br>
-      • Kiểm tra kết nối mạng rồi tải lại trang.
+      • Kiểm tra kết nối mạng (thử Wi‑Fi khác hoặc 4G).<br>
+      <button onclick="location.reload()" style="margin-top:10px;width:100%;padding:10px;border:0;border-radius:12px;background:#2FAE6B;color:#fff;font-size:15px;font-weight:700">Tải lại trang</button>
     </div>
   </div>
   <script>
@@ -48,10 +57,15 @@
       if (l) l.remove();
     }
     window.addEventListener('flutter-first-frame', hideLoader);
+    // Lần đầu mở cần tải khoảng 3,5 MB; các lần sau trình duyệt dùng lại bản đã lưu nên nhanh hơn.
+    setTimeout(function () {
+      var s = document.getElementById('status');
+      if (s && document.getElementById('loader')) s.textContent = 'Lần đầu mở hơi lâu một chút, chờ xíu nhé…';
+    }, 6000);
     setTimeout(function () {
       var h = document.getElementById('help');
       if (h && document.getElementById('loader')) h.style.display = 'block';
-    }, 25000);
+    }, 20000);
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>

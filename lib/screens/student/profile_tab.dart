@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 
 import '../../models/models.dart';
 import '../../services/repo.dart';
+import '../../services/sound.dart';
 import '../../state/session.dart';
 import '../../theme.dart';
 import '../../version.dart';
@@ -136,9 +137,39 @@ class _ProfileTabState extends State<ProfileTab> {
             ),
         ]),
       ),
+      const _SoundCard(),
       const PasswordAndLogout(),
     ]);
   }
+}
+
+/// Bật/tắt nhạc nền và tiếng hiệu ứng (lưu trên máy này).
+class _SoundCard extends StatelessWidget {
+  const _SoundCard();
+
+  @override
+  Widget build(BuildContext context) => ListenableBuilder(
+        listenable: Sound.instance,
+        builder: (context, _) => AppCard(
+          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text('Âm thanh', style: display(17)),
+            SwitchListTile(
+              contentPadding: EdgeInsets.zero,
+              value: Sound.instance.musicOn,
+              onChanged: Sound.instance.setMusicOn,
+              title: const Text('Nhạc nền'),
+              subtitle: const Text('Tự tắt khi đang làm bài.', style: TextStyle(fontSize: 12)),
+            ),
+            SwitchListTile(
+              contentPadding: EdgeInsets.zero,
+              value: Sound.instance.sfxOn,
+              onChanged: Sound.instance.setSfxOn,
+              title: const Text('Tiếng hiệu ứng'),
+              subtitle: const Text('Chọn đáp án, đúng/sai, nhận xu, nộp bài.', style: TextStyle(fontSize: 12)),
+            ),
+          ]),
+        ),
+      );
 }
 
 /// Đổi mật khẩu, đăng xuất, phiên bản app (dùng chung cho mọi vai trò).

@@ -15,6 +15,7 @@ import 'screens/student/student_shell.dart';
 import 'services/ai_service.dart';
 import 'services/notifier.dart';
 import 'services/repo.dart';
+import 'services/sound.dart';
 import 'state/session.dart';
 import 'theme.dart';
 import 'widgets/common.dart';
@@ -51,6 +52,7 @@ Future<void> main() async {
   try {
     final notifier = Notifier();
     await notifier.init();
+    await Sound.instance.init();
     final session = Session(repo: Repo(), notifier: notifier, ai: AiService());
     runApp(ChangeNotifierProvider.value(value: session, child: const HocVuiApp()));
     await session.restore();

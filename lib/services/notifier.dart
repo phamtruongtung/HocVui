@@ -127,15 +127,24 @@ class Notifier {
     }
   }
 
+  /// Xóa mọi lịch nhắc. Không bao giờ ném lỗi để không chặn việc đăng xuất.
   Future<void> cancelAll() async {
     if (!_ready) return;
-    await _plugin.cancelAll();
+    try {
+      await _plugin.cancelAll();
+    } catch (e) {
+      debugPrint('[Notifier] cancelAll: $e');
+    }
   }
 
   /// Thông báo ngay (dùng cho phụ huynh khi app đang mở).
   Future<void> showNow(int id, String title, String body) async {
     if (!_ready) return;
-    await _plugin.show(id, title, body, _details(2));
+    try {
+      await _plugin.show(id, title, body, _details(2));
+    } catch (e) {
+      debugPrint('[Notifier] show: $e');
+    }
   }
 
   static String todayKey() => dayKey(DateTime.now());

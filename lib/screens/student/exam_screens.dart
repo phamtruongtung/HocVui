@@ -8,6 +8,7 @@ import '../../logic/rules.dart';
 import '../../logic/subjects.dart';
 import '../../models/models.dart';
 import '../../services/repo.dart';
+import '../../services/sound.dart';
 import '../../state/session.dart';
 import '../../theme.dart';
 import '../../widgets/common.dart';
@@ -156,6 +157,8 @@ class _ExamScreenState extends State<ExamScreen> {
     _left = _remaining();
     _timer = Timer.periodic(const Duration(seconds: 1), (_) => _tick());
     WidgetsBinding.instance.addPostFrameCallback((_) => _tick());
+    // Tắt nhạc nền trong giờ làm bài để con tập trung.
+    Sound.instance.pauseMusic();
   }
 
   Duration _remaining() {
@@ -166,6 +169,7 @@ class _ExamScreenState extends State<ExamScreen> {
   @override
   void dispose() {
     _timer?.cancel();
+    Sound.instance.resumeMusic();
     super.dispose();
   }
 
@@ -180,6 +184,7 @@ class _ExamScreenState extends State<ExamScreen> {
   }
 
   Future<void> _choose(int option) async {
+    Sound.instance.play(Sfx.tap);
     setState(() => _answers[_index] = option);
     final session = context.read<Session>();
     try {
@@ -208,6 +213,7 @@ class _ExamScreenState extends State<ExamScreen> {
       final outcome = await session.repo.submitExam(session.profile!.uid, _exam, _answers);
       await session.refresh();
       if (!mounted) return;
+      Sound.instance.play(Sfx.finish);
       Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => ResultScreen(outcome: outcome, auto: auto)));
     } on AppError catch (e) {
       if (!mounted) return;

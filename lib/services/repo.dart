@@ -384,7 +384,10 @@ class Repo {
     // 5. Đề hôm nay.
     final dayRef = _sub(uid, 'days').doc(today);
     var dayDoc = await dayRef.get();
-    if (!dayDoc.exists) {
+    // Hôm nay lúc mở app chưa có câu hỏi nào (ví dụ quản trị viên nạp thư viện
+    // sau đó): thử tạo đề lại thay vì để con trống bài cả ngày.
+    final noExamsYet = dayDoc.exists && ((dayDoc.data()?['examIds'] as List?)?.isEmpty ?? true);
+    if (!dayDoc.exists || noExamsYet) {
       await _createDayPlan(p, today);
       dayDoc = await dayRef.get();
     }

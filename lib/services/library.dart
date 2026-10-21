@@ -44,6 +44,37 @@ class Library {
     return list;
   }
 
+  Query<Map<String, dynamic>> _libQuery(Repo repo, int grade, Subject subject) => repo.db
+      .collection('questions')
+      .where('grade', isEqualTo: grade)
+      .where('subject', isEqualTo: subject.id)
+      .where('source', isEqualTo: 'lib');
+
+  /// Số câu thư viện của một lớp, một môn đang có trên Firebase.
+  Future<int> countOnServer(Repo repo, int grade, Subject subject) async {
+    final r = await _libQuery(repo, grade, subject).count().get();
+    return r.count ?? 0;
+  }
+
+  /// Xóa mọi câu thư viện (source 'lib') của một lớp, một môn khỏi Firebase.
+  /// Không đụng tới câu sinh bằng AI, mục lục, đề đã làm và sổ lỗi sai của con
+  /// (đề và lỗi sai lưu bản sao câu hỏi nên vẫn xem lại được).
+  Future<int> deleteSet(Repo repo, int grade, Subject subject) async {
+    final db = repo.db;
+    var deleted = 0;
+    while (true) {
+      final snap = await _libQuery(repo, grade, subject).limit(400).get();
+      if (snap.docs.isEmpty) break;
+      final batch = db.batch();
+      for (final d in snap.docs) {
+        batch.delete(d.reference);
+      }
+      await batch.commit();
+      deleted += snap.docs.length;
+    }
+    return deleted;
+  }
+
   /// Nạp một bộ đề: ghi mục lục (giữ nguyên bài "đang học tới") và mọi câu hỏi.
   /// Câu đã có giữ nguyên trạng thái duyệt; câu mới là 'approved' nếu [approve], ngược lại 'pending'.
   Future<int> importSet(Repo repo, LibrarySet set, {required bool approve}) async {
@@ -52,12 +83,7 @@ class Library {
     await repo.saveCurriculum(Curriculum(grade: set.grade, subject: set.subject, lines: set.curriculumLines, upTo: old.upTo));
 
     final order = {for (final l in set.curriculum.lessons) l.title: l.order};
-    final existing = await db
-        .collection('questions')
-        .where('grade', isEqualTo: set.grade)
-        .where('subject', isEqualTo: set.subject.id)
-        .where('source', isEqualTo: 'lib')
-        .get();
+    final existing = await _libQuery(repo, set.grade, set.subject).get();
     final status = {for (final d in existing.docs) d.id: (d.data()['status'] ?? 'pending') as String};
 
     var written = 0;

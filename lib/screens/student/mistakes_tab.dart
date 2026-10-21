@@ -5,6 +5,7 @@ import '../../logic/dates.dart';
 import '../../logic/rules.dart';
 import '../../logic/subjects.dart';
 import '../../models/models.dart';
+import '../../services/sound.dart';
 import '../../state/session.dart';
 import '../../theme.dart';
 import '../../widgets/common.dart';
@@ -135,6 +136,7 @@ class _MistakeReviewScreenState extends State<MistakeReviewScreen> {
     if (_chosen != null || _saving) return;
     final m = widget.items[_index];
     final correct = i == m.question.answer;
+    Sound.instance.play(correct ? Sfx.correct : Sfx.wrong);
     setState(() {
       _chosen = i;
       _saving = true;

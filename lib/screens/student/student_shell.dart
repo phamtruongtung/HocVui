@@ -5,6 +5,7 @@ import '../../logic/dates.dart';
 import '../../logic/subjects.dart';
 import '../../models/models.dart';
 import '../../services/repo.dart';
+import '../../services/sound.dart';
 import '../../state/session.dart';
 import '../../theme.dart';
 import '../../widgets/common.dart';
@@ -21,17 +22,46 @@ class StudentShell extends StatefulWidget {
   State<StudentShell> createState() => _StudentShellState();
 }
 
-class _StudentShellState extends State<StudentShell> {
+class _StudentShellState extends State<StudentShell> with WidgetsBindingObserver {
   int _tab = 0;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    Sound.instance.startMusic();
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    Sound.instance.stopMusic();
+    super.dispose();
+  }
+
+  // Tắt nhạc khi app chạy nền (bấm Home, khóa màn hình), phát lại khi mở lên.
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      Sound.instance.resumeMusic();
+    } else if (state == AppLifecycleState.paused || state == AppLifecycleState.hidden) {
+      Sound.instance.pauseMusic();
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
     final tabs = const [HomeTab(), MistakesTab(), LeaderboardTab(), ShopTab(), ProfileTab()];
-    return Scaffold(
+    return Listener(
+      onPointerDown: (_) => Sound.instance.userGesture(),
+      child: Scaffold(
       body: SafeArea(child: IndexedStack(index: _tab, children: tabs)),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _tab,
-        onDestinationSelected: (i) => setState(() => _tab = i),
+        onDestinationSelected: (i) {
+          Sound.instance.play(Sfx.tap);
+          setState(() => _tab = i);
+        },
         destinations: const [
           NavigationDestination(icon: Icon(Icons.school_rounded), label: 'Học'),
           NavigationDestination(icon: Icon(Icons.menu_book_rounded), label: 'Lỗi sai'),
@@ -39,6 +69,7 @@ class _StudentShellState extends State<StudentShell> {
           NavigationDestination(icon: Icon(Icons.storefront_rounded), label: 'Cửa hàng'),
           NavigationDestination(icon: Icon(Icons.person_rounded), label: 'Tôi'),
         ],
+      ),
       ),
     );
   }

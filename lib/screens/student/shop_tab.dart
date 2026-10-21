@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../../logic/rules.dart';
 import '../../models/models.dart';
 import '../../services/repo.dart';
+import '../../services/sound.dart';
 import '../../state/session.dart';
 import '../../theme.dart';
 import '../../widgets/common.dart';
@@ -37,6 +38,7 @@ class _ShopTabState extends State<ShopTab> {
     if (!ok || !mounted) return;
     try {
       await context.read<Session>().repo.redeem(p, r);
+      Sound.instance.play(Sfx.coin);
       if (mounted) showSnack(context, 'Đã gửi yêu cầu cho bố mẹ!');
     } on AppError catch (e) {
       if (mounted) showSnack(context, e.message, error: true);
@@ -52,6 +54,7 @@ class _ShopTabState extends State<ShopTab> {
     if (!ok || !mounted) return;
     try {
       await context.read<Session>().repo.buyShield(p);
+      Sound.instance.play(Sfx.coin);
       if (mounted) showSnack(context, 'Đã mua khiên!');
     } on AppError catch (e) {
       if (mounted) showSnack(context, e.message, error: true);

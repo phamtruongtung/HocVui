@@ -4,6 +4,7 @@ import '../models/models.dart';
 import '../services/ai_service.dart';
 import '../services/notifier.dart';
 import '../services/repo.dart';
+import '../services/sound.dart';
 
 /// Trạng thái đăng nhập dùng chung toàn app.
 class Session extends ChangeNotifier {
@@ -50,9 +51,20 @@ class Session extends ChangeNotifier {
     notifyListeners();
   }
 
+  /// Đăng xuất luôn thành công: lỗi khi xóa lịch nhắc hay mất mạng
+  /// không được giữ người dùng lại trong tài khoản.
   Future<void> signOut() async {
-    await notifier.cancelAll();
-    await repo.signOut();
+    await Sound.instance.stopMusic();
+    try {
+      await notifier.cancelAll();
+    } catch (e) {
+      debugPrint('[Session] cancel reminders: $e');
+    }
+    try {
+      await repo.signOut();
+    } catch (e) {
+      debugPrint('[Session] signOut: $e');
+    }
     _profile = null;
     notifyListeners();
   }
