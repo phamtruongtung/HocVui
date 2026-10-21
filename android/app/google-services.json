@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424453700433",
+    "project_id": "hocvui-645b7",
+    "storage_bucket": "hocvui-645b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424453700433:android:7a812281c94999c7513170",
+        "android_client_info": {
+          "package_name": "com.hocvui.hoc_vui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0VIU9wtLM5Wh5NVApFtluAotW_BuoIdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
