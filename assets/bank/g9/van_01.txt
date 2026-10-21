@@ -1,0 +1,581 @@
+// Ngữ văn 9 – Kết nối tri thức với cuộc sống – Tập 1
+#! HK1
+# Học kì 1
+
+## Bài 1. Thế giới kì ảo (truyện truyền kì, điển tích – điển cố)
+?1 Truyện truyền kì là thể loại:
++ văn xuôi tự sự thời trung đại, có sự kết hợp yếu tố thực và yếu tố kì ảo
+- thơ trữ tình hiện đại
+- kịch nói
+- văn bản thông tin
+= Đặc trưng thể loại.
+?1 "Chuyện người con gái Nam Xương" là tác phẩm của:
++ Nguyễn Dữ
+- Nguyễn Du
+- Nguyễn Trãi
+- Nguyễn Đình Chiểu
+= Rút từ "Truyền kì mạn lục".
+?1 "Truyền kì mạn lục" được viết bằng:
++ chữ Hán
+- chữ Nôm
+- chữ Quốc ngữ
+- tiếng Pháp
+= Thế kỉ XVI.
+?1 Nhân vật chính trong "Chuyện người con gái Nam Xương" là:
++ Vũ Nương
+- Thúy Kiều
+- Kiều Nguyệt Nga
+- Mị Châu
+= Vũ Thị Thiết.
+?1 Chồng của Vũ Nương là:
++ Trương Sinh
+- Phan Lang
+- Lục Vân Tiên
+- Kim Trọng
+= Người đa nghi, ghen tuông.
+?1 Điển tích, điển cố là:
++ những câu chuyện, sự việc hay câu chữ trong sách xưa được dẫn lại ngắn gọn để gợi ý nghĩa sâu xa
+- từ địa phương
+- tiếng lóng
+- từ mượn tiếng Anh
+= Khái niệm.
+?1 "Dế chọi" là truyện của tác giả:
++ Bồ Tùng Linh
+- Nguyễn Dữ
+- La Quán Trung
+- Lỗ Tấn
+= Trích "Liêu Trai chí dị".
+?2 Nguyên nhân trực tiếp dẫn đến cái chết của Vũ Nương là:
++ lời nói ngây thơ của bé Đản về "người cha" là chiếc bóng
+- Vũ Nương bị bệnh
+- Vũ Nương bị giặc bắt
+- Vũ Nương đi xa
+= Chi tiết chiếc bóng.
+?2 Yếu tố kì ảo trong "Chuyện người con gái Nam Xương" là:
++ Vũ Nương sống dưới thủy cung và hiện về giữa dòng sông
+- Trương Sinh đi lính
+- mẹ chồng ốm rồi mất
+- bé Đản chỉ chiếc bóng
+= Kết thúc mang màu sắc kì ảo.
+?2 Người gặp Vũ Nương ở thủy cung là:
++ Phan Lang
+- Trương Sinh
+- bé Đản
+- Linh Phi
+= Người cùng làng.
+?2 Thành ngữ "gót chân A-sin" (Achilles) chỉ:
++ điểm yếu chết người của một người hay sự vật
+- sức mạnh vô địch
+- người chạy nhanh
+- con đường dài
+= Điển tích từ thần thoại Hy Lạp.
+?2 Điển cố "Tái ông thất mã" khuyên con người:
++ bình tĩnh trước họa phúc vì trong họa có thể có phúc và ngược lại
+- tham lam để giàu có
+- không bao giờ nuôi ngựa
+- trách móc người khác
+= Ý nghĩa điển cố.
+> Chàng thư sinh dừng chân bên gốc đa cổ thụ. Bỗng gió nổi, mây đen kéo về, từ thân cây hiện ra một ông lão râu tóc bạc phơ. Ông lão trao cho chàng chiếc túi gấm, dặn: "Gặp nạn hãy mở ra, chớ vì tham mà dùng sai". Chàng vừa cúi lạy, ngẩng lên thì ông lão đã biến mất, chỉ còn tiếng lá rì rào.
+?2 Chi tiết kì ảo trong đoạn văn là:
++ ông lão hiện ra từ thân cây rồi biến mất
+- chàng thư sinh dừng chân
+- gió nổi, mây đen kéo về
+- tiếng lá rì rào
+= Yếu tố siêu nhiên.
+?3 Lời dặn của ông lão "chớ vì tham mà dùng sai" gợi ra bài học:
++ biết dùng đúng sự giúp đỡ, không tham lam
+- phải luôn giàu có
+- không tin người lạ
+- nên đi đường xa
+= Ý nghĩa giáo huấn.
+?3 Yếu tố kì ảo trong đoạn văn có tác dụng:
++ tạo sức hấp dẫn và gửi gắm bài học đạo lí
+- làm câu chuyện khó hiểu
+- chỉ để kéo dài truyện
+- kể lại sự kiện lịch sử chính xác
+= Chức năng của yếu tố kì ảo.
+>-
+?3 Bi kịch của Vũ Nương phản ánh:
++ thân phận oan khuất, bất hạnh của người phụ nữ trong xã hội phong kiến
+- cuộc sống sung sướng của phụ nữ xưa
+- sự công bằng của xã hội cũ
+- niềm vui đoàn tụ gia đình
+= Giá trị hiện thực.
+?3 Chi tiết Vũ Nương hiện về rồi biến mất, không trở lại trần gian thể hiện:
++ hạnh phúc đã tan vỡ không thể hàn gắn, tăng tính bi kịch
+- Vũ Nương không còn yêu chồng
+- Vũ Nương ghét quê hương
+- câu chuyện có hậu trọn vẹn
+= Ý nghĩa kết thúc.
+?4 Điển cố "nợ tang bồng" trong thơ xưa thường dùng để nói về:
++ chí làm trai, ý chí lập công danh, giúp nước
+- cuộc sống nhàn tản
+- nỗi nhớ quê hương
+- tình yêu đôi lứa
+= Điển cố "cung tang tên bồng".
+?4 Giá trị nhân đạo của "Chuyện người con gái Nam Xương" thể hiện ở:
++ ngợi ca phẩm chất người phụ nữ và cảm thương cho số phận oan nghiệt của họ
+- ca ngợi chiến tranh phong kiến
+- đề cao thói ghen tuông
+- phê phán người phụ nữ
+= Giá trị tác phẩm.
+
+## Bài 2. Giai điệu đất nước (thơ song thất lục bát, yếu tố Hán Việt)
+?1 Thể thơ song thất lục bát gồm mỗi khổ:
++ hai câu bảy chữ, một câu sáu chữ và một câu tám chữ
+- bốn câu bảy chữ
+- tám câu bảy chữ
+- hai câu năm chữ và hai câu tám chữ
+= Đặc điểm thể thơ.
+?1 "Chinh phụ ngâm" nguyên tác chữ Hán là của:
++ Đặng Trần Côn
+- Nguyễn Du
+- Hồ Xuân Hương
+- Nguyễn Khuyến
+= Bản dịch Nôm nổi tiếng thường được cho là của Đoàn Thị Điểm.
+?1 Bản dịch "Chinh phụ ngâm" phổ biến được viết theo thể thơ:
++ song thất lục bát
+- lục bát
+- thất ngôn bát cú
+- tự do
+= Thể thơ dân tộc.
+?1 Nhân vật trữ tình trong "Chinh phụ ngâm" là:
++ người vợ có chồng đi chinh chiến
+- người lính trở về
+- vị vua
+- người lái đò
+= Chinh phụ.
+?1 Yếu tố "gia" trong "gia đình" có nghĩa là:
++ nhà
+- thêm vào
+- tăng lên
+- giả dối
+= Hán Việt.
+?1 Từ Hán Việt "quốc gia" có yếu tố "quốc" nghĩa là:
++ nước
+- nhà
+- người
+- núi
+= Hán Việt.
+?2 Cặp từ dễ nhầm: "bàng quan" có nghĩa là:
++ đứng ngoài cuộc, thờ ơ
+- một cơ quan trong cơ thể
+- mạnh mẽ
+- vui vẻ
+= Khác với "bàng quang" (bọng đái).
+?2 "Yếu điểm" có nghĩa là:
++ điểm quan trọng
+- điểm yếu
+- điểm cao
+- điểm số thấp
+= "Yếu" ở đây nghĩa là quan trọng; điểm yếu là "nhược điểm".
+?2 Từ nào dùng đúng?
++ Chúng ta không được bàng quan trước nỗi khổ của người khác.
+- Chúng ta không được bàng quang trước nỗi khổ của người khác.
+- Bàng quan là cơ quan chứa nước tiểu.
+- Bạn ấy bị đau bàng quan.
+= Phân biệt từ dễ nhầm.
+?2 Giọng điệu chủ đạo của "Chinh phụ ngâm" là:
++ buồn thương, da diết
+- hài hước
+- hùng tráng, vui tươi
+- mỉa mai
+= Nỗi sầu chia li.
+> Ngoài rèm thước chẳng mách tin,
+> Trong rèm, dường đã có đèn biết chăng?
+> Đèn có biết dường bằng chẳng biết,
+> Lòng thiếp riêng bi thiết mà thôi.
+>-
+?2 Đoạn thơ trên được viết theo thể:
++ song thất lục bát
+- lục bát
+- thất ngôn tứ tuyệt
+- tự do
+= Đoạn thơ gồm một cặp lục bát và một cặp song thất.
+?3 Hình ảnh "ngọn đèn" trong đoạn trích "Nỗi niềm chinh phụ" thể hiện:
++ sự cô đơn, chỉ có ngọn đèn làm bạn với người chinh phụ
+- niềm vui sum họp
+- ánh sáng của hi vọng chiến thắng
+- sự giàu sang
+= Hình ảnh ẩn dụ cho nỗi cô đơn.
+?3 Từ "bi thiết" trong câu "Lòng thiếp riêng bi thiết mà thôi" có nghĩa là:
++ buồn đau thảm thiết
+- vui vẻ
+- giận dữ
+- bình thản
+= Từ Hán Việt.
+?3 Câu hỏi "Trong rèm, dường đã có đèn biết chăng?" là:
++ câu hỏi tu từ diễn tả nỗi cô đơn không người chia sẻ
+- câu hỏi cần trả lời
+- câu cầu khiến
+- câu cảm thán
+= Biện pháp tu từ.
+?3 Dùng từ Hán Việt trong thơ trung đại có tác dụng:
++ tạo sắc thái trang trọng, cổ kính
+- làm thơ dân dã
+- làm câu thơ hài hước
+- không có tác dụng
+= Sắc thái biểu cảm.
+?3 Câu nào dùng từ "tham quan" đúng?
++ Lớp em đi tham quan Văn Miếu.
+- Em tham quan bài kiểm tra của bạn bên cạnh.
+- Em tham quan bài tập về nhà.
+- Bạn ấy tham quan ăn uống.
+= "Tham quan" là đi xem tận mắt để mở rộng hiểu biết.
+?4 Giá trị nhân đạo của "Chinh phụ ngâm" là:
++ thấu hiểu nỗi khổ của người phụ nữ, lên án chiến tranh phi nghĩa gây chia li
+- ca ngợi chiến tranh
+- khuyên đi lính
+- phê phán người chinh phụ
+= Giá trị tác phẩm.
+?4 Âm điệu của thể song thất lục bát phù hợp để diễn tả:
++ tâm trạng buồn, nỗi niềm triền miên, day dứt
+- tiếng cười trào phúng
+- không khí chiến trận sôi động
+- lời kêu gọi ngắn gọn
+= Đặc điểm nhịp điệu.
+
+## Bài 3. Khám phá vẻ đẹp văn chương (văn bản nghị luận văn học, câu ghép)
+?1 Văn bản nghị luận văn học bàn về:
++ một vấn đề, một tác phẩm hay một khía cạnh của văn học
+- một hiện tượng tự nhiên
+- một sản phẩm công nghệ
+- một sự kiện thể thao
+= Đối tượng nghị luận.
+?1 Luận đề là:
++ vấn đề chính được bàn luận trong toàn bộ văn bản
+- một dẫn chứng
+- tên tác giả
+- câu kết bài
+= Khái niệm.
+?1 Lí lẽ và bằng chứng trong văn nghị luận văn học thường lấy từ:
++ chính tác phẩm văn học và các nhận định có uy tín
+- tin đồn
+- quảng cáo
+- trò chơi điện tử
+= Bằng chứng tin cậy.
+?1 Câu ghép là câu:
++ có từ hai cụm chủ ngữ – vị ngữ trở lên, không bao chứa nhau
+- chỉ có một cụm chủ – vị
+- không có chủ ngữ
+- chỉ có một từ
+= Khái niệm.
+?1 Các vế câu ghép có thể nối với nhau bằng:
++ quan hệ từ, cặp quan hệ từ, cặp từ hô ứng hoặc dấu câu
+- chỉ dấu chấm
+- chỉ dấu chấm hỏi
+- không cần gì
+= Cách nối vế câu.
+?2 Câu "Vì trời mưa to nên trận đấu bị hoãn" có quan hệ giữa các vế là:
++ nguyên nhân – kết quả
+- tương phản
+- điều kiện – kết quả
+- tăng tiến
+= Cặp quan hệ từ "vì… nên…".
+?2 Câu "Tuy nhà xa nhưng Lan chưa bao giờ đi học muộn" có quan hệ:
++ tương phản
+- nguyên nhân – kết quả
+- lựa chọn
+- bổ sung
+= "Tuy… nhưng…".
+?2 Câu "Nếu em chăm chỉ thì em sẽ tiến bộ" có quan hệ:
++ điều kiện (giả thiết) – kết quả
+- tương phản
+- nguyên nhân – kết quả
+- đồng thời
+= "Nếu… thì…".
+?2 Câu "Trời càng mưa, đường càng trơn" dùng:
++ cặp từ hô ứng thể hiện quan hệ tăng tiến
+- quan hệ từ "và"
+- dấu chấm phẩy
+- cặp quan hệ từ tương phản
+= "càng… càng…".
+?2 Câu nào là câu ghép?
++ Mặt trời lên, sương tan dần.
+- Mặt trời lên cao.
+- Buổi sáng mùa thu.
+- Những giọt sương long lanh trên lá.
+= Hai cụm chủ – vị.
+> Đọc một bài thơ hay, ta không chỉ thấy cảnh vật hiện ra trước mắt mà còn nghe được nhịp đập của trái tim người viết. Bởi vậy, mỗi tác phẩm thực sự có giá trị đều là cuộc trò chuyện giữa tâm hồn nhà thơ và tâm hồn người đọc. Nếu người đọc hờ hững, cuộc trò chuyện ấy sẽ không bao giờ bắt đầu.
+?2 Câu "Nếu người đọc hờ hững, cuộc trò chuyện ấy sẽ không bao giờ bắt đầu" là câu ghép có quan hệ:
++ điều kiện – kết quả
+- tương phản
+- lựa chọn
+- tăng tiến
+= Quan hệ từ "nếu".
+?3 Luận điểm chính của đoạn văn là:
++ tác phẩm có giá trị là cuộc trò chuyện giữa tâm hồn nhà thơ và người đọc
+- thơ chỉ miêu tả cảnh vật
+- người đọc không cần cảm xúc
+- nhà thơ không có cảm xúc
+= Câu thứ hai nêu luận điểm.
+?3 Từ "Bởi vậy" ở đầu câu thứ hai có chức năng:
++ liên kết câu, nêu kết luận rút ra từ câu trước
+- nêu ý tương phản
+- giới thiệu nhân vật
+- chỉ thời gian
+= Phép nối.
+?3 Thái độ người viết thể hiện trong đoạn văn là:
++ trân trọng giá trị của văn chương và đề cao vai trò người đọc
+- coi thường thơ ca
+- thờ ơ
+- phê phán người viết
+= Thái độ.
+>-
+?3 Khi viết bài nghị luận phân tích một bài thơ, cần:
++ phân tích nội dung và nghệ thuật, có dẫn chứng cụ thể từ bài thơ
+- chỉ chép lại bài thơ
+- kể lại tiểu sử tác giả
+- chỉ nêu cảm xúc chung chung
+= Yêu cầu bài viết.
+?3 Trong văn nghị luận, lí lẽ là:
++ những ý kiến, lập luận đưa ra để làm sáng tỏ luận điểm
+- những con số thống kê
+- những tấm ảnh
+- tên các nhân vật
+= Phân biệt lí lẽ và bằng chứng.
+?4 Câu "Không phải vì bài thơ dài mà nó hay, mà vì nó chạm tới lòng người" thể hiện quan hệ:
++ phủ định nguyên nhân này để khẳng định nguyên nhân khác
+- điều kiện – kết quả
+- đồng thời
+- lựa chọn
+= Cấu trúc "không phải vì… mà vì…".
+?4 Một bài nghị luận văn học thuyết phục cần:
++ luận điểm rõ, lí lẽ chặt chẽ, bằng chứng tiêu biểu và cảm nhận riêng
+- càng dài càng tốt
+- dùng nhiều từ khó
+- không cần dẫn chứng
+= Tiêu chí bài viết tốt.
+?4 Lỗi trong câu "Vì Nam học giỏi nhưng Nam được khen" là:
++ dùng sai cặp quan hệ từ
+- thiếu chủ ngữ
+- thiếu vị ngữ
+- không có lỗi
+= Nên sửa: "Vì Nam học giỏi nên Nam được khen".
+
+## Bài 4. Vẻ đẹp truyện thơ Nôm (Truyện Kiều, biện pháp tu từ)
+?1 "Truyện Kiều" là tác phẩm của:
++ Nguyễn Du
+- Nguyễn Trãi
+- Nguyễn Dữ
+- Nguyễn Đình Chiểu
+= Đại thi hào dân tộc.
+?1 Tên chữ của "Truyện Kiều" là:
++ Đoạn trường tân thanh
+- Truyền kì mạn lục
+- Hoàng Lê nhất thống chí
+- Lục Vân Tiên
+= Tiếng kêu mới đứt ruột.
+?1 "Truyện Kiều" được viết theo thể thơ:
++ lục bát
+- song thất lục bát
+- thất ngôn bát cú
+- tự do
+= 3 254 câu lục bát.
+?1 "Truyện Kiều" được viết bằng chữ:
++ Nôm
+- Hán
+- Quốc ngữ
+- Pháp
+= Truyện thơ Nôm.
+?1 Truyện thơ Nôm là:
++ tác phẩm tự sự viết bằng thơ, chữ Nôm, phần lớn theo thể lục bát
+- tác phẩm kịch
+- tiểu thuyết văn xuôi hiện đại
+- văn bản thông tin
+= Đặc trưng thể loại.
+?1 Chị em Thúy Kiều gồm:
++ Thúy Kiều và Thúy Vân
+- Thúy Kiều và Hoạn Thư
+- Thúy Vân và Tú Bà
+- Thúy Kiều và Đạm Tiên
+= Hai chị em.
+?2 Câu "Làn thu thủy, nét xuân sơn" miêu tả:
++ đôi mắt trong như nước mùa thu, lông mày đẹp như dáng núi mùa xuân của Kiều
+- cảnh thiên nhiên mùa thu
+- cảnh mùa xuân
+- khung cảnh lầu Ngưng Bích
+= Bút pháp ước lệ.
+?2 Bút pháp nghệ thuật chủ yếu Nguyễn Du dùng để tả chân dung chị em Kiều là:
++ ước lệ tượng trưng
+- hiện thực trần trụi
+- phóng sự
+- hài hước
+= Lấy vẻ đẹp thiên nhiên làm chuẩn mực.
+?2 Đoạn "Kiều ở lầu Ngưng Bích" diễn tả tâm trạng:
++ cô đơn, buồn tủi, nhớ người yêu và cha mẹ
+- vui mừng
+- giận dữ
+- bình thản
+= Tâm trạng nhân vật.
+> Buồn trông cửa bể chiều hôm,
+> Thuyền ai thấp thoáng cánh buồm xa xa?
+> Buồn trông ngọn nước mới sa,
+> Hoa trôi man mác biết là về đâu?
+>-
+?2 Điệp ngữ "Buồn trông" trong đoạn thơ có tác dụng:
++ nhấn mạnh nỗi buồn triền miên, tạo nhịp điệu như những đợt sóng lòng
+- làm câu thơ vui hơn
+- liệt kê sự vật
+- kể sự việc
+= Biện pháp điệp ngữ.
+?3 Hình ảnh "Hoa trôi man mác biết là về đâu?" gợi:
++ thân phận trôi nổi, vô định của Kiều
+- vẻ đẹp mùa xuân
+- niềm vui
+- sự giàu có
+= Tả cảnh ngụ tình.
+?3 Nghệ thuật nổi bật trong đoạn "Kiều ở lầu Ngưng Bích" là:
++ tả cảnh ngụ tình
+- trào phúng
+- lập luận
+- thuyết minh
+= Cảnh là tâm trạng nhân vật.
+?3 Hình ảnh "cánh buồm xa xa" thấp thoáng nơi cửa bể gợi:
++ nỗi nhớ nhà, khát khao sum họp xa vời của Kiều
+- niềm vui được đi chơi
+- sự giàu có của gia đình Kiều
+- cảnh buôn bán tấp nập
+= Tả cảnh ngụ tình.
+?3 Câu thơ "Hoa ghen thua thắm, liễu hờn kém xanh" dùng biện pháp:
++ nhân hóa
+- so sánh ngang bằng
+- hoán dụ
+- điệp từ
+= Hoa, liễu biết ghen hờn trước vẻ đẹp của Kiều.
+?3 Câu thơ "Hoa ghen thua thắm, liễu hờn kém xanh" dự báo:
++ số phận éo le, đầy sóng gió của Kiều
+- cuộc đời êm ả của Kiều
+- sự giàu sang
+- tình chị em gắn bó
+= Thiên nhiên đố kị với nhan sắc Kiều.
+?4 Giá trị nhân đạo của "Truyện Kiều" là:
++ cảm thương số phận con người, đề cao khát vọng tình yêu, tự do, công lí
+- ca ngợi xã hội phong kiến
+- đề cao đồng tiền
+- phê phán Thúy Kiều
+= Giá trị nội dung.
+?4 Nguyễn Du được UNESCO vinh danh là:
++ Danh nhân văn hóa thế giới
+- nhà khoa học
+- nhà quân sự
+- nhà thám hiểm
+= Năm 2015, nhân kỉ niệm 250 năm ngày sinh.
+?4 "Truyện Kiều" được Nguyễn Du sáng tác dựa trên cốt truyện:
++ "Kim Vân Kiều truyện" của Thanh Tâm Tài Nhân (Trung Quốc)
+- "Truyền kì mạn lục"
+- "Liêu Trai chí dị"
+- truyện cổ tích Tấm Cám
+= Sáng tạo lại thành kiệt tác.
+
+## Bài 5. Những di sản văn hóa (văn bản thông tin, trích dẫn tài liệu)
+?1 Văn bản thông tin giới thiệu một danh lam thắng cảnh nhằm:
++ cung cấp hiểu biết chính xác về danh lam đó
+- kể một câu chuyện hư cấu
+- bày tỏ cảm xúc cá nhân là chủ yếu
+- thuyết phục mua hàng
+= Mục đích văn bản.
+?1 Yếu tố quan trọng nhất của văn bản thông tin là:
++ tính chính xác, khách quan
+- tính hư cấu
+- tính hài hước
+- tính trào phúng
+= Đặc điểm.
+?1 Vịnh Hạ Long thuộc tỉnh:
++ Quảng Ninh
+- Ninh Bình
+- Quảng Bình
+- Hải Phòng
+= Di sản thiên nhiên thế giới.
+?1 Khi trích dẫn tài liệu, cần:
++ ghi rõ nguồn: tác giả, tên tài liệu, năm, nơi xuất bản
+- không ghi nguồn
+- tự ý sửa nội dung trích
+- ghi tên mình là tác giả
+= Tôn trọng bản quyền.
+?1 Phương tiện phi ngôn ngữ trong văn bản thông tin có thể là:
++ hình ảnh, sơ đồ, bảng biểu
+- câu ghép
+- từ Hán Việt
+- vần thơ
+= Hỗ trợ truyền đạt thông tin.
+?2 Quần thể danh thắng Tràng An thuộc tỉnh:
++ Ninh Bình
+- Quảng Ninh
+- Thừa Thiên Huế
+- Quảng Nam
+= Di sản hỗn hợp văn hóa và thiên nhiên.
+?2 Phố cổ Hội An thuộc tỉnh, thành phố:
++ Quảng Nam (nay thuộc thành phố Đà Nẵng)
+- Quảng Ngãi
+- Bình Định
+- Khánh Hòa
+= Di sản văn hóa thế giới.
+?2 Cách dẫn trực tiếp là:
++ nhắc lại nguyên văn lời nói, ý nghĩ, đặt trong dấu ngoặc kép
+- thuật lại có điều chỉnh, không dùng ngoặc kép
+- tóm tắt ý chính
+- tự đặt lời
+= Lời dẫn trực tiếp.
+?2 Cách dẫn gián tiếp là:
++ thuật lại lời nói, ý nghĩ có điều chỉnh, không đặt trong ngoặc kép
+- nhắc nguyên văn trong ngoặc kép
+- vẽ hình minh họa
+- chép lại toàn bộ văn bản
+= Lời dẫn gián tiếp.
+> Văn Miếu – Quốc Tử Giám được xây dựng năm 1070 dưới thời vua Lý Thánh Tông để thờ Khổng Tử. Năm 1076, nhà Lý lập Quốc Tử Giám, được xem là trường đại học đầu tiên của nước ta. Hiện nay, khu di tích còn lưu giữ 82 tấm bia tiến sĩ, đã được UNESCO ghi danh là Di sản tư liệu thế giới.
+?2 Văn Miếu được xây dựng năm:
++ 1070
+- 1076
+- 1010
+- 1428
+= Dưới thời Lý Thánh Tông.
+?3 Quốc Tử Giám được xem là:
++ trường đại học đầu tiên của nước ta
+- ngôi chùa cổ nhất
+- cung điện của nhà vua
+- bảo tàng lịch sử
+= Theo đoạn văn.
+?3 Thông tin "82 tấm bia tiến sĩ" được trình bày nhằm:
++ cung cấp số liệu cụ thể, tăng tính xác thực
+- gây cười
+- thể hiện cảm xúc
+- kể chuyện hư cấu
+= Vai trò số liệu.
+?3 Đoạn văn được sắp xếp thông tin theo trình tự:
++ thời gian
+- không gian từ trong ra ngoài
+- mức độ quan trọng giảm dần
+- ngẫu nhiên
+= 1070, 1076, hiện nay.
+>-
+?3 Câu nào dùng lời dẫn gián tiếp?
++ Hướng dẫn viên cho biết bia tiến sĩ được dựng trên lưng rùa đá.
+- Hướng dẫn viên nói: "Bia tiến sĩ được dựng trên lưng rùa đá."
+- "Bia được dựng trên lưng rùa," hướng dẫn viên nói.
+- Hướng dẫn viên hỏi: "Các em có biết bia tiến sĩ không?"
+= Không dùng ngoặc kép, có điều chỉnh.
+?3 Khi chuyển lời dẫn trực tiếp sang gián tiếp, cần:
++ bỏ dấu ngoặc kép, thay đổi đại từ nhân xưng cho phù hợp
+- giữ nguyên dấu ngoặc kép
+- thêm dấu chấm than
+- chép y nguyên
+= Cách chuyển.
+?4 Vì sao văn bản thông tin về di sản nên kèm hình ảnh, sơ đồ?
++ giúp người đọc hình dung trực quan, dễ hiểu và nhớ lâu
+- để văn bản dài hơn
+- để thay thế hoàn toàn chữ viết
+- không cần thiết
+= Vai trò phương tiện phi ngôn ngữ.
+?4 Hành vi nào phù hợp khi tham quan di tích?
++ giữ vệ sinh, không viết vẽ lên di tích, tuân thủ quy định
+- khắc tên lên tường
+- leo trèo lên tượng
+- xả rác bừa bãi
+= Bảo vệ di sản.
+?4 Đạo văn là:
++ lấy ý tưởng, câu chữ của người khác mà không ghi nguồn, coi như của mình
+- trích dẫn có ghi nguồn
+- tóm tắt tài liệu và ghi nguồn
+- viết bài của chính mình
+= Cần tránh khi viết.

@@ -1,0 +1,754 @@
+// KHTN 9 – Kết nối tri thức với cuộc sống – Phần Sinh học (Học kì 2)
+# Chương XI. Di truyền
+
+## Bài 36. Khái quát về di truyền học
+?1 Di truyền là hiện tượng:
++ truyền đạt các tính trạng của bố mẹ, tổ tiên cho thế hệ con cháu
+- con sinh ra khác bố mẹ
+- sinh vật chết đi
+- sinh vật di chuyển nơi ở
+= Khái niệm.
+?1 Biến dị là hiện tượng:
++ con sinh ra khác với bố mẹ và khác nhau ở nhiều chi tiết
+- con giống hệt bố mẹ
+- sinh vật lớn lên
+- sinh vật sinh sản
+= Khái niệm.
+?1 Người đặt nền móng cho di truyền học là:
++ Gregor Mendel
+- Charles Darwin
+- Louis Pasteur
+- Isaac Newton
+= Thí nghiệm trên đậu Hà Lan.
+?2 Tính trạng là:
++ những đặc điểm về hình thái, cấu tạo, sinh lí của cơ thể
+- tên của sinh vật
+- nơi sống của sinh vật
+- tuổi thọ của sinh vật
+= Ví dụ màu hoa, chiều cao thân.
+?2 Cặp tính trạng tương phản là:
++ thân cao và thân thấp
+- thân cao và hoa đỏ
+- hạt vàng và thân thấp
+- hoa đỏ và hạt trơn
+= Hai trạng thái biểu hiện trái ngược của cùng một tính trạng.
+?3 Giống thuần chủng là giống:
++ có đặc tính di truyền đồng nhất, thế hệ sau giống thế hệ trước
+- luôn cho đời con khác bố mẹ
+- không sinh sản được
+- chỉ có ở động vật
+= Khái niệm.
+?3 Trong sơ đồ lai, kí hiệu P và F₁ lần lượt là:
++ thế hệ bố mẹ và thế hệ con thứ nhất
+- thế hệ con và thế hệ cháu
+- giao tử đực và giao tử cái
+- tính trạng trội và tính trạng lặn
+= Kí hiệu.
+?4 Mendel chọn cây đậu Hà Lan làm đối tượng nghiên cứu vì:
++ cây tự thụ phấn nghiêm ngặt, có nhiều cặp tính trạng tương phản dễ quan sát
+- cây rất to
+- cây sống lâu năm
+- cây không có hoa
+= Ưu điểm của đối tượng.
+
+## Bài 37. Các quy luật di truyền của Mendel
+?1 Lai hai cây đậu thuần chủng hoa đỏ và hoa trắng, F₁ toàn hoa đỏ. Tính trạng trội là:
++ hoa đỏ
+- hoa trắng
+- hoa hồng
+- không xác định được
+= Tính trạng biểu hiện ở F₁.
+?1 Kiểu gene AA được gọi là:
++ đồng hợp trội
+- đồng hợp lặn
+- dị hợp
+- thể đột biến
+= Hai allele giống nhau, đều trội.
+?1 Kiểu gene Aa được gọi là:
++ dị hợp
+- đồng hợp trội
+- đồng hợp lặn
+- thuần chủng
+= Hai allele khác nhau.
+?2 Theo Mendel, khi lai một cặp tính trạng, F₂ phân li kiểu hình theo tỉ lệ:
++ 3 trội : 1 lặn
+- 1 trội : 1 lặn
+- 9 : 3 : 3 : 1
+- 1 : 2 : 1 về kiểu hình trong mọi trường hợp
+= Quy luật phân li.
+?2 Phép lai phân tích là phép lai giữa cá thể mang tính trạng trội với cá thể:
++ mang tính trạng lặn
+- mang tính trạng trội
+- dị hợp
+- bất kì
+= Để kiểm tra kiểu gene.
+?3 Kết quả phép lai Aa × aa là:
++ 1 Aa : 1 aa
+- 3 A_ : 1 aa
+- 100% Aa
+- 1 AA : 2 Aa : 1 aa
+= Lai phân tích cá thể dị hợp.
+?3 Kết quả kiểu gene của phép lai Aa × Aa là:
++ 1 AA : 2 Aa : 1 aa
+- 1 Aa : 1 aa
+- 100% Aa
+- 3 AA : 1 aa
+= Sơ đồ lai.
+?4 Cây có kiểu gene AaBb tự thụ phấn (các gene phân li độc lập, trội hoàn toàn). Tỉ lệ kiểu hình ở đời con là:
++ 9 : 3 : 3 : 1
+- 3 : 1
+- 1 : 1 : 1 : 1
+- 1 : 2 : 1
+= Quy luật phân li độc lập.
+
+## Bài 38. Nucleic acid và gene
+?1 DNA được cấu tạo từ bốn loại nucleotide là:
++ A, T, G, C
+- A, U, G, C
+- A, B, C, D
+- X, Y, Z, T
+= Đơn phân của DNA.
+?1 Phân tử DNA có cấu trúc:
++ xoắn kép gồm hai mạch
+- một mạch thẳng
+- ba mạch
+- hình cầu
+= Mô hình Watson – Crick.
+?1 Gene là:
++ một đoạn DNA mang thông tin quy định một sản phẩm nhất định (RNA hoặc protein)
+- một loại protein
+- một tế bào
+- một nhiễm sắc thể hoàn chỉnh
+= Khái niệm.
+?2 Theo nguyên tắc bổ sung trong DNA:
++ A liên kết với T, G liên kết với C
+- A liên kết với G, T liên kết với C
+- A liên kết với C, G liên kết với T
+- A liên kết với A
+= Nguyên tắc bổ sung.
+?2 Trong RNA, loại nucleotide thay thế cho T là:
++ U
+- A
+- G
+- C
+= Uracil.
+?3 Một mạch DNA có trình tự A–T–G–C–A. Trình tự mạch bổ sung là:
++ T–A–C–G–T
+- A–T–G–C–A
+- U–A–C–G–U
+- G–C–A–T–G
+= A–T, G–C.
+?3 Một phân tử DNA có A = 20% tổng số nucleotide. Tỉ lệ G là:
++ 30%
+- 20%
+- 40%
+- 60%
+= A = T = 20%, G = C = (100 − 40) : 2.
+?4 Một gene có 3 000 nucleotide, trong đó A = 600. Số nucleotide loại G là:
++ 900
+- 600
+- 1 200
+- 2 400
+= G = (3 000 − 2·600) : 2.
+
+## Bài 39. Tái bản DNA và phiên mã tạo RNA
+?1 Tái bản DNA là quá trình:
++ tạo ra hai phân tử DNA con giống DNA mẹ
+- tổng hợp protein
+- tổng hợp RNA
+- phân giải DNA
+= Khái niệm.
+?1 Phiên mã là quá trình:
++ tổng hợp RNA dựa trên mạch khuôn của gene
+- tổng hợp DNA
+- tổng hợp protein
+- phân chia tế bào
+= Khái niệm.
+?1 Tái bản DNA diễn ra theo nguyên tắc:
++ bổ sung và bán bảo toàn
+- ngẫu nhiên
+- chỉ bảo toàn
+- không có nguyên tắc
+= Nguyên tắc tái bản.
+?2 Một phân tử DNA tái bản một lần tạo ra:
++ 2 phân tử DNA con
+- 1 phân tử DNA con
+- 4 phân tử DNA con
+- 8 phân tử DNA con
+= Nhân đôi.
+?2 Trong phiên mã, nucleotide A trên mạch khuôn liên kết với:
++ U
+- T
+- G
+- C
+= RNA không có T.
+?3 Một phân tử DNA tái bản liên tiếp 3 lần tạo ra số phân tử DNA con là:
++ 8
+- 6
+- 3
+- 9
+= 2³.
+?3 Mạch khuôn của gene có trình tự T–A–C–G. Trình tự mRNA được phiên mã là:
++ A–U–G–C
+- A–T–G–C
+- T–A–C–G
+- U–A–C–G
+= Bổ sung: T–A, A–U, C–G, G–C.
+?4 Theo nguyên tắc bán bảo toàn, mỗi DNA con:
++ có một mạch cũ của DNA mẹ và một mạch mới được tổng hợp
+- gồm hai mạch hoàn toàn mới
+- gồm hai mạch cũ
+- chỉ có một mạch
+= Ý nghĩa nguyên tắc.
+
+## Bài 40. Dịch mã và mối quan hệ từ gene đến tính trạng
+?1 Dịch mã là quá trình:
++ tổng hợp chuỗi polypeptide dựa trên thông tin của mRNA
+- tổng hợp DNA
+- tổng hợp RNA
+- phân chia nhân
+= Khái niệm.
+?1 Dịch mã diễn ra tại:
++ ribosome
+- nhân tế bào
+- ti thể
+- màng tế bào
+= Nơi tổng hợp protein.
+?1 Mỗi codon (bộ ba mã hóa) gồm:
++ 3 nucleotide
+- 2 nucleotide
+- 4 nucleotide
+- 1 nucleotide
+= Mã bộ ba.
+?2 Mối quan hệ giữa gene và tính trạng được thể hiện qua sơ đồ:
++ Gene (DNA) → mRNA → Protein → Tính trạng
+- Protein → DNA → mRNA → Tính trạng
+- Tính trạng → Gene → Protein
+- mRNA → DNA → Tính trạng
+= Dòng thông tin di truyền.
+?2 Codon mở đầu dịch mã là:
++ AUG
+- UAA
+- UAG
+- UGA
+= Mã hóa methionine.
+?3 Vùng mã hóa của một mRNA có 90 nucleotide thì có số codon là:
++ 30
+- 90
+- 45
+- 270
+= 90 : 3.
+?3 Chức năng của tRNA trong dịch mã là:
++ vận chuyển amino acid tới ribosome
+- mang thông tin di truyền từ nhân ra
+- cấu tạo nên ribosome
+- tổng hợp DNA
+= Vai trò tRNA.
+?4 Vùng mã hóa của mRNA có 60 codon (kể cả codon kết thúc). Số amino acid trong chuỗi polypeptide vừa được tổng hợp là:
++ 59
+- 60
+- 180
+- 58
+= Codon kết thúc không mã hóa amino acid.
+
+## Bài 41. Đột biến gene
+?1 Đột biến gene là:
++ những biến đổi trong cấu trúc của gene
+- biến đổi số lượng nhiễm sắc thể
+- sự thay đổi kiểu hình do môi trường
+- sự sinh sản của tế bào
+= Khái niệm.
+?1 Các dạng đột biến gene (liên quan một cặp nucleotide) gồm:
++ mất, thêm, thay thế một cặp nucleotide
+- lặp đoạn, đảo đoạn nhiễm sắc thể
+- thêm một nhiễm sắc thể
+- tăng gấp đôi bộ nhiễm sắc thể
+= Các dạng đột biến điểm.
+?1 Nguyên nhân gây đột biến gene là:
++ tác nhân vật lí, hóa học, sinh học hoặc rối loạn trong tế bào
+- ăn nhiều rau
+- tập thể dục
+- ngủ đủ giấc
+= Tác nhân đột biến.
+?2 Phần lớn đột biến gene đối với sinh vật là:
++ có hại, một số có lợi hoặc trung tính
+- luôn có lợi
+- không bao giờ có hại
+- làm sinh vật khỏe hơn
+= Tính chất đột biến.
+?2 Bệnh nào do đột biến gene gây ra?
++ bạch tạng
+- cảm cúm
+- sâu răng
+- đau mắt đỏ
+= Bệnh di truyền.
+?3 Đột biến gene có ý nghĩa trong chọn giống và tiến hóa vì:
++ là nguồn nguyên liệu tạo ra biến dị mới
+- làm giảm đa dạng di truyền
+- luôn có hại
+- không di truyền được
+= Vai trò đột biến.
+?3 Đột biến thay thế một cặp nucleotide thường chỉ làm thay đổi:
++ nhiều nhất một amino acid trong chuỗi polypeptide
+- toàn bộ chuỗi polypeptide
+- số lượng nhiễm sắc thể
+- bộ nhiễm sắc thể
+= Hậu quả.
+?4 Biện pháp hạn chế đột biến gene có hại ở người là:
++ tránh tiếp xúc với hóa chất độc hại, tia phóng xạ, thuốc trừ sâu
+- phơi nắng gắt cả ngày
+- dùng nhiều thuốc trừ sâu
+- hút thuốc lá
+= Bảo vệ sức khỏe di truyền.
+
+## Bài 43. Nhiễm sắc thể và bộ nhiễm sắc thể
+?1 Nhiễm sắc thể nằm chủ yếu trong:
++ nhân tế bào
+- màng tế bào
+- tế bào chất
+- thành tế bào
+= Vị trí.
+?1 Bộ nhiễm sắc thể lưỡng bội của người là:
++ 2n = 46
+- 2n = 48
+- 2n = 23
+- 2n = 44
+= Số lượng nhiễm sắc thể.
+?1 Nhiễm sắc thể được cấu tạo từ:
++ DNA và protein histone
+- tinh bột
+- chất béo
+- cellulose
+= Thành phần.
+?2 Cặp nhiễm sắc thể tương đồng là cặp:
++ giống nhau về hình dạng, kích thước, một chiếc từ bố và một chiếc từ mẹ
+- khác nhau hoàn toàn
+- đều từ bố
+- đều từ mẹ
+= Khái niệm.
+?2 Bộ nhiễm sắc thể trong giao tử của người là:
++ n = 23
+- 2n = 46
+- n = 46
+- n = 22
+= Bộ đơn bội.
+?3 Ruồi giấm có 2n = 8. Số nhiễm sắc thể trong giao tử của ruồi giấm là:
++ 4
+- 8
+- 16
+- 2
+= n = 4.
+?3 Nhiễm sắc thể co xoắn cực đại, dễ quan sát nhất ở:
++ kì giữa của quá trình phân bào
+- kì trung gian
+- kì cuối
+- khi tế bào nghỉ
+= Đặc điểm hình thái.
+?4 Cặp nhiễm sắc thể giới tính ở người là:
++ nữ XX, nam XY
+- nữ XY, nam XX
+- nữ XO, nam XY
+- cả nam và nữ đều XX
+= Nhiễm sắc thể giới tính.
+
+## Bài 44. Đột biến nhiễm sắc thể
+?1 Đột biến nhiễm sắc thể là:
++ những biến đổi về cấu trúc hoặc số lượng nhiễm sắc thể
+- biến đổi một cặp nucleotide
+- thay đổi kiểu hình do môi trường
+- sự tái bản DNA
+= Khái niệm.
+?1 Dạng đột biến cấu trúc nhiễm sắc thể gồm:
++ mất đoạn, lặp đoạn, đảo đoạn, chuyển đoạn
+- mất, thêm, thay thế một cặp nucleotide
+- thể ba, thể một
+- tam bội, tứ bội
+= Phân loại.
+?1 Hội chứng Down ở người do:
++ có 3 nhiễm sắc thể số 21
+- mất nhiễm sắc thể số 21
+- có 3 nhiễm sắc thể X
+- thiếu nhiễm sắc thể Y
+= Thể ba nhiễm sắc thể 21.
+?2 Thể đa bội là cơ thể có bộ nhiễm sắc thể:
++ tăng theo bội số của n (3n, 4n, …)
+- thiếu một chiếc
+- thừa một chiếc
+- bị mất đoạn
+= Khái niệm.
+?2 Hội chứng Turner (người nữ chỉ có một nhiễm sắc thể X) có kí hiệu cặp giới tính là:
++ XO
+- XXY
+- XXX
+- XY
+= Thể một nhiễm.
+?3 Người mắc hội chứng Down có số nhiễm sắc thể trong tế bào sinh dưỡng là:
++ 47
+- 46
+- 45
+- 69
+= Thừa một chiếc.
+?3 Dưa hấu không hạt được tạo ra nhờ ứng dụng:
++ thể đa bội lẻ (tam bội 3n)
+- đột biến mất đoạn
+- thể một nhiễm
+- lai phân tích
+= Ứng dụng đa bội.
+?4 Một loài có 2n = 24. Thể ba (2n + 1) của loài này có số nhiễm sắc thể là:
++ 25
+- 23
+- 36
+- 48
+= 24 + 1.
+
+## Bài 45. Nguyên phân và giảm phân
+?1 Kết quả của nguyên phân từ một tế bào mẹ là:
++ 2 tế bào con có bộ nhiễm sắc thể 2n giống tế bào mẹ
+- 4 tế bào con có bộ n
+- 1 tế bào con
+- 8 tế bào con
+= Kết quả nguyên phân.
+?1 Kết quả của giảm phân từ một tế bào mẹ là:
++ 4 tế bào con có bộ nhiễm sắc thể n
+- 2 tế bào con có bộ 2n
+- 1 tế bào con có bộ 2n
+- 8 tế bào con có bộ n
+= Kết quả giảm phân.
+?1 Giảm phân xảy ra ở:
++ tế bào sinh dục ở thời kì chín
+- tế bào da
+- tế bào cơ
+- tế bào xương
+= Nơi xảy ra.
+?2 Ý nghĩa của nguyên phân là:
++ giúp cơ thể lớn lên và thay thế tế bào già, tổn thương
+- tạo giao tử
+- giảm số nhiễm sắc thể
+- tạo biến dị tổ hợp
+= Ý nghĩa.
+?2 Qua thụ tinh, giao tử đực (n) kết hợp với giao tử cái (n) tạo thành hợp tử có bộ nhiễm sắc thể:
++ 2n
+- n
+- 3n
+- 4n
+= Khôi phục bộ lưỡng bội.
+?3 Một tế bào nguyên phân liên tiếp 3 lần tạo ra số tế bào con là:
++ 8
+- 6
+- 3
+- 9
+= 2³.
+?3 Ở động vật, một tế bào sinh tinh qua giảm phân tạo ra:
++ 4 tinh trùng
+- 1 tinh trùng
+- 2 tinh trùng
+- 8 tinh trùng
+= Một tế bào sinh trứng chỉ tạo 1 trứng.
+?4 Sự kết hợp của nguyên phân, giảm phân và thụ tinh có ý nghĩa:
++ duy trì bộ nhiễm sắc thể đặc trưng của loài qua các thế hệ và tạo biến dị tổ hợp
+- làm bộ nhiễm sắc thể tăng mãi
+- làm bộ nhiễm sắc thể giảm dần
+- không có ý nghĩa
+= Ý nghĩa sinh học.
+
+## Bài 46. Cơ chế xác định giới tính
+?1 Ở người, giới tính được xác định bởi:
++ cặp nhiễm sắc thể giới tính
+- nhiễm sắc thể số 21
+- thức ăn của mẹ
+- thời tiết
+= Cơ chế xác định giới tính.
+?1 Người mẹ cho loại trứng mang nhiễm sắc thể giới tính:
++ X
+- Y
+- X hoặc Y
+- XY
+= Mẹ có cặp XX.
+?1 Người bố cho tinh trùng mang nhiễm sắc thể giới tính:
++ X hoặc Y
+- chỉ X
+- chỉ Y
+- XX
+= Bố có cặp XY.
+?2 Con trai nhận nhiễm sắc thể Y từ:
++ bố
+- mẹ
+- ông ngoại qua mẹ
+- cả bố và mẹ
+= Chỉ bố có Y.
+?2 Tỉ lệ con trai và con gái sinh ra xấp xỉ:
++ 1 : 1
+- 2 : 1
+- 3 : 1
+- 1 : 3
+= Hai loại tinh trùng tạo ra với số lượng ngang nhau.
+?3 Quan niệm "sinh con trai hay con gái là do người mẹ" là:
++ sai, vì giới tính của con do loại tinh trùng của bố quyết định
+- đúng hoàn toàn
+- đúng với mọi loài
+- do thời tiết quyết định
+= Giải thích khoa học.
+?3 Ở chim, cặp nhiễm sắc thể giới tính của con cái là:
++ XY
+- XX
+- XO
+- YY
+= Khác với người.
+?4 Pháp luật Việt Nam nghiêm cấm lựa chọn giới tính thai nhi vì:
++ gây mất cân bằng giới tính, ảnh hưởng tới xã hội
+- làm tăng dân số
+- không có lí do
+- vì khoa học chưa làm được
+= Ý nghĩa xã hội.
+
+## Bài 47. Di truyền học với con người
+?1 Phương pháp nghiên cứu phả hệ là:
++ theo dõi sự di truyền một tính trạng qua nhiều thế hệ trong một dòng họ
+- nghiên cứu tế bào dưới kính hiển vi
+- lai giống cây trồng
+- nuôi cấy vi khuẩn
+= Phương pháp nghiên cứu di truyền người.
+?1 Bệnh máu khó đông do gene:
++ lặn nằm trên nhiễm sắc thể X
+- trội nằm trên nhiễm sắc thể thường
+- nằm trên nhiễm sắc thể Y
+- do vi khuẩn gây ra
+= Di truyền liên kết giới tính.
+?1 Luật Hôn nhân và Gia đình cấm kết hôn giữa những người có họ trong phạm vi:
++ ba đời
+- năm đời
+- mười đời
+- không cấm
+= Hạn chế kết hôn cận huyết.
+?2 Kết hôn gần (cận huyết) làm tăng nguy cơ:
++ con mắc bệnh di truyền do gene lặn
+- con thông minh hơn
+- con khỏe mạnh hơn
+- không ảnh hưởng gì
+= Tác hại.
+?2 Bệnh mù màu (gene lặn trên X) gặp ở nam nhiều hơn nữ vì:
++ nam chỉ có một nhiễm sắc thể X
+- nam có hai nhiễm sắc thể X
+- nữ không có nhiễm sắc thể X
+- nam ăn ít rau
+= Di truyền liên kết với X.
+?3 Tư vấn di truyền giúp:
++ chẩn đoán, dự đoán khả năng mắc bệnh di truyền ở đời con
+- chữa khỏi mọi bệnh di truyền
+- thay đổi giới tính thai nhi
+- tăng chiều cao
+= Vai trò.
+?3 Phụ nữ trên 35 tuổi mang thai có nguy cơ cao sinh con mắc:
++ hội chứng Down
+- cận thị
+- sâu răng
+- cảm cúm
+= Tuổi sinh đẻ hợp lí.
+?4 Mẹ mang gene gây bệnh máu khó đông (XᴴXʰ), bố bình thường (XᴴY). Xác suất mỗi người con trai của họ bị bệnh là:
++ 1/2
+- 1/4
+- 0
+- 1
+= Con trai nhận Xʰ từ mẹ với xác suất 1/2.
+
+## Bài 48. Ứng dụng công nghệ di truyền vào đời sống
+?1 Công nghệ gene là:
++ quy trình tạo ra sinh vật có gene bị biến đổi hoặc mang gene của loài khác
+- trồng cây bằng hạt
+- chăn nuôi truyền thống
+- nấu ăn
+= Khái niệm.
+?1 Sinh vật biến đổi gene (GMO) là:
++ sinh vật có hệ gene bị biến đổi bằng kĩ thuật di truyền
+- sinh vật hoang dã
+- sinh vật sống dưới nước
+- sinh vật đã chết
+= Khái niệm.
+?1 Insulin chữa bệnh tiểu đường hiện nay được sản xuất nhờ:
++ vi khuẩn được chuyển gene tổng hợp insulin của người
+- chiết xuất từ lá cây
+- tổng hợp từ dầu mỏ
+- khai thác từ quặng
+= Ứng dụng trong y học.
+?2 Giống lúa "gạo vàng" được chuyển gene giúp hạt gạo chứa:
++ β-carotene (tiền vitamin A)
+- vitamin C
+- sắt
+- protein sữa
+= Chống thiếu vitamin A.
+?2 Con vật được nhân bản vô tính thành công đầu tiên từ tế bào động vật trưởng thành là:
++ cừu Dolly
+- chó Laika
+- khỉ Ham
+- bò Bessie
+= Năm 1996.
+?3 Xét nghiệm DNA được ứng dụng để:
++ xác định quan hệ huyết thống, truy tìm tội phạm
+- đo chiều cao
+- dự báo thời tiết
+- đếm số tế bào
+= Ứng dụng.
+?3 Cây trồng biến đổi gene kháng sâu giúp:
++ giảm lượng thuốc trừ sâu phải sử dụng
+- tăng lượng thuốc trừ sâu
+- giảm năng suất
+- không có lợi ích gì
+= Lợi ích.
+?4 Mối lo ngại khi sử dụng sinh vật biến đổi gene là:
++ an toàn sinh học và ảnh hưởng tới đa dạng sinh học, cần được kiểm soát chặt chẽ
+- không có bất kì lo ngại nào
+- làm tăng giá thực phẩm vô hạn
+- làm sinh vật mất khả năng sống
+= Thái độ khoa học.
+
+# Chương XII. Tiến hóa
+
+## Bài 49. Khái niệm tiến hóa và các hình thức chọn lọc
+?1 Tiến hóa là:
++ sự thay đổi đặc tính di truyền của quần thể sinh vật qua các thế hệ
+- sự lớn lên của một cá thể
+- sự di chuyển nơi ở
+- sự sinh sản
+= Khái niệm.
+?1 Chọn lọc nhân tạo là quá trình:
++ con người giữ lại những biến dị có lợi cho mình, loại bỏ biến dị không mong muốn
+- tự nhiên đào thải sinh vật yếu
+- sinh vật tự chọn bạn
+- môi trường thay đổi
+= Khái niệm.
+?1 Chọn lọc tự nhiên giữ lại những biến dị:
++ có lợi cho sinh vật trong điều kiện môi trường sống
+- có lợi cho con người
+- có hại cho sinh vật
+- không có ý nghĩa
+= Khái niệm.
+?2 Người đề xuất học thuyết chọn lọc tự nhiên là:
++ Charles Darwin
+- Gregor Mendel
+- Louis Pasteur
+- Robert Hooke
+= Tác phẩm "Nguồn gốc các loài" (1859).
+?2 Các giống gà khác nhau ngày nay có nguồn gốc từ gà rừng là kết quả của:
++ chọn lọc nhân tạo
+- chọn lọc tự nhiên
+- đột biến nhiễm sắc thể
+- di cư
+= Con người chọn giống.
+?3 Ở vùng công nghiệp ô nhiễm bụi than, bướm màu sẫm trở nên phổ biến hơn bướm màu sáng là ví dụ về:
++ chọn lọc tự nhiên
+- chọn lọc nhân tạo
+- công nghệ gene
+- nhân bản vô tính
+= Màu sẫm khó bị chim phát hiện.
+?3 Vi khuẩn kháng thuốc kháng sinh ngày càng nhiều là kết quả của:
++ chọn lọc tự nhiên
+- chọn lọc nhân tạo
+- sự thụ tinh
+- giảm phân
+= Vi khuẩn kháng thuốc sống sót và sinh sản.
+?4 Không nên tự ý dùng thuốc kháng sinh vì:
++ tạo điều kiện chọn lọc các chủng vi khuẩn kháng thuốc
+- thuốc kháng sinh rất rẻ
+- kháng sinh chữa được mọi bệnh do virus
+- không có lí do
+= Sử dụng kháng sinh hợp lí.
+
+## Bài 50. Cơ chế tiến hóa
+?1 Theo Darwin, động lực của chọn lọc tự nhiên là:
++ đấu tranh sinh tồn
+- ý muốn của sinh vật
+- sự giúp đỡ của con người
+- thời tiết ổn định
+= Học thuyết Darwin.
+?1 Nguồn nguyên liệu của tiến hóa là:
++ đột biến và biến dị tổ hợp
+- thức ăn
+- ánh sáng
+- nước
+= Nguồn biến dị.
+?2 Kết quả của chọn lọc tự nhiên là:
++ hình thành các loài sinh vật thích nghi với môi trường
+- làm mọi loài giống nhau
+- tiêu diệt mọi sinh vật
+- giữ nguyên các loài không đổi
+= Kết quả.
+?2 Ví dụ về đặc điểm thích nghi là:
++ bọ que có hình dạng, màu sắc giống cành cây
+- cây trồng trong nhà kính
+- gà công nghiệp lớn nhanh
+- giống lúa năng suất cao
+= Ngụy trang.
+?2 Darwin quan sát các loài chim sẻ có mỏ khác nhau ở:
++ quần đảo Galápagos
+- vùng Bắc Cực
+- sa mạc Sahara
+- dãy Himalaya
+= Bằng chứng tiến hóa.
+?3 Hình thành loài mới thường cần:
++ sự cách li và tích lũy biến đổi di truyền qua thời gian dài
+- một ngày
+- sự giúp đỡ của con người
+- không cần điều kiện gì
+= Quá trình hình thành loài.
+?3 Đặc điểm thích nghi chỉ mang tính hợp lí tương đối vì:
++ khi môi trường thay đổi, đặc điểm đó có thể không còn có lợi
+- đặc điểm thích nghi luôn có hại
+- sinh vật không thay đổi
+- môi trường không bao giờ thay đổi
+= Tính tương đối của thích nghi.
+?4 Thuyết tiến hóa hiện đại đã bổ sung cho học thuyết Darwin ở điểm:
++ giải thích nguồn gốc biến dị và cơ chế di truyền dựa trên gene, đột biến
+- phủ nhận hoàn toàn chọn lọc tự nhiên
+- cho rằng sinh vật không tiến hóa
+- cho rằng loài không thay đổi
+= Phát triển của học thuyết.
+
+## Bài 51. Sự phát sinh và phát triển sự sống trên Trái Đất
+?1 Sự sống đầu tiên trên Trái Đất xuất hiện trong môi trường:
++ nước
+- trên cạn
+- không khí
+- băng
+= Đại dương nguyên thủy.
+?1 Những sinh vật đầu tiên có cấu tạo:
++ đơn bào, nhân sơ
+- đa bào phức tạp
+- như thực vật có hoa
+- như động vật có vú
+= Lịch sử sự sống.
+?2 Xu hướng phát triển chung của sinh giới là:
++ từ đơn giản đến phức tạp, từ dưới nước lên cạn
+- từ phức tạp đến đơn giản
+- từ trên cạn xuống nước
+- không thay đổi
+= Chiều hướng tiến hóa.
+?2 Hóa thạch là:
++ di tích của sinh vật sống trong các thời đại trước được lưu giữ trong lớp đất đá
+- cây còn sống
+- động vật đang sống
+- một loại khoáng sản kim loại
+= Bằng chứng tiến hóa.
+?2 Tên khoa học của loài người hiện đại là:
++ Homo sapiens
+- Homo erectus
+- Homo habilis
+- Australopithecus
+= Loài người hiện nay.
+?3 Khủng long phát triển mạnh mẽ ở đại:
++ Trung sinh
+- Tân sinh
+- Cổ sinh
+- Nguyên sinh
+= Lịch sử Trái Đất.
+?3 Loài người và các loài vượn người ngày nay:
++ có chung nguồn gốc tổ tiên
+- không có quan hệ gì
+- vượn người tiến hóa từ người
+- người hiện đại sinh ra vượn người
+= Nguồn gốc loài người.
+?4 Ý nghĩa của việc tìm hiểu lịch sử phát triển sự sống là:
++ hiểu nguồn gốc các loài và có ý thức bảo vệ đa dạng sinh học
+- không có ý nghĩa
+- để săn bắt động vật
+- để phá rừng
+= Ý nghĩa giáo dục.

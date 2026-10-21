@@ -1,0 +1,761 @@
+// KHTN 9 – Kết nối tri thức với cuộc sống – Phần Vật lí
+#! HK1
+# Chương I. Năng lượng cơ học
+
+## Bài 2. Động năng. Thế năng
+?1 Động năng là năng lượng mà vật có được do:
++ chuyển động
+- ở trên cao
+- bị biến dạng
+- có nhiệt độ
+= Định nghĩa.
+?1 Công thức tính động năng là:
++ Wđ = ½mv²
+- Wđ = mv
+- Wđ = mgh
+- Wđ = ½mv
+= m tính bằng kg, v tính bằng m/s.
+?1 Thế năng trọng trường của vật phụ thuộc vào:
++ trọng lượng của vật và độ cao của vật so với mốc
+- vận tốc của vật
+- màu sắc của vật
+- nhiệt độ của vật
+= Wt = P·h.
+?2 Một vật khối lượng 2 kg chuyển động với vận tốc 3 m/s. Động năng của vật là:
++ 9 J
+- 6 J
+- 18 J
+- 3 J
+= ½·2·3².
+?2 Một vật khối lượng 0,5 kg ở độ cao 4 m so với mặt đất. Thế năng trọng trường của vật là:
++ 20 J
+- 2 J
+- 8 J
+- 40 J
+= P = 5 N, Wt = 5·4.
+?3 Khi vận tốc của vật tăng gấp đôi thì động năng:
++ tăng gấp 4 lần
+- tăng gấp 2 lần
+- không đổi
+- giảm một nửa
+= Wđ tỉ lệ với v².
+?3 Một quả bóng khối lượng 0,2 kg có động năng 10 J. Vận tốc của quả bóng là:
++ 10 m/s
+- 5 m/s
+- 50 m/s
+- 100 m/s
+= v² = 2·10 : 0,2 = 100.
+?4 Một ô tô khối lượng 1 tấn chạy với vận tốc 36 km/h. Động năng của ô tô là:
++ 50 000 J
+- 648 000 J
+- 18 000 J
+- 5 000 J
+= 36 km/h = 10 m/s; ½·1 000·10².
+
+## Bài 3. Cơ năng
+?1 Cơ năng của vật bằng:
++ tổng động năng và thế năng
+- hiệu động năng và thế năng
+- tích động năng và thế năng
+- chỉ động năng
+= Định nghĩa.
+?1 Khi một vật rơi từ trên cao xuống, thế năng chuyển hóa dần thành:
++ động năng
+- nhiệt năng hoàn toàn
+- quang năng
+- điện năng
+= Chuyển hóa cơ năng.
+?1 Khi bỏ qua mọi lực cản, cơ năng của vật:
++ được bảo toàn
+- tăng dần
+- giảm dần
+- bằng 0
+= Định luật bảo toàn cơ năng.
+?2 Một vật có động năng 20 J và thế năng 30 J. Cơ năng của vật là:
++ 50 J
+- 10 J
+- 600 J
+- 30 J
+= 20 + 30.
+?2 Ném một vật thẳng đứng lên cao, trong khi vật đi lên thì:
++ động năng giảm, thế năng tăng
+- động năng tăng, thế năng giảm
+- cả hai cùng tăng
+- cả hai cùng giảm
+= Chuyển hóa năng lượng.
+?3 Một vật khối lượng 1 kg rơi từ độ cao 5 m (bỏ qua sức cản). Động năng của vật ngay trước khi chạm đất là:
++ 50 J
+- 5 J
+- 10 J
+- 25 J
+= Bằng thế năng ban đầu: 10·1·5.
+?3 Con lắc đơn dao động, vị trí có động năng lớn nhất là:
++ vị trí thấp nhất
+- vị trí cao nhất bên trái
+- vị trí cao nhất bên phải
+- mọi vị trí như nhau
+= Thế năng nhỏ nhất ở vị trí thấp nhất.
+?4 Một vật khối lượng 0,5 kg rơi tự do từ độ cao 20 m (bỏ qua sức cản). Khi ở độ cao 5 m, động năng của vật là:
++ 75 J
+- 25 J
+- 100 J
+- 50 J
+= Cơ năng 100 J, thế năng ở 5 m là 25 J.
+
+## Bài 4. Công và công suất
+?1 Công cơ học được tính bằng công thức:
++ A = F·s
+- A = F/s
+- A = F + s
+- A = P/t
+= F là lực, s là quãng đường theo phương của lực.
+?1 Đơn vị của công suất là:
++ oát (W)
+- jun (J)
+- niutơn (N)
+- mét (m)
+= 1 W = 1 J/s.
+?1 Công suất được tính bằng:
++ P = A/t
+- P = A·t
+- P = F·s
+- P = t/A
+= Công thực hiện trong một đơn vị thời gian.
+?2 Một lực 50 N kéo vật đi được 4 m theo phương của lực. Công của lực là:
++ 200 J
+- 12,5 J
+- 54 J
+- 46 J
+= 50·4.
+?2 Một máy thực hiện công 600 J trong 30 s. Công suất của máy là:
++ 20 W
+- 18 000 W
+- 630 W
+- 570 W
+= 600 : 30.
+?3 Nâng một vật khối lượng 20 kg lên cao 3 m. Công tối thiểu cần thực hiện là:
++ 600 J
+- 60 J
+- 200 J
+- 6 000 J
+= P = 200 N; A = 200·3.
+?3 Một máy có công suất 2 kW hoạt động trong 10 s thực hiện được công:
++ 20 000 J
+- 20 J
+- 200 J
+- 2 000 J
+= 2 000·10.
+?4 Cần cẩu nâng khối hàng 500 kg lên cao 12 m trong 20 s. Công suất của cần cẩu là:
++ 3 000 W
+- 300 W
+- 60 000 W
+- 6 000 W
+= A = 5 000·12 = 60 000 J; P = 60 000 : 20.
+
+# Chương II. Ánh sáng
+
+## Bài 5. Khúc xạ ánh sáng
+?1 Hiện tượng khúc xạ ánh sáng là hiện tượng tia sáng:
++ bị gãy khúc tại mặt phân cách khi truyền giữa hai môi trường trong suốt khác nhau
+- bị hắt trở lại môi trường cũ
+- truyền thẳng mãi mãi
+- bị hấp thụ hoàn toàn
+= Định nghĩa.
+?1 Đặt chiếc đũa nghiêng trong cốc nước, ta thấy đũa như bị gãy là do:
++ hiện tượng khúc xạ ánh sáng
+- hiện tượng phản xạ ánh sáng
+- đũa bị cong thật
+- nước làm đũa nở ra
+= Ứng dụng thực tế.
+?1 Chiết suất tuyệt đối của một môi trường được tính bằng:
++ n = c/v
+- n = v/c
+- n = c·v
+- n = c − v
+= c là tốc độ ánh sáng trong chân không.
+?2 Khi ánh sáng truyền từ không khí vào nước (với góc tới khác 0), góc khúc xạ:
++ nhỏ hơn góc tới
+- lớn hơn góc tới
+- bằng góc tới
+- luôn bằng 90°
+= Nước chiết quang hơn không khí.
+?2 Khi tia sáng chiếu vuông góc với mặt phân cách (góc tới bằng 0) thì:
++ tia sáng truyền thẳng, không bị gãy khúc
+- tia sáng bị phản xạ toàn phần
+- tia sáng bị lệch 90°
+- không có ánh sáng đi qua
+= Trường hợp đặc biệt.
+?3 Nước có chiết suất 4/3. Tốc độ ánh sáng trong nước là:
++ 2,25·10⁸ m/s
+- 4·10⁸ m/s
+- 3·10⁸ m/s
+- 1,33·10⁸ m/s
+= v = c/n = 3·10⁸ : (4/3).
+?3 Nhìn từ trên xuống, đáy bể nước trông nông hơn thực tế vì:
++ ánh sáng từ đáy bể bị khúc xạ khi ra khỏi mặt nước
+- nước có màu xanh
+- mắt nhìn sai
+- đáy bể phản xạ ánh sáng
+= Ảo ảnh do khúc xạ.
+?4 Tia sáng truyền từ không khí (n = 1) vào môi trường có chiết suất √2 với góc tới 30°. Giá trị sin của góc khúc xạ là:
++ √2/4
+- √2/2
+- 1/2
+- √2
+= n₁sin i = n₂sin r nên sin r = 0,5/√2.
+
+## Bài 6. Phản xạ toàn phần
+?1 Phản xạ toàn phần là hiện tượng:
++ toàn bộ ánh sáng bị phản xạ tại mặt phân cách, không có tia khúc xạ
+- ánh sáng bị hấp thụ hết
+- ánh sáng truyền thẳng qua mặt phân cách
+- ánh sáng bị tán sắc
+= Định nghĩa.
+?1 Điều kiện xảy ra phản xạ toàn phần là ánh sáng truyền từ môi trường:
++ chiết quang hơn sang chiết quang kém và góc tới lớn hơn hoặc bằng góc giới hạn
+- chiết quang kém sang chiết quang hơn
+- không khí sang nước
+- bất kì với góc tới bất kì
+= Hai điều kiện.
+?1 Ứng dụng quan trọng của phản xạ toàn phần là:
++ cáp quang truyền tín hiệu
+- kính lúp
+- gương phẳng
+- bóng đèn sợi đốt
+= Truyền dữ liệu Internet.
+?2 Khi ánh sáng truyền từ không khí vào nước:
++ không thể xảy ra phản xạ toàn phần
+- luôn xảy ra phản xạ toàn phần
+- chỉ xảy ra khi góc tới nhỏ
+- ánh sáng không bị khúc xạ
+= Không khí chiết quang kém hơn nước.
+?2 Góc giới hạn phản xạ toàn phần được xác định bởi:
++ sin i_gh = n₂/n₁ (n₁ > n₂)
+- sin i_gh = n₁/n₂ (n₁ > n₂)
+- sin i_gh = n₁·n₂
+- sin i_gh = n₁ + n₂
+= Công thức góc giới hạn.
+?3 Thủy tinh có chiết suất 1,5. Khi ánh sáng đi từ thủy tinh ra không khí, sin của góc giới hạn là:
++ 2/3
+- 3/2
+- 1/2
+- 1/3
+= 1 : 1,5.
+?3 Kim cương lấp lánh vì:
++ chiết suất lớn, góc giới hạn nhỏ nên ánh sáng bị phản xạ toàn phần nhiều lần
+- kim cương tự phát sáng
+- kim cương hấp thụ hết ánh sáng
+- kim cương có màu đỏ
+= Ứng dụng.
+?4 Ánh sáng truyền từ nước (n = 4/3) ra không khí với góc tới 60°. Hiện tượng xảy ra là:
++ phản xạ toàn phần, vì góc tới lớn hơn góc giới hạn (khoảng 48,6°)
+- khúc xạ bình thường
+- ánh sáng truyền thẳng
+- tán sắc ánh sáng
+= sin i_gh = 3/4.
+
+## Bài 7. Lăng kính
+?1 Lăng kính là:
++ khối chất trong suốt có dạng lăng trụ tam giác
+- gương cầu lõm
+- thấu kính mỏng
+- tấm kính phẳng
+= Định nghĩa.
+?1 Chiếu chùm ánh sáng trắng qua lăng kính, ta thu được:
++ dải màu biến thiên liên tục từ đỏ đến tím
+- chỉ ánh sáng trắng
+- chỉ ánh sáng đỏ
+- bóng tối
+= Hiện tượng tán sắc.
+?1 Dải màu cầu vồng thường được kể với bao nhiêu màu chính?
++ 7
+- 3
+- 5
+- 10
+= Đỏ, cam, vàng, lục, lam, chàm, tím.
+?2 Tia sáng đi qua lăng kính bị lệch về phía:
++ đáy lăng kính
+- đỉnh lăng kính
+- không bị lệch
+- ngẫu nhiên
+= Đặc điểm đường truyền.
+?2 Khi tán sắc qua lăng kính, ánh sáng màu bị lệch nhiều nhất là:
++ tím
+- đỏ
+- vàng
+- lục
+= Chiết suất lớn nhất với ánh sáng tím.
+?3 Cầu vồng sau cơn mưa là hiện tượng:
++ tán sắc ánh sáng Mặt Trời qua các giọt nước
+- phản xạ trên mặt đất
+- ánh sáng phát ra từ mây
+- nhiễu xạ qua khe hẹp
+= Ứng dụng thực tế.
+?3 Một vật có màu đỏ dưới ánh sáng trắng vì vật:
++ phản xạ mạnh ánh sáng đỏ, hấp thụ các màu khác
+- hấp thụ ánh sáng đỏ
+- phát ra ánh sáng trắng
+- không phản xạ ánh sáng
+= Màu sắc của vật.
+?4 Chiếu chùm ánh sáng đỏ (đơn sắc) qua lăng kính thì:
++ chùm sáng bị lệch về đáy nhưng không bị tán sắc
+- bị tán sắc thành bảy màu
+- biến thành ánh sáng trắng
+- không đi qua được lăng kính
+= Ánh sáng đơn sắc không bị tán sắc.
+
+## Bài 8. Thấu kính
+?1 Thấu kính hội tụ có đặc điểm:
++ phần rìa mỏng hơn phần giữa
+- phần rìa dày hơn phần giữa
+- hai mặt phẳng song song
+- không cho ánh sáng đi qua
+= Nhận biết thấu kính.
+?1 Tia tới song song với trục chính của thấu kính hội tụ cho tia ló:
++ đi qua tiêu điểm chính
+- song song với trục chính
+- đi qua quang tâm
+- bị phản xạ ngược lại
+= Tia đặc biệt.
+?1 Tia tới đi qua quang tâm của thấu kính thì:
++ truyền thẳng, không đổi hướng
+- đi qua tiêu điểm
+- song song trục chính
+- bị phản xạ
+= Tia đặc biệt.
+?2 Thấu kính phân kì luôn cho ảnh của vật thật là:
++ ảnh ảo, cùng chiều và nhỏ hơn vật
+- ảnh thật, ngược chiều
+- ảnh ảo, lớn hơn vật
+- ảnh thật, bằng vật
+= Đặc điểm ảnh.
+?2 Vật đặt ngoài khoảng 2f trước thấu kính hội tụ cho ảnh:
++ thật, ngược chiều, nhỏ hơn vật
+- ảo, cùng chiều, lớn hơn vật
+- thật, ngược chiều, lớn hơn vật
+- ảo, nhỏ hơn vật
+= Ứng dụng trong máy ảnh.
+?3 Vật đặt trong khoảng tiêu cự của thấu kính hội tụ cho ảnh:
++ ảo, cùng chiều, lớn hơn vật
+- thật, ngược chiều, nhỏ hơn vật
+- thật, bằng vật
+- ảo, nhỏ hơn vật
+= Nguyên tắc kính lúp.
+?3 Vật đặt cách thấu kính hội tụ (f = 10 cm) một khoảng 30 cm. Ảnh cách thấu kính:
++ 15 cm
+- 20 cm
+- 30 cm
+- 7,5 cm
+= 1/d' = 1/10 − 1/30 = 1/15.
+?4 Vật đặt cách thấu kính hội tụ có tiêu cự 12 cm một khoảng 24 cm. Ảnh thu được:
++ thật, ngược chiều, bằng vật, cách thấu kính 24 cm
+- ảo, cùng chiều, lớn hơn vật
+- thật, nhỏ hơn vật, cách thấu kính 12 cm
+- không thu được ảnh
+= Vật ở vị trí d = 2f.
+
+## Bài 10. Kính lúp
+?1 Kính lúp là:
++ thấu kính hội tụ có tiêu cự ngắn
+- thấu kính phân kì
+- gương phẳng
+- lăng kính
+= Cấu tạo.
+?1 Kính lúp dùng để:
++ quan sát các vật nhỏ
+- quan sát các vì sao
+- chụp ảnh
+- chiếu sáng
+= Công dụng.
+?1 Số bội giác của kính lúp (f tính bằng cm) được tính bằng:
++ G = 25/f
+- G = f/25
+- G = 25·f
+- G = 25 − f
+= Công thức.
+?2 Kính lúp ghi 5x có tiêu cự là:
++ 5 cm
+- 25 cm
+- 125 cm
+- 0,2 cm
+= f = 25 : 5.
+?2 Khi quan sát qua kính lúp, vật phải đặt:
++ trong khoảng tiêu cự của kính
+- ngoài khoảng 2f
+- đúng tại tiêu điểm
+- rất xa kính
+= Để có ảnh ảo lớn hơn vật.
+?3 Kính lúp có tiêu cự 2,5 cm thì số bội giác là:
++ 10x
+- 2,5x
+- 62,5x
+- 5x
+= 25 : 2,5.
+?3 Giữa kính lúp 2x và kính lúp 4x, kính cho ảnh phóng to hơn là:
++ kính 4x (tiêu cự ngắn hơn)
+- kính 2x
+- như nhau
+- không so sánh được
+= Bội giác lớn hơn.
+?4 Ảnh của vật quan sát qua kính lúp là:
++ ảnh ảo, cùng chiều, lớn hơn vật
+- ảnh thật, ngược chiều
+- ảnh ảo, nhỏ hơn vật
+- ảnh thật, bằng vật
+= Đặc điểm ảnh.
+
+# Chương III. Điện
+
+## Bài 11. Điện trở. Định luật Ohm
+?1 Biểu thức định luật Ohm là:
++ I = U/R
+- I = R/U
+- I = U·R
+- U = I/R
+= Cường độ dòng điện tỉ lệ thuận với hiệu điện thế, tỉ lệ nghịch với điện trở.
+?1 Đơn vị của điện trở là:
++ ôm (Ω)
+- vôn (V)
+- ampe (A)
+- oát (W)
+= Đơn vị.
+?1 Điện trở của dây dẫn được tính bằng:
++ R = ρl/S
+- R = ρS/l
+- R = lS/ρ
+- R = ρ·l·S
+= ρ là điện trở suất, l là chiều dài, S là tiết diện.
+?2 Hiệu điện thế 12 V đặt vào điện trở 6 Ω. Cường độ dòng điện là:
++ 2 A
+- 72 A
+- 0,5 A
+- 18 A
+= 12 : 6.
+?2 Dòng điện 0,5 A chạy qua điện trở 20 Ω. Hiệu điện thế giữa hai đầu điện trở là:
++ 10 V
+- 40 V
+- 20,5 V
+- 0,025 V
+= U = I·R.
+?3 Hai dây cùng vật liệu, cùng tiết diện, dây thứ nhất dài gấp đôi dây thứ hai. Điện trở dây thứ nhất:
++ gấp đôi dây thứ hai
+- bằng một nửa dây thứ hai
+- bằng dây thứ hai
+- gấp bốn lần dây thứ hai
+= R tỉ lệ thuận với l.
+?3 Hai dây cùng vật liệu, cùng chiều dài, tiết diện dây A gấp đôi dây B. Điện trở dây A:
++ bằng một nửa dây B
+- gấp đôi dây B
+- bằng dây B
+- gấp bốn lần dây B
+= R tỉ lệ nghịch với S.
+?4 Khi đặt hiệu điện thế 6 V vào hai đầu một điện trở thì cường độ dòng điện là 0,4 A. Nếu tăng hiệu điện thế lên 9 V thì cường độ dòng điện là:
++ 0,6 A
+- 0,4 A
+- 0,9 A
+- 1,5 A
+= R = 15 Ω, I = 9 : 15.
+
+## Bài 12. Đoạn mạch nối tiếp, song song
+?1 Trong đoạn mạch nối tiếp, cường độ dòng điện:
++ như nhau tại mọi điểm
+- khác nhau ở mỗi điện trở
+- bằng 0
+- tăng dần
+= Tính chất mạch nối tiếp.
+?1 Điện trở tương đương của hai điện trở mắc nối tiếp là:
++ R = R₁ + R₂
+- R = R₁·R₂
+- 1/R = 1/R₁ + 1/R₂
+- R = R₁ − R₂
+= Công thức.
+?1 Trong đoạn mạch song song, hiệu điện thế giữa hai đầu mỗi nhánh:
++ bằng nhau
+- khác nhau
+- bằng 0
+- tỉ lệ với điện trở
+= Tính chất mạch song song.
+?2 R₁ = 4 Ω mắc nối tiếp R₂ = 6 Ω. Điện trở tương đương là:
++ 10 Ω
+- 2,4 Ω
+- 24 Ω
+- 2 Ω
+= 4 + 6.
+?2 R₁ = 6 Ω mắc song song R₂ = 3 Ω. Điện trở tương đương là:
++ 2 Ω
+- 9 Ω
+- 18 Ω
+- 4,5 Ω
+= 6·3 : (6 + 3).
+?3 R₁ = 10 Ω nối tiếp R₂ = 20 Ω, đặt vào hiệu điện thế 12 V. Cường độ dòng điện trong mạch là:
++ 0,4 A
+- 1,2 A
+- 0,6 A
+- 2,5 A
+= 12 : 30.
+?3 Hai điện trở 10 Ω mắc song song. Điện trở tương đương là:
++ 5 Ω
+- 20 Ω
+- 10 Ω
+- 100 Ω
+= Hai điện trở bằng nhau mắc song song cho R/2.
+?4 R₁ = 10 Ω song song R₂ = 15 Ω, đặt vào hiệu điện thế 6 V. Cường độ dòng điện mạch chính là:
++ 1 A
+- 0,24 A
+- 0,6 A
+- 0,4 A
+= 6/10 + 6/15 = 0,6 + 0,4.
+
+## Bài 13. Năng lượng của dòng điện và công suất điện
+?1 Công suất điện được tính bằng:
++ P = U·I
+- P = U/I
+- P = I/U
+- P = U + I
+= Công thức.
+?1 Đơn vị điện năng thường dùng trong đời sống là:
++ kilôoát giờ (kWh)
+- vôn (V)
+- ampe (A)
+- ôm (Ω)
+= 1 kWh = 3 600 000 J.
+?1 Số chỉ của công tơ điện cho biết:
++ lượng điện năng đã tiêu thụ
+- hiệu điện thế
+- cường độ dòng điện
+- điện trở
+= Công dụng.
+?2 Một bóng đèn 220 V – 100 W hoạt động bình thường trong 5 giờ tiêu thụ điện năng:
++ 0,5 kWh
+- 500 kWh
+- 20 kWh
+- 5 kWh
+= 0,1 kW · 5 h.
+?2 Thiết bị dùng hiệu điện thế 220 V, dòng điện 2 A có công suất:
++ 440 W
+- 110 W
+- 222 W
+- 218 W
+= 220·2.
+?3 Một bàn là 1 000 W dùng 30 phút mỗi ngày. Điện năng tiêu thụ trong 30 ngày là:
++ 15 kWh
+- 30 kWh
+- 900 kWh
+- 1,5 kWh
+= 1 kW · 0,5 h · 30.
+?3 Giá điện 3 000 đồng/kWh. Tiền điện phải trả cho 15 kWh là:
++ 45 000 đồng
+- 4 500 đồng
+- 18 000 đồng
+- 450 000 đồng
+= 15·3 000.
+?4 Cường độ dòng điện chạy qua bóng đèn 220 V – 100 W khi đèn sáng bình thường khoảng:
++ 0,45 A
+- 2,2 A
+- 22 000 A
+- 4,5 A
+= I = P/U = 100 : 220.
+
+# Chương IV. Điện từ
+
+## Bài 14. Cảm ứng điện từ. Nguyên tắc tạo ra dòng điện xoay chiều
+?1 Dòng điện cảm ứng xuất hiện trong cuộn dây dẫn kín khi:
++ số đường sức từ xuyên qua tiết diện cuộn dây biến thiên
+- cuộn dây đứng yên cạnh nam châm đứng yên
+- cuộn dây được đun nóng
+- cuộn dây được chiếu sáng
+= Hiện tượng cảm ứng điện từ.
+?1 Dòng điện xoay chiều là dòng điện:
++ có chiều luân phiên thay đổi
+- có chiều không đổi
+- chỉ chạy trong pin
+- không có chiều
+= Định nghĩa.
+?1 Máy phát điện xoay chiều hoạt động dựa trên hiện tượng:
++ cảm ứng điện từ
+- nhiễm điện do cọ xát
+- tán sắc ánh sáng
+- khúc xạ ánh sáng
+= Nguyên tắc hoạt động.
+?2 Đưa nam châm lại gần cuộn dây dẫn kín thì:
++ trong cuộn dây xuất hiện dòng điện cảm ứng
+- không có hiện tượng gì
+- cuộn dây nóng chảy
+- nam châm mất từ tính
+= Số đường sức từ tăng.
+?2 Để nam châm đứng yên trong lòng cuộn dây kín thì:
++ không có dòng điện cảm ứng
+- có dòng điện cảm ứng rất lớn
+- cuộn dây phát sáng
+- nam châm bị đẩy ra
+= Số đường sức từ không đổi.
+?3 Hai bộ phận chính của máy phát điện xoay chiều là:
++ nam châm và cuộn dây
+- pin và bóng đèn
+- lăng kính và thấu kính
+- công tắc và cầu chì
+= Cấu tạo.
+?3 Dòng điện xoay chiều trong lưới điện sinh hoạt ở Việt Nam có tần số:
++ 50 Hz
+- 60 Hz
+- 220 Hz
+- 100 Hz
+= Tần số lưới điện.
+?4 Khi đạp xe nhanh hơn, đèn xe đạp dùng đinamô sáng hơn vì:
++ nam châm quay nhanh hơn, số đường sức từ qua cuộn dây biến thiên nhanh hơn
+- pin mạnh hơn
+- bóng đèn nóng hơn
+- dây dẫn ngắn lại
+= Ứng dụng cảm ứng điện từ.
+
+## Bài 15. Tác dụng của dòng điện xoay chiều
+?1 Dòng điện xoay chiều có các tác dụng:
++ nhiệt, phát sáng, từ, sinh lí
+- chỉ tác dụng nhiệt
+- chỉ tác dụng từ
+- không có tác dụng gì
+= Các tác dụng.
+?1 Bóng đèn sợi đốt sáng khi dùng dòng điện xoay chiều là do tác dụng:
++ nhiệt và phát sáng
+- từ
+- hóa học
+- sinh lí
+= Dây tóc nóng sáng.
+?2 Khi dòng điện xoay chiều chạy qua nam châm điện, lực từ:
++ đổi chiều khi dòng điện đổi chiều
+- không bao giờ đổi chiều
+- bằng 0
+- tăng mãi
+= Tác dụng từ.
+?2 Dụng cụ đo cường độ dòng điện xoay chiều là:
++ ampe kế xoay chiều (AC)
+- vôn kế một chiều
+- nhiệt kế
+- lực kế
+= Kí hiệu AC hoặc ~.
+?2 Số chỉ của vôn kế xoay chiều cho biết giá trị:
++ hiệu dụng của hiệu điện thế
+- lớn nhất tức thời
+- nhỏ nhất
+- trung bình bằng 0
+= Giá trị hiệu dụng.
+?3 Hiệu điện thế hiệu dụng của ổ điện gia đình ở Việt Nam là:
++ 220 V
+- 110 V
+- 12 V
+- 380 V
+= Lưới điện sinh hoạt.
+?3 Dòng điện xoay chiều có thể gây điện giật nguy hiểm do tác dụng:
++ sinh lí
+- quang
+- hóa học
+- phát sáng
+= An toàn điện.
+?4 Quạt điện dùng dòng điện xoay chiều hoạt động chủ yếu dựa vào tác dụng:
++ từ (động cơ điện)
+- nhiệt
+- phát sáng
+- hóa học
+= Động cơ điện xoay chiều.
+
+# Chương V. Năng lượng với cuộc sống
+
+## Bài 16. Vòng năng lượng trên Trái Đất. Năng lượng hóa thạch
+?1 Nguồn năng lượng chủ yếu cho mọi hoạt động trên Trái Đất là:
++ năng lượng Mặt Trời
+- năng lượng hạt nhân
+- năng lượng gió
+- năng lượng địa nhiệt
+= Gốc của vòng năng lượng.
+?1 Nhiên liệu hóa thạch gồm:
++ than đá, dầu mỏ, khí tự nhiên
+- gió, nước, ánh sáng
+- gỗ, rơm, rạ
+- uranium
+= Hình thành qua hàng triệu năm.
+?1 Năng lượng hóa thạch là nguồn năng lượng:
++ không tái tạo
+- tái tạo nhanh
+- vô tận
+- không gây ô nhiễm
+= Phân loại.
+?2 Đốt nhiên liệu hóa thạch thải nhiều khí:
++ CO₂ gây hiệu ứng nhà kính
+- O₂
+- N₂
+- H₂
+= Tác động môi trường.
+?2 Than đá được hình thành từ:
++ xác thực vật bị vùi lấp hàng triệu năm
+- nước biển bay hơi
+- đá vôi
+- cát
+= Nguồn gốc.
+?3 Hậu quả của việc sử dụng quá nhiều nhiên liệu hóa thạch là:
++ ô nhiễm không khí, gia tăng hiệu ứng nhà kính
+- không khí trong lành hơn
+- tăng diện tích rừng
+- giảm nhiệt độ Trái Đất
+= Tác hại.
+?3 Thực vật hấp thụ năng lượng Mặt Trời và tích lũy dưới dạng:
++ hóa năng trong chất hữu cơ
+- điện năng
+- cơ năng
+- âm năng
+= Quang hợp.
+?4 Biện pháp giảm sử dụng năng lượng hóa thạch là:
++ tiết kiệm năng lượng và tăng sử dụng năng lượng tái tạo
+- đốt thêm than
+- dùng nhiều xe chạy xăng
+- chặt rừng làm củi
+= Phát triển bền vững.
+
+## Bài 17. Một số dạng năng lượng tái tạo
+?1 Dạng năng lượng nào là năng lượng tái tạo?
++ năng lượng gió
+- than đá
+- dầu mỏ
+- khí tự nhiên
+= Không cạn kiệt.
+?1 Pin mặt trời chuyển hóa:
++ quang năng thành điện năng
+- điện năng thành quang năng
+- hóa năng thành nhiệt năng
+- cơ năng thành hóa năng
+= Nguyên tắc hoạt động.
+?1 Nhà máy thủy điện sử dụng năng lượng của:
++ dòng nước
+- than đá
+- ánh sáng
+- gió
+= Thủy năng.
+?2 Tua bin gió chuyển hóa động năng của gió thành:
++ điện năng
+- hóa năng
+- quang năng
+- nhiệt năng
+= Điện gió.
+?2 Ưu điểm của năng lượng tái tạo là:
++ ít gây ô nhiễm, không cạn kiệt
+- rất đắt và gây ô nhiễm
+- dễ cạn kiệt
+- thải nhiều CO₂
+= Ưu điểm.
+?3 Nhược điểm của năng lượng mặt trời là:
++ phụ thuộc vào thời tiết và thời gian trong ngày
+- gây ô nhiễm nặng
+- sẽ cạn kiệt sớm
+- thải nhiều khí độc
+= Hạn chế.
+?3 Năng lượng sinh khối được lấy từ:
++ gỗ, phế phẩm nông nghiệp, chất thải hữu cơ
+- than đá
+- dầu mỏ
+- quặng sắt
+= Nguồn sinh khối.
+?4 Vùng thuận lợi để phát triển điện gió và điện mặt trời ở Việt Nam là:
++ ven biển Nam Trung Bộ và Nam Bộ, nhiều nắng và gió
+- vùng núi cao Tây Bắc nhiều sương mù
+- đồng bằng sông Hồng mưa nhiều
+- các thành phố đông dân
+= Điều kiện tự nhiên.

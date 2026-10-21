@@ -1,0 +1,521 @@
+// Toán 6 – Kết nối tri thức với cuộc sống – Tập 1
+#! HK1
+# Chương I. Tập hợp các số tự nhiên
+
+## Bài 1. Tập hợp
+?1 Cho tập hợp A = {2; 4; 6; 8}. Khẳng định nào đúng?
++ 4 ∈ A
+- 5 ∈ A
+- 8 ∉ A
+- 2 ∉ A
+= Các phần tử của A là 2, 4, 6, 8 nên 4 ∈ A; 5 không thuộc A.
+?1 Tập hợp các chữ cái trong từ "HOC" được viết là:
++ {H; O; C}
+- {H, O, C, H}
+- (H; O; C)
+- [H; O; C]
+= Tập hợp viết trong dấu ngoặc nhọn { }, các phần tử ngăn cách bởi dấu ";".
+?1 Kí hiệu "∉" đọc là:
++ không thuộc
+- thuộc
+- tập hợp con
+- bằng
+= ∈ đọc là "thuộc", ∉ đọc là "không thuộc".
+?1 Tập hợp B = {x ∈ ℕ | x < 4} gồm các phần tử:
++ 0; 1; 2; 3
+- 1; 2; 3
+- 1; 2; 3; 4
+- 0; 1; 2; 3; 4
+= ℕ bắt đầu từ 0, các số tự nhiên nhỏ hơn 4 là 0, 1, 2, 3.
+?2 Tập hợp M = {x ∈ ℕ* | x ≤ 5} có bao nhiêu phần tử?
++ 5
+- 6
+- 4
+- 0
+= ℕ* là các số tự nhiên khác 0: 1, 2, 3, 4, 5 → có 5 phần tử.
+?2 Tập hợp các số tự nhiên lớn hơn 7 và nhỏ hơn 12 viết bằng cách chỉ ra tính chất đặc trưng là:
++ {x ∈ ℕ | 7 < x < 12}
+- {x ∈ ℕ | 7 ≤ x ≤ 12}
+- {x ∈ ℕ | 7 < x ≤ 12}
+- {x ∈ ℕ | 7 ≤ x < 12}
+= "Lớn hơn 7" là x > 7, "nhỏ hơn 12" là x < 12.
+?2 Cho C = {1; 3; 5; 7; 9}. Cách viết nào mô tả đúng tập hợp C?
++ {x ∈ ℕ | x lẻ, x < 10}
+- {x ∈ ℕ | x lẻ, x ≤ 11}
+- {x ∈ ℕ | x < 10}
+- {x ∈ ℕ | x chẵn, x < 10}
+= C gồm các số lẻ nhỏ hơn 10.
+?3 Có bao nhiêu số tự nhiên x thỏa mãn 15 < x ≤ 30?
++ 15
+- 16
+- 14
+- 30
+= Các số từ 16 đến 30: 30 − 16 + 1 = 15 số.
+?3 Tập hợp các chữ số của số 2025 có bao nhiêu phần tử?
++ 3
+- 4
+- 2
+- 5
+= Các chữ số khác nhau là 2, 0, 5 → 3 phần tử (chữ số 2 chỉ tính một lần).
+?3 Cho A = {a; b; c}. Có bao nhiêu cách viết tập hợp A bằng cách liệt kê (đổi thứ tự phần tử)?
++ 6
+- 3
+- 9
+- 1
+= Ba phần tử xếp theo thứ tự tùy ý: 3 × 2 × 1 = 6 cách.
+?4 Tập hợp các số tự nhiên có hai chữ số mà tổng hai chữ số bằng 5 có bao nhiêu phần tử?
++ 5
+- 4
+- 6
+- 10
+= Các số: 14, 23, 32, 41, 50 → 5 số.
+?4 Tập hợp E = {x ∈ ℕ | x = 3k, k ∈ ℕ, x < 20} có bao nhiêu phần tử?
++ 7
+- 6
+- 20
+- 3
+= x là bội của 3 nhỏ hơn 20: 0, 3, 6, 9, 12, 15, 18 → 7 phần tử.
+
+## Bài 2. Cách ghi số tự nhiên
+?1 Số La Mã XIV có giá trị là:
++ 14
+- 16
+- 9
+- 41
+= X = 10, IV = 4 → XIV = 14.
+?1 Trong số 5 702, chữ số 7 có giá trị là:
++ 700
+- 7
+- 70
+- 7 000
+= Chữ số 7 ở hàng trăm nên có giá trị 7 × 100 = 700.
+?1 Số "ba triệu không trăm linh năm nghìn" viết là:
++ 3 005 000
+- 3 050 000
+- 3 000 500
+- 30 005 000
+= Ba triệu = 3 000 000; năm nghìn = 5 000 → 3 005 000.
+?1 Hệ thập phân dùng bao nhiêu chữ số để ghi số?
++ 10
+- 9
+- 2
+- 12
+= Dùng mười chữ số 0, 1, 2, …, 9.
+?2 Số 4 205 viết dưới dạng tổng giá trị các chữ số là:
++ 4 × 1 000 + 2 × 100 + 5
+- 4 × 1 000 + 2 × 100 + 5 × 10
+- 4 × 100 + 2 × 10 + 5
+- 4 × 1 000 + 20 + 5
+= Hàng nghìn 4, hàng trăm 2, hàng chục 0, hàng đơn vị 5.
+?2 Số 29 viết bằng số La Mã là:
++ XXIX
+- XXVIIII
+- XIXX
+- IXXX
+= 29 = 20 + 9 = XX + IX = XXIX.
+?2 Số tự nhiên nhỏ nhất có bốn chữ số khác nhau là:
++ 1 023
+- 1 000
+- 1 234
+- 1 012
+= Chữ số hàng nghìn nhỏ nhất là 1, tiếp theo 0, 2, 3 và các chữ số phải khác nhau.
+?3 Với ba chữ số 0, 3, 7 có thể viết được bao nhiêu số có ba chữ số khác nhau?
++ 4
+- 6
+- 3
+- 9
+= Chữ số hàng trăm khác 0 (2 cách), hai hàng còn lại 2 × 1 cách → 4 số: 307, 370, 703, 730.
+?3 Số lớn nhất nhỏ hơn 40 viết bằng chữ số La Mã là:
++ XXXIX
+- XL
+- XXXX
+- XXXVIIII
+= 39 = XXXIX; 40 = XL không nằm trong yêu cầu nhỏ hơn 40.
+?3 Số 36 589 có chữ số hàng chục là 8. Số chục của số đó là:
++ 3 658
+- 8
+- 58
+- 365
+= Số chục là số tạo bởi các chữ số từ hàng chục trở lên: 3 658.
+?4 Để đánh số trang một cuốn sách dày 120 trang (bắt đầu từ trang 1) cần dùng bao nhiêu chữ số?
++ 252
+- 240
+- 120
+- 360
+= Trang 1–9: 9 chữ số; trang 10–99: 90 × 2 = 180; trang 100–120: 21 × 3 = 63. Tổng 9 + 180 + 63 = 252.
+?4 Viết thêm chữ số 0 vào cuối một số tự nhiên khác 0 thì số đó:
++ tăng gấp 10 lần
+- tăng thêm 10 đơn vị
+- không đổi
+- tăng gấp 100 lần
+= Mỗi chữ số dịch lên một hàng, giá trị gấp 10 lần.
+
+## Bài 3. Thứ tự trong tập hợp các số tự nhiên
+?1 Số liền sau của 999 là:
++ 1 000
+- 998
+- 9 991
+- 1 001
+= Số liền sau hơn số đã cho 1 đơn vị.
+?1 Số liền trước của 1 000 là:
++ 999
+- 1 001
+- 100
+- 990
+= Số liền trước kém số đã cho 1 đơn vị.
+?1 Số tự nhiên nhỏ nhất là:
++ 0
+- 1
+- 10
+- Không có số nhỏ nhất
+= Tập hợp ℕ bắt đầu từ 0.
+?1 Khẳng định nào đúng?
++ 2 024 < 2 042
+- 2 024 > 2 042
+- 2 042 < 2 024
+- 2 024 = 2 042
+= So sánh hàng chục: 2 < 4 nên 2 024 < 2 042.
+?2 Có bao nhiêu số tự nhiên nằm giữa 25 và 31 (không kể 25 và 31)?
++ 5
+- 6
+- 7
+- 4
+= Các số 26, 27, 28, 29, 30.
+?2 Ba số tự nhiên liên tiếp tăng dần là:
++ a − 1; a; a + 1 (a ∈ ℕ*)
+- a; a + 2; a + 4
+- a; a − 1; a − 2
+- a + 1; a; a − 1
+= Hai số tự nhiên liên tiếp hơn kém nhau 1 đơn vị.
+?2 Sắp xếp các số 3 105; 3 015; 3 150; 3 051 theo thứ tự tăng dần:
++ 3 015; 3 051; 3 105; 3 150
+- 3 015; 3 105; 3 051; 3 150
+- 3 150; 3 105; 3 051; 3 015
+- 3 051; 3 015; 3 105; 3 150
+= So sánh lần lượt từ hàng trăm rồi tới hàng chục.
+?3 Tìm số tự nhiên x biết 12 < x < 15 và x là số chẵn.
++ 14
+- 13
+- 12
+- 16
+= Các số giữa 12 và 15 là 13, 14; số chẵn là 14.
+?3 Trên tia số, điểm biểu diễn số 7 nằm:
++ bên phải điểm biểu diễn số 5
+- bên trái điểm biểu diễn số 5
+- trùng với điểm biểu diễn số 5
+- bên trái điểm 0
+= Trên tia số, số lớn hơn nằm bên phải.
+?3 Số tự nhiên lớn nhất có năm chữ số khác nhau là:
++ 98 765
+- 99 999
+- 98 760
+- 90 000
+= Chọn các chữ số lớn nhất khác nhau: 9, 8, 7, 6, 5.
+?4 Cho bốn số tự nhiên liên tiếp có tổng bằng 46. Số lớn nhất là:
++ 13
+- 12
+- 14
+- 11
+= Gọi các số là n, n+1, n+2, n+3: 4n + 6 = 46 → n = 10. Số lớn nhất là 13.
+?4 Có bao nhiêu số tự nhiên có hai chữ số lớn hơn 56?
++ 43
+- 44
+- 42
+- 34
+= Các số từ 57 đến 99: 99 − 57 + 1 = 43 số.
+
+## Bài 4. Phép cộng và phép trừ số tự nhiên
+?1 Tính 1 345 + 655.
++ 2 000
+- 1 990
+- 2 010
+- 1 900
+= 1 345 + 655 = 2 000.
+?1 Tính chất a + b = b + a gọi là:
++ tính chất giao hoán
+- tính chất kết hợp
+- tính chất phân phối
+- cộng với số 0
+= Đổi chỗ các số hạng thì tổng không đổi: tính chất giao hoán.
+?1 Tính 5 000 − 1 234.
++ 3 766
+- 3 866
+- 4 234
+- 3 776
+= 5 000 − 1 234 = 3 766.
+?1 Điều kiện để phép trừ a − b thực hiện được trong tập hợp số tự nhiên là:
++ a ≥ b
+- a < b
+- a ≠ b
+- b = 0
+= Số bị trừ phải lớn hơn hoặc bằng số trừ.
+?2 Tính nhanh 46 + 17 + 54.
++ 117
+- 107
+- 127
+- 116
+= (46 + 54) + 17 = 100 + 17 = 117.
+?2 Tìm x biết x − 125 = 375.
++ 500
+- 250
+- 400
+- 450
+= x = 375 + 125 = 500.
+?2 Tìm x biết 940 − x = 285.
++ 655
+- 1 225
+- 645
+- 755
+= x = 940 − 285 = 655.
+?3 Tính nhanh 997 + 286.
++ 1 283
+- 1 273
+- 1 293
+- 1 183
+= 997 + 286 = 997 + 3 + 283 = 1 000 + 283 = 1 283.
+?3 Tính tổng 1 + 2 + 3 + … + 20.
++ 210
+- 200
+- 220
+- 190
+= (1 + 20) × 20 : 2 = 210.
+?3 Một cửa hàng ngày thứ nhất bán 1 250 kg gạo, ngày thứ hai bán ít hơn ngày thứ nhất 380 kg. Cả hai ngày bán được:
++ 2 120 kg
+- 1 630 kg
+- 870 kg
+- 2 500 kg
+= Ngày thứ hai: 1 250 − 380 = 870 kg; tổng: 1 250 + 870 = 2 120 kg.
+?4 Tính tổng các số lẻ từ 1 đến 99.
++ 2 500
+- 2 450
+- 5 000
+- 2 550
+= Có 50 số lẻ; tổng = (1 + 99) × 50 : 2 = 2 500.
+?4 Tìm x biết (x − 35) − 120 = 0.
++ 155
+- 85
+- 120
+- 165
+= x − 35 = 120 → x = 155.
+
+## Bài 5. Phép nhân và phép chia số tự nhiên
+?1 Tính 125 × 8.
++ 1 000
+- 800
+- 1 250
+- 980
+= 125 × 8 = 1 000.
+?1 Trong phép chia có dư a = b × q + r, số dư r thỏa mãn:
++ 0 < r < b
+- r > b
+- r = b
+- 0 < r ≤ b
+= Số dư luôn nhỏ hơn số chia; phép chia có dư thì r khác 0.
+?1 Tính 1 512 : 12.
++ 126
+- 136
+- 162
+- 116
+= 12 × 126 = 1 512.
+?1 Tích của một số với 0 bằng:
++ 0
+- chính số đó
+- 1
+- không xác định
+= a × 0 = 0 với mọi số tự nhiên a.
+?2 Tính nhanh 25 × 37 × 4.
++ 3 700
+- 3 600
+- 37 000
+- 925
+= (25 × 4) × 37 = 100 × 37 = 3 700.
+?2 Tính nhanh 47 × 36 + 47 × 64.
++ 4 700
+- 4 600
+- 3 700
+- 4 800
+= 47 × (36 + 64) = 47 × 100 = 4 700.
+?2 Chia 158 cho 7 được thương và số dư là:
++ thương 22, dư 4
+- thương 21, dư 11
+- thương 22, dư 3
+- thương 23, dư 0
+= 7 × 22 = 154, 158 − 154 = 4.
+?3 Tìm x biết 3 × x + 15 = 60.
++ 15
+- 25
+- 20
+- 45
+= 3x = 45 → x = 15.
+?3 Một số chia cho 9 được thương là 12 và dư 5. Số đó là:
++ 113
+- 108
+- 117
+- 103
+= 9 × 12 + 5 = 113.
+?3 Một trường có 540 học sinh xếp đều vào các hàng, mỗi hàng 36 em. Số hàng là:
++ 15
+- 14
+- 16
+- 18
+= 540 : 36 = 15.
+?4 Tính nhanh 99 × 99 + 99.
++ 9 900
+- 9 801
+- 9 999
+- 10 000
+= 99 × 99 + 99 × 1 = 99 × (99 + 1) = 9 900.
+?4 Một số tự nhiên chia 12 dư 7. Hỏi số đó chia cho 6 dư bao nhiêu?
++ 1
+- 7
+- 3
+- 0
+= a = 12k + 7 = 6(2k + 1) + 1 nên chia 6 dư 1.
+
+## Bài 6. Lũy thừa với số mũ tự nhiên
+?1 Viết gọn 5 × 5 × 5 × 5 dưới dạng lũy thừa:
++ 5⁴
+- 4⁵
+- 5 × 4
+- 5³
+= Tích 4 thừa số 5 bằng nhau viết là 5⁴.
+?1 Giá trị của 2⁵ là:
++ 32
+- 10
+- 25
+- 16
+= 2⁵ = 2 × 2 × 2 × 2 × 2 = 32.
+?1 Kết quả của a³ · a² (a ≠ 0) là:
++ a⁵
+- a⁶
+- a
+- 2a⁵
+= Nhân hai lũy thừa cùng cơ số: giữ cơ số, cộng số mũ.
+?1 Quy ước a⁰ (a ≠ 0) bằng:
++ 1
+- 0
+- a
+- không xác định
+= Theo quy ước a⁰ = 1 với a ≠ 0.
+?2 Kết quả của 7⁸ : 7⁵ là:
++ 7³
+- 7¹³
+- 1³
+- 7⁴⁰
+= Chia hai lũy thừa cùng cơ số: giữ cơ số, trừ số mũ.
+?2 Số 1 000 000 viết dưới dạng lũy thừa của 10 là:
++ 10⁶
+- 10⁵
+- 10⁷
+- 100³ · 10
+= 1 000 000 có 6 chữ số 0.
+?2 Số nào sau đây là số chính phương?
++ 81
+- 80
+- 27
+- 50
+= 81 = 9².
+?3 Tìm số tự nhiên n biết 2ⁿ = 64.
++ 6
+- 5
+- 8
+- 32
+= 2⁶ = 64.
+?3 So sánh 2³ và 3².
++ 2³ < 3²
+- 2³ > 3²
+- 2³ = 3²
+- Không so sánh được
+= 2³ = 8, 3² = 9.
+?3 Tính 3² · 3³ − 2⁴.
++ 227
+- 243
+- 211
+- 65
+= 3⁵ − 16 = 243 − 16 = 227.
+?4 Tìm x biết 3ˣ⁺¹ = 81.
++ 3
+- 4
+- 27
+- 2
+= 81 = 3⁴ nên x + 1 = 4 → x = 3.
+?4 So sánh 2³⁰⁰ và 3²⁰⁰.
++ 2³⁰⁰ < 3²⁰⁰
+- 2³⁰⁰ > 3²⁰⁰
+- 2³⁰⁰ = 3²⁰⁰
+- Không so sánh được
+= 2³⁰⁰ = (2³)¹⁰⁰ = 8¹⁰⁰; 3²⁰⁰ = (3²)¹⁰⁰ = 9¹⁰⁰; 8¹⁰⁰ < 9¹⁰⁰.
+
+## Bài 7. Thứ tự thực hiện các phép tính
+?1 Với biểu thức không có dấu ngoặc chỉ có phép cộng, trừ, nhân, chia, ta thực hiện:
++ nhân, chia trước; cộng, trừ sau
+- cộng, trừ trước; nhân, chia sau
+- từ phải sang trái
+- tùy ý
+= Nhân chia trước, cộng trừ sau.
+?1 Tính 20 − 4 × 3.
++ 8
+- 48
+- 12
+- 4
+= 4 × 3 = 12; 20 − 12 = 8.
+?1 Thứ tự thực hiện phép tính với biểu thức có dấu ngoặc là:
++ ( ) → [ ] → { }
+- { } → [ ] → ( )
+- [ ] → ( ) → { }
+- tùy ý
+= Làm trong ngoặc tròn trước, rồi ngoặc vuông, cuối cùng ngoặc nhọn.
+?1 Tính 2 × 3² .
++ 18
+- 36
+- 12
+- 11
+= Lũy thừa trước: 3² = 9; 2 × 9 = 18.
+?2 Tính 80 − (4 × 5² − 3 × 2³).
++ 4
+- 76
+- 36
+- 0
+= 4 × 25 − 3 × 8 = 100 − 24 = 76; 80 − 76 = 4.
+?2 Tính 36 : 4 × 3.
++ 27
+- 3
+- 12
+- 9
+= Nhân chia từ trái sang phải: 36 : 4 = 9; 9 × 3 = 27.
+?2 Tính 5 · 4² − 18 : 3².
++ 78
+- 72
+- 80
+- 6
+= 5 × 16 − 18 : 9 = 80 − 2 = 78.
+?3 Tìm x biết 2x − 138 = 2³ · 3².
++ 105
+- 69
+- 210
+- 141
+= 2x − 138 = 72 → 2x = 210 → x = 105.
+?3 Tính 100 : {250 : [450 − (4 · 5³ − 2² · 25)]}.
++ 20
+- 5
+- 50
+- 10
+= 4 · 125 − 4 · 25 = 400; 450 − 400 = 50; 250 : 50 = 5; 100 : 5 = 20.
+?3 Một bạn mua 3 quyển vở giá 12 000 đồng/quyển và 2 bút giá 5 000 đồng/chiếc, đưa 100 000 đồng. Số tiền được trả lại là:
++ 54 000 đồng
+- 46 000 đồng
+- 64 000 đồng
+- 44 000 đồng
+= 100 000 − (3 × 12 000 + 2 × 5 000) = 100 000 − 46 000 = 54 000.
+?4 Tìm x biết 5ˣ⁺¹ − 5 = 120.
++ 2
+- 3
+- 1
+- 25
+= 5ˣ⁺¹ = 125 = 5³ → x + 1 = 3 → x = 2.
+?4 Tìm x biết (3x − 2⁴) · 7³ = 2 · 7⁴.
++ 10
+- 6
+- 14
+- 30
+= 3x − 16 = 2 · 7 = 14 → 3x = 30 → x = 10.

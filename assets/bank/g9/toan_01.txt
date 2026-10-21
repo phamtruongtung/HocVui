@@ -1,0 +1,747 @@
+// Toán 9 – Kết nối tri thức với cuộc sống – Tập 1 (phần 1)
+#! HK1
+# Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn
+
+## Bài 1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn
+?1 Phương trình bậc nhất hai ẩn x, y có dạng:
++ ax + by = c, trong đó a và b không đồng thời bằng 0
+- ax² + by = c
+- ax + b = 0
+- axy = c
+= Định nghĩa.
+?1 Cặp số nào là nghiệm của phương trình 2x + y = 5?
++ (1; 3)
+- (2; 2)
+- (3; 0)
+- (0; 4)
+= 2·1 + 3 = 5.
+?1 Phương trình nào là phương trình bậc nhất hai ẩn?
++ 3x − 2y = 1
+- x² + y = 1
+- xy = 2
+- 0x + 0y = 3
+= a, b không đồng thời bằng 0 và các ẩn có bậc 1.
+?1 Phương trình bậc nhất hai ẩn có:
++ vô số nghiệm
+- đúng một nghiệm
+- đúng hai nghiệm
+- không có nghiệm nào
+= Tập nghiệm biểu diễn bởi một đường thẳng.
+?2 Tập nghiệm của phương trình x + y = 3 được biểu diễn bởi:
++ đường thẳng y = −x + 3
+- đường thẳng y = x + 3
+- đường thẳng y = 3
+- đường thẳng x = 3
+= Rút y theo x.
+?2 Cặp số nào là nghiệm của hệ x + y = 1 và x − y = 3?
++ (2; −1)
+- (1; 0)
+- (−1; 2)
+- (3; −2)
+= 2 + (−1) = 1 và 2 − (−1) = 3.
+?2 Tìm m để (1; 2) là nghiệm của phương trình mx + y = 5.
++ m = 3
+- m = 2
+- m = 5
+- m = 7
+= m + 2 = 5.
+?2 Nghiệm tổng quát của phương trình 0x + 2y = 4 là:
++ x tùy ý (x ∈ ℝ), y = 2
+- x = 2, y tùy ý
+- chỉ có (0; 2)
+- phương trình vô nghiệm
+= y = 2 với mọi x.
+?3 Hệ phương trình x + y = 2 và 2x + 2y = 4 có:
++ vô số nghiệm
+- đúng một nghiệm
+- vô nghiệm
+- hai nghiệm
+= Hai phương trình tương đương, hai đường thẳng trùng nhau.
+?3 Hệ phương trình x + y = 1 và x + y = 3 có:
++ vô nghiệm
+- vô số nghiệm
+- một nghiệm
+- hai nghiệm
+= Hai đường thẳng song song.
+?3 Đường thẳng biểu diễn tập nghiệm của phương trình 2x − y = 4 cắt trục Oy tại điểm:
++ (0; −4)
+- (0; 4)
+- (2; 0)
+- (0; 2)
+= Cho x = 0 được y = −4.
+?4 Tìm a, b để hệ ax + y = 3 và x + by = 4 có nghiệm (1; 1).
++ a = 2, b = 3
+- a = 3, b = 2
+- a = 1, b = 3
+- a = 2, b = 4
+= a + 1 = 3 và 1 + b = 4.
+
+## Bài 2. Giải hệ hai phương trình bậc nhất hai ẩn
+?1 Phương pháp thế giải hệ phương trình bằng cách:
++ rút một ẩn từ một phương trình rồi thế vào phương trình còn lại
+- cộng hai phương trình
+- nhân hai phương trình
+- vẽ đồ thị rồi đoán nghiệm
+= Quy tắc thế.
+?1 Mục đích của phương pháp cộng đại số là:
++ khử bớt một ẩn để được phương trình một ẩn
+- tăng số ẩn
+- đổi dấu hai phương trình
+- bình phương hai vế
+= Quy tắc cộng.
+?2 Nghiệm của hệ x + y = 5 và x − y = 1 là:
++ (3; 2)
+- (2; 3)
+- (4; 1)
+- (1; 4)
+= Cộng hai phương trình: 2x = 6.
+?2 Nghiệm của hệ 2x + y = 7 và x − y = 2 là:
++ (3; 1)
+- (1; 3)
+- (2; 3)
+- (4; −1)
+= Cộng: 3x = 9, x = 3, y = 1.
+?2 Nghiệm của hệ x = 2y và x + y = 9 là:
++ (6; 3)
+- (3; 6)
+- (4; 5)
+- (2; 1)
+= Thế: 3y = 9.
+?2 Nghiệm của hệ 3x + 2y = 8 và 3x − 2y = 4 là:
++ (2; 1)
+- (1; 2)
+- (2; −1)
+- (4; −2)
+= Cộng: 6x = 12.
+?3 Nghiệm của hệ 2x + 3y = 12 và 3x − y = 7 là:
++ (3; 2)
+- (2; 3)
+- (3; −2)
+- (6; 0)
+= y = 3x − 7, thế vào: 11x = 33.
+?3 Nghiệm của hệ x/2 + y/3 = 3 và x − y = 1 là:
++ (4; 3)
+- (3; 4)
+- (6; 0)
+- (2; 1)
+= Quy đồng: 3x + 2y = 18, x = y + 1 nên 5y = 15.
+?3 Nghiệm của hệ x + 2y = 8 và 2x − y = 1 là:
++ (2; 3)
+- (3; 2)
+- (4; 2)
+- (1; 1)
+= x = 8 − 2y, thế vào: 16 − 5y = 1, y = 3.
+?3 Hệ 2x − y = 1 và 4x − 2y = 3 có:
++ vô nghiệm
+- một nghiệm
+- vô số nghiệm
+- hai nghiệm
+= Nhân phương trình đầu với 2: 4x − 2y = 2 ≠ 3.
+?4 Tìm m để hệ x + y = 3 và mx + y = 1 vô nghiệm.
++ m = 1
+- m = 3
+- m = 0
+- m = −1
+= Với m = 1 hai đường thẳng song song (3 ≠ 1).
+?4 Đường thẳng y = ax + b đi qua A(1; 3) và B(2; 5). Khi đó:
++ a = 2, b = 1
+- a = 1, b = 2
+- a = 3, b = 0
+- a = 2, b = 3
+= a + b = 3 và 2a + b = 5.
+
+## Bài 3. Giải bài toán bằng cách lập hệ phương trình
+?1 Bước đầu tiên khi giải bài toán bằng cách lập hệ phương trình là:
++ chọn ẩn và đặt điều kiện cho ẩn
+- giải hệ phương trình
+- kết luận
+- vẽ hình
+= Các bước giải.
+?1 Tổng hai số là 20, hiệu của chúng là 4. Số lớn là:
++ 12
+- 8
+- 10
+- 16
+= x + y = 20, x − y = 4.
+?2 Vừa gà vừa chó có 36 con, tổng cộng 100 chân. Số chó là:
++ 14
+- 22
+- 18
+- 16
+= x + y = 36, 2x + 4y = 100.
+?2 Mua 2 bút và 3 vở hết 26 000 đồng; mua 1 bút và 2 vở hết 16 000 đồng. Giá một quyển vở là:
++ 6 000 đồng
+- 4 000 đồng
+- 5 000 đồng
+- 8 000 đồng
+= Bút 4 000 đồng, vở 6 000 đồng.
+?2 Một hình chữ nhật có chu vi 30 cm, chiều dài hơn chiều rộng 3 cm. Chiều dài là:
++ 9 cm
+- 6 cm
+- 12 cm
+- 15 cm
+= x + y = 15, x − y = 3.
+?3 Hai số có tổng là 50; hai lần số thứ nhất hơn số thứ hai 10. Số thứ hai là:
++ 30
+- 20
+- 40
+- 25
+= x + y = 50, 2x − y = 10 nên x = 20.
+?3 Hai xe khởi hành cùng lúc từ A và B cách nhau 180 km, đi ngược chiều và gặp nhau sau 2 giờ. Ô tô đi nhanh hơn xe máy 10 km/h. Vận tốc xe máy là:
++ 40 km/h
+- 50 km/h
+- 45 km/h
+- 90 km/h
+= x + y = 90, x − y = 10.
+?3 Một số có hai chữ số, tổng các chữ số bằng 9. Đổi chỗ hai chữ số thì được số mới lớn hơn số cũ 27 đơn vị. Số đó là:
++ 36
+- 63
+- 45
+- 27
+= a + b = 9 và 9(b − a) = 27.
+?3 Lớp 9A và 9B có 80 học sinh. Mỗi bạn 9A góp 2 quyển sách, mỗi bạn 9B góp 3 quyển, tổng cộng 198 quyển. Số học sinh lớp 9A là:
++ 42
+- 38
+- 40
+- 44
+= a + b = 80, 2a + 3b = 198 nên b = 38.
+?3 Một ca nô xuôi dòng với vận tốc 25 km/h, ngược dòng với vận tốc 15 km/h. Vận tốc dòng nước là:
++ 5 km/h
+- 10 km/h
+- 20 km/h
+- 15 km/h
+= (25 − 15) : 2.
+?3 Vé người lớn 50 000 đồng, vé trẻ em 30 000 đồng. Bán 100 vé thu được 3 800 000 đồng. Số vé trẻ em là:
++ 60
+- 40
+- 50
+- 70
+= a + c = 100, 50a + 30c = 3 800 nên a = 40.
+?4 Hai vòi nước cùng chảy thì đầy bể sau 4 giờ. Nếu vòi I chảy 3 giờ và vòi II chảy 6 giờ thì cũng đầy bể. Vòi I chảy một mình thì đầy bể sau:
++ 6 giờ
+- 12 giờ
+- 4 giờ
+- 8 giờ
+= 4x + 4y = 1 và 3x + 6y = 1 cho y = 1/12, x = 1/6.
+
+# Chương II. Phương trình và bất phương trình bậc nhất một ẩn
+
+## Bài 4. Phương trình quy về phương trình bậc nhất một ẩn
+?1 Phương trình (x − 2)(x + 3) = 0 có nghiệm là:
++ x = 2 và x = −3
+- x = −2 và x = 3
+- chỉ x = 2
+- chỉ x = −3
+= Cho từng thừa số bằng 0.
+?1 Điều kiện xác định của phương trình 1/(x − 1) + 2 = 3/x là:
++ x ≠ 1 và x ≠ 0
+- x ≠ 1
+- x ≠ 0
+- x ≠ −1 và x ≠ 0
+= Các mẫu khác 0.
+?1 Phương trình tích A(x)·B(x) = 0 tương đương với:
++ A(x) = 0 hoặc B(x) = 0
+- A(x) = 0 và B(x) = 0
+- A(x) = B(x)
+- A(x) + B(x) = 0
+= Tích bằng 0 khi một thừa số bằng 0.
+?2 Nghiệm của phương trình (2x − 4)(x + 1) = 0 là:
++ x = 2; x = −1
+- x = 4; x = 1
+- x = −2; x = 1
+- x = 2; x = 1
+= 2x − 4 = 0 hoặc x + 1 = 0.
+?2 Nghiệm của phương trình x² − 3x = 0 là:
++ x = 0; x = 3
+- chỉ x = 3
+- chỉ x = 0
+- x = 0; x = −3
+= x(x − 3) = 0.
+?2 Nghiệm của phương trình x² − 4 = 0 là:
++ x = 2; x = −2
+- chỉ x = 2
+- x = 4; x = −4
+- chỉ x = −2
+= (x − 2)(x + 2) = 0.
+?3 Nghiệm của phương trình (x + 1)/(x − 2) = 2 là:
++ x = 5
+- x = 3
+- x = −5
+- x = 2
+= x + 1 = 2x − 4, thỏa điều kiện x ≠ 2.
+?3 Nghiệm của phương trình 2/(x − 1) = 1/(x + 1) là:
++ x = −3
+- x = 3
+- x = −1
+- x = 1
+= 2x + 2 = x − 1, thỏa điều kiện x ≠ ±1.
+?3 Phương trình x/(x − 3) = 3/(x − 3):
++ vô nghiệm
+- có nghiệm x = 3
+- có nghiệm x = 0
+- có vô số nghiệm
+= Được x = 3 nhưng không thỏa điều kiện x ≠ 3.
+?3 Tập nghiệm của phương trình x³ − x = 0 là:
++ {−1; 0; 1}
+- {0; 1}
+- {1}
+- {−1; 1}
+= x(x − 1)(x + 1) = 0.
+?4 Phương trình (x + 3)/(x + 1) + (x − 2)/x = 2:
++ vô nghiệm
+- có nghiệm x = 1
+- có nghiệm x = −2
+- có vô số nghiệm
+= Khử mẫu được 2x² + 2x − 2 = 2x² + 2x, tức −2 = 0.
+?4 Nghiệm của phương trình (2x − 1)² − (x + 2)² = 0 là:
++ x = 3; x = −1/3
+- x = 3; x = 1/3
+- x = −3; x = 1/3
+- x = 1; x = −1
+= (x − 3)(3x + 1) = 0.
+
+## Bài 5. Bất đẳng thức và tính chất
+?1 "a lớn hơn hoặc bằng b" được viết là:
++ a ≥ b
+- a > b
+- a ≤ b
+- a < b
+= Kí hiệu.
+?1 Nếu a > b thì với mọi số c:
++ a + c > b + c
+- a + c < b + c
+- a + c = b + c
+- a + c ≤ b + c
+= Cộng hai vế với cùng một số.
+?1 Nếu a > b và c < 0 thì:
++ ac < bc
+- ac > bc
+- ac = bc
+- ac ≥ bc
+= Nhân với số âm thì đổi chiều.
+?2 Cho a > b. Khẳng định nào đúng?
++ −2a < −2b
+- −2a > −2b
+- a − 3 < b − 3
+- 2a < 2b
+= Nhân hai vế với −2 thì đổi chiều.
+?2 Nếu a > b và b > c thì:
++ a > c
+- a < c
+- a = c
+- không so sánh được a và c
+= Tính chất bắc cầu.
+?2 Cho a < b. So sánh 3a + 1 và 3b + 1.
++ 3a + 1 < 3b + 1
+- 3a + 1 > 3b + 1
+- 3a + 1 = 3b + 1
+- không so sánh được
+= Nhân với 3 rồi cộng 1.
+?3 Cho a > b. So sánh 5 − 2a và 5 − 2b.
++ 5 − 2a < 5 − 2b
+- 5 − 2a > 5 − 2b
+- 5 − 2a = 5 − 2b
+- không so sánh được
+= −2a < −2b, cộng 5 vào hai vế.
+?3 Bất đẳng thức nào đúng với mọi số thực a?
++ a² + 1 > 0
+- a² > 0
+- −a² > 0
+- a > −a
+= a² ≥ 0 nên a² + 1 ≥ 1.
+?3 Cho x ≥ 3. Giá trị nhỏ nhất của 2x − 1 là:
++ 5
+- 3
+- 6
+- 2
+= Đạt khi x = 3.
+?3 Với mọi a, b ta có a² + b² ≥ 2ab vì:
++ (a − b)² ≥ 0
+- (a + b)² ≤ 0
+- a² ≥ b²
+- ab ≥ 0
+= Khai triển (a − b)².
+?4 Cho a + b = 2. Giá trị lớn nhất của ab là:
++ 1
+- 2
+- 4
+- 1/2
+= ab ≤ (a + b)²/4 = 1, dấu bằng khi a = b = 1.
+?4 Giá trị nhỏ nhất của biểu thức x² − 4x + 7 là:
++ 3
+- 7
+- 4
+- −4
+= x² − 4x + 7 = (x − 2)² + 3.
+
+## Bài 6. Bất phương trình bậc nhất một ẩn
+?1 Bất phương trình nào là bất phương trình bậc nhất một ẩn?
++ 2x − 3 > 0
+- x² + 1 > 0
+- 0x + 2 < 0
+- 1/x > 2
+= Dạng ax + b > 0 với a ≠ 0.
+?1 x = 3 là nghiệm của bất phương trình nào?
++ 2x − 1 > 4
+- x + 2 < 4
+- 3x < 6
+- −x > 0
+= 2·3 − 1 = 5 > 4.
+?1 Nghiệm của bất phương trình x − 5 > 0 là:
++ x > 5
+- x < 5
+- x > −5
+- x ≥ 5
+= Chuyển vế.
+?2 Nghiệm của bất phương trình 3x < 12 là:
++ x < 4
+- x > 4
+- x < 9
+- x < 36
+= Chia hai vế cho 3.
+?2 Nghiệm của bất phương trình −2x ≥ 6 là:
++ x ≤ −3
+- x ≥ −3
+- x ≤ 3
+- x ≥ 3
+= Chia cho −2 thì đổi chiều.
+?2 Nghiệm của bất phương trình 2x + 3 ≤ 7 là:
++ x ≤ 2
+- x ≥ 2
+- x ≤ 5
+- x ≤ 4
+= 2x ≤ 4.
+?3 Nghiệm của bất phương trình 3(x − 1) > x + 5 là:
++ x > 4
+- x < 4
+- x > 2
+- x > 8
+= 3x − 3 > x + 5 nên 2x > 8.
+?3 Số nguyên lớn nhất thỏa mãn 5 − 2x > 0 là:
++ 2
+- 3
+- 1
+- −2
+= x < 2,5.
+?3 Nghiệm của bất phương trình (x − 1)/2 ≥ (x + 1)/3 là:
++ x ≥ 5
+- x ≤ 5
+- x ≥ 1
+- x ≥ −5
+= 3x − 3 ≥ 2x + 2.
+?3 An có 100 000 đồng, mua một hộp bút giá 25 000 đồng, số tiền còn lại mua vở giá 8 000 đồng/quyển. An mua được nhiều nhất bao nhiêu quyển vở?
++ 9
+- 10
+- 12
+- 8
+= 8 000x ≤ 75 000 nên x ≤ 9,375.
+?4 Tìm m để (m − 2)x > 3 là bất phương trình bậc nhất một ẩn.
++ m ≠ 2
+- m = 2
+- m > 2
+- m < 2
+= Hệ số của x khác 0.
+?4 Một hãng taxi tính 12 000 đồng cho km đầu tiên và 10 000 đồng cho mỗi km tiếp theo. Với 100 000 đồng, khách đi được nhiều nhất bao nhiêu km (số nguyên)?
++ 9 km
+- 10 km
+- 8 km
+- 12 km
+= 12 000 + 10 000(x − 1) ≤ 100 000 nên x ≤ 9,8.
+
+# Chương III. Căn bậc hai và căn bậc ba
+
+## Bài 7. Căn bậc hai và căn thức bậc hai
+?1 Căn bậc hai số học của 49 là:
++ 7
+- −7
+- 7 và −7
+- 24,5
+= √49 = 7.
+?1 Các căn bậc hai của 16 là:
++ 4 và −4
+- 4
+- −4
+- 8 và −8
+= Số dương có hai căn bậc hai đối nhau.
+?1 √x xác định khi:
++ x ≥ 0
+- x > 0
+- x ≤ 0
+- với mọi x
+= Biểu thức dưới dấu căn không âm.
+?2 √(x − 3) xác định khi:
++ x ≥ 3
+- x > 3
+- x ≤ 3
+- x ≥ −3
+= x − 3 ≥ 0.
+?2 √((−5)²) bằng:
++ 5
+- −5
+- 25
+- ±5
+= √(A²) = |A|.
+?2 So sánh √15 và 4.
++ √15 < 4
+- √15 > 4
+- √15 = 4
+- không so sánh được
+= 4 = √16 > √15.
+?3 √((2 − √5)²) bằng:
++ √5 − 2
+- 2 − √5
+- 2 + √5
+- −2 − √5
+= Vì √5 > 2 nên |2 − √5| = √5 − 2.
+?3 √(1/(x − 2)) xác định khi:
++ x > 2
+- x ≥ 2
+- x ≠ 2
+- x < 2
+= 1/(x − 2) ≥ 0 và x ≠ 2.
+?3 Nếu √x = 3 thì x bằng:
++ 9
+- 3
+- √3
+- 6
+= Bình phương hai vế.
+?3 Với a < 0, √(4a²) bằng:
++ −2a
+- 2a
+- 4a
+- −4a
+= √(4a²) = 2|a| = −2a.
+?4 Với x < 1, biểu thức √((x − 1)²) + x bằng:
++ 1
+- 2x − 1
+- −1
+- x + 1
+= |x − 1| = 1 − x.
+?4 Tìm x biết √(x² − 6x + 9) = 4.
++ x = 7 hoặc x = −1
+- x = 7
+- x = −1
+- x = 1 hoặc x = −7
+= |x − 3| = 4.
+
+## Bài 8. Khai căn bậc hai với phép nhân và phép chia
+?1 Với a ≥ 0 và b ≥ 0 thì √a·√b bằng:
++ √(ab)
+- √(a + b)
+- ab
+- √a + √b
+= Quy tắc nhân.
+?1 √(9·25) bằng:
++ 15
+- 34
+- 225
+- 8
+= 3·5.
+?1 Với a ≥ 0 và b > 0 thì √(a/b) bằng:
++ √a/√b
+- a/b
+- √a − √b
+- √(a − b)
+= Quy tắc chia.
+?2 √2·√8 bằng:
++ 4
+- 16
+- √10
+- 2√2
+= √16.
+?2 √50/√2 bằng:
++ 5
+- 25
+- √48
+- 10
+= √25.
+?2 √(0,09·64) bằng:
++ 2,4
+- 0,24
+- 24
+- 5,76
+= 0,3·8.
+?3 √12·√3 bằng:
++ 6
+- 36
+- √15
+- 9
+= √36.
+?3 √(49/81) bằng:
++ 7/9
+- 49/81
+- 9/7
+- 7/81
+= √49/√81.
+?3 Với a ≥ 0, √(2a)·√(8a) bằng:
++ 4a
+- 16a
+- 4a²
+- 2a
+= √(16a²) = 4a.
+?3 Với x < 0, √(x²y⁴) bằng:
++ −xy²
+- xy²
+- xy
+- −xy
+= |x|·y².
+?4 √1,6·√250 bằng:
++ 20
+- 40
+- 400
+- 4
+= √400.
+?4 (√12 + √27)/√3 bằng:
++ 5
+- √13
+- 13
+- 3
+= √4 + √9.
+
+## Bài 9. Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai
+?1 Đưa thừa số ra ngoài dấu căn: √12 bằng:
++ 2√3
+- 3√2
+- 4√3
+- 6√2
+= √(4·3).
+?1 Với b ≥ 0, √(a²b) bằng:
++ |a|√b
+- a√b
+- a²√b
+- −a√b
+= Đưa thừa số ra ngoài dấu căn.
+?1 Trục căn thức ở mẫu: 1/√2 bằng:
++ √2/2
+- 2/√2
+- √2
+- 1/2
+= Nhân cả tử và mẫu với √2.
+?2 √18 + √8 bằng:
++ 5√2
+- √26
+- 6√2
+- 13√2
+= 3√2 + 2√2.
+?2 Đưa thừa số vào trong dấu căn: 3√5 bằng:
++ √45
+- √15
+- √75
+- √8
+= √(9·5).
+?2 √75 − √27 bằng:
++ 2√3
+- √48
+- 8√3
+- 4√3
+= 5√3 − 3√3.
+?3 Trục căn thức ở mẫu: 1/(√3 − 1) bằng:
++ (√3 + 1)/2
+- (√3 − 1)/2
+- √3 + 1
+- (√3 + 1)/4
+= Nhân với biểu thức liên hợp √3 + 1.
+?3 So sánh 3√2 và 2√3.
++ 3√2 > 2√3
+- 3√2 < 2√3
+- 3√2 = 2√3
+- không so sánh được
+= 3√2 = √18 và 2√3 = √12.
+?3 Rút gọn 2√20 − √45 + √5.
++ 2√5
+- 3√5
+- √5
+- 4√5
+= 4√5 − 3√5 + √5.
+?3 Với a, b ≥ 0, (√a + √b)(√a − √b) bằng:
++ a − b
+- a + b
+- a² − b²
+- √a − √b
+= Hằng đẳng thức hiệu hai bình phương.
+?4 1/(√5 + 2) + 1/(√5 − 2) bằng:
++ 2√5
+- 4
+- √5
+- 2
+= Quy đồng: (√5 − 2 + √5 + 2)/(5 − 4).
+?4 Với x ≥ 0, x ≠ 1, rút gọn (x − 1)/(√x − 1).
++ √x + 1
+- √x − 1
+- x + 1
+- 1
+= x − 1 = (√x − 1)(√x + 1).
+
+## Bài 10. Căn bậc ba và căn thức bậc ba
+?1 ∛8 bằng:
++ 2
+- 4
+- −2
+- 2√2
+= 2³ = 8.
+?1 ∛(−27) bằng:
++ −3
+- 3
+- −9
+- không xác định
+= (−3)³ = −27.
+?1 Căn bậc ba của một số xác định với:
++ mọi số thực
+- số không âm
+- số dương
+- số khác 0
+= Số âm cũng có căn bậc ba.
+?2 ∛(a³) bằng:
++ a
+- |a|
+- a³
+- −a
+= Định nghĩa căn bậc ba.
+?2 ∛64 − ∛(−1) bằng:
++ 5
+- 3
+- 4
+- 9
+= 4 − (−1).
+?2 So sánh 2 và ∛7.
++ 2 > ∛7
+- 2 < ∛7
+- 2 = ∛7
+- không so sánh được
+= 2 = ∛8 > ∛7.
+?3 Nếu ∛x = −2 thì x bằng:
++ −8
+- 8
+- −6
+- 4
+= Lập phương hai vế.
+?3 ∛54 : ∛2 bằng:
++ 3
+- 27
+- 9
+- ∛52
+= ∛27.
+?3 Một khối lập phương có thể tích 125 cm³. Cạnh của khối lập phương là:
++ 5 cm
+- 25 cm
+- 15 cm
+- 12,5 cm
+= ∛125.
+?3 Nếu ∛(x − 1) = 3 thì x bằng:
++ 28
+- 10
+- 27
+- 26
+= x − 1 = 27.
+?4 Rút gọn ∛(8x³) − ∛(−x³).
++ 3x
+- x
+- −x
+- 2x
+= 2x − (−x).
+?4 Nghiệm của phương trình ∛(2x + 1) = −3 là:
++ x = −14
+- x = −13
+- x = 13
+- x = 14
+= 2x + 1 = −27.

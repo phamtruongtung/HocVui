@@ -1,0 +1,671 @@
+// Toán 8 – Kết nối tri thức với cuộc sống – Tập 1
+#! HK1
+# Chương I. Đa thức
+
+## Bài 1. Đơn thức
+?1 Biểu thức nào là đơn thức?
++ −3x²y
+- x + y
+- 2x − 1
+- x/y + 1
+= Đơn thức chỉ gồm một số, một biến hoặc tích các số và biến.
+?1 Bậc của đơn thức 5x³y² là:
++ 5
+- 3
+- 2
+- 6
+= Tổng số mũ của các biến: 3 + 2.
+?1 Hệ số của đơn thức −7xy³ là:
++ −7
+- 7
+- 3
+- 1
+= Phần số của đơn thức thu gọn.
+?1 Hai đơn thức đồng dạng là hai đơn thức:
++ có hệ số khác 0 và cùng phần biến
+- có cùng hệ số
+- có cùng bậc
+- có cùng số biến
+= Ví dụ 2x²y và −5x²y.
+?2 Thu gọn 2x²y · 3xy³.
++ 6x³y⁴
+- 5x³y⁴
+- 6x²y³
+- 6x³y³
+= Nhân hệ số, cộng số mũ cùng biến.
+?2 Tính 3x²y + 5x²y − x²y.
++ 7x²y
+- 9x²y
+- 8x²y
+- 7x⁶y³
+= (3 + 5 − 1)x²y.
+?2 Đơn thức nào đồng dạng với −4xy²?
++ 3xy²
+- −4x²y
+- 4xy
+- xy²z
+= Cùng phần biến xy².
+?3 Giá trị của đơn thức −2x²y tại x = −1, y = 3 là:
++ −6
+- 6
+- −18
+- 12
+= −2 · 1 · 3 = −6.
+?3 Thu gọn (−1/2 x²y)(4xy²)(−x).
++ 2x⁴y³
+- −2x⁴y³
+- 2x³y³
+- −2x³y³
+= (−1/2)(4)(−1) = 2; x²·x·x = x⁴; y·y² = y³.
+?3 Tổng các đơn thức 2xy², −5xy², 7xy² bằng:
++ 4xy²
+- 14xy²
+- 0
+- 4x³y⁶
+= (2 − 5 + 7)xy².
+?4 Tìm a để đơn thức axy³ + 2xy³ có hệ số bằng −1.
++ a = −3
+- a = 3
+- a = −1
+- a = 1
+= a + 2 = −1.
+?4 Bậc của đơn thức (2x²y)³ là:
++ 9
+- 6
+- 3
+- 5
+= 8x⁶y³ có bậc 9.
+
+## Bài 2. Đa thức
+?1 Đa thức là:
++ tổng của những đơn thức
+- tích của các đơn thức
+- một đơn thức duy nhất
+- thương hai đơn thức
+= Mỗi đơn thức là một hạng tử.
+?1 Bậc của đa thức x³y − 2xy + 5 là:
++ 4
+- 3
+- 2
+- 1
+= Hạng tử bậc cao nhất x³y có bậc 4.
+?1 Đa thức 3x²y − x + 1 có bao nhiêu hạng tử?
++ 3
+- 2
+- 4
+- 1
+= Ba hạng tử.
+?1 Thu gọn đa thức x² + 2x − x² + 3 được:
++ 2x + 3
+- 2x² + 2x + 3
+- 2x
+- 3
+= x² − x² = 0.
+?2 Thu gọn A = 2x²y − 3xy + x²y + 5xy.
++ 3x²y + 2xy
+- 3x²y − 8xy
+- x²y + 2xy
+- 3x²y + 8xy
+= Cộng các hạng tử đồng dạng.
+?2 Giá trị đa thức x² − 2xy + y² tại x = 3, y = 1 là:
++ 4
+- 16
+- 2
+- 10
+= 9 − 6 + 1.
+?2 Bậc của đa thức thu gọn của x⁴ + 2x²y − x⁴ + y² là:
++ 3
+- 4
+- 2
+- 6
+= Sau thu gọn: 2x²y + y², bậc 3.
+?3 Giá trị của đa thức P = x²y + xy² tại x = 2, y = −1 là:
++ −2
+- 2
+- 6
+- −6
+= 4·(−1) + 2·1 = −4 + 2.
+?3 Đa thức nào có bậc 3?
++ x²y + xy − 1
+- x²y² + 1
+- 2x + 3y
+- x⁴ − 1
+= x²y có bậc 3.
+?3 Cho P = x² + ax + 1. Biết P = 7 khi x = 2. Giá trị của a là:
++ 1
+- 2
+- 3
+- −1
+= 4 + 2a + 1 = 7.
+?4 Giá trị nhỏ nhất của đa thức x² + y² − 4x + 2y + 10 là:
++ 5
+- 10
+- 0
+- 1
+= (x − 2)² + (y + 1)² + 5 ≥ 5.
+?4 Cho x + y = 3. Giá trị của 2x + 2y − 1 là:
++ 5
+- 6
+- 7
+- 3
+= 2(x + y) − 1.
+
+## Bài 3. Phép cộng và phép trừ đa thức
+?1 Tính (x² + 2xy) + (3x² − xy).
++ 4x² + xy
+- 4x² + 3xy
+- 2x² + xy
+- 4x² − xy
+= Cộng các hạng tử đồng dạng.
+?1 Tính (5x − 3y) − (2x − y).
++ 3x − 2y
+- 3x − 4y
+- 7x − 4y
+- 3x + 2y
+= 5x − 3y − 2x + y.
+?1 Khi bỏ dấu ngoặc có dấu "−" đằng trước, ta:
++ đổi dấu tất cả các hạng tử trong ngoặc
+- giữ nguyên dấu
+- chỉ đổi dấu hạng tử đầu
+- bỏ ngoặc tùy ý
+= Quy tắc dấu ngoặc.
+?1 Tổng của hai đa thức đối nhau bằng:
++ 0
+- 1
+- đa thức gấp đôi
+- không xác định
+= Hai đa thức đối.
+?2 Cho A = x²y − 2xy, B = 3x²y + xy. A + B bằng:
++ 4x²y − xy
+- 4x²y + xy
+- 2x²y − 3xy
+- 4x²y − 3xy
+= Cộng hạng tử.
+?2 Với A, B như trên, A − B bằng:
++ −2x²y − 3xy
+- 2x²y + 3xy
+- −2x²y + xy
+- 4x²y − xy
+= x²y − 3x²y − 2xy − xy.
+?2 Tìm đa thức M biết M − (x² − 2y) = 3x² + y.
++ 4x² − y
+- 2x² + 3y
+- 4x² + 3y
+- 2x² − y
+= M = 3x² + y + x² − 2y.
+?3 Tính giá trị của (x² + 2x) − (x² − x + 1) tại x = 2.
++ 5
+- 7
+- 3
+- 9
+= Thu gọn: 3x − 1 = 5.
+?3 Cho P = 2x² − xy + y², Q = x² + 2xy − y². P − 2Q bằng:
++ −5xy + 3y²
+- 4x² − 5xy + 3y²
+- −5xy − y²
+- 3xy + 3y²
+= 2x² − 2x² − xy − 4xy + y² + 2y².
+?3 Tổng các hệ số của đa thức (x² − 3x + 2) + (2x² + x − 5) là:
++ −2
+- 3
+- 0
+- −3
+= Thu gọn: 3x² − 2x − 3; tổng các hệ số 3 − 2 − 3 = −2.
+?4 Chứng tỏ giá trị của (x + y) − (x − y) + (−2y + 5) không phụ thuộc vào biến. Giá trị đó là:
++ 5
+- 0
+- 2y
+- 2x
+= x + y − x + y − 2y + 5 = 5.
+?4 Tìm đa thức A biết A + (x² − y²) = (x − y) + (x² + y²).
++ x − y + 2y²
+- x − y
+- 2x² + x − y
+- x − y − 2y²
+= A = x − y + x² + y² − x² + y².
+
+## Bài 4. Phép nhân đa thức
+?1 Tính 2x(3x − 1).
++ 6x² − 2x
+- 6x² − 1
+- 5x² − 2x
+- 6x − 2
+= Nhân đơn thức với đa thức.
+?1 Tính (x + 3)(x − 2).
++ x² + x − 6
+- x² − x − 6
+- x² + 5x − 6
+- x² − 6
+= x² − 2x + 3x − 6.
+?1 Tính −xy(x − y).
++ −x²y + xy²
+- −x²y − xy²
+- x²y − xy²
+- −x²y + y²
+= Phân phối.
+?1 Tính (a + b)(a − b).
++ a² − b²
+- a² + b²
+- a² − 2ab + b²
+- 2a
+= Hiệu hai bình phương.
+?2 Tính (2x − 1)(x + 3).
++ 2x² + 5x − 3
+- 2x² + 7x − 3
+- 2x² − 5x − 3
+- 2x² + 5x + 3
+= 2x² + 6x − x − 3.
+?2 Tính (x − y)(x² + xy + y²).
++ x³ − y³
+- x³ + y³
+- x³ − 2xy + y³
+- x³ − xy − y³
+= Hằng đẳng thức hiệu hai lập phương.
+?2 Tìm x biết x(x + 2) − x² = 6.
++ 3
+- −3
+- 2
+- 6
+= 2x = 6.
+?3 Rút gọn (x + 1)(x − 1) − (x − 2)(x + 3).
++ −x + 5
+- −x − 7
+- 2x² − x + 5
+- x + 5
+= x² − 1 − (x² + x − 6) = −x + 5.
+?3 Tính (x + 2)(x² − 2x + 4).
++ x³ + 8
+- x³ − 8
+- x³ + 4x + 8
+- x³ + 2x² + 8
+= Tổng hai lập phương.
+?3 Tìm x biết (x + 3)(x − 1) − x(x + 1) = 5.
++ 8
+- −8
+- 4
+- 2
+= x² + 2x − 3 − x² − x = x − 3 = 5.
+?4 Hệ số của x² trong khai triển (x + 2)(x² − 3x + 1) là:
++ −1
+- −3
+- 2
+- 5
+= x³ − 3x² + x + 2x² − 6x + 2 = x³ − x² − 5x + 2.
+?4 Chứng minh (n + 1)(n + 2) − n(n + 3) với mọi số nguyên n luôn bằng:
++ 2
+- 0
+- n
+- 3
+= n² + 3n + 2 − n² − 3n = 2.
+
+## Bài 5. Phép chia đa thức cho đơn thức
+?1 Tính 12x⁴y² : 3x²y.
++ 4x²y
+- 4x²y²
+- 9x²y
+- 4x⁶y³
+= Chia hệ số, trừ số mũ.
+?1 Đơn thức A chia hết cho đơn thức B khi:
++ mỗi biến của B đều là biến của A với số mũ không lớn hơn
+- A và B cùng bậc
+- A có bậc nhỏ hơn B
+- A và B có cùng hệ số
+= Điều kiện chia hết.
+?1 Tính (6x³ − 4x²) : 2x².
++ 3x − 2
+- 3x² − 2
+- 3x − 2x
+- 6x − 4
+= Chia từng hạng tử.
+?1 Đơn thức nào chia hết cho 2xy²?
++ 6x²y³
+- 4x²y
+- 3xy
+- x³
+= Số mũ của y phải ≥ 2.
+?2 Tính (15x³y² − 6x²y + 3xy) : 3xy.
++ 5x²y − 2x + 1
+- 5x²y − 2xy + 1
+- 5x²y − 2x
+- 5xy − 2x + 1
+= Chia từng hạng tử cho 3xy.
+?2 Tính (−8x⁵y³) : (−2x²y).
++ 4x³y²
+- −4x³y²
+- 4x³y³
+- 6x³y²
+= Thương hai số âm dương.
+?2 Đa thức 4x³ − 2x² + x chia cho x được:
++ 4x² − 2x + 1
+- 4x² − 2x
+- 4x³ − 2x + 1
+- 4x − 2
+= Chia từng hạng tử.
+?3 Tìm n ∈ ℕ để 3x⁴y³ chia hết cho xⁿy².
++ n ≤ 4
+- n ≥ 4
+- n = 5
+- n ≤ 3 duy nhất
+= Số mũ x của số chia ≤ 4.
+?3 Giá trị của (6x²y − 9xy²) : 3xy tại x = 2, y = 1 là:
++ 1
+- 7
+- −1
+- 3
+= 2x − 3y = 4 − 3.
+?3 Tính [(x + y)³ − (x + y)²] : (x + y) với x + y ≠ 0.
++ (x + y)² − (x + y)
+- (x + y)² − 1
+- (x + y) − 1
+- (x + y)³
+= Đặt t = x + y.
+?4 Tìm đa thức A biết A · 2x²y = 6x⁴y² − 4x³y.
++ 3x²y − 2x
+- 3x²y − 2xy
+- 3x² − 2x
+- 4x²y − 2x
+= A = (6x⁴y² − 4x³y) : 2x²y.
+?4 Cho (ax³ − 6x²) : 3x² = 2x − 2. Giá trị của a là:
++ 6
+- 2
+- 3
+- −6
+= ax/3 − 2 = 2x − 2 → a/3 = 2.
+
+# Chương II. Hằng đẳng thức đáng nhớ và ứng dụng
+
+## Bài 6. Hiệu hai bình phương. Bình phương của một tổng hay một hiệu
+?1 (a + b)² bằng:
++ a² + 2ab + b²
+- a² + b²
+- a² − 2ab + b²
+- 2a + 2b
+= Bình phương của một tổng.
+?1 (a − b)² bằng:
++ a² − 2ab + b²
+- a² − b²
+- a² + 2ab + b²
+- a² + b²
+= Bình phương của một hiệu.
+?1 a² − b² bằng:
++ (a − b)(a + b)
+- (a − b)²
+- (a + b)²
+- (a − b)(a − b)
+= Hiệu hai bình phương.
+?1 Khai triển (x + 3)².
++ x² + 6x + 9
+- x² + 9
+- x² + 3x + 9
+- x² + 6x + 6
+= 2 · x · 3 = 6x.
+?2 Khai triển (2x − 1)².
++ 4x² − 4x + 1
+- 4x² − 2x + 1
+- 4x² + 1
+- 2x² − 4x + 1
+= (2x)² − 2·2x·1 + 1.
+?2 Tính nhanh 101².
++ 10 201
+- 10 101
+- 10 001
+- 1 021
+= (100 + 1)² = 10 000 + 200 + 1.
+?2 Tính nhanh 99 · 101.
++ 9 999
+- 10 000
+- 9 899
+- 10 099
+= (100 − 1)(100 + 1) = 10 000 − 1.
+?3 Viết x² − 10x + 25 dưới dạng bình phương:
++ (x − 5)²
+- (x + 5)²
+- (x − 25)²
+- (x − 10)²
+= 2·x·5 = 10x.
+?3 Rút gọn (x + 2)² − (x − 2)².
++ 8x
+- 4x
+- 0
+- 8
+= (x² + 4x + 4) − (x² − 4x + 4).
+?3 Tính nhanh 47² − 53².
++ −600
+- 600
+- −6
+- −100
+= (47 − 53)(47 + 53) = −6 · 100.
+?4 Giá trị nhỏ nhất của biểu thức x² − 6x + 11 là:
++ 2
+- 11
+- 3
+- 0
+= (x − 3)² + 2.
+?4 Cho x + y = 5, xy = 6. Giá trị x² + y² là:
++ 13
+- 25
+- 37
+- 19
+= (x + y)² − 2xy = 25 − 12.
+
+## Bài 7. Lập phương của một tổng. Lập phương của một hiệu
+?1 (a + b)³ bằng:
++ a³ + 3a²b + 3ab² + b³
+- a³ + b³
+- a³ + 3ab + b³
+- a³ + 2a²b + 2ab² + b³
+= Lập phương của một tổng.
+?1 (a − b)³ bằng:
++ a³ − 3a²b + 3ab² − b³
+- a³ − b³
+- a³ − 3a²b − 3ab² − b³
+- a³ + 3a²b − 3ab² − b³
+= Lập phương của một hiệu.
+?1 Khai triển (x + 1)³.
++ x³ + 3x² + 3x + 1
+- x³ + 1
+- x³ + 3x + 1
+- x³ + x² + x + 1
+= Áp dụng hằng đẳng thức.
+?1 Khai triển (x − 2)³.
++ x³ − 6x² + 12x − 8
+- x³ − 8
+- x³ − 6x² − 12x − 8
+- x³ − 2x² + 4x − 8
+= 3x²·2 = 6x²; 3x·4 = 12x.
+?2 Viết x³ + 6x² + 12x + 8 dưới dạng lập phương:
++ (x + 2)³
+- (x + 8)³
+- (x + 4)³
+- (x − 2)³
+= Hằng đẳng thức.
+?2 Tính nhanh 11³ (dùng (10 + 1)³):
++ 1 331
+- 1 111
+- 1 221
+- 1 300
+= 1 000 + 300 + 30 + 1.
+?2 Khai triển (2x + y)³.
++ 8x³ + 12x²y + 6xy² + y³
+- 8x³ + y³
+- 2x³ + 6x²y + 6xy² + y³
+- 8x³ + 6x²y + 12xy² + y³
+= 3·(2x)²·y = 12x²y.
+?3 Rút gọn (x + 1)³ − (x − 1)³.
++ 6x² + 2
+- 2
+- 6x²
+- 6x
+= Hai khai triển trừ nhau.
+?3 Giá trị biểu thức x³ − 3x² + 3x − 1 tại x = 101 là:
++ 1 000 000
+- 1 030 301
+- 1 000 001
+- 999 999
+= (x − 1)³ = 100³.
+?3 Viết 8 − 12x + 6x² − x³ dưới dạng lập phương:
++ (2 − x)³
+- (x − 2)³
+- (2 + x)³
+- (8 − x)³
+= Lập phương của hiệu.
+?4 Cho x − y = 2, xy = 3. Giá trị của x³ − y³ là:
++ 26
+- 8
+- 14
+- 18
+= (x − y)³ + 3xy(x − y) = 8 + 18.
+?4 Cho a + b = 4, ab = 3. Giá trị a³ + b³ là:
++ 28
+- 64
+- 52
+- 16
+= (a + b)³ − 3ab(a + b) = 64 − 36.
+
+## Bài 8. Tổng và hiệu hai lập phương
+?1 a³ + b³ bằng:
++ (a + b)(a² − ab + b²)
+- (a + b)³
+- (a + b)(a² + ab + b²)
+- (a − b)(a² + ab + b²)
+= Tổng hai lập phương.
+?1 a³ − b³ bằng:
++ (a − b)(a² + ab + b²)
+- (a − b)³
+- (a − b)(a² − ab + b²)
+- (a + b)(a² + ab + b²)
+= Hiệu hai lập phương.
+?1 Viết x³ + 8 dưới dạng tích:
++ (x + 2)(x² − 2x + 4)
+- (x + 2)³
+- (x + 8)(x² − 8x + 64)
+- (x − 2)(x² + 2x + 4)
+= a = x, b = 2.
+?1 Viết x³ − 27 dưới dạng tích:
++ (x − 3)(x² + 3x + 9)
+- (x − 3)³
+- (x − 3)(x² − 3x + 9)
+- (x + 3)(x² + 3x + 9)
+= a = x, b = 3.
+?2 Tính (x − 1)(x² + x + 1).
++ x³ − 1
+- x³ + 1
+- (x − 1)³
+- x³ − x − 1
+= Hiệu hai lập phương.
+?2 Viết 8x³ + 1 dưới dạng tích:
++ (2x + 1)(4x² − 2x + 1)
+- (2x + 1)³
+- (8x + 1)(x² − x + 1)
+- (2x − 1)(4x² + 2x + 1)
+= a = 2x, b = 1.
+?2 Tính (2 + y)(4 − 2y + y²).
++ 8 + y³
+- 8 − y³
+- (2 + y)³
+- 8 + 2y³
+= Tổng hai lập phương.
+?3 Rút gọn (x + 3)(x² − 3x + 9) − (x³ − 1).
++ 28
+- 26
+- 2x³ + 26
+- 0
+= x³ + 27 − x³ + 1.
+?3 Tính giá trị x³ + 1 tại x = −1 bằng cách phân tích:
++ 0
+- 2
+- −2
+- 1
+= (x + 1)(x² − x + 1) = 0.
+?3 Phân tích 27x³ − 8 thành nhân tử:
++ (3x − 2)(9x² + 6x + 4)
+- (3x − 2)³
+- (3x − 2)(9x² − 6x + 4)
+- (27x − 8)(x² + 1)
+= a = 3x, b = 2.
+?4 Cho a + b = 3, ab = 2. Tính a³ + b³.
++ 9
+- 27
+- 18
+- 15
+= (a + b)³ − 3ab(a + b) = 27 − 18.
+?4 Tính (x − 2)(x² + 2x + 4) − (x + 2)(x² − 2x + 4).
++ −16
+- 16
+- 2x³
+- 0
+= (x³ − 8) − (x³ + 8).
+
+## Bài 9. Phân tích đa thức thành nhân tử
+?1 Phân tích đa thức thành nhân tử là:
++ biến đổi đa thức thành tích của những đa thức
+- biến đổi thành tổng
+- tính giá trị đa thức
+- tìm bậc đa thức
+= Định nghĩa.
+?1 Phân tích 3x² + 6x thành nhân tử:
++ 3x(x + 2)
+- 3(x² + 2x)
+- 3x(x + 6)
+- 6x(x + 1)
+= Đặt nhân tử chung 3x.
+?1 Phân tích x² − 9 thành nhân tử:
++ (x − 3)(x + 3)
+- (x − 3)²
+- (x − 9)(x + 1)
+- (x + 3)²
+= Hiệu hai bình phương.
+?1 Phân tích x² + 4x + 4 thành nhân tử:
++ (x + 2)²
+- (x + 4)²
+- (x − 2)²
+- (x + 1)(x + 4)
+= Bình phương một tổng.
+?2 Phân tích x² − xy + x − y thành nhân tử:
++ (x − y)(x + 1)
+- (x + y)(x − 1)
+- (x − y)(x − 1)
+- x(x − y)
+= Nhóm (x² − xy) + (x − y).
+?2 Phân tích 2x³ − 8x thành nhân tử:
++ 2x(x − 2)(x + 2)
+- 2x(x² − 8)
+- 2x(x − 2)²
+- x(2x² − 8)
+= 2x(x² − 4).
+?2 Phân tích x² − 2x + 1 − y² thành nhân tử:
++ (x − 1 − y)(x − 1 + y)
+- (x − 1)² − y
+- (x − y − 1)²
+- (x + y − 1)²
+= (x − 1)² − y².
+?3 Tìm x biết x² − 5x = 0.
++ x = 0 hoặc x = 5
+- x = 5
+- x = 0
+- x = −5
+= x(x − 5) = 0.
+?3 Tìm x biết x³ − 4x = 0.
++ x ∈ {0; 2; −2}
+- x ∈ {0; 2}
+- x = 4
+- x ∈ {2; −2}
+= x(x − 2)(x + 2) = 0.
+?3 Phân tích x² − 5x + 6 thành nhân tử:
++ (x − 2)(x − 3)
+- (x + 2)(x + 3)
+- (x − 1)(x − 6)
+- (x − 2)(x + 3)
+= Tách −5x = −2x − 3x.
+?4 Tính nhanh 37,5 · 6,5 − 7,5 · 3,4 − 6,6 · 7,5 + 3,5 · 37,5.
++ 300
+- 375
+- 225
+- 450
+= 37,5 · (6,5 + 3,5) − 7,5 · (3,4 + 6,6) = 375 − 75.
+?4 Tìm x biết (2x − 1)² − (x + 3)² = 0.
++ x = 4 hoặc x = −2/3
+- x = 4
+- x = −2/3
+- x = 2 hoặc x = −4
+= (2x − 1 − x − 3)(2x − 1 + x + 3) = (x − 4)(3x + 2) = 0.

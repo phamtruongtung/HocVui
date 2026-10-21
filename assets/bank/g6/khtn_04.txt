@@ -1,0 +1,805 @@
+# Chương VII. Lực
+
+## Bài 40. Lực là gì?
+?1 Lực là:
++ sự đẩy hoặc kéo của vật này lên vật khác
+- khối lượng của vật
+- chiều dài của vật
+- nhiệt độ của vật
+= Định nghĩa lực.
+?1 Đơn vị đo lực là:
++ niutơn (N)
+- ki-lô-gam
+- mét
+- giây
+= Kí hiệu N.
+?1 Dụng cụ đo lực là:
++ lực kế
+- cân đồng hồ
+- thước
+- nhiệt kế
+= Lực kế lò xo.
+?2 Lực có thể gây ra kết quả:
++ biến đổi chuyển động hoặc làm vật biến dạng
+- làm vật nặng thêm
+- làm vật đổi màu
+- không gây ra gì
+= Tác dụng của lực.
+?2 Khi đá quả bóng đang nằm yên, quả bóng:
++ bắt đầu chuyển động
+- vẫn đứng yên
+- biến mất
+- nặng thêm
+= Lực làm vật thay đổi chuyển động.
+?3 Lực nào là lực không tiếp xúc?
++ lực hút của nam châm lên đinh sắt ở gần
+- lực tay đẩy cửa
+- lực chân đá bóng
+- lực kéo dây
+= Không cần tiếp xúc trực tiếp.
+?3 Bóp quả bóng cao su, quả bóng bị móp. Lực đã:
++ làm biến dạng vật
+- làm vật chuyển động nhanh
+- làm vật dừng lại
+- không tác dụng
+= Biến dạng.
+?4 Một xe đang chạy, người lái đạp phanh, xe chạy chậm dần rồi dừng. Lực đã làm:
++ thay đổi tốc độ chuyển động của xe
+- xe biến dạng
+- xe nặng hơn
+- xe đổi màu
+= Lực cản làm giảm tốc độ.
+
+## Bài 41. Biểu diễn lực
+?1 Lực được biểu diễn bằng:
++ mũi tên
+- đoạn thẳng không có hướng
+- hình tròn
+- dấu chấm
+= Mũi tên có gốc, hướng, độ dài.
+?1 Gốc mũi tên biểu diễn lực đặt tại:
++ điểm đặt của lực
+- đầu vật
+- mặt đất
+- tâm Trái Đất
+= Gốc là điểm đặt.
+?1 Độ dài mũi tên biểu diễn:
++ độ lớn của lực theo tỉ xích
+- hướng của lực
+- điểm đặt
+- màu của lực
+= Tỉ xích chọn trước.
+?2 Lực có những yếu tố nào?
++ điểm đặt, phương, chiều, độ lớn
+- màu sắc, mùi
+- khối lượng, thể tích
+- nhiệt độ
+= Bốn yếu tố của lực.
+?2 Với tỉ xích 1 cm ứng với 10 N, lực 30 N được biểu diễn bằng mũi tên dài:
++ 3 cm
+- 30 cm
+- 0,3 cm
+- 10 cm
+= 30 : 10 = 3 cm.
+?3 Trọng lực tác dụng lên vật có phương và chiều:
++ phương thẳng đứng, chiều từ trên xuống
+- phương ngang, chiều sang phải
+- phương thẳng đứng, chiều từ dưới lên
+- không có phương
+= Hướng về Trái Đất.
+?3 Mũi tên dài 5 cm biểu diễn lực 25 N. Tỉ xích là:
++ 1 cm ứng với 5 N
+- 1 cm ứng với 25 N
+- 1 cm ứng với 1 N
+- 1 cm ứng với 10 N
+= 25 : 5 = 5 N/cm.
+?4 Hai bạn kéo một vật theo hai chiều ngược nhau với lực 40 N và 30 N. Vật chuyển động theo chiều:
++ của lực 40 N
+- của lực 30 N
+- đứng yên
+- vuông góc với hai lực
+= Lực lớn hơn quyết định chiều.
+
+## Bài 42. Biến dạng của lò xo
+?1 Khi treo vật vào lò xo, lò xo bị:
++ dãn ra
+- ngắn lại
+- không đổi
+- biến mất
+= Lò xo dãn khi bị kéo.
+?1 Độ dãn của lò xo bằng:
++ chiều dài khi bị dãn trừ chiều dài tự nhiên
+- chiều dài tự nhiên
+- chiều dài khi dãn
+- tổng hai chiều dài
+= Δl = l − l₀.
+?1 Lò xo là vật có tính chất:
++ đàn hồi
+- giòn
+- không biến dạng
+- dẻo hoàn toàn
+= Trở lại hình dạng ban đầu khi thôi tác dụng lực.
+?2 Lò xo dài 10 cm, treo vật thì dài 13 cm. Độ dãn là:
++ 3 cm
+- 13 cm
+- 23 cm
+- 10 cm
+= 13 − 10 = 3.
+?2 Trong giới hạn đàn hồi, khối lượng vật treo tăng gấp đôi thì độ dãn:
++ tăng gấp đôi
+- giảm một nửa
+- không đổi
+- tăng gấp bốn
+= Độ dãn tỉ lệ với khối lượng vật treo.
+?3 Treo vật 100 g, lò xo dãn 2 cm. Treo vật 300 g, lò xo dãn:
++ 6 cm
+- 4 cm
+- 3 cm
+- 8 cm
+= Tỉ lệ thuận: 2 × 3 = 6 cm.
+?3 Vật nào có tính chất đàn hồi?
++ dây cao su
+- cục đất sét
+- miếng bánh mì
+- tờ giấy
+= Dây cao su trở lại hình dạng ban đầu.
+?4 Lò xo dài 20 cm, treo vật 200 g thì dài 24 cm. Treo vật 50 g thì lò xo dài:
++ 21 cm
+- 22 cm
+- 25 cm
+- 20,5 cm
+= 200 g dãn 4 cm → 50 g dãn 1 cm; dài 21 cm.
+
+## Bài 43. Trọng lượng, lực hấp dẫn
+?1 Trọng lượng là:
++ độ lớn lực hút của Trái Đất tác dụng lên vật
+- khối lượng của vật
+- thể tích của vật
+- lực ma sát
+= Trọng lực.
+?1 Vật có khối lượng 1 kg có trọng lượng khoảng:
++ 10 N
+- 1 N
+- 100 N
+- 0,1 N
+= P ≈ 10 × m.
+?1 Lực hấp dẫn là:
++ lực hút giữa các vật có khối lượng
+- lực đẩy giữa các vật
+- lực ma sát
+- lực đàn hồi
+= Mọi vật có khối lượng đều hút nhau.
+?2 Một bạn có khối lượng 40 kg. Trọng lượng của bạn khoảng:
++ 400 N
+- 40 N
+- 4 N
+- 4 000 N
+= 40 × 10 = 400 N.
+?2 Quả táo rơi xuống đất là do:
++ lực hút của Trái Đất
+- gió
+- lực ma sát
+- lực đẩy của cây
+= Trọng lực.
+?3 Trọng lượng của vật 500 g là:
++ 5 N
+- 50 N
+- 500 N
+- 0,5 N
+= 0,5 kg × 10 = 5 N.
+?3 Trên Mặt Trăng, trọng lượng của một vật so với trên Trái Đất:
++ nhỏ hơn
+- lớn hơn
+- bằng nhau
+- bằng 0
+= Lực hút Mặt Trăng nhỏ hơn (khoảng 1/6).
+?4 Một vật có trọng lượng 600 N trên Trái Đất. Trên Mặt Trăng (lực hút bằng 1/6) trọng lượng khoảng:
++ 100 N
+- 600 N
+- 3 600 N
+- 60 N
+= 600 : 6 = 100 N; khối lượng vẫn 60 kg.
+
+## Bài 44. Lực ma sát
+?1 Lực ma sát xuất hiện khi:
++ hai vật tiếp xúc và trượt, lăn hoặc có xu hướng chuyển động trên nhau
+- hai vật ở xa nhau
+- vật đứng yên trong không gian
+- vật rơi tự do
+= Lực cản trở chuyển động ở bề mặt tiếp xúc.
+?1 Ma sát có lợi trong trường hợp:
++ giúp ta đi lại không bị trượt ngã
+- làm mòn lốp xe
+- làm nóng máy móc
+- cản chuyển động xe đạp
+= Ma sát nghỉ giúp bàn chân bám đất.
+?1 Lực ma sát khi quả bóng lăn trên sân là:
++ ma sát lăn
+- ma sát trượt
+- ma sát nghỉ
+- lực hấp dẫn
+= Vật lăn trên bề mặt.
+?2 Biện pháp làm giảm ma sát có hại là:
++ tra dầu mỡ vào trục xe
+- rắc cát lên đường
+- làm lốp có rãnh sâu
+- tăng độ nhám bề mặt
+= Bôi trơn giảm ma sát.
+?2 Lốp xe có khía rãnh nhằm:
++ tăng ma sát, chống trượt
+- giảm ma sát
+- làm xe nhẹ hơn
+- trang trí
+= Bám đường tốt hơn.
+?3 Khi phanh xe đạp, má phanh ép vào vành xe tạo ra:
++ ma sát trượt làm xe chậm lại
+- ma sát lăn làm xe nhanh hơn
+- lực hấp dẫn
+- lực đàn hồi
+= Ma sát trượt cản chuyển động.
+?3 Đi trên đường trơn sau mưa dễ ngã vì:
++ ma sát giữa giày và mặt đường giảm
+- ma sát tăng
+- trọng lượng giảm
+- gió mạnh
+= Nước làm giảm ma sát.
+?4 Vì sao người ta rắc cát lên đường ray khi tàu khởi động ở dốc trơn?
++ để tăng ma sát giữa bánh tàu và đường ray
+- để giảm ma sát
+- để làm sạch đường ray
+- để trang trí
+= Tăng ma sát giúp bánh không trượt.
+
+## Bài 45. Lực cản của nước
+?1 Khi vật chuyển động trong nước, nước tác dụng lên vật:
++ lực cản
+- lực đẩy về phía trước
+- lực hút
+- không có lực
+= Nước cản chuyển động.
+?1 Đi bộ trong nước khó hơn trên cạn vì:
++ lực cản của nước lớn hơn lực cản của không khí
+- nước ấm
+- nước có màu
+- trọng lượng tăng
+= Nước cản mạnh.
+?1 Hình dạng thuyền thường thon nhọn ở mũi để:
++ giảm lực cản của nước
+- tăng lực cản
+- tăng khối lượng
+- dễ trang trí
+= Hình thoi giảm cản.
+?2 Lực cản của nước phụ thuộc vào:
++ hình dạng và diện tích mặt cản của vật
+- màu sắc của vật
+- nhiệt độ phòng
+- tên của vật
+= Diện tích mặt cản càng lớn, lực cản càng lớn.
+?2 Cá có thân hình thoi giúp:
++ giảm lực cản khi bơi
+- tăng lực cản
+- nổi lên dễ
+- chìm nhanh
+= Thích nghi với môi trường nước.
+?3 Người nhảy dù dùng dù lớn để:
++ tăng lực cản của không khí, rơi chậm
+- rơi nhanh hơn
+- giảm lực cản
+- tăng trọng lượng
+= Diện tích lớn tăng lực cản.
+?3 Vận động viên bơi lội đội mũ bơi, mặc đồ bơi bó sát để:
++ giảm lực cản của nước
+- giữ ấm
+- tăng lực cản
+- nặng hơn
+= Bề mặt trơn, gọn.
+?4 Thả hai tờ giấy giống nhau, một tờ vo tròn, một tờ để phẳng từ cùng độ cao. Kết quả:
++ tờ vo tròn rơi xuống trước
+- tờ phẳng rơi trước
+- rơi cùng lúc
+- không tờ nào rơi
+= Tờ phẳng chịu lực cản không khí lớn hơn.
+
+# Chương VIII. Năng lượng
+
+## Bài 46. Năng lượng và sự truyền năng lượng
+?1 Đơn vị đo năng lượng là:
++ jun (J)
+- niutơn
+- mét
+- oát
+= Kí hiệu J.
+?1 Vật có năng lượng khi:
++ có khả năng tác dụng lực hoặc làm nóng vật khác
+- đứng yên hoàn toàn
+- có màu đẹp
+- rất nhẹ
+= Năng lượng đặc trưng cho khả năng thực hiện công, truyền nhiệt.
+?1 Năng lượng của thức ăn giúp con người:
++ hoạt động và duy trì sự sống
+- có màu da đẹp
+- lớn nhanh không cần ăn
+- không cần ngủ
+= Thức ăn cung cấp năng lượng.
+?2 Đun nước bằng bếp gas là ví dụ về sự truyền năng lượng dưới dạng:
++ nhiệt
+- âm thanh
+- ánh sáng
+- điện
+= Nhiệt truyền từ ngọn lửa vào nước.
+?2 Năng lượng truyền từ Mặt Trời đến Trái Đất chủ yếu dưới dạng:
++ ánh sáng và nhiệt
+- âm thanh
+- điện
+- hóa năng
+= Bức xạ Mặt Trời.
+?3 Pin của điện thoại lưu trữ năng lượng dưới dạng:
++ hóa năng
+- động năng
+- nhiệt năng
+- quang năng
+= Năng lượng hóa học trong pin.
+?3 Khi thả quả bóng từ trên cao, năng lượng quả bóng có trước khi thả là:
++ thế năng hấp dẫn
+- điện năng
+- quang năng
+- âm năng
+= Vật ở độ cao có thế năng.
+?4 Đơn vị kWh (kilooat giờ) thường dùng để đo:
++ điện năng tiêu thụ
+- khối lượng
+- nhiệt độ
+- quãng đường
+= Số điện trên công tơ.
+
+## Bài 47. Một số dạng năng lượng
+?1 Vật đang chuyển động có:
++ động năng
+- thế năng hấp dẫn bằng 0 luôn
+- quang năng
+- hóa năng
+= Động năng gắn với chuyển động.
+?1 Năng lượng ánh sáng gọi là:
++ quang năng
+- nhiệt năng
+- điện năng
+- cơ năng
+= Quang năng.
+?1 Năng lượng phát ra từ loa khi phát nhạc là:
++ năng lượng âm thanh
+- quang năng
+- hóa năng
+- thế năng
+= Âm thanh.
+?2 Xăng dầu dự trữ năng lượng dưới dạng:
++ hóa năng
+- động năng
+- quang năng
+- âm năng
+= Năng lượng hóa học.
+?2 Lò xo bị nén có:
++ thế năng đàn hồi
+- quang năng
+- âm năng
+- hóa năng
+= Năng lượng dự trữ khi biến dạng.
+?3 Nước ở trên đập thủy điện có:
++ thế năng hấp dẫn
+- quang năng
+- hóa năng
+- âm năng
+= Nước ở cao có thế năng.
+?3 Vật có khối lượng càng lớn và chuyển động càng nhanh thì:
++ động năng càng lớn
+- động năng càng nhỏ
+- động năng không đổi
+- không có động năng
+= Động năng phụ thuộc khối lượng và tốc độ.
+?4 Xe ô tô tải và xe máy chạy cùng tốc độ. Xe có động năng lớn hơn là:
++ xe ô tô tải
+- xe máy
+- bằng nhau
+- không xác định được
+= Khối lượng lớn hơn.
+
+## Bài 48. Sự chuyển hóa năng lượng
+?1 Bóng đèn sợi đốt chuyển hóa điện năng thành:
++ quang năng và nhiệt năng
+- hóa năng
+- âm năng
+- động năng
+= Đèn sáng và nóng.
+?1 Quạt điện chuyển hóa điện năng chủ yếu thành:
++ động năng (cơ năng)
+- quang năng
+- hóa năng
+- âm năng duy nhất
+= Cánh quạt quay.
+?1 Định luật bảo toàn năng lượng: năng lượng:
++ không tự sinh ra, không tự mất đi mà chuyển hóa từ dạng này sang dạng khác
+- tự sinh ra
+- tự mất đi
+- luôn giảm
+= Nội dung định luật.
+?2 Pin mặt trời chuyển hóa:
++ quang năng thành điện năng
+- điện năng thành quang năng
+- nhiệt năng thành hóa năng
+- âm năng thành điện năng
+= Ánh sáng → điện.
+?2 Khi quẹt diêm, năng lượng chuyển hóa:
++ hóa năng → nhiệt năng, quang năng
+- quang năng → hóa năng
+- điện năng → âm năng
+- nhiệt năng → điện năng
+= Que diêm cháy.
+?3 Nhà máy thủy điện chuyển hóa:
++ thế năng của nước → động năng → điện năng
+- điện năng → thế năng
+- quang năng → điện năng
+- hóa năng → điện năng
+= Nước chảy làm quay tua-bin.
+?3 Khi cơ thể chạy bộ, năng lượng chuyển hóa:
++ hóa năng từ thức ăn → động năng, nhiệt năng
+- quang năng → hóa năng
+- điện năng → động năng
+- âm năng → nhiệt năng
+= Thức ăn cung cấp năng lượng.
+?4 Bóng đèn tiêu thụ 100 J điện năng, phát ra 10 J quang năng. Phần còn lại chuyển hóa thành:
++ 90 J nhiệt năng
+- 90 J điện năng
+- 10 J nhiệt năng
+- mất đi 90 J
+= Năng lượng được bảo toàn.
+
+## Bài 49. Năng lượng hao phí
+?1 Năng lượng hao phí là:
++ phần năng lượng không có ích sinh ra trong quá trình chuyển hóa
+- năng lượng có ích
+- năng lượng bị mất hoàn toàn khỏi vũ trụ
+- năng lượng của Mặt Trời
+= Thường là nhiệt năng tỏa ra.
+?1 Khi dùng quạt điện, năng lượng hao phí là:
++ nhiệt năng làm nóng động cơ, âm thanh
+- động năng làm quay cánh
+- điện năng
+- quang năng
+= Phần không có ích.
+?1 Năng lượng có ích khi dùng bếp điện để nấu ăn là:
++ nhiệt năng làm chín thức ăn
+- ánh sáng phát ra
+- tiếng ồn
+- nhiệt làm nóng không khí xung quanh
+= Phần dùng cho mục đích.
+?2 Đèn LED tiết kiệm điện hơn đèn sợi đốt vì:
++ ít năng lượng hao phí dưới dạng nhiệt
+- sáng yếu hơn
+- rẻ hơn
+- nhẹ hơn
+= Hiệu suất cao hơn.
+?2 Khi xe chạy, năng lượng hao phí do:
++ ma sát và tỏa nhiệt
+- xe chuyển động
+- người lái
+- ánh sáng đèn pha
+= Ma sát chuyển cơ năng thành nhiệt.
+?3 Để giảm hao phí năng lượng khi dùng máy móc, ta nên:
++ bảo dưỡng, tra dầu mỡ, dùng thiết bị hiệu suất cao
+- dùng thiết bị cũ hỏng
+- để máy chạy liên tục
+- không bảo dưỡng
+= Giảm ma sát, chọn thiết bị tốt.
+?3 Một động cơ nhận 1 000 J, có ích 700 J. Năng lượng hao phí là:
++ 300 J
+- 700 J
+- 1 700 J
+- 1 000 J
+= 1 000 − 700 = 300.
+?4 Với động cơ trên, tỉ lệ năng lượng có ích là:
++ 70%
+- 30%
+- 7%
+- 100%
+= 700/1 000 = 70%.
+
+## Bài 50. Năng lượng tái tạo
+?1 Năng lượng tái tạo là năng lượng:
++ từ nguồn liên tục được bổ sung trong tự nhiên
+- sẽ cạn kiệt
+- từ than đá
+- từ dầu mỏ
+= Ví dụ: mặt trời, gió, nước.
+?1 Nguồn năng lượng tái tạo là:
++ năng lượng gió
+- than đá
+- dầu mỏ
+- khí đốt
+= Gió liên tục có trong tự nhiên.
+?1 Nguồn năng lượng không tái tạo là:
++ dầu mỏ
+- năng lượng mặt trời
+- năng lượng gió
+- năng lượng thủy triều
+= Nhiên liệu hóa thạch sẽ cạn kiệt.
+?2 Ưu điểm của năng lượng mặt trời là:
++ sạch, không gây ô nhiễm, vô tận
+- gây ô nhiễm
+- sẽ cạn kiệt nhanh
+- chỉ có ban đêm
+= Năng lượng xanh.
+?2 Nhược điểm của năng lượng mặt trời là:
++ phụ thuộc thời tiết, ban đêm không có
+- gây khí độc
+- sẽ hết trong 10 năm
+- quá nóng
+= Cần pin lưu trữ.
+?3 Vùng thích hợp xây dựng nhà máy điện gió ở Việt Nam là:
++ ven biển Nam Trung Bộ có gió mạnh quanh năm
+- thành phố đông dân
+- trong rừng rậm
+- trong hang động
+= Ví dụ: Ninh Thuận, Bình Thuận.
+?3 Năng lượng sinh khối có từ:
++ gỗ, rơm rạ, chất thải chăn nuôi
+- than đá
+- dầu mỏ
+- hạt nhân
+= Nguồn gốc sinh vật.
+?4 Vì sao cần phát triển năng lượng tái tạo?
++ nhiên liệu hóa thạch đang cạn kiệt và gây ô nhiễm
+- vì năng lượng tái tạo gây ô nhiễm
+- vì dễ cạn kiệt
+- không cần thiết
+= Phát triển bền vững.
+
+## Bài 51. Tiết kiệm năng lượng
+?1 Hành động tiết kiệm năng lượng là:
++ tắt đèn khi ra khỏi phòng
+- bật điều hòa và mở cửa
+- để tivi chạy khi không xem
+- bật đèn ban ngày
+= Không dùng điện lãng phí.
+?1 Dùng bóng đèn nào tiết kiệm điện nhất?
++ đèn LED
+- đèn sợi đốt
+- đèn dầu
+- đèn halogen công suất lớn
+= LED hiệu suất cao.
+?1 Đi xe đạp thay cho xe máy giúp:
++ tiết kiệm nhiên liệu, giảm ô nhiễm
+- tốn xăng
+- tăng ô nhiễm
+- tốn điện
+= Phương tiện xanh.
+?2 Đặt tủ lạnh cách tường, tránh ánh nắng để:
++ tủ tản nhiệt tốt, tiết kiệm điện
+- tủ lạnh hơn ngay lập tức
+- tủ nặng hơn
+- trang trí
+= Giảm tiêu thụ điện.
+?2 Nhãn năng lượng 5 sao trên thiết bị cho biết:
++ thiết bị tiết kiệm năng lượng cao
+- thiết bị đắt nhất
+- thiết bị to nhất
+- thiết bị mới nhất
+= Hiệu suất năng lượng.
+?3 Một bóng đèn 40 W bật 5 giờ mỗi ngày tiêu thụ trong 30 ngày:
++ 6 kWh
+- 200 kWh
+- 1,2 kWh
+- 60 kWh
+= 40 × 5 × 30 = 6 000 Wh = 6 kWh.
+?3 Đặt nhiệt độ điều hòa ở mức nào tiết kiệm điện hơn vào mùa hè?
++ 26–28 °C
+- 16 °C
+- 18 °C
+- 10 °C
+= Chênh lệch ít với bên ngoài.
+?4 Thay 5 bóng sợi đốt 60 W bằng 5 bóng LED 9 W, mỗi ngày bật 4 giờ. Mỗi ngày tiết kiệm được:
++ 1,02 kWh
+- 1,2 kWh
+- 0,18 kWh
+- 10,2 kWh
+= 5 × (60 − 9) × 4 = 1 020 Wh.
+
+# Chương IX. Trái Đất và bầu trời
+
+## Bài 52. Chuyển động nhìn thấy của Mặt Trời. Thiên thể
+?1 Hằng ngày, ta thấy Mặt Trời mọc ở hướng:
++ Đông
+- Tây
+- Nam
+- Bắc
+= Mặt Trời mọc đằng Đông, lặn đằng Tây.
+?1 Chuyển động nhìn thấy của Mặt Trời là do:
++ Trái Đất tự quay quanh trục từ tây sang đông
+- Mặt Trời quay quanh Trái Đất
+- Trái Đất đứng yên
+- Mặt Trăng che khuất
+= Chuyển động biểu kiến.
+?1 Thiên thể là:
++ các vật thể tự nhiên tồn tại trong không gian vũ trụ
+- các vật trên mặt đất
+- máy bay
+- vệ tinh nhân tạo duy nhất
+= Ví dụ: sao, hành tinh.
+?2 Mặt Trời là:
++ một ngôi sao
+- một hành tinh
+- một vệ tinh
+- một sao chổi
+= Mặt Trời tự phát sáng.
+?2 Vào buổi trưa, bóng của cây ngắn nhất vì:
++ Mặt Trời ở cao nhất trên bầu trời
+- Mặt Trời ở thấp nhất
+- trời tối
+- cây thấp đi
+= Tia sáng gần vuông góc mặt đất.
+?3 Buổi sáng, bóng cây đổ về hướng:
++ Tây
+- Đông
+- Nam
+- Bắc
+= Mặt Trời ở phía Đông nên bóng ngả về phía Tây.
+?3 Ngôi sao tự phát sáng, còn hành tinh:
++ không tự phát sáng mà phản chiếu ánh sáng Mặt Trời
+- tự phát sáng mạnh hơn sao
+- không bao giờ nhìn thấy
+- là một mặt trời nhỏ
+= Phân biệt sao và hành tinh.
+?4 Một người quan sát thấy Mặt Trời lặn ở bên tay phải. Người đó đang quay mặt về hướng:
++ Nam
+- Bắc
+- Đông
+- Tây
+= Hướng Tây ở bên phải khi quay mặt về hướng Nam.
+
+## Bài 53. Mặt Trăng
+?1 Mặt Trăng là:
++ vệ tinh tự nhiên của Trái Đất
+- một ngôi sao
+- một hành tinh
+- một sao chổi
+= Mặt Trăng quay quanh Trái Đất.
+?1 Mặt Trăng sáng là do:
++ phản xạ ánh sáng Mặt Trời
+- tự phát sáng
+- có đèn
+- phản xạ ánh sáng Trái Đất là chính
+= Mặt Trăng không tự phát sáng.
+?1 Ngày rằm (15 âm lịch), ta thấy:
++ trăng tròn
+- trăng khuyết đầu tháng
+- không thấy trăng
+- trăng lưỡi liềm
+= Trăng tròn giữa tháng âm lịch.
+?2 Ngày mùng 1 âm lịch, ta gần như:
++ không nhìn thấy Mặt Trăng
+- thấy trăng tròn
+- thấy trăng bán nguyệt
+- thấy hai Mặt Trăng
+= Trăng mới (sóc).
+?2 Chu kì tuần trăng kéo dài khoảng:
++ 29,5 ngày
+- 7 ngày
+- 365 ngày
+- 24 giờ
+= Một tháng âm lịch.
+?3 Hình dạng nhìn thấy của Mặt Trăng thay đổi vì:
++ vị trí tương đối giữa Mặt Trăng, Trái Đất, Mặt Trời thay đổi
+- Mặt Trăng thay đổi kích thước
+- mây che
+- Mặt Trăng tự tắt sáng
+= Phần được chiếu sáng nhìn thấy khác nhau.
+?3 Tết Trung thu được tổ chức vào ngày:
++ 15 tháng 8 âm lịch
+- 1 tháng 1 âm lịch
+- 5 tháng 5 âm lịch
+- 15 tháng 1 âm lịch
+= Rằm tháng Tám, trăng tròn.
+?4 Hôm nay là rằm, sau khoảng bao nhiêu ngày nữa thì không nhìn thấy Mặt Trăng?
++ khoảng 15 ngày
+- khoảng 7 ngày
+- khoảng 30 ngày
+- khoảng 1 ngày
+= Nửa chu kì tuần trăng.
+
+## Bài 54. Hệ Mặt Trời
+?1 Hệ Mặt Trời có bao nhiêu hành tinh?
++ 8
+- 9
+- 7
+- 10
+= Sao Thủy, Kim, Trái Đất, Hỏa, Mộc, Thổ, Thiên Vương, Hải Vương.
+?1 Hành tinh gần Mặt Trời nhất là:
++ Sao Thủy
+- Sao Kim
+- Trái Đất
+- Sao Hải Vương
+= Sao Thủy ở gần nhất.
+?1 Hành tinh lớn nhất hệ Mặt Trời là:
++ Sao Mộc
+- Sao Thổ
+- Trái Đất
+- Sao Hỏa
+= Sao Mộc lớn nhất.
+?2 Trái Đất là hành tinh thứ mấy tính từ Mặt Trời?
++ 3
+- 2
+- 4
+- 1
+= Thủy, Kim, Trái Đất.
+?2 Hành tinh có vành đai đẹp, dễ quan sát là:
++ Sao Thổ
+- Sao Hỏa
+- Sao Thủy
+- Sao Kim
+= Vành đai Sao Thổ.
+?3 Hành tinh được gọi là "Sao Mai", "Sao Hôm" là:
++ Sao Kim
+- Sao Hỏa
+- Sao Mộc
+- Sao Thủy
+= Sao Kim sáng rõ lúc sáng sớm và chiều tối.
+?3 Hành tinh có màu đỏ, được gọi là "hành tinh đỏ" là:
++ Sao Hỏa
+- Sao Mộc
+- Sao Kim
+- Sao Thổ
+= Bề mặt Sao Hỏa nhiều oxide sắt.
+?4 Các hành tinh càng xa Mặt Trời thì:
++ chu kì quay quanh Mặt Trời càng dài
+- quay quanh Mặt Trời càng nhanh
+- càng nóng
+- càng sáng
+= Quỹ đạo dài hơn, tốc độ nhỏ hơn.
+
+## Bài 55. Ngân Hà
+?1 Ngân Hà là:
++ thiên hà chứa hệ Mặt Trời
+- một ngôi sao
+- một hành tinh
+- một dòng sông trên Trái Đất
+= Thiên hà của chúng ta.
+?1 Ngân Hà có hình dạng:
++ đĩa xoắn ốc
+- hình cầu đặc
+- hình vuông
+- hình tam giác
+= Thiên hà xoắn ốc.
+?1 Ngân Hà chứa khoảng:
++ hàng trăm tỉ ngôi sao
+- 8 ngôi sao
+- 1 000 ngôi sao
+- 1 ngôi sao
+= Rất nhiều sao.
+?2 Vào đêm trời quang, ta nhìn thấy Ngân Hà như:
++ một dải sáng mờ vắt ngang bầu trời
+- một hình tròn sáng
+- một ngôi sao rất sáng
+- không thể thấy được
+= Ánh sáng của vô số ngôi sao.
+?2 Hệ Mặt Trời nằm ở:
++ một nhánh xoắn của Ngân Hà, cách xa trung tâm
+- trung tâm Ngân Hà
+- ngoài Ngân Hà
+- trong Mặt Trăng
+= Vị trí hệ Mặt Trời.
+?3 Ngân Hà và các thiên hà khác hợp thành:
++ vũ trụ
+- hệ Mặt Trời
+- Trái Đất
+- Mặt Trăng
+= Vũ trụ có vô số thiên hà.
+?3 Đơn vị "năm ánh sáng" dùng để đo:
++ khoảng cách rất lớn trong vũ trụ
+- thời gian
+- khối lượng
+- nhiệt độ
+= Quãng đường ánh sáng đi trong một năm.
+?4 Ở thành phố khó nhìn thấy Ngân Hà hơn ở vùng núi vì:
++ ô nhiễm ánh sáng và bụi khói
+- thành phố gần Ngân Hà hơn
+- vùng núi gần Mặt Trời hơn
+- Ngân Hà chỉ ở trên vùng núi
+= Ánh đèn làm bầu trời sáng, khó thấy sao mờ.

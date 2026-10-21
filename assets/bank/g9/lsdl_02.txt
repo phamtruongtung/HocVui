@@ -1,0 +1,853 @@
+// Lịch sử và Địa lí 9 – Học kì 2 (Sử và Địa xen kẽ)
+#! HK2
+# Lịch sử và Địa lí 9 – Học kì 2
+
+## Sử – Bài 11. Nước Mỹ và các nước Tây Âu từ năm 1945 đến năm 1991
+?1 Sau Chiến tranh thế giới thứ hai, nước tư bản giàu mạnh nhất thế giới là:
++ Mỹ
+- Anh
+- Pháp
+- Đức
+= Trung tâm kinh tế – tài chính lớn nhất.
+?1 Kế hoạch Mác-san của Mỹ nhằm:
++ viện trợ giúp các nước Tây Âu phục hồi kinh tế
+- giúp Liên Xô phát triển
+- viện trợ cho châu Phi
+- xâm lược Tây Âu
+= Phục hồi Tây Âu sau chiến tranh.
+?1 Năm 1957, sáu nước Tây Âu thành lập:
++ Cộng đồng kinh tế châu Âu (EEC)
+- NATO
+- ASEAN
+- Liên hợp quốc
+= Tiền thân của Liên minh châu Âu.
+?2 Liên minh châu Âu (EU) chính thức được thành lập theo Hiệp ước:
++ Ma-a-xtrích (1992)
+- Véc-xai (1919)
+- I-an-ta (1945)
+- Pa-ri (1973)
+= Liên kết khu vực.
+?2 Chính sách đối ngoại của Mỹ sau năm 1945 là:
++ thực hiện "chiến lược toàn cầu", tham vọng làm bá chủ thế giới
+- trung lập hoàn toàn
+- đóng cửa với thế giới
+- giúp các nước xã hội chủ nghĩa
+= Chính sách đối ngoại.
+?3 Nguyên nhân giúp kinh tế Mỹ phát triển mạnh sau chiến tranh là:
++ không bị chiến tranh tàn phá, giàu tài nguyên, áp dụng thành tựu khoa học kĩ thuật
+- nhận viện trợ từ Liên Xô
+- có nhiều thuộc địa ở châu Á
+- dân số ít
+= Nguyên nhân.
+?3 Đồng tiền chung châu Âu được đưa vào sử dụng là:
++ đồng ơ-rô (Euro)
+- đô la
+- bảng Anh
+- yên
+= Thành tựu liên kết.
+?4 Liên kết khu vực ở Tây Âu cho thấy xu thế:
++ hợp tác, liên kết kinh tế – chính trị giữa các quốc gia
+- các nước tách biệt hoàn toàn
+- chiến tranh giữa các nước Tây Âu
+- trở lại chế độ phong kiến
+= Xu thế thời đại.
+
+## Địa – Bài 8. Vùng Đồng bằng sông Hồng
+?1 Đồng bằng sông Hồng do phù sa của hệ thống sông nào bồi đắp?
++ sông Hồng và sông Thái Bình
+- sông Mê Công
+- sông Đồng Nai
+- sông Cả
+= Đồng bằng châu thổ.
+?1 Vùng Đồng bằng sông Hồng có mật độ dân số:
++ cao nhất cả nước
+- thấp nhất cả nước
+- trung bình
+- không có người ở
+= Đông dân nhất.
+?1 Trung tâm kinh tế, chính trị, văn hóa lớn của vùng là:
++ Hà Nội
+- Huế
+- Cần Thơ
+- Đà Lạt
+= Thủ đô.
+?2 Vùng có hệ thống đê điều dài vì:
++ cần ngăn lũ của sông Hồng, sông Thái Bình
+- để làm đường cao tốc
+- để trang trí
+- để ngăn gió
+= Đặc điểm tự nhiên.
+?2 Cây vụ đông (như ngô, khoai tây, rau ôn đới) phát triển ở vùng nhờ:
++ có mùa đông lạnh
+- khí hậu nóng quanh năm
+- đất badan
+- không có mùa đông
+= Thế mạnh nông nghiệp.
+?3 Khó khăn lớn của vùng Đồng bằng sông Hồng là:
++ dân số đông, bình quân đất nông nghiệp thấp
+- thiếu lao động
+- không có đất phù sa
+- khí hậu khô hạn quanh năm
+= Hạn chế.
+?3 Cảng biển quan trọng của vùng là:
++ Hải Phòng
+- Cát Lái
+- Cần Thơ
+- Quy Nhơn
+= Cửa ngõ ra biển.
+?4 Để giảm sức ép dân số ở Đồng bằng sông Hồng, cần:
++ phát triển công nghiệp, dịch vụ, tạo việc làm và phân bố lại dân cư
+- tăng diện tích trồng lúa bằng cách lấp sông
+- cấm người dân di chuyển
+- giảm đầu tư giáo dục
+= Giải pháp.
+
+## Sử – Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991
+?1 Cách mạng Cu-ba thắng lợi năm 1959 dưới sự lãnh đạo của:
++ Phi-đen Ca-xtơ-rô
+- Gan-đi
+- Xu-các-nô
+- Mao Trạch Đông
+= Lá cờ đầu Mỹ La-tinh.
+?1 Nước Cộng hòa Nhân dân Trung Hoa ra đời ngày:
++ 1/10/1949
+- 2/9/1945
+- 15/8/1947
+- 8/8/1967
+= Thắng lợi của cách mạng Trung Quốc.
+?1 Hiệp hội các quốc gia Đông Nam Á (ASEAN) thành lập ngày:
++ 8/8/1967
+- 24/10/1945
+- 1/10/1949
+- 28/7/1995
+= Tại Băng Cốc (Thái Lan).
+?2 Ấn Độ giành được độc lập năm:
++ 1947
+- 1945
+- 1950
+- 1959
+= Thoát khỏi ách thống trị của Anh.
+?2 Trung Quốc bắt đầu công cuộc cải cách, mở cửa từ năm:
++ 1978
+- 1949
+- 1966
+- 1991
+= Đường lối cải cách.
+?3 Năm nước sáng lập ASEAN gồm:
++ In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po, Thái Lan
+- Việt Nam, Lào, Cam-pu-chia, Mi-an-ma, Bru-nây
+- Trung Quốc, Nhật Bản, Hàn Quốc, Ấn Độ, Thái Lan
+- Việt Nam, Thái Lan, Lào, Xin-ga-po, Nhật Bản
+= Thành viên sáng lập.
+?3 Giai đoạn 1960 – 1973, kinh tế Nhật Bản:
++ tăng trưởng "thần kì"
+- suy thoái nghiêm trọng
+- bị Mỹ chiếm đóng hoàn toàn
+- không phát triển
+= Phát triển nhanh.
+?4 Điểm chung của nhiều nước châu Á sau năm 1945 là:
++ giành độc lập và bước vào xây dựng, phát triển kinh tế
+- đều trở thành thuộc địa
+- đều theo chế độ phong kiến
+- đều bị chiến tranh liên miên đến nay
+= Xu hướng phát triển.
+
+## Địa – Bài 9. Vùng Bắc Trung Bộ
+?1 Vùng Bắc Trung Bộ có hình dạng lãnh thổ:
++ hẹp ngang, kéo dài
+- rộng và vuông vức
+- hình tròn
+- là một hòn đảo
+= Đặc điểm lãnh thổ.
+?1 Thiên tai thường xảy ra ở Bắc Trung Bộ là:
++ bão, lũ, hạn hán, gió phơn Tây Nam (gió Lào)
+- động đất mạnh
+- tuyết rơi
+- núi lửa
+= Khó khăn tự nhiên.
+?1 Di sản thiên nhiên thế giới ở Bắc Trung Bộ là:
++ Vườn quốc gia Phong Nha – Kẻ Bàng
+- vịnh Hạ Long
+- Tràng An
+- phố cổ Hội An
+= Hang động đá vôi.
+?2 Cố đô Huế là di sản văn hóa thế giới thuộc vùng:
++ Bắc Trung Bộ
+- Đồng bằng sông Hồng
+- Tây Nguyên
+- Đông Nam Bộ
+= Du lịch văn hóa.
+?2 Dải đất ven biển Bắc Trung Bộ có thế mạnh về:
++ nuôi trồng, đánh bắt thủy sản và du lịch biển
+- trồng cà phê
+- khai thác dầu khí là chủ yếu
+- trồng lúa mì
+= Kinh tế biển.
+?3 Người dân Bắc Trung Bộ trồng rừng phi lao ven biển nhằm:
++ chắn gió, chắn cát bay
+- lấy quả
+- làm cảnh
+- nuôi gia súc
+= Rừng phòng hộ.
+?3 Phía tây vùng Bắc Trung Bộ là:
++ dãy Trường Sơn Bắc
+- biển Đông
+- đồng bằng sông Hồng
+- Tây Nguyên
+= Vị trí.
+?4 Biện pháp phòng chống thiên tai ở Bắc Trung Bộ là:
++ trồng rừng phòng hộ, xây hồ chứa, chủ động phòng chống bão lũ
+- chặt rừng đầu nguồn
+- xây nhà sát bờ sông
+- không cần chuẩn bị
+= Thích ứng thiên tai.
+
+## Sử – Bài 13. Việt Nam trong năm đầu sau Cách mạng tháng Tám (1945 – 1946)
+?1 Sau Cách mạng tháng Tám, nước ta phải đối phó với:
++ giặc đói, giặc dốt, giặc ngoại xâm
+- chỉ có giặc ngoại xâm
+- chỉ có giặc đói
+- không có khó khăn
+= Tình thế "ngàn cân treo sợi tóc".
+?1 Cuộc Tổng tuyển cử bầu Quốc hội đầu tiên diễn ra ngày:
++ 6/1/1946
+- 2/9/1945
+- 19/12/1946
+- 6/3/1946
+= Quốc hội khóa I.
+?1 Để chống giặc dốt, Chủ tịch Hồ Chí Minh kí sắc lệnh thành lập:
++ Nha Bình dân học vụ
+- Ngân hàng Quốc gia
+- Quân đội nhân dân
+- Hội Liên hiệp phụ nữ
+= Phong trào xóa nạn mù chữ.
+?2 Hiệp định Sơ bộ giữa Việt Nam và Pháp được kí ngày:
++ 6/3/1946
+- 14/9/1946
+- 21/7/1954
+- 27/1/1973
+= Hòa để tiến.
+?2 Bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa được thông qua năm:
++ 1946
+- 1945
+- 1959
+- 1980
+= Hiến pháp 1946.
+?3 Để giải quyết nạn đói trước mắt, Đảng và Chính phủ kêu gọi:
++ nhường cơm sẻ áo, tổ chức hũ gạo cứu đói, tăng gia sản xuất
+- nhập khẩu toàn bộ lương thực
+- đóng cửa các chợ
+- giảm diện tích trồng trọt
+= Biện pháp.
+?3 Mục đích của việc kí Hiệp định Sơ bộ là:
++ tránh phải đối phó cùng lúc với nhiều kẻ thù, tranh thủ thời gian chuẩn bị lực lượng
+- đầu hàng thực dân Pháp
+- mời quân Pháp vào cai trị
+- chấm dứt cách mạng
+= Sách lược mềm dẻo.
+?4 Bài học từ việc giải quyết khó khăn năm 1945 – 1946 là:
++ dựa vào sức mạnh đoàn kết toàn dân và sách lược mềm dẻo, khôn khéo
+- chỉ dựa vào nước ngoài
+- nhượng bộ mọi yêu cầu của kẻ thù
+- không cần đoàn kết
+= Bài học lịch sử.
+
+## Địa – Bài 10. Vùng Duyên hải Nam Trung Bộ
+?1 Duyên hải Nam Trung Bộ nổi bật về thế mạnh:
++ kinh tế biển (du lịch, cảng biển, thủy sản, làm muối)
+- trồng lúa nước quy mô lớn nhất
+- khai thác than đá
+- trồng chè
+= Thế mạnh của vùng.
+?1 Hai quần đảo Hoàng Sa và Trường Sa thuộc vùng biển của:
++ Duyên hải Nam Trung Bộ
+- Đồng bằng sông Hồng
+- Đồng bằng sông Cửu Long
+- Tây Nguyên
+= Chủ quyền biển đảo.
+?1 Nghề làm muối phát triển ở vùng vì:
++ nắng nhiều, ít cửa sông lớn, nước biển mặn
+- mưa quanh năm
+- nhiều sông lớn đổ ra biển
+- khí hậu lạnh
+= Điều kiện tự nhiên.
+?2 Thành phố biển du lịch nổi tiếng của vùng là:
++ Nha Trang
+- Sa Pa
+- Đà Lạt
+- Mộc Châu
+= Du lịch biển.
+?2 Phố cổ Hội An và Thánh địa Mỹ Sơn là:
++ di sản văn hóa thế giới
+- di sản thiên nhiên thế giới
+- khu công nghiệp
+- cảng biển
+= Tài nguyên du lịch văn hóa.
+?3 Khó khăn lớn của vùng là:
++ hạn hán, thiếu nước vào mùa khô và hiện tượng sa mạc hóa ở một số nơi
+- mùa đông quá lạnh
+- thiếu biển
+- quá nhiều sông lớn
+= Hạn chế tự nhiên.
+?3 Vùng có nhiều vịnh nước sâu thuận lợi để:
++ xây dựng cảng biển
+- trồng lúa
+- trồng cà phê
+- chăn nuôi bò sữa
+= Thế mạnh cảng biển.
+?4 Vì sao đánh bắt xa bờ cần được khuyến khích ở vùng này?
++ giúp khai thác hiệu quả hải sản, giảm áp lực ven bờ và góp phần bảo vệ chủ quyền biển
+- vì ven bờ có quá nhiều cá
+- vì đánh bắt xa bờ không tốn chi phí
+- không cần khuyến khích
+= Ý nghĩa kinh tế và quốc phòng.
+
+## Sử – Bài 14. Việt Nam từ năm 1946 đến năm 1954
+?1 Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh được phát ra ngày:
++ 19/12/1946
+- 2/9/1945
+- 6/1/1946
+- 7/5/1954
+= Mở đầu kháng chiến toàn quốc.
+?1 Chiến thắng Điện Biên Phủ kết thúc ngày:
++ 7/5/1954
+- 21/7/1954
+- 30/4/1975
+- 19/12/1946
+= "Lừng lẫy năm châu, chấn động địa cầu".
+?1 Hiệp định Giơ-ne-vơ về Đông Dương được kí năm:
++ 1954
+- 1946
+- 1973
+- 1975
+= Ngày 21/7/1954.
+?2 Chiến dịch Việt Bắc thu – đông diễn ra năm:
++ 1947
+- 1950
+- 1954
+- 1946
+= Đánh bại cuộc tiến công lên căn cứ địa.
+?2 Chiến dịch Biên giới thu – đông năm 1950 đã:
++ khai thông biên giới Việt – Trung, giành thế chủ động
+- kết thúc kháng chiến
+- giải phóng Sài Gòn
+- mở đầu kháng chiến
+= Ý nghĩa.
+?3 Chiến dịch Điện Biên Phủ kéo dài:
++ 56 ngày đêm
+- 12 ngày đêm
+- 30 ngày đêm
+- 100 ngày đêm
+= Từ 13/3 đến 7/5/1954.
+?3 Theo Hiệp định Giơ-ne-vơ, vĩ tuyến được chọn làm giới tuyến quân sự tạm thời là:
++ vĩ tuyến 17
+- vĩ tuyến 16
+- vĩ tuyến 18
+- vĩ tuyến 20
+= Sông Bến Hải.
+?4 Đường lối kháng chiến chống Pháp của Đảng là:
++ toàn dân, toàn diện, trường kì, tự lực cánh sinh
+- đánh nhanh thắng nhanh
+- dựa hoàn toàn vào nước ngoài
+- chỉ đánh ở thành phố
+= Đường lối kháng chiến.
+
+## Địa – Bài 11. Vùng Tây Nguyên
+?1 Tây Nguyên là vùng duy nhất nước ta:
++ không giáp biển
+- giáp biển dài nhất
+- có đồng bằng lớn nhất
+- có nhiều đảo nhất
+= Vị trí địa lí.
+?1 Loại đất chiếm diện tích lớn ở Tây Nguyên là:
++ đất badan
+- đất phù sa
+- đất mặn
+- đất cát
+= Thích hợp cây công nghiệp.
+?1 Cây công nghiệp quan trọng nhất của Tây Nguyên là:
++ cà phê
+- chè
+- lúa
+- dừa
+= Vùng cà phê lớn nhất.
+?2 Không gian văn hóa cồng chiêng Tây Nguyên được UNESCO công nhận là:
++ di sản văn hóa phi vật thể của nhân loại
+- di sản thiên nhiên thế giới
+- kì quan thiên nhiên
+- công viên địa chất
+= Văn hóa đặc sắc.
+?2 Tây Nguyên có tiềm năng lớn về:
++ thủy điện, rừng và bô-xít
+- dầu khí
+- than đá
+- muối biển
+= Tài nguyên.
+?3 Khó khăn của Tây Nguyên vào mùa khô là:
++ thiếu nước nghiêm trọng cho sản xuất và sinh hoạt
+- lũ lụt liên miên
+- tuyết rơi dày
+- bão lớn từ biển
+= Hạn chế tự nhiên.
+?3 Thành phố Đà Lạt nổi tiếng nhờ:
++ khí hậu mát mẻ, phát triển du lịch và trồng hoa, rau
+- nhiều mỏ than
+- bãi biển đẹp
+- cảng biển lớn
+= Thế mạnh du lịch.
+?4 Vì sao cần bảo vệ rừng Tây Nguyên?
++ rừng điều hòa khí hậu, giữ nước, bảo vệ đa dạng sinh học và nguồn nước cho các vùng lân cận
+- để mở rộng diện tích cà phê
+- để khai thác gỗ tối đa
+- không cần thiết
+= Ý nghĩa.
+
+## Sử – Bài 15. Việt Nam từ năm 1954 đến năm 1965
+?1 Phong trào "Đồng khởi" (1959 – 1960) nổ ra tiêu biểu ở:
++ Bến Tre
+- Hà Nội
+- Huế
+- Đà Nẵng
+= Phong trào cách mạng miền Nam.
+?1 Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập ngày:
++ 20/12/1960
+- 19/5/1941
+- 2/9/1945
+- 30/4/1975
+= Kết quả của Đồng khởi.
+?1 Chiến lược Mỹ thực hiện ở miền Nam giai đoạn 1961 – 1965 là:
++ "Chiến tranh đặc biệt"
+- "Chiến tranh cục bộ"
+- "Việt Nam hóa chiến tranh"
+- "Chiến tranh tổng lực"
+= Chiến lược chiến tranh.
+?2 Chiến thắng Ấp Bắc (1/1963) chứng tỏ:
++ quân dân miền Nam có khả năng đánh bại "Chiến tranh đặc biệt"
+- Mỹ đã thắng
+- chiến tranh kết thúc
+- miền Bắc bị tấn công
+= Ý nghĩa.
+?2 Sau năm 1954, miền Bắc tiến hành:
++ khôi phục kinh tế, xây dựng chủ nghĩa xã hội
+- kháng chiến chống Pháp
+- tổng tuyển cử thống nhất ngay
+- tiếp tục chiến tranh với Nhật
+= Nhiệm vụ miền Bắc.
+?3 "Ấp chiến lược" là xương sống của chiến lược:
++ "Chiến tranh đặc biệt"
+- "Chiến tranh cục bộ"
+- "Việt Nam hóa chiến tranh"
+- "Chiến tranh lạnh"
+= Thủ đoạn của Mỹ.
+?3 Ý nghĩa của phong trào Đồng khởi là:
++ đánh dấu bước phát triển của cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công
+- kết thúc chiến tranh
+- làm cách mạng miền Nam suy yếu
+- không có ý nghĩa
+= Bước ngoặt.
+?4 Vì sao nước ta bị chia cắt sau năm 1954?
++ Mỹ và chính quyền Sài Gòn phá hoại Hiệp định Giơ-ne-vơ, không tổ chức tổng tuyển cử thống nhất
+- nhân dân muốn chia cắt
+- Hiệp định quy định chia cắt vĩnh viễn
+- do thiên tai
+= Nguyên nhân.
+
+## Địa – Bài 12. Vùng Đông Nam Bộ
+?1 Đông Nam Bộ là vùng:
++ phát triển kinh tế năng động nhất cả nước
+- kém phát triển nhất
+- chỉ có nông nghiệp
+- không có công nghiệp
+= Đầu tàu kinh tế.
+?1 Trung tâm kinh tế lớn nhất của vùng và cả nước là:
++ Thành phố Hồ Chí Minh
+- Hà Nội
+- Đà Nẵng
+- Cần Thơ
+= Đô thị đặc biệt.
+?1 Cây công nghiệp lâu năm quan trọng của Đông Nam Bộ là:
++ cao su
+- chè
+- lúa
+- ngô
+= Đất xám, đất badan.
+?2 Dầu khí ở thềm lục địa phía Nam gắn với thế mạnh của vùng:
++ Đông Nam Bộ
+- Tây Bắc
+- Đồng bằng sông Hồng
+- Bắc Trung Bộ
+= Công nghiệp dầu khí.
+?2 Hồ thủy lợi lớn của vùng là:
++ hồ Dầu Tiếng
+- hồ Ba Bể
+- hồ Thác Bà
+- hồ Kẻ Gỗ
+= Thủy lợi.
+?3 Vấn đề môi trường cần quan tâm ở Đông Nam Bộ là:
++ ô nhiễm do công nghiệp và đô thị hóa nhanh
+- thiếu đất phù sa
+- tuyết rơi
+- sạt lở núi cao
+= Phát triển bền vững.
+?3 Khu dự trữ sinh quyển Cần Giờ nổi tiếng với hệ sinh thái:
++ rừng ngập mặn
+- rừng lá kim
+- sa mạc
+- đồng cỏ ôn đới
+= Lá phổi xanh.
+?4 Vì sao Đông Nam Bộ thu hút nhiều vốn đầu tư nước ngoài?
++ vị trí thuận lợi, cơ sở hạ tầng tốt, lao động có chất lượng, thị trường lớn
+- thiếu lao động
+- giao thông kém
+- không có cảng biển
+= Lợi thế.
+
+## Sử – Bài 16. Việt Nam từ năm 1965 đến năm 1975
+?1 Từ năm 1965, Mỹ chuyển sang chiến lược:
++ "Chiến tranh cục bộ"
+- "Chiến tranh đặc biệt"
+- "Việt Nam hóa chiến tranh"
+- "Chiến tranh lạnh"
+= Đưa quân Mỹ trực tiếp tham chiến.
+?1 Hiệp định Pa-ri về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được kí ngày:
++ 27/1/1973
+- 21/7/1954
+- 30/4/1975
+- 6/3/1946
+= Mỹ rút quân.
+?1 Chiến dịch Hồ Chí Minh kết thúc thắng lợi ngày:
++ 30/4/1975
+- 7/5/1954
+- 2/9/1945
+- 27/1/1973
+= Giải phóng hoàn toàn miền Nam.
+?2 Trận Vạn Tường (8/1965) được xem là:
++ trận "Ấp Bắc" đối với quân Mỹ, mở đầu cao trào đánh Mỹ
+- trận kết thúc chiến tranh
+- trận đánh Pháp
+- trận phòng không
+= Ý nghĩa.
+?2 Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân diễn ra năm:
++ 1968
+- 1965
+- 1972
+- 1975
+= Buộc Mỹ xuống thang chiến tranh.
+?3 Trận "Điện Biên Phủ trên không" (12/1972) đã đánh bại:
++ cuộc tập kích bằng máy bay B-52 của Mỹ vào Hà Nội, Hải Phòng
+- quân Pháp ở Điện Biên Phủ
+- quân Nhật
+- quân Tưởng
+= Buộc Mỹ kí Hiệp định Pa-ri.
+?3 Mở đầu cuộc Tổng tiến công và nổi dậy Xuân 1975 là:
++ chiến dịch Tây Nguyên với trận Buôn Ma Thuột
+- chiến dịch Hồ Chí Minh
+- chiến dịch Huế – Đà Nẵng
+- trận Vạn Tường
+= Ngày 10/3/1975.
+?4 Ý nghĩa của cuộc kháng chiến chống Mỹ cứu nước thắng lợi là:
++ kết thúc 21 năm chiến đấu chống Mỹ, thống nhất đất nước, cổ vũ phong trào giải phóng dân tộc thế giới
+- mở đầu chiến tranh mới
+- chỉ có ý nghĩa với miền Bắc
+- không có ý nghĩa quốc tế
+= Ý nghĩa lịch sử.
+
+## Địa – Bài 13. Vùng Đồng bằng sông Cửu Long
+?1 Đồng bằng sông Cửu Long được bồi đắp bởi:
++ sông Mê Công (sông Cửu Long)
+- sông Hồng
+- sông Đồng Nai
+- sông Đà
+= Đồng bằng châu thổ lớn nhất.
+?1 Đồng bằng sông Cửu Long là vùng trọng điểm sản xuất:
++ lúa, thủy sản và cây ăn quả lớn nhất cả nước
+- chè lớn nhất
+- than đá
+- cà phê lớn nhất
+= Vựa lúa.
+?1 Trung tâm kinh tế lớn nhất của vùng là:
++ Cần Thơ
+- Đà Nẵng
+- Huế
+- Vinh
+= Đô thị trung tâm.
+?2 Loại đất có diện tích lớn ở Đồng bằng sông Cửu Long ngoài đất phù sa ngọt là:
++ đất phèn, đất mặn
+- đất badan
+- đất feralit đỏ vàng
+- đất xám trên phù sa cổ
+= Đặc điểm thổ nhưỡng.
+?2 Hiện tượng gây khó khăn lớn cho vùng vào mùa khô là:
++ xâm nhập mặn
+- tuyết rơi
+- sương muối
+- động đất
+= Thách thức.
+?3 Người dân vùng thực hiện mô hình "sống chung với lũ" nhằm:
++ tận dụng nguồn lợi từ lũ (phù sa, thủy sản) và giảm thiệt hại
+- ngăn hoàn toàn lũ
+- bỏ đất đi nơi khác
+- lấp hết kênh rạch
+= Thích ứng.
+?3 Biến đổi khí hậu ảnh hưởng mạnh tới vùng vì:
++ địa hình thấp, dễ bị nước biển dâng và xâm nhập mặn
+- vùng có nhiều núi cao
+- vùng không có biển
+- vùng có khí hậu lạnh
+= Tác động.
+?4 Giải pháp phát triển bền vững Đồng bằng sông Cửu Long là:
++ chuyển đổi cơ cấu cây trồng, vật nuôi thích ứng mặn, quản lí nước hợp lí
+- tiếp tục độc canh lúa
+- phá rừng ngập mặn
+- khai thác cát sông vô hạn
+= Thích ứng biến đổi khí hậu.
+
+## Sử – Bài 17. Việt Nam từ năm 1976 đến năm 1991
+?1 Năm 1976, nước ta lấy tên là:
++ Cộng hòa xã hội chủ nghĩa Việt Nam
+- Việt Nam Dân chủ Cộng hòa
+- Đại Nam
+- Đại Việt
+= Thống nhất đất nước về mặt nhà nước.
+?1 Đường lối Đổi mới được đề ra tại Đại hội Đảng lần thứ:
++ VI (12/1986)
+- IV (1976)
+- V (1982)
+- VII (1991)
+= Mở đầu công cuộc Đổi mới.
+?1 Thủ đô của nước Cộng hòa xã hội chủ nghĩa Việt Nam là:
++ Hà Nội
+- Huế
+- Thành phố Hồ Chí Minh
+- Đà Nẵng
+= Quyết định năm 1976.
+?2 Năm 1979, quân dân ta chiến đấu bảo vệ biên giới:
++ phía Bắc
+- phía Nam bằng đường biển
+- trên không ở Hà Nội
+- ở Tây Nguyên với Pháp
+= Bảo vệ Tổ quốc.
+?2 Nội dung cốt lõi của Đổi mới về kinh tế là:
++ chuyển sang kinh tế hàng hóa nhiều thành phần theo cơ chế thị trường có sự quản lí của Nhà nước
+- giữ nguyên cơ chế bao cấp
+- đóng cửa với thế giới
+- chỉ phát triển nông nghiệp
+= Đổi mới tư duy kinh tế.
+?3 Chiến tranh bảo vệ biên giới Tây Nam (1979) đã giúp nhân dân Cam-pu-chia:
++ thoát khỏi chế độ diệt chủng Pôn Pốt
+- trở thành thuộc địa
+- chống lại Việt Nam
+- gia nhập NATO
+= Nghĩa vụ quốc tế.
+?3 Thành tựu bước đầu của Đổi mới là:
++ từ chỗ thiếu lương thực đã trở thành nước xuất khẩu gạo (1989)
+- kinh tế suy sụp
+- lạm phát tăng mãi
+- đóng cửa thị trường
+= Thành tựu.
+?4 Vì sao Việt Nam phải tiến hành Đổi mới?
++ đất nước lâm vào khủng hoảng kinh tế – xã hội, cơ chế cũ không còn phù hợp
+- do bị nước ngoài ép buộc
+- vì kinh tế đang phát triển rất tốt
+- không có lí do
+= Nguyên nhân.
+
+## Địa – Bài 14. Phát triển tổng hợp kinh tế và bảo vệ chủ quyền biển đảo
+?1 Các ngành kinh tế biển ở nước ta gồm:
++ khai thác, nuôi trồng hải sản; du lịch biển; khai thác khoáng sản biển; giao thông vận tải biển
+- chỉ có đánh bắt cá
+- chỉ có du lịch
+- trồng lúa và cà phê
+= Kinh tế biển tổng hợp.
+?1 Quần đảo Trường Sa thuộc tỉnh:
++ Khánh Hòa
+- Đà Nẵng
+- Quảng Ninh
+- Kiên Giang
+= Đơn vị hành chính.
+?1 Đảo lớn nhất nước ta là:
++ Phú Quốc
+- Cát Bà
+- Côn Sơn
+- Lý Sơn
+= Đảo ngọc.
+?2 Phát triển tổng hợp kinh tế biển có ý nghĩa:
++ khai thác hiệu quả tiềm năng biển, bảo vệ môi trường và chủ quyền
+- làm cạn kiệt tài nguyên
+- chỉ phục vụ du lịch
+- không có ý nghĩa
+= Vai trò.
+?2 Vùng biển nước ta có các bộ phận theo Công ước Luật Biển 1982 gồm:
++ nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa
+- chỉ lãnh hải
+- chỉ nội thủy
+- chỉ vùng đặc quyền kinh tế
+= Các vùng biển.
+?3 Việc ngư dân bám biển ở Hoàng Sa, Trường Sa có ý nghĩa:
++ vừa phát triển kinh tế vừa góp phần khẳng định chủ quyền
+- chỉ để kiếm sống
+- không có ý nghĩa gì
+- gây tranh chấp
+= Ý nghĩa.
+?3 Nguyên nhân làm suy giảm tài nguyên biển là:
++ khai thác quá mức, đánh bắt hủy diệt, ô nhiễm môi trường biển
+- trồng rừng ngập mặn
+- bảo vệ rạn san hô
+- lập khu bảo tồn biển
+= Thách thức.
+?4 Học sinh có thể góp phần bảo vệ chủ quyền biển đảo bằng cách:
++ tìm hiểu, tuyên truyền về chủ quyền biển đảo, giữ gìn môi trường biển
+- không quan tâm
+- xả rác ra biển
+- khai thác san hô làm quà
+= Trách nhiệm công dân.
+
+## Sử – Bài 18. Trật tự thế giới mới từ năm 1991 đến nay
+?1 Sau khi Chiến tranh lạnh kết thúc, trật tự thế giới đang hình thành theo xu hướng:
++ đa cực
+- hai cực I-an-ta
+- một cực tuyệt đối mãi mãi
+- không có trật tự
+= Xu thế thế giới.
+?1 Sau năm 1991, nước duy nhất còn là siêu cường là:
++ Mỹ
+- Nga
+- Anh
+- Pháp
+= Vị thế quốc tế.
+?1 Xu thế chủ đạo của thế giới hiện nay là:
++ hòa bình, hợp tác và phát triển
+- chiến tranh thế giới
+- đối đầu hai cực
+- đóng cửa kinh tế
+= Xu thế thời đại.
+?2 Sự kiện khủng bố ngày 11/9/2001 diễn ra tại:
++ Mỹ
+- Anh
+- Pháp
+- Nhật Bản
+= Thách thức an ninh phi truyền thống.
+?2 Các quốc gia hiện nay tập trung vào:
++ phát triển kinh tế, nâng cao sức mạnh tổng hợp
+- chạy đua vũ trang toàn diện
+- xâm chiếm thuộc địa
+- trở lại chế độ phong kiến
+= Ưu tiên phát triển.
+?3 Thách thức toàn cầu hiện nay là:
++ biến đổi khí hậu, dịch bệnh, khủng bố, an ninh mạng
+- chỉ có chiến tranh lạnh
+- thiếu dân số toàn cầu
+- không có thách thức
+= Vấn đề toàn cầu.
+?3 Liên hợp quốc có vai trò:
++ duy trì hòa bình, an ninh quốc tế, thúc đẩy hợp tác
+- gây chiến tranh
+- chỉ phục vụ một nước
+- không có vai trò gì
+= Tổ chức quốc tế.
+?4 Việt Nam cần làm gì trước xu thế hòa bình, hợp tác và phát triển?
++ nắm bắt cơ hội, hội nhập quốc tế, giữ vững độc lập tự chủ
+- đóng cửa với thế giới
+- chỉ hợp tác với một nước
+- bỏ qua phát triển kinh tế
+= Bài học vận dụng.
+
+## Sử – Bài 19. Việt Nam từ năm 1991 đến nay
+?1 Việt Nam gia nhập ASEAN vào năm:
++ 1995
+- 1967
+- 2007
+- 1986
+= Ngày 28/7/1995.
+?1 Việt Nam trở thành thành viên của Tổ chức Thương mại Thế giới (WTO) năm:
++ 2007
+- 1995
+- 1998
+- 2010
+= Hội nhập kinh tế.
+?1 Việt Nam và Mỹ bình thường hóa quan hệ ngoại giao năm:
++ 1995
+- 1975
+- 2007
+- 1986
+= Quan hệ đối ngoại.
+?2 Năm 1998, Việt Nam gia nhập:
++ Diễn đàn Hợp tác kinh tế châu Á – Thái Bình Dương (APEC)
+- NATO
+- EU
+- SEV
+= Hội nhập khu vực.
+?2 Thành tựu nổi bật của Việt Nam sau hơn 35 năm Đổi mới là:
++ kinh tế tăng trưởng, đời sống nhân dân được nâng cao, vị thế quốc tế được nâng lên
+- kinh tế suy thoái
+- đóng cửa với thế giới
+- không có thay đổi
+= Thành tựu.
+?3 Việt Nam nhiều lần được bầu làm Ủy viên không thường trực của:
++ Hội đồng Bảo an Liên hợp quốc
+- NATO
+- Liên minh châu Âu
+- SEV
+= Vị thế quốc tế.
+?3 Hạn chế cần khắc phục trong quá trình phát triển là:
++ ô nhiễm môi trường, chênh lệch giàu nghèo, năng suất lao động chưa cao
+- không có hạn chế
+- dân số quá ít
+- thiếu tài nguyên hoàn toàn
+= Thách thức.
+?4 Học sinh góp phần xây dựng đất nước bằng cách:
++ học tập tốt, rèn luyện đạo đức, kĩ năng và tinh thần trách nhiệm
+- chỉ chơi điện tử
+- không quan tâm xã hội
+- bỏ học
+= Trách nhiệm công dân.
+
+## Sử – Bài 20. Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hóa
+?1 Cuộc cách mạng khoa học – kĩ thuật hiện đại bắt đầu từ:
++ những năm 40 của thế kỉ XX
+- thế kỉ XV
+- thế kỉ XVIII
+- năm 2020
+= Thời gian.
+?1 Toàn cầu hóa là:
++ quá trình tăng lên mạnh mẽ mối liên hệ, ảnh hưởng, phụ thuộc lẫn nhau giữa các quốc gia
+- quá trình các nước tách biệt
+- chiến tranh toàn cầu
+- sự sụp đổ của kinh tế
+= Khái niệm.
+?1 Tổ chức Thương mại Thế giới (WTO) được thành lập năm:
++ 1995
+- 1945
+- 1967
+- 2007
+= Biểu hiện toàn cầu hóa.
+?2 Thành tựu nổi bật của cách mạng khoa học – kĩ thuật là:
++ máy tính điện tử, Internet, công nghệ sinh học, chinh phục vũ trụ
+- máy hơi nước
+- xe ngựa
+- đồng hồ cát
+= Thành tựu.
+?2 Cách mạng công nghiệp lần thứ tư gắn với:
++ trí tuệ nhân tạo, Internet vạn vật, dữ liệu lớn
+- máy hơi nước
+- điện năng lần đầu
+- máy dệt
+= Công nghiệp 4.0.
+?3 Mặt tích cực của toàn cầu hóa là:
++ thúc đẩy tăng trưởng kinh tế, chuyển giao công nghệ, giao lưu văn hóa
+- làm mọi nước nghèo đi
+- chấm dứt hợp tác
+- làm biến mất các nền văn hóa
+= Tác động tích cực.
+?3 Mặt tiêu cực của toàn cầu hóa là:
++ gia tăng cạnh tranh, khoảng cách giàu nghèo, nguy cơ đánh mất bản sắc văn hóa
+- thúc đẩy giao lưu văn hóa
+- tăng hợp tác quốc tế
+- chuyển giao công nghệ
+= Thách thức.
+?4 Để hội nhập thành công trong thời đại toàn cầu hóa, học sinh cần:
++ học ngoại ngữ, công nghệ, giữ gìn bản sắc văn hóa dân tộc
+- từ bỏ văn hóa dân tộc
+- không cần học ngoại ngữ
+- tránh xa công nghệ
+= Chuẩn bị cho tương lai.

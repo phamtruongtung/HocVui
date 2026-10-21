@@ -1,0 +1,1417 @@
+// Toán 8 – Tập 2
+#! HK2
+# Chương VI. Phân thức đại số
+
+## Bài 21. Phân thức đại số
+?1 Phân thức đại số là biểu thức có dạng A/B, trong đó:
++ A, B là đa thức và B khác đa thức 0
+- A, B là số tự nhiên
+- B có thể bằng 0
+- A phải khác 0
+= Định nghĩa.
+?1 Điều kiện xác định của phân thức 3/(x − 2) là:
++ x ≠ 2
+- x ≠ 0
+- x ≠ 3
+- x ≠ −2
+= Mẫu khác 0.
+?1 Hai phân thức A/B và C/D bằng nhau nếu:
++ A · D = B · C
+- A · C = B · D
+- A = C
+- A + D = B + C
+= Định nghĩa bằng nhau.
+?1 Giá trị của phân thức (x + 1)/(x − 1) tại x = 3 là:
++ 2
+- 1
+- 4
+- 1/2
+= 4/2.
+?2 Điều kiện xác định của (x + 1)/(x² − 4) là:
++ x ≠ 2 và x ≠ −2
+- x ≠ 2
+- x ≠ 4
+- x ≠ −1
+= x² − 4 ≠ 0.
+?2 Phân thức nào bằng (x − 1)/(x + 1)?
++ (x² − 1)/(x + 1)²
+- (x − 1)²/(x + 1)
+- (x + 1)/(x − 1)
+- x/(x + 2)
+= (x − 1)(x + 1)/(x + 1)².
+?2 Phân thức 2x/(x² + 1) xác định khi:
++ với mọi x
+- x ≠ 1
+- x ≠ −1
+- x ≠ 0
+= x² + 1 > 0.
+?3 Tìm x để phân thức (x − 3)/(x + 5) có giá trị bằng 0.
++ x = 3
+- x = −5
+- x = 0
+- x = 5
+= Tử bằng 0, mẫu khác 0.
+?3 Tìm x để phân thức (x² − 9)/(x − 3) có giá trị bằng 0.
++ x = −3
+- x = 3
+- x = ±3
+- không có x
+= x = 3 làm mẫu bằng 0 nên loại.
+?3 Đa thức A thỏa mãn A/(x + 2) = (x² − 4)/(x − 2) (x ≠ ±2) là:
++ (x + 2)²
+- x² − 4
+- x + 2
+- (x − 2)²
+= A = (x + 2)(x − 2)(x + 2)/(x − 2).
+?4 Giá trị lớn nhất của phân thức 3/(x² + 1) là:
++ 3, khi x = 0
+- 1
+- 0
+- không có
+= Mẫu nhỏ nhất bằng 1.
+?4 Tìm số nguyên x để 4/(x − 1) nhận giá trị nguyên.
++ x ∈ {−3; −1; 0; 2; 3; 5}
+- x ∈ {2; 3; 5}
+- x ∈ {0; 2}
+- x ∈ {−1; 1; 2; 4}
+= x − 1 ∈ {±1; ±2; ±4}.
+
+## Bài 22. Tính chất cơ bản của phân thức đại số
+?1 Nhân cả tử và mẫu của phân thức với cùng một đa thức khác 0 thì:
++ được phân thức bằng phân thức đã cho
+- phân thức tăng gấp đôi
+- phân thức bằng 0
+- phân thức đổi dấu
+= Tính chất cơ bản.
+?1 Rút gọn 6x²y/(9xy²).
++ 2x/(3y)
+- 2/3
+- 3x/(2y)
+- 2xy/3
+= Chia tử và mẫu cho 3xy.
+?1 Quy tắc đổi dấu: A/B bằng:
++ (−A)/(−B)
+- −A/B
+- A/(−B)
+- B/A
+= Đổi dấu cả tử và mẫu.
+?1 Rút gọn (x² − 1)/(x + 1).
++ x − 1
+- x + 1
+- x² − 1
+- 1
+= (x − 1)(x + 1)/(x + 1).
+?2 Rút gọn (x² + 2x + 1)/(x² − 1).
++ (x + 1)/(x − 1)
+- (x − 1)/(x + 1)
+- 1
+- x + 1
+= (x + 1)²/[(x − 1)(x + 1)].
+?2 Rút gọn (3x − 6)/(x² − 4).
++ 3/(x + 2)
+- 3/(x − 2)
+- 3
+- (x − 2)/3
+= 3(x − 2)/[(x − 2)(x + 2)].
+?2 Mẫu thức chung của 1/(x − 1) và 1/(x + 1) là:
++ x² − 1
+- x − 1
+- 2x
+- x² + 1
+= (x − 1)(x + 1).
+?3 Rút gọn (x³ − 8)/(x² + 2x + 4).
++ x − 2
+- x + 2
+- x² − 4
+- 1
+= Hiệu hai lập phương.
+?3 Rút gọn (2 − x)/(x² − 4).
++ −1/(x + 2)
+- 1/(x + 2)
+- 1/(x − 2)
+- −1/(x − 2)
+= 2 − x = −(x − 2).
+?3 Mẫu thức chung của 1/(2x) và 1/(3x²) là:
++ 6x²
+- 6x
+- 5x²
+- 6x³
+= BCNN của 2, 3 và lũy thừa cao nhất x².
+?4 Rút gọn (x² − xy)/(y² − xy).
++ −x/y
+- x/y
+- −y/x
+- 1
+= x(x − y)/[y(y − x)].
+?4 Rút gọn (x⁴ − 1)/(x³ + x).
++ (x² − 1)/x
+- x − 1
+- (x² + 1)/x
+- x
+= (x² − 1)(x² + 1)/[x(x² + 1)].
+
+## Bài 23. Phép cộng và phép trừ phân thức đại số
+?1 Tính 2/x + 3/x.
++ 5/x
+- 5/(2x)
+- 6/x
+- 5/x²
+= Cùng mẫu: cộng tử.
+?1 Tính x/(x + 1) + 1/(x + 1).
++ 1
+- x/(x + 1)
+- (x + 1)/(2x + 2)
+- 2
+= (x + 1)/(x + 1).
+?1 Tính 5/(x − 2) − 3/(x − 2).
++ 2/(x − 2)
+- 8/(x − 2)
+- 2
+- 2/(2x − 4)
+= Trừ tử, giữ mẫu.
+?1 Phân thức đối của 2/(x − 1) là:
++ −2/(x − 1)
+- 2/(1 + x)
+- (x − 1)/2
+- 2/(x + 1)
+= Tổng bằng 0.
+?2 Tính 1/x + 1/(x + 1).
++ (2x + 1)/[x(x + 1)]
+- 2/(2x + 1)
+- 1/[x(x + 1)]
+- (x + 1)/x
+= Quy đồng mẫu.
+?2 Tính 1/(x − 1) − 1/(x + 1).
++ 2/(x² − 1)
+- −2/(x² − 1)
+- 0
+- 2x/(x² − 1)
+= (x + 1 − x + 1)/(x² − 1).
+?2 Tính x/(x − y) + y/(y − x).
++ 1
+- 0
+- (x + y)/(x − y)
+- −1
+= (x − y)/(x − y).
+?3 Tính 1/(x² − 4) + 1/(x + 2).
++ (x − 1)/(x² − 4)
+- 2/(x² − 4)
+- (x + 1)/(x² − 4)
+- 1/(x − 2)
+= (1 + x − 2)/(x² − 4).
+?3 Tính 2x/(x² − 1) − 1/(x − 1).
++ 1/(x + 1)
+- 1/(x − 1)
+- (x + 1)/(x² − 1)
+- x/(x² − 1)
+= (2x − x − 1)/(x² − 1) = (x − 1)/(x² − 1).
+?3 Tính 3/(2x) + 1/(3x).
++ 11/(6x)
+- 4/(5x)
+- 4/(6x)
+- 1/x
+= 9/(6x) + 2/(6x).
+?4 Rút gọn 1/[x(x + 1)] + 1/[(x + 1)(x + 2)].
++ 2/[x(x + 2)]
+- 1/[x(x + 2)]
+- 2/(x + 1)
+- 1/x
+= (1/x − 1/(x+1)) + (1/(x+1) − 1/(x+2)) = 1/x − 1/(x + 2).
+?4 Tìm a, b sao cho 1/(x² − 1) = a/(x − 1) + b/(x + 1).
++ a = 1/2, b = −1/2
+- a = 1, b = −1
+- a = −1/2, b = 1/2
+- a = 1/2, b = 1/2
+= a(x + 1) + b(x − 1) = 1 → a + b = 0, a − b = 1.
+
+## Bài 24. Phép nhân và phép chia phân thức đại số
+?1 Tính (2x/3) · (9/x²).
++ 6/x
+- 18/(3x)²
+- 6x
+- 2/(3x)
+= 18x/(3x²).
+?1 Phân thức nghịch đảo của (x + 1)/(x − 2) là:
++ (x − 2)/(x + 1)
+- −(x + 1)/(x − 2)
+- (x + 1)/(x + 2)
+- 1
+= Đảo tử và mẫu.
+?1 Tính (x/y) : (x²/y²).
++ y/x
+- x/y
+- x³/y³
+- 1
+= (x/y) · (y²/x²).
+?1 Muốn chia A/B cho C/D (C/D ≠ 0) ta:
++ nhân A/B với D/C
+- nhân A/B với C/D
+- chia tử cho tử
+- cộng hai phân thức
+= Quy tắc chia.
+?2 Tính [(x² − 1)/x] · [x²/(x + 1)].
++ x(x − 1)
+- x(x + 1)
+- x − 1
+- x²
+= (x − 1)(x + 1) · x²/[x(x + 1)].
+?2 Tính [(x + 2)/(x − 3)] : [(x² − 4)/(x − 3)].
++ 1/(x − 2)
+- x − 2
+- 1/(x + 2)
+- (x + 2)²
+= (x + 2)/(x² − 4).
+?2 Tính (3x²/(4y)) · (8y²/(9x)).
++ 2xy/3
+- 2x/(3y)
+- 24xy/36
+- 3xy/2
+= 24x²y²/(36xy).
+?3 Rút gọn [(x² − 4)/(x² + 4x + 4)] : [(x − 2)/(x + 2)].
++ 1
+- x − 2
+- (x + 2)²
+- (x − 2)/(x + 2)
+= [(x − 2)(x + 2)/(x + 2)²] · [(x + 2)/(x − 2)].
+?3 Tính (1 − 1/x) · x/(x − 1) với x ≠ 0, x ≠ 1.
++ 1
+- x
+- x − 1
+- 1/x
+= (x − 1)/x · x/(x − 1).
+?3 Tính (x³ + 1)/(x² − x + 1) · 1/(x + 1).
++ 1
+- x + 1
+- x² + 1
+- x
+= Tổng hai lập phương.
+?4 Rút gọn (1 + 1/x)(1 + 1/(x + 1))(1 + 1/(x + 2)).
++ (x + 3)/x
+- 1
+- (x + 1)/x
+- x/(x + 3)
+= [(x+1)/x] · [(x+2)/(x+1)] · [(x+3)/(x+2)].
+?4 Giá trị của biểu thức [x/(x − 1) − 1] · (x − 1) với x ≠ 1 là:
++ 1
+- x
+- 0
+- x − 1
+= [x − (x − 1)]/(x − 1) · (x − 1) = 1.
+
+# Chương VII. Phương trình bậc nhất và hàm số bậc nhất
+
+## Bài 25. Phương trình bậc nhất một ẩn
+?1 Phương trình bậc nhất một ẩn có dạng:
++ ax + b = 0 (a ≠ 0)
+- ax² + b = 0
+- a/x + b = 0
+- ax + b = 0 với a = 0
+= Định nghĩa.
+?1 Phương trình nào là phương trình bậc nhất một ẩn?
++ 2x − 3 = 0
+- x² + 1 = 0
+- 0x + 2 = 0
+- 1/x = 2
+= Dạng ax + b = 0, a ≠ 0.
+?1 Nghiệm của phương trình 3x − 6 = 0 là:
++ x = 2
+- x = −2
+- x = 3
+- x = 6
+= 3x = 6.
+?1 Phương trình ax + b = 0 (a ≠ 0) có:
++ một nghiệm duy nhất x = −b/a
+- vô nghiệm
+- vô số nghiệm
+- hai nghiệm
+= Nghiệm duy nhất.
+?2 Giải phương trình 5x + 2 = 3x − 4.
++ x = −3
+- x = 3
+- x = −1
+- x = 1
+= 2x = −6.
+?2 Giải phương trình 2(x − 1) = x + 3.
++ x = 5
+- x = 1
+- x = −5
+- x = 4
+= 2x − 2 = x + 3.
+?2 x = 2 là nghiệm của phương trình nào?
++ 3x − 1 = 5
+- 2x + 1 = 3
+- x − 2 = 1
+- 4x = 2
+= 6 − 1 = 5.
+?3 Giải phương trình (x − 1)/2 + x/3 = 2.
++ x = 3
+- x = 2
+- x = 6
+- x = 1
+= 3(x − 1) + 2x = 12 → 5x = 15.
+?3 Giải phương trình (2x + 1)/3 − (x − 1)/2 = 1.
++ x = 1
+- x = −1
+- x = 5
+- x = 3
+= 2(2x + 1) − 3(x − 1) = 6 → x + 5 = 6.
+?3 Tìm m để phương trình (m − 2)x + 3 = 0 là phương trình bậc nhất.
++ m ≠ 2
+- m = 2
+- m ≠ 0
+- m = 0
+= Hệ số của x khác 0.
+?4 Tìm m để phương trình 2x + m = x − 1 có nghiệm x = 3.
++ m = −4
+- m = 4
+- m = −2
+- m = 2
+= 6 + m = 2.
+?4 Phương trình x + 1 = x + 2 có:
++ vô nghiệm
+- một nghiệm
+- vô số nghiệm
+- hai nghiệm
+= Thu gọn: 0x = 1.
+
+## Bài 26. Giải bài toán bằng cách lập phương trình
+?1 Bước đầu tiên khi giải bài toán bằng cách lập phương trình là:
++ chọn ẩn và đặt điều kiện cho ẩn
+- giải phương trình
+- kết luận
+- kiểm tra nghiệm
+= Các bước giải.
+?1 Tổng hai số là 50, số này hơn số kia 10. Số lớn là:
++ 30
+- 20
+- 25
+- 40
+= x + (x − 10) = 50 → x = 30.
+?1 Một số cộng 7 rồi nhân 2 được 30. Số đó là:
++ 8
+- 11
+- 15
+- 23
+= 2(x + 7) = 30.
+?1 Tuổi bố gấp 3 lần tuổi con, tổng tuổi hai bố con là 48. Tuổi con là:
++ 12
+- 16
+- 36
+- 24
+= 4x = 48.
+?2 Một xe đi từ A đến B với vận tốc 40 km/h, lúc về 50 km/h, tổng thời gian 4,5 giờ. Quãng đường AB là:
++ 100 km
+- 90 km
+- 120 km
+- 80 km
+= x/40 + x/50 = 4,5 → 9x/200 = 4,5.
+?2 Hình chữ nhật có chiều dài hơn chiều rộng 5 m, chu vi 50 m. Chiều rộng là:
++ 10 m
+- 15 m
+- 12,5 m
+- 20 m
+= 2(x + x + 5) = 50.
+?2 Lớp có 40 học sinh, số nam bằng 3/5 số nữ. Số nữ là:
++ 25
+- 15
+- 24
+- 16
+= x + 3x/5 = 40 → x = 25.
+?3 Hai vòi cùng chảy đầy bể trong 6 giờ, riêng vòi 1 chảy đầy bể trong 10 giờ. Riêng vòi 2 chảy đầy bể trong:
++ 15 giờ
+- 4 giờ
+- 16 giờ
+- 8 giờ
+= 1/x = 1/6 − 1/10 = 1/15.
+?3 Mua 3 kg táo và 2 kg cam hết 210 000 đồng; giá 1 kg táo hơn 1 kg cam 20 000 đồng. Giá 1 kg cam là:
++ 30 000 đồng
+- 50 000 đồng
+- 40 000 đồng
+- 35 000 đồng
+= 3(x + 20 000) + 2x = 210 000 → 5x = 150 000.
+?3 Một người gửi tiết kiệm, sau 1 năm nhận cả gốc lẫn lãi 106 triệu đồng với lãi suất 6%/năm. Số tiền gửi ban đầu là:
++ 100 triệu
+- 99,64 triệu
+- 106 triệu
+- 94 triệu
+= 1,06x = 106.
+?4 Một ca nô xuôi dòng từ A đến B hết 4 giờ, ngược dòng hết 5 giờ. Vận tốc dòng nước 2 km/h. Quãng đường AB là:
++ 80 km
+- 40 km
+- 90 km
+- 72 km
+= 4(v + 2) = 5(v − 2) → v = 18; AB = 80.
+?4 Một số tự nhiên có hai chữ số, chữ số hàng chục gấp đôi chữ số hàng đơn vị. Nếu đổi chỗ hai chữ số thì được số mới nhỏ hơn số cũ 36. Số đó là:
++ 84
+- 42
+- 63
+- 21
+= Số 21b; 21b − 12b = 9b = 36 → b = 4.
+
+## Bài 27. Khái niệm hàm số và đồ thị của hàm số
+?1 Đại lượng y là hàm số của x nếu:
++ mỗi giá trị của x xác định được duy nhất một giá trị của y
+- mỗi x có hai giá trị y
+- y không phụ thuộc x
+- x và y bằng nhau
+= Định nghĩa hàm số.
+?1 Cho hàm số y = 2x + 1. Giá trị của y tại x = 3 là:
++ 7
+- 6
+- 5
+- 8
+= 2 · 3 + 1.
+?1 Mặt phẳng tọa độ Oxy có trục hoành là:
++ Ox
+- Oy
+- O
+- đường phân giác
+= Trục nằm ngang.
+?1 Điểm M(2; −3) có hoành độ là:
++ 2
+- −3
+- 0
+- −1
+= Hoành độ viết trước.
+?2 Điểm nào thuộc đồ thị hàm số y = x²?
++ (−2; 4)
+- (2; −4)
+- (4; 2)
+- (−2; −4)
+= (−2)² = 4.
+?2 Điểm A(−1; 2) nằm ở góc phần tư thứ:
++ II
+- I
+- III
+- IV
+= Hoành độ âm, tung độ dương.
+?2 Cho f(x) = 3 − x. f(−2) bằng:
++ 5
+- 1
+- −5
+- −1
+= 3 − (−2).
+?3 Đồ thị hàm số y = ax đi qua điểm (2; 6). Hệ số a là:
++ 3
+- 12
+- 1/3
+- 4
+= 6 = 2a.
+?3 Điểm nằm trên trục tung có hoành độ bằng:
++ 0
+- 1
+- tung độ
+- −1
+= Dạng (0; b).
+?3 Cho hàm số y = f(x) = x² − 1. Giá trị x để f(x) = 3 là:
++ x = 2 hoặc x = −2
+- x = 2
+- x = 4
+- x = √2
+= x² = 4.
+?4 Cho A(1; 2), B(4; 6). Độ dài đoạn AB là:
++ 5
+- 7
+- √7
+- 25
+= √(3² + 4²).
+?4 Hàm số y = f(x) có f(x + 1) = 2x + 3. Giá trị f(5) là:
++ 11
+- 13
+- 9
+- 10
+= x + 1 = 5 → x = 4; 2 · 4 + 3.
+
+## Bài 28. Hàm số bậc nhất và đồ thị của hàm số bậc nhất
+?1 Hàm số bậc nhất có dạng:
++ y = ax + b (a ≠ 0)
+- y = ax² + b
+- y = a/x
+- y = b
+= Định nghĩa.
+?1 Hàm số nào là hàm số bậc nhất?
++ y = 2 − 3x
+- y = x² + 1
+- y = 1/x + 2
+- y = 5
+= a = −3 ≠ 0.
+?1 Đồ thị hàm số y = ax + b (a ≠ 0) là:
++ một đường thẳng
+- một đường cong parabol
+- một đường tròn
+- một điểm
+= Đường thẳng.
+?1 Đồ thị hàm số y = 2x + 3 cắt trục tung tại điểm:
++ (0; 3)
+- (3; 0)
+- (0; 2)
+- (−3/2; 0)
+= x = 0 → y = 3.
+?2 Đồ thị hàm số y = 2x − 4 cắt trục hoành tại điểm:
++ (2; 0)
+- (−2; 0)
+- (0; −4)
+- (4; 0)
+= y = 0 → x = 2.
+?2 Hàm số y = (m − 1)x + 2 là hàm số bậc nhất khi:
++ m ≠ 1
+- m = 1
+- m ≠ 0
+- m ≠ 2
+= Hệ số a ≠ 0.
+?2 Điểm nào thuộc đồ thị y = −x + 1?
++ (2; −1)
+- (2; 1)
+- (−1; −2)
+- (0; −1)
+= −2 + 1 = −1.
+?3 Đồ thị y = ax + 1 đi qua A(2; 5). Giá trị a là:
++ 2
+- 3
+- 1/2
+- 4
+= 5 = 2a + 1.
+?3 Hàm số y = ax + b có đồ thị đi qua (0; −2) và (1; 1). Hàm số là:
++ y = 3x − 2
+- y = −2x + 1
+- y = x − 2
+- y = 2x − 2
+= b = −2; a + b = 1.
+?3 Hàm số y = −2x + 5 đồng biến hay nghịch biến?
++ nghịch biến
+- đồng biến
+- không đổi
+- không xác định
+= a < 0.
+?4 Diện tích tam giác tạo bởi đường thẳng y = 2x − 4 và hai trục tọa độ là:
++ 4
+- 8
+- 2
+- 16
+= Cắt Ox tại (2; 0), Oy tại (0; −4): S = 2 · 4 : 2.
+?4 Giá cước taxi: mở cửa 15 000 đồng, mỗi km tiếp theo 12 000 đồng. Hàm số biểu thị số tiền y theo số km x (x ≥ 1, km đầu tính trong giá mở cửa) là:
++ y = 15 000 + 12 000(x − 1)
+- y = 12 000x
+- y = 15 000x + 12 000
+- y = 27 000x
+= Giá cố định + phần tăng theo km.
+
+## Bài 29. Hệ số góc của đường thẳng
+?1 Trong y = ax + b (a ≠ 0), a gọi là:
++ hệ số góc
+- tung độ gốc
+- hoành độ gốc
+- hằng số tự do
+= Hệ số góc.
+?1 Hai đường thẳng y = ax + b và y = a'x + b' song song khi:
++ a = a' và b ≠ b'
+- a ≠ a'
+- a = a' và b = b'
+- a · a' = −1
+= Điều kiện song song.
+?1 Hệ số góc của đường thẳng y = −3x + 2 là:
++ −3
+- 2
+- 3
+- −2
+= Hệ số của x.
+?1 Hai đường thẳng y = 2x + 1 và y = 2x − 3:
++ song song
+- cắt nhau
+- trùng nhau
+- vuông góc
+= Cùng hệ số góc, khác tung độ gốc.
+?2 Hai đường thẳng y = ax + b và y = a'x + b' cắt nhau khi:
++ a ≠ a'
+- a = a'
+- b = b'
+- b ≠ b'
+= Điều kiện cắt nhau.
+?2 Đường thẳng song song với y = 3x và đi qua (0; 2) là:
++ y = 3x + 2
+- y = 2x + 3
+- y = −3x + 2
+- y = 3x − 2
+= a = 3, b = 2.
+?2 Đường thẳng y = (m − 1)x + 3 song song với y = 2x + 1 khi:
++ m = 3
+- m = 2
+- m = 1
+- m = −1
+= m − 1 = 2.
+?3 Góc tạo bởi đường thẳng y = ax + b với trục Ox là góc nhọn khi:
++ a > 0
+- a < 0
+- a = 0
+- b > 0
+= Hệ số góc dương.
+?3 Đường thẳng y = 2x + m cắt y = −x + 4 tại điểm có hoành độ 1. Giá trị m là:
++ 1
+- 3
+- 2
+- −1
+= Tại x = 1: y = 3 → 2 + m = 3.
+?3 Hai đường thẳng y = (2m + 1)x − 3 và y = 3x + 1 cắt nhau khi:
++ m ≠ 1
+- m = 1
+- m ≠ 3
+- m = 0
+= 2m + 1 ≠ 3.
+?4 Tìm tọa độ giao điểm của hai đường thẳng y = x + 1 và y = −2x + 4.
++ (1; 2)
+- (2; 1)
+- (−1; 0)
+- (0; 1)
+= x + 1 = −2x + 4 → x = 1.
+?4 Ba đường thẳng y = x + 1, y = −x + 3 và y = mx + 1 đồng quy khi:
++ m = 1
+- m = 2
+- m = 0
+- m = −1
+= Giao điểm hai đường đầu là (1; 2); thay vào: 2 = m + 1 → m = 1.
+
+# Chương VIII. Mở đầu về tính xác suất của biến cố
+
+## Bài 30. Kết quả có thể và kết quả thuận lợi
+?1 Gieo một xúc xắc, số kết quả có thể là:
++ 6
+- 12
+- 1
+- 2
+= Mặt 1 đến 6.
+?1 Kết quả thuận lợi cho biến cố A là:
++ kết quả làm cho biến cố A xảy ra
+- mọi kết quả có thể
+- kết quả không làm A xảy ra
+- kết quả đầu tiên
+= Định nghĩa.
+?1 Tung đồng xu hai lần, số kết quả có thể là:
++ 4
+- 2
+- 3
+- 8
+= SS, SN, NS, NN.
+?1 Rút ngẫu nhiên một thẻ trong 10 thẻ đánh số 1–10. Số kết quả có thể là:
++ 10
+- 1
+- 5
+- 9
+= Mười thẻ.
+?2 Gieo xúc xắc, số kết quả thuận lợi cho biến cố "số chấm là số chẵn" là:
++ 3
+- 2
+- 6
+- 1
+= 2, 4, 6.
+?2 Rút 1 thẻ từ thẻ 1–10, số kết quả thuận lợi cho "số chia hết cho 3" là:
++ 3
+- 4
+- 2
+- 5
+= 3, 6, 9.
+?2 Chọn ngẫu nhiên một ngày trong tuần. Số kết quả thuận lợi cho "ngày cuối tuần (Thứ Bảy, Chủ nhật)" là:
++ 2
+- 1
+- 5
+- 7
+= Hai ngày.
+?3 Gieo hai xúc xắc. Số kết quả thuận lợi cho "tổng bằng 7" là:
++ 6
+- 5
+- 7
+- 4
+= (1;6), (2;5), (3;4), (4;3), (5;2), (6;1).
+?3 Tung ba đồng xu, số kết quả có thể là:
++ 8
+- 6
+- 3
+- 9
+= 2³.
+?3 Chọn ngẫu nhiên số có hai chữ số. Số kết quả có thể là:
++ 90
+- 100
+- 99
+- 89
+= Từ 10 đến 99.
+?4 Tung ba đồng xu, số kết quả thuận lợi cho "có đúng hai mặt sấp" là:
++ 3
+- 2
+- 4
+- 1
+= SSN, SNS, NSS.
+?4 Chọn ngẫu nhiên số tự nhiên có hai chữ số. Số kết quả thuận lợi cho "số chia hết cho 5" là:
++ 18
+- 20
+- 19
+- 17
+= 10, 15, …, 95: 18 số.
+
+## Bài 31. Cách tính xác suất của biến cố bằng tỉ số
+?1 Khi các kết quả có thể là đồng khả năng, xác suất của biến cố A bằng:
++ số kết quả thuận lợi cho A : tổng số kết quả có thể
+- tổng số kết quả : số kết quả thuận lợi
+- số kết quả không thuận lợi
+- luôn bằng 1/2
+= P(A) = n(A)/n(Ω).
+?1 Gieo xúc xắc, xác suất ra mặt 3 chấm là:
++ 1/6
+- 1/3
+- 1/2
+- 3/6
+= Một kết quả trong sáu.
+?1 Xác suất của biến cố luôn thỏa mãn:
++ 0 ≤ P(A) ≤ 1
+- P(A) > 1
+- P(A) < 0
+- P(A) = 2
+= Tính chất.
+?1 Tung đồng xu, xác suất xuất hiện mặt sấp là:
++ 1/2
+- 1
+- 0
+- 1/4
+= Hai kết quả.
+?2 Túi có 3 bi đỏ, 5 bi xanh. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi đỏ là:
++ 3/8
+- 5/8
+- 3/5
+- 1/3
+= 3 trong 8.
+?2 Rút 1 thẻ từ 1–20. Xác suất rút được số nguyên tố là:
++ 2/5
+- 1/2
+- 9/20
+- 7/20
+= 8 số nguyên tố: 2, 3, 5, 7, 11, 13, 17, 19.
+?2 Gieo xúc xắc, xác suất ra mặt có số chấm lớn hơn 4 là:
++ 1/3
+- 1/2
+- 2/3
+- 1/6
+= Mặt 5, 6.
+?3 Gieo hai xúc xắc, xác suất tổng số chấm bằng 7 là:
++ 1/6
+- 7/36
+- 1/12
+- 5/36
+= 6/36.
+?3 Tung hai đồng xu, xác suất được hai mặt giống nhau là:
++ 1/2
+- 1/4
+- 3/4
+- 1
+= SS, NN: 2/4.
+?3 Lớp có 18 nam, 22 nữ. Chọn ngẫu nhiên 1 bạn. Xác suất chọn được bạn nam là:
++ 9/20
+- 11/20
+- 9/11
+- 18/22
+= 18/40.
+?4 Gieo hai xúc xắc, xác suất tổng số chấm là số lẻ là:
++ 1/2
+- 1/3
+- 5/12
+- 2/3
+= 18/36.
+?4 Chọn ngẫu nhiên số có hai chữ số. Xác suất số đó chia hết cho 9 là:
++ 1/9
+- 1/10
+- 11/90
+- 1/8
+= 18, 27, …, 99: 10 số; 10/90.
+
+## Bài 32. Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng
+?1 Khi số lần thực nghiệm càng lớn, xác suất thực nghiệm:
++ càng gần với xác suất của biến cố
+- càng xa xác suất
+- luôn bằng 1
+- luôn bằng 0
+= Quy luật số lớn.
+?1 Tung đồng xu 100 lần, mặt ngửa xuất hiện 48 lần. Xác suất thực nghiệm mặt ngửa là:
++ 0,48
+- 0,5
+- 48
+- 0,52
+= 48/100.
+?1 Ứng dụng của xác suất thực nghiệm là:
++ ước lượng khả năng xảy ra của sự kiện trong thực tế
+- tính diện tích
+- giải phương trình
+- vẽ biểu đồ
+= Dự báo.
+?1 Kiểm tra 500 sản phẩm thấy 10 sản phẩm lỗi. Xác suất thực nghiệm sản phẩm lỗi là:
++ 0,02
+- 0,2
+- 0,01
+- 10
+= 10/500.
+?2 Với tỉ lệ lỗi 2%, trong 10 000 sản phẩm ước tính có khoảng:
++ 200 sản phẩm lỗi
+- 20 sản phẩm lỗi
+- 2 000 sản phẩm lỗi
+- 2 sản phẩm lỗi
+= 10 000 · 0,02.
+?2 Một xạ thủ bắn 50 phát, trúng 40 phát. Xác suất thực nghiệm bắn trượt là:
++ 0,2
+- 0,8
+- 0,4
+- 0,1
+= 10/50.
+?2 Gieo xúc xắc 600 lần, số lần xuất hiện mặt 6 dự kiến khoảng:
++ 100
+- 60
+- 600
+- 300
+= 600 · 1/6.
+?3 Theo thống kê, xác suất một ngày tháng 7 ở Hà Nội có mưa là 0,6. Số ngày mưa dự kiến trong tháng 7 (31 ngày) khoảng:
++ 19 ngày
+- 12 ngày
+- 6 ngày
+- 25 ngày
+= 31 · 0,6 ≈ 18,6.
+?3 Một cửa hàng ghi nhận 30% khách mua thêm nước uống. Trong 200 khách, số khách mua nước uống dự kiến là:
++ 60
+- 30
+- 140
+- 100
+= 200 · 30%.
+?3 Trong 1 000 lần gieo hạt, 920 hạt nảy mầm. Xác suất thực nghiệm hạt không nảy mầm là:
++ 0,08
+- 0,92
+- 0,8
+- 0,008
+= 80/1 000.
+?4 Bắt 50 con cá, đánh dấu rồi thả lại hồ. Lần sau bắt 100 con thấy 5 con có dấu. Số cá trong hồ ước tính khoảng:
++ 1 000 con
+- 500 con
+- 250 con
+- 5 000 con
+= Tỉ lệ cá có dấu 5/100 = 50/N → N = 1 000.
+?4 Xác suất trúng thưởng một vé là 0,01. Mua 300 vé thì số vé trúng dự kiến khoảng:
++ 3
+- 30
+- 1
+- 0
+= 300 · 0,01.
+
+# Chương IX. Tam giác đồng dạng
+
+## Bài 33. Hai tam giác đồng dạng
+?1 Hai tam giác đồng dạng là hai tam giác có:
++ các góc tương ứng bằng nhau và các cạnh tương ứng tỉ lệ
+- các cạnh tương ứng bằng nhau
+- cùng diện tích
+- cùng chu vi
+= Định nghĩa.
+?1 Kí hiệu ΔABC đồng dạng ΔDEF là:
++ ΔABC ∽ ΔDEF
+- ΔABC = ΔDEF
+- ΔABC // ΔDEF
+- ΔABC ⊥ ΔDEF
+= Kí hiệu đồng dạng.
+?1 Hai tam giác bằng nhau thì đồng dạng với tỉ số:
++ 1
+- 2
+- 0
+- 1/2
+= Trường hợp đặc biệt.
+?1 Nếu ΔABC ∽ ΔDEF với tỉ số k thì AB/DE bằng:
++ k
+- 1/k
+- k²
+- 2k
+= Tỉ số đồng dạng.
+?2 ΔABC ∽ ΔDEF, AB = 3, DE = 6, BC = 4. EF bằng:
++ 8
+- 2
+- 12
+- 6
+= Tỉ số 1/2.
+?2 Đường thẳng song song với một cạnh của tam giác, cắt hai cạnh còn lại tạo thành:
++ một tam giác mới đồng dạng với tam giác đã cho
+- một tam giác bằng tam giác đã cho
+- một hình thang cân
+- một hình vuông
+= Định lí.
+?2 ΔABC ∽ ΔDEF với tỉ số 2/3. Chu vi ΔABC là 12. Chu vi ΔDEF là:
++ 18
+- 8
+- 24
+- 12
+= Tỉ số chu vi bằng tỉ số đồng dạng.
+?3 ΔABC ∽ ΔMNP, góc A = 50°, góc N = 70°. Góc C bằng:
++ 60°
+- 50°
+- 70°
+- 120°
+= Góc B = góc N = 70°.
+?3 ΔABC ∽ ΔDEF với tỉ số 3. Tỉ số diện tích là:
++ 9
+- 3
+- 6
+- 1/3
+= Bình phương tỉ số đồng dạng.
+?3 ΔABC có MN // BC, AM = 2, AB = 6, BC = 9. MN bằng:
++ 3
+- 4,5
+- 6
+- 2
+= MN/BC = AM/AB = 1/3.
+?4 Hai tam giác đồng dạng có tỉ số diện tích 4/9. Tỉ số chu vi là:
++ 2/3
+- 4/9
+- 16/81
+- 3/2
+= Căn bậc hai của tỉ số diện tích.
+?4 ΔABC ∽ ΔA'B'C', AB = 4, A'B' = 6, diện tích ΔABC = 12. Diện tích ΔA'B'C' là:
++ 27
+- 18
+- 8
+- 36
+= 12 · (6/4)².
+
+## Bài 34. Ba trường hợp đồng dạng của hai tam giác
+?1 Trường hợp đồng dạng cạnh – cạnh – cạnh (c.c.c):
++ ba cạnh của tam giác này tỉ lệ với ba cạnh tam giác kia
+- ba cạnh bằng nhau
+- hai cạnh bằng nhau
+- ba góc bằng nhau
+= Trường hợp thứ nhất.
+?1 Trường hợp góc – góc (g.g):
++ hai góc của tam giác này bằng hai góc của tam giác kia
+- một góc bằng nhau
+- ba cạnh tỉ lệ
+- hai cạnh tỉ lệ
+= Trường hợp thứ ba.
+?1 Trường hợp cạnh – góc – cạnh (c.g.c):
++ hai cạnh tỉ lệ và góc xen giữa bằng nhau
+- hai cạnh bằng nhau
+- hai góc bằng nhau
+- ba cạnh tỉ lệ
+= Trường hợp thứ hai.
+?1 Hai tam giác đều bất kì luôn:
++ đồng dạng
+- bằng nhau
+- không đồng dạng
+- có cùng chu vi
+= Các góc đều bằng 60°.
+?2 Tam giác có cạnh 3, 4, 5 và tam giác có cạnh 6, 8, 10:
++ đồng dạng (c.c.c), tỉ số 1/2
+- bằng nhau
+- không đồng dạng
+- đồng dạng tỉ số 2/3
+= Các cạnh tỉ lệ.
+?2 ΔABC và ΔDEF có góc A = góc D = 60°, AB/DE = AC/DF = 2. Kết luận:
++ ΔABC ∽ ΔDEF (c.g.c)
+- ΔABC = ΔDEF
+- không đồng dạng
+- ΔABC ∽ ΔEFD
+= Hai cạnh tỉ lệ, góc xen giữa bằng nhau.
+?2 ΔABC có góc A = 50°, góc B = 70°; ΔDEF có góc D = 50°, góc F = 60°. Kết luận:
++ ΔABC ∽ ΔDEF (g.g)
+- không đồng dạng
+- ΔABC = ΔDEF
+- ΔABC ∽ ΔFDE
+= Góc C = 60° = góc F.
+?3 Tam giác vuông ABC (vuông tại A), AH là đường cao. Cặp tam giác đồng dạng là:
++ ΔHBA ∽ ΔABC
+- ΔHAB ∽ ΔABC
+- ΔABH = ΔACH
+- không có cặp nào
+= Chung góc B, cùng có góc vuông.
+?3 Tam giác vuông ABC (vuông tại A), AH ⊥ BC, BH = 4, HC = 9. AH bằng:
++ 6
+- 13
+- 36
+- 5
+= AH² = BH · HC.
+?3 Hình thang ABCD (AB // CD), AC cắt BD tại O. Cặp tam giác đồng dạng là:
++ ΔOAB ∽ ΔOCD
+- ΔOAD ∽ ΔOCB
+- ΔABC ∽ ΔACD
+- không có
+= Góc so le trong bằng nhau.
+?4 Một cây cao có bóng dài 8 m, cùng lúc cọc cao 1,5 m có bóng 2 m. Chiều cao cây là:
++ 6 m
+- 10,7 m
+- 4 m
+- 12 m
+= h/8 = 1,5/2.
+?4 Tam giác vuông ABC (vuông tại A), AB = 6, AC = 8, AH là đường cao. BH bằng:
++ 3,6
+- 6,4
+- 4,8
+- 2
+= BC = 10; AB² = BH · BC → BH = 36/10.
+
+## Bài 35. Định lí Pythagore và ứng dụng
+?1 Định lí Pythagore: trong tam giác vuông:
++ bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông
+- cạnh huyền bằng tổng hai cạnh góc vuông
+- hai cạnh góc vuông bằng nhau
+- bình phương cạnh góc vuông bằng tổng hai cạnh còn lại
+= a² = b² + c².
+?1 Tam giác vuông có hai cạnh góc vuông 3 và 4. Cạnh huyền bằng:
++ 5
+- 7
+- 25
+- 12
+= √(9 + 16).
+?1 Tam giác có ba cạnh nào là tam giác vuông?
++ 5, 12, 13
+- 4, 5, 6
+- 2, 3, 4
+- 6, 7, 8
+= 25 + 144 = 169.
+?1 Định lí Pythagore đảo dùng để:
++ nhận biết tam giác vuông
+- tính diện tích
+- tính chu vi
+- chứng minh song song
+= Nếu a² = b² + c² thì vuông.
+?2 Tam giác vuông có cạnh huyền 10, một cạnh góc vuông 6. Cạnh còn lại:
++ 8
+- 4
+- 16
+- √136
+= √(100 − 36).
+?2 Hình vuông cạnh 5 cm có đường chéo:
++ 5√2 cm
+- 10 cm
+- 25 cm
+- 5 cm
+= √(25 + 25).
+?2 Một cái thang dài 5 m dựa vào tường, chân thang cách tường 3 m. Đầu thang cao:
++ 4 m
+- 2 m
+- 8 m
+- √34 m
+= √(25 − 9).
+?3 Màn hình tivi 40 inch (đường chéo), chiều rộng 24 inch. Chiều dài là:
++ 32 inch
+- 16 inch
+- 46,6 inch
+- 28 inch
+= √(1600 − 576) = √1024.
+?3 Tam giác đều cạnh 6 cm có đường cao:
++ 3√3 cm
+- 3 cm
+- 6√3 cm
+- 4 cm
+= √(36 − 9) = √27.
+?3 Hai điểm A(1; 1), B(4; 5) trên mặt phẳng tọa độ. AB bằng:
++ 5
+- 7
+- √7
+- 25
+= √(9 + 16).
+?4 Một người đi về hướng Đông 6 km, rồi về hướng Bắc 8 km. Khoảng cách từ người đó đến điểm xuất phát là:
++ 10 km
+- 14 km
+- 2 km
+- 48 km
+= √(36 + 64).
+?4 Tam giác ABC có AB = 7, AC = 24, BC = 25. Góc A bằng:
++ 90°
+- 60°
+- 45°
+- 120°
+= 49 + 576 = 625 = 25².
+
+## Bài 36. Các trường hợp đồng dạng của hai tam giác vuông
+?1 Hai tam giác vuông đồng dạng nếu có:
++ một góc nhọn bằng nhau
+- một cạnh bằng nhau
+- cạnh huyền bằng nhau
+- chu vi bằng nhau
+= Trường hợp góc nhọn.
+?1 Hai tam giác vuông đồng dạng nếu hai cạnh góc vuông:
++ tỉ lệ với nhau
+- bằng nhau
+- có tổng bằng nhau
+- vuông góc
+= Trường hợp c.g.c.
+?1 Hai tam giác vuông đồng dạng nếu:
++ cạnh huyền và một cạnh góc vuông tỉ lệ
+- hai góc vuông bằng nhau
+- cạnh huyền bằng nhau
+- diện tích bằng nhau
+= Trường hợp đặc biệt.
+?1 Tam giác vuông có góc nhọn 30° và tam giác vuông có góc nhọn 60°:
++ đồng dạng
+- không đồng dạng
+- bằng nhau
+- không xác định
+= Góc nhọn còn lại là 60° và 30°.
+?2 Tam giác vuông có hai cạnh góc vuông 3, 4 và tam giác vuông có hai cạnh góc vuông 9, 12:
++ đồng dạng
+- không đồng dạng
+- bằng nhau
+- không xác định
+= Tỉ lệ 1/3.
+?2 Tỉ số hai đường cao tương ứng của hai tam giác đồng dạng bằng:
++ tỉ số đồng dạng
+- bình phương tỉ số
+- 1
+- căn tỉ số
+= Tính chất.
+?2 Tam giác vuông cân và tam giác vuông có góc nhọn 45° thì:
++ đồng dạng
+- không đồng dạng
+- bằng nhau
+- không xác định
+= Cùng góc 45°.
+?3 Đo chiều cao tòa nhà: bóng tòa nhà 30 m, cùng lúc người cao 1,6 m có bóng 1,2 m. Tòa nhà cao:
++ 40 m
+- 22,5 m
+- 36 m
+- 48 m
+= h/30 = 1,6/1,2.
+?3 Hai tam giác vuông đồng dạng có tỉ số đồng dạng 2/5. Đường cao ứng với cạnh huyền của tam giác nhỏ là 4. Đường cao tương ứng của tam giác lớn là:
++ 10
+- 1,6
+- 8
+- 20
+= 4 : 2/5.
+?3 Tam giác vuông ABC (A = 90°) và tam giác vuông DEF (D = 90°) có BC = 10, AB = 6, EF = 15, DE = 9. Kết luận:
++ đồng dạng (cạnh huyền – cạnh góc vuông tỉ lệ)
+- không đồng dạng
+- bằng nhau
+- đồng dạng với tỉ số 1
+= 6/9 = 10/15.
+?4 Một cột cờ cao 8 m có bóng 6 m. Cùng lúc, bóng một cây là 9 m. Cây cao:
++ 12 m
+- 6,75 m
+- 10 m
+- 13 m
+= h/9 = 8/6.
+?4 Dùng gương đặt dưới đất để đo chiều cao cây: người cách gương 2 m, mắt cao 1,5 m, gương cách cây 10 m. Cây cao:
++ 7,5 m
+- 15 m
+- 13,3 m
+- 3 m
+= Hai tam giác vuông đồng dạng: h/10 = 1,5/2.
+
+## Bài 37. Hình đồng dạng
+?1 Hai hình đồng dạng là hai hình:
++ có cùng hình dạng, kích thước có thể khác nhau theo một tỉ lệ
+- có cùng kích thước
+- có cùng màu sắc
+- có cùng diện tích
+= Định nghĩa.
+?1 Hai hình vuông bất kì:
++ đồng dạng
+- bằng nhau
+- không đồng dạng
+- có cùng chu vi
+= Cùng hình dạng.
+?1 Hai đường tròn bất kì:
++ đồng dạng
+- bằng nhau
+- không đồng dạng
+- có cùng chu vi
+= Tỉ số bán kính.
+?1 Phép vị tự biến hình này thành hình:
++ đồng dạng với nó
+- bằng nó
+- khác dạng
+- đối xứng
+= Hình đồng dạng phối cảnh.
+?2 Hai hình chữ nhật 2 × 3 và 4 × 6:
++ đồng dạng
+- không đồng dạng
+- bằng nhau
+- không xác định
+= Tỉ lệ 1/2.
+?2 Hai hình chữ nhật 2 × 3 và 3 × 4:
++ không đồng dạng
+- đồng dạng
+- bằng nhau
+- đồng dạng tỉ số 2/3
+= 2/3 ≠ 3/4.
+?2 Bản đồ tỉ lệ 1 : 100 000 và vùng đất thật là hai hình:
++ đồng dạng
+- bằng nhau
+- không đồng dạng
+- đối xứng
+= Thu nhỏ theo tỉ lệ.
+?3 Phóng to một bức ảnh 10 × 15 cm theo tỉ số 2. Kích thước mới:
++ 20 × 30 cm
+- 12 × 17 cm
+- 20 × 15 cm
+- 100 × 225 cm
+= Nhân mỗi cạnh với 2.
+?3 Hai hình đồng dạng tỉ số 3. Diện tích hình nhỏ là 10 cm². Diện tích hình lớn là:
++ 90 cm²
+- 30 cm²
+- 13 cm²
+- 60 cm²
+= 10 · 3².
+?3 Hai hình lập phương đồng dạng tỉ số 2 thì tỉ số thể tích là:
++ 8
+- 2
+- 4
+- 6
+= Lập phương tỉ số.
+?4 Mô hình tòa nhà tỉ lệ 1 : 200, mô hình cao 45 cm. Tòa nhà thật cao:
++ 90 m
+- 9 m
+- 900 m
+- 45 m
+= 45 · 200 = 9 000 cm.
+?4 Bản vẽ tỉ lệ 1 : 50, căn phòng trên bản vẽ có diện tích 24 cm². Diện tích thật là:
++ 6 m²
+- 12 m²
+- 60 m²
+- 1 200 m²
+= 24 · 2 500 = 60 000 cm² = 6 m².
+
+# Chương X. Một số hình khối trong thực tiễn
+
+## Bài 38. Hình chóp tam giác đều
+?1 Hình chóp tam giác đều có đáy là:
++ tam giác đều
+- hình vuông
+- tam giác vuông
+- hình chữ nhật
+= Định nghĩa.
+?1 Các mặt bên của hình chóp tam giác đều là:
++ các tam giác cân bằng nhau
+- các hình vuông
+- các tam giác vuông bất kì
+- các hình chữ nhật
+= Có chung đỉnh.
+?1 Hình chóp tam giác đều có bao nhiêu mặt?
++ 4
+- 3
+- 5
+- 6
+= 1 đáy + 3 mặt bên.
+?1 Thể tích hình chóp bằng:
++ 1/3 · diện tích đáy · chiều cao
+- diện tích đáy · chiều cao
+- 1/2 · diện tích đáy · chiều cao
+- 3 · diện tích đáy · chiều cao
+= V = S·h/3.
+?2 Diện tích xung quanh hình chóp đều bằng:
++ nửa chu vi đáy · trung đoạn
+- chu vi đáy · chiều cao
+- diện tích đáy · 3
+- chu vi đáy · trung đoạn · 2
+= Sxq = p · d.
+?2 Hình chóp tam giác đều có cạnh đáy 6 cm, trung đoạn 5 cm. Diện tích xung quanh:
++ 45 cm²
+- 90 cm²
+- 30 cm²
+- 15 cm²
+= Nửa chu vi đáy 9 · 5.
+?2 Hình chóp tam giác đều có bao nhiêu cạnh?
++ 6
+- 3
+- 4
+- 8
+= 3 cạnh đáy + 3 cạnh bên.
+?3 Hình chóp có diện tích đáy 15 cm², chiều cao 6 cm. Thể tích:
++ 30 cm³
+- 90 cm³
+- 45 cm³
+- 15 cm³
+= 15 · 6 : 3.
+?3 Trung đoạn của hình chóp đều là:
++ đường cao của mặt bên kẻ từ đỉnh hình chóp
+- chiều cao hình chóp
+- cạnh bên
+- cạnh đáy
+= Định nghĩa.
+?3 Hình chóp tam giác đều có cạnh đáy 4 cm, diện tích đáy ≈ 6,93 cm², chiều cao 9 cm. Thể tích khoảng:
++ 20,8 cm³
+- 62,4 cm³
+- 31,2 cm³
+- 12 cm³
+= 6,93 · 9 : 3.
+?4 Hình chóp tam giác đều có tất cả các cạnh bằng a (tứ diện đều) có bao nhiêu mặt là tam giác đều?
++ 4
+- 3
+- 1
+- 0
+= Mọi mặt đều là tam giác đều.
+?4 Cùng diện tích đáy và chiều cao, thể tích hình chóp so với hình lăng trụ:
++ bằng 1/3
+- bằng nhau
+- gấp 3
+- bằng 1/2
+= V chóp = 1/3 V lăng trụ.
+
+## Bài 39. Hình chóp tứ giác đều
+?1 Hình chóp tứ giác đều có đáy là:
++ hình vuông
+- hình chữ nhật
+- tam giác đều
+- hình thoi bất kì
+= Định nghĩa.
+?1 Hình chóp tứ giác đều có bao nhiêu mặt bên?
++ 4
+- 3
+- 5
+- 6
+= 4 tam giác cân.
+?1 Hình chóp tứ giác đều có bao nhiêu đỉnh?
++ 5
+- 4
+- 8
+- 6
+= 4 đỉnh đáy + 1 đỉnh chóp.
+?1 Kim tự tháp Ai Cập có dạng gần với hình:
++ chóp tứ giác đều
+- lăng trụ
+- hình cầu
+- hình trụ
+= Đáy vuông.
+?2 Hình chóp tứ giác đều cạnh đáy 6 cm, chiều cao 4 cm. Thể tích:
++ 48 cm³
+- 144 cm³
+- 24 cm³
+- 96 cm³
+= 36 · 4 : 3.
+?2 Hình chóp tứ giác đều cạnh đáy 10 cm, trung đoạn 13 cm. Diện tích xung quanh:
++ 260 cm²
+- 130 cm²
+- 520 cm²
+- 360 cm²
+= Nửa chu vi đáy 20 · 13.
+?2 Diện tích toàn phần hình chóp tứ giác đều bằng:
++ diện tích xung quanh + diện tích đáy
+- diện tích xung quanh
+- 2 lần diện tích đáy
+- chu vi đáy · chiều cao
+= Stp = Sxq + Sđ.
+?3 Hình chóp tứ giác đều có cạnh đáy 6 cm, chiều cao 4 cm. Trung đoạn bằng:
++ 5 cm
+- 4 cm
+- 6 cm
+- √52 cm
+= √(4² + 3²).
+?3 Với hình chóp trên (đáy 6, trung đoạn 5), diện tích toàn phần là:
++ 96 cm²
+- 60 cm²
+- 36 cm²
+- 120 cm²
+= Sxq = 12 · 5 = 60; Sđ = 36.
+?3 Một lều hình chóp tứ giác đều có đáy cạnh 3 m, cao 2 m. Thể tích không khí trong lều:
++ 6 m³
+- 18 m³
+- 9 m³
+- 4,5 m³
+= 9 · 2 : 3.
+?4 Kim tự tháp Kê-ốp có đáy vuông cạnh khoảng 230 m, cao khoảng 147 m. Thể tích khoảng:
++ 2,59 triệu m³
+- 7,78 triệu m³
+- 52 900 m³
+- 33 810 m³
+= 230² · 147 : 3 ≈ 2 592 100.
+?4 Một hình chóp tứ giác đều và một hình hộp có cùng đáy vuông cạnh a và cùng chiều cao. Thể tích hình hộp gấp hình chóp:
++ 3 lần
+- 2 lần
+- 4 lần
+- bằng nhau
+= V chóp = 1/3 V hộp.

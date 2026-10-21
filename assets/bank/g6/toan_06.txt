@@ -1,0 +1,891 @@
+# Chương VIII. Những hình hình học cơ bản
+
+## Bài 32. Điểm và đường thẳng
+?1 Qua hai điểm phân biệt có bao nhiêu đường thẳng?
++ Đúng một
+- Hai
+- Vô số
+- Không có
+= Có một và chỉ một đường thẳng đi qua hai điểm phân biệt.
+?1 Kí hiệu A ∈ d có nghĩa là:
++ điểm A thuộc đường thẳng d
+- điểm A không thuộc d
+- d đi qua hai điểm
+- A là đường thẳng
+= ∈ đọc là "thuộc".
+?1 Ba điểm thẳng hàng là ba điểm:
++ cùng thuộc một đường thẳng
+- tạo thành tam giác
+- cách đều nhau
+- không cùng thuộc một đường thẳng
+= Định nghĩa ba điểm thẳng hàng.
+?1 Hai đường thẳng phân biệt có nhiều nhất bao nhiêu điểm chung?
++ 1
+- 2
+- 0
+- Vô số
+= Hai đường thẳng phân biệt hoặc cắt nhau (1 điểm chung) hoặc song song (không có).
+?2 Hai đường thẳng song song là hai đường thẳng:
++ không có điểm chung (nằm trong một mặt phẳng)
+- có đúng một điểm chung
+- có hai điểm chung
+- trùng nhau
+= Định nghĩa hai đường thẳng song song.
+?2 Cho 3 điểm không thẳng hàng. Kẻ được bao nhiêu đường thẳng đi qua 2 trong 3 điểm đó?
++ 3
+- 2
+- 6
+- 1
+= Mỗi cặp điểm xác định một đường thẳng: AB, BC, CA.
+?2 Cho 4 điểm, trong đó không có 3 điểm nào thẳng hàng. Số đường thẳng đi qua 2 trong 4 điểm là:
++ 6
+- 4
+- 8
+- 12
+= 4 · 3 : 2 = 6.
+?3 Cho 10 điểm, không có 3 điểm nào thẳng hàng. Số đường thẳng đi qua hai trong các điểm đó là:
++ 45
+- 90
+- 20
+- 100
+= n(n − 1) : 2 = 10 · 9 : 2 = 45.
+?3 Cho 5 điểm trong đó có đúng 3 điểm thẳng hàng. Số đường thẳng đi qua ít nhất 2 điểm là:
++ 8
+- 10
+- 9
+- 7
+= Nếu không có 3 điểm thẳng hàng sẽ có 10 đường; 3 điểm thẳng hàng làm 3 đường trùng thành 1 → 10 − 3 + 1 = 8.
+?3 Ba đường thẳng phân biệt đôi một cắt nhau có nhiều nhất bao nhiêu giao điểm?
++ 3
+- 1
+- 2
+- 6
+= Mỗi cặp đường thẳng cho một giao điểm: 3 cặp.
+?4 Có n điểm, không có 3 điểm nào thẳng hàng, kẻ được 28 đường thẳng. Giá trị của n là:
++ 8
+- 7
+- 14
+- 28
+= n(n − 1) : 2 = 28 → n(n − 1) = 56 = 8 · 7.
+?4 Năm đường thẳng phân biệt đôi một cắt nhau, không có 3 đường nào đồng quy. Số giao điểm là:
++ 10
+- 5
+- 20
+- 15
+= Mỗi cặp đường thẳng cho một giao điểm: 5 · 4 : 2 = 10.
+
+## Bài 33. Điểm nằm giữa hai điểm. Tia
+?1 Tia Ox là hình gồm:
++ điểm O và một phần đường thẳng bị chia ra bởi O
+- hai điểm O và x
+- đường thẳng đi qua O
+- đoạn thẳng có đầu mút O
+= Định nghĩa tia gốc O.
+?1 Hai tia Ox và Oy đối nhau khi:
++ chung gốc và tạo thành một đường thẳng
+- chung gốc
+- song song
+- vuông góc
+= Hai tia chung gốc tạo thành đường thẳng là hai tia đối nhau.
+?1 Cho M nằm giữa A và B. Khẳng định nào đúng?
++ A và B nằm khác phía đối với M
+- A và B nằm cùng phía đối với M
+- M nằm ngoài đoạn AB
+- A nằm giữa M và B
+= M nằm giữa hai điểm A, B.
+?1 Gốc của tia AB là:
++ điểm A
+- điểm B
+- trung điểm AB
+- không có gốc
+= Tia AB có gốc A, đi qua B.
+?2 Cho ba điểm A, B, C thẳng hàng theo thứ tự đó. Hai tia trùng nhau là:
++ AB và AC
+- BA và BC
+- CA và AB
+- BA và AC
+= Tia AB và AC chung gốc A, cùng hướng về phía B, C.
+?2 Cho ba điểm A, B, C thẳng hàng, B nằm giữa A và C. Hai tia đối nhau là:
++ BA và BC
+- AB và AC
+- CA và CB
+- AB và CB
+= Tia BA và BC chung gốc B, ngược hướng.
+?2 Trên đường thẳng xy lấy điểm O. Có bao nhiêu tia gốc O?
++ 2
+- 1
+- 3
+- Vô số
+= Hai tia Ox và Oy.
+?3 Trên đường thẳng lấy 4 điểm A, B, C, D. Có bao nhiêu tia có gốc là một trong các điểm đó (không tính tia trùng nhau)?
++ 8
+- 4
+- 6
+- 12
+= Mỗi điểm là gốc của đúng 2 tia đối nhau: 4 · 2 = 8.
+?3 Cho điểm O nằm giữa A và B, điểm C nằm giữa O và B. Điểm O nằm giữa:
++ A và C
+- C và B
+- A và O
+- B và C
+= Thứ tự trên đường thẳng: A, O, C, B.
+?3 Hai tia Ox và Oy trùng nhau khi:
++ chung gốc và tia này nằm trên tia kia
+- chung gốc và tạo thành đường thẳng
+- không chung gốc
+- vuông góc với nhau
+= Hai tia trùng nhau có chung gốc và cùng hướng.
+?4 Vẽ 3 đường thẳng phân biệt cùng đi qua O. Số tia gốc O là:
++ 6
+- 3
+- 9
+- 12
+= Mỗi đường thẳng cho 2 tia gốc O.
+?4 Trên tia Ox lấy điểm A và B sao cho OA = 3 cm, OB = 5 cm. Điểm nằm giữa hai điểm còn lại là:
++ A
+- O
+- B
+- Không xác định
+= Cùng trên tia Ox và OA < OB nên A nằm giữa O và B.
+
+## Bài 34. Đoạn thẳng. Độ dài đoạn thẳng
+?1 Đoạn thẳng AB là hình gồm:
++ điểm A, điểm B và tất cả các điểm nằm giữa A và B
+- chỉ hai điểm A và B
+- đường thẳng qua A và B
+- tia AB
+= Định nghĩa đoạn thẳng.
+?1 Mỗi đoạn thẳng có:
++ một độ dài là số dương
+- độ dài có thể âm
+- vô số độ dài
+- độ dài bằng 0
+= Độ dài đoạn thẳng là một số dương.
+?1 Nếu M nằm giữa A và B thì:
++ AM + MB = AB
+- AM + AB = MB
+- AM = MB
+- AM − MB = AB
+= Tính chất điểm nằm giữa.
+?1 Đơn vị đo độ dài thường dùng ở lớp 6 là:
++ cm, mm, m
+- kg, g
+- lít, ml
+- °C
+= Đơn vị đo độ dài.
+?2 Cho M nằm giữa A và B, AM = 3 cm, MB = 5 cm. Độ dài AB là:
++ 8 cm
+- 2 cm
+- 15 cm
+- 5 cm
+= AB = AM + MB.
+?2 Cho M nằm giữa A và B, AB = 10 cm, AM = 4 cm. MB bằng:
++ 6 cm
+- 14 cm
+- 4 cm
+- 10 cm
+= MB = AB − AM.
+?2 Cho 4 điểm phân biệt, không có 3 điểm nào thẳng hàng. Số đoạn thẳng nối hai trong bốn điểm là:
++ 6
+- 4
+- 8
+- 12
+= 4 · 3 : 2 = 6.
+?3 Trên tia Ox lấy A, B với OA = 2 cm, OB = 7 cm. Độ dài AB là:
++ 5 cm
+- 9 cm
+- 7 cm
+- 2 cm
+= A nằm giữa O và B nên AB = 7 − 2 = 5.
+?3 Trên đường thẳng lấy A, B, C sao cho AB = 4 cm, BC = 3 cm, AC = 7 cm. Điểm nằm giữa là:
++ B
+- A
+- C
+- Không xác định
+= AB + BC = AC nên B nằm giữa A và C.
+?3 Cho AB = 6 cm. Điểm C thuộc tia đối của tia AB với AC = 2 cm. BC bằng:
++ 8 cm
+- 4 cm
+- 6 cm
+- 12 cm
+= A nằm giữa C và B nên BC = CA + AB = 8.
+?4 Trên đường thẳng có 5 điểm phân biệt. Số đoạn thẳng có hai đầu mút là hai trong 5 điểm là:
++ 10
+- 5
+- 4
+- 20
+= Mỗi cặp điểm tạo một đoạn thẳng: 5 · 4 : 2 = 10.
+?4 Cho A, B, C thẳng hàng, AB = 5 cm, BC = 2 cm. Độ dài AC có thể là:
++ 7 cm hoặc 3 cm
+- chỉ 7 cm
+- chỉ 3 cm
+- 10 cm
+= Nếu B nằm giữa: AC = 7; nếu C nằm giữa A và B: AC = 3.
+
+## Bài 35. Trung điểm của đoạn thẳng
+?1 M là trung điểm của AB khi:
++ M nằm giữa A, B và MA = MB
+- MA = MB
+- M nằm giữa A và B
+- M thuộc đường thẳng AB
+= Trung điểm vừa nằm giữa vừa cách đều hai đầu mút.
+?1 M là trung điểm của đoạn AB dài 10 cm. MA bằng:
++ 5 cm
+- 10 cm
+- 20 cm
+- 2,5 cm
+= MA = AB : 2.
+?1 Mỗi đoạn thẳng có bao nhiêu trung điểm?
++ 1
+- 2
+- Vô số
+- 0
+= Mỗi đoạn thẳng có đúng một trung điểm.
+?1 Nếu I là trung điểm của CD thì:
++ CI = ID = CD : 2
+- CI = CD
+- CI = 2 · CD
+- CI + CD = ID
+= Tính chất trung điểm.
+?2 M là trung điểm AB, MB = 3,5 cm. AB bằng:
++ 7 cm
+- 3,5 cm
+- 1,75 cm
+- 10,5 cm
+= AB = 2 · MB.
+?2 Điểm I thỏa mãn IA = IB = 4 cm và AB = 6 cm. I có là trung điểm của AB không?
++ Không, vì IA + IB ≠ AB nên I không nằm giữa A và B
+- Có, vì IA = IB
+- Có, vì AB = 6
+- Không xác định được
+= Trung điểm phải thỏa IA + IB = AB.
+?2 Trên tia Ox lấy A, B với OA = 4 cm, OB = 8 cm. A có là trung điểm OB không?
++ Có
+- Không
+- Chỉ khi O ở giữa
+- Không xác định
+= A nằm giữa O và B và OA = AB = 4.
+?3 Trên tia Ox lấy A, B sao cho OA = 2 cm, OB = 6 cm; M là trung điểm AB. OM bằng:
++ 4 cm
+- 3 cm
+- 2 cm
+- 5 cm
+= AB = 4, AM = 2, OM = OA + AM = 4.
+?3 Cho AB = 12 cm, M là trung điểm AB, N là trung điểm AM. NB bằng:
++ 9 cm
+- 3 cm
+- 6 cm
+- 4,5 cm
+= AM = 6, AN = 3, NB = 12 − 3 = 9.
+?3 Một thanh gỗ dài 1,6 m. Cưa đúng giữa thanh, mỗi đoạn dài:
++ 80 cm
+- 0,16 m
+- 160 cm
+- 8 cm
+= 1,6 m : 2 = 0,8 m = 80 cm.
+?4 Cho đoạn AB = 8 cm, C nằm giữa A và B với AC = 2 cm. M, N lần lượt là trung điểm AC và CB. MN bằng:
++ 4 cm
+- 3 cm
+- 5 cm
+- 6 cm
+= MC = 1, CN = 3 → MN = 4 = AB : 2.
+?4 O nằm giữa A và B; M, N lần lượt là trung điểm OA và OB. Biết AB = 14 cm. MN bằng:
++ 7 cm
+- 14 cm
+- 3,5 cm
+- 28 cm
+= MN = OM + ON = (OA + OB) : 2 = AB : 2.
+
+## Bài 36. Góc
+?1 Góc là hình gồm:
++ hai tia chung gốc
+- hai đường thẳng cắt nhau
+- hai đoạn thẳng
+- hai tia song song
+= Định nghĩa góc.
+?1 Góc xOy có đỉnh là:
++ O
+- x
+- y
+- xy
+= Đỉnh là gốc chung của hai tia.
+?1 Góc có hai cạnh là hai tia đối nhau gọi là:
++ góc bẹt
+- góc vuông
+- góc nhọn
+- góc tù
+= Góc bẹt có số đo 180°.
+?1 Hai cạnh của góc ABC là:
++ tia BA và tia BC
+- tia AB và AC
+- tia CA và CB
+- đoạn AB và AC
+= Đỉnh là chữ ở giữa: B.
+?2 Ba tia chung gốc O (không có hai tia nào trùng nhau) tạo thành bao nhiêu góc (không kể góc bẹt nếu có)?
++ 3
+- 2
+- 6
+- 1
+= Mỗi cặp tia tạo một góc: 3 cặp.
+?2 Điểm M nằm trong góc xOy khi:
++ M nằm giữa hai cạnh của góc (tia OM nằm giữa Ox và Oy)
+- M nằm trên tia Ox
+- M trùng với O
+- M nằm ngoài cả hai tia
+= Điểm trong của góc.
+?2 Cho 4 tia chung gốc phân biệt (không có hai tia đối nhau). Số góc tạo thành là:
++ 6
+- 4
+- 8
+- 12
+= 4 · 3 : 2 = 6.
+?3 Vẽ 5 tia chung gốc phân biệt. Số góc tạo thành là:
++ 10
+- 5
+- 20
+- 15
+= 5 · 4 : 2 = 10.
+?3 Trên đồng hồ lúc 3 giờ, góc giữa kim giờ và kim phút là:
++ góc vuông
+- góc bẹt
+- góc nhọn
+- góc tù
+= Kim phút chỉ 12, kim giờ chỉ 3: góc 90°.
+?3 Số góc trong hình gồm n tia chung gốc phân biệt là 15. Giá trị n là:
++ 6
+- 5
+- 15
+- 30
+= n(n − 1) : 2 = 15 → n = 6.
+?4 Lúc 6 giờ, góc giữa kim giờ và kim phút là:
++ góc bẹt
+- góc vuông
+- góc nhọn
+- góc tù
+= Hai kim chỉ 12 và 6, tạo thành đường thẳng: 180°.
+?4 Góc tạo bởi kim giờ và kim phút lúc 9 giờ là:
++ 90°
+- 180°
+- 270°
+- 45°
+= Từ số 9 đến số 12 là 3 khoảng × 30° = 90°.
+
+## Bài 37. Số đo góc
+?1 Góc nhọn là góc có số đo:
++ lớn hơn 0° và nhỏ hơn 90°
+- bằng 90°
+- lớn hơn 90° và nhỏ hơn 180°
+- bằng 180°
+= Định nghĩa góc nhọn.
+?1 Góc tù là góc có số đo:
++ lớn hơn 90° và nhỏ hơn 180°
+- nhỏ hơn 90°
+- bằng 90°
+- bằng 180°
+= Định nghĩa góc tù.
+?1 Dụng cụ đo góc là:
++ thước đo góc
+- thước thẳng
+- com-pa
+- ê ke chỉ dùng để kẻ
+= Thước đo góc dùng để đo số đo góc.
+?1 Góc 135° là:
++ góc tù
+- góc nhọn
+- góc vuông
+- góc bẹt
+= 90° < 135° < 180°.
+?2 Sắp xếp các góc 45°, 120°, 90°, 180° theo thứ tự tăng dần, góc thứ hai là:
++ góc vuông
+- góc nhọn
+- góc tù
+- góc bẹt
+= 45° < 90° < 120° < 180°.
+?2 Lúc 2 giờ, góc giữa kim giờ và kim phút là:
++ 60°
+- 30°
+- 90°
+- 120°
+= 2 khoảng × 30° = 60°.
+?2 Góc 89° là:
++ góc nhọn
+- góc vuông
+- góc tù
+- góc bẹt
+= 89° < 90°.
+?3 Lúc 4 giờ, góc nhỏ hơn giữa kim giờ và kim phút có số đo:
++ 120°
+- 90°
+- 150°
+- 60°
+= 4 khoảng × 30° = 120°.
+?3 Góc nhỏ hơn giữa hai kim đồng hồ lúc 10 giờ là:
++ 60°
+- 300°
+- 90°
+- 120°
+= Từ 10 đến 12 là 2 khoảng × 30° = 60°.
+?3 Một góc bẹt được chia thành ba góc bằng nhau. Mỗi góc có số đo:
++ 60°
+- 90°
+- 30°
+- 45°
+= 180° : 3 = 60°.
+?4 Lúc 3 giờ 30 phút, góc giữa kim giờ và kim phút là:
++ 75°
+- 90°
+- 60°
+- 105°
+= Kim phút ở số 6 (180°), kim giờ ở giữa số 3 và 4 (105°): 180° − 105° = 75°.
+?4 Kim phút quay được bao nhiêu độ trong 20 phút?
++ 120°
+- 20°
+- 60°
+- 240°
+= 60 phút quay 360° → 20 phút quay 120°.
+
+# Chương IX. Dữ liệu và xác suất thực nghiệm
+
+## Bài 38. Dữ liệu và thu thập dữ liệu
+?1 Dữ liệu nào là số liệu?
++ Chiều cao các bạn trong lớp
+- Màu sắc yêu thích
+- Tên các môn thể thao
+- Quê quán
+= Số liệu là dữ liệu là số.
+?1 Để biết môn thể thao yêu thích của các bạn trong lớp, cách thu thập phù hợp nhất là:
++ lập phiếu hỏi
+- đo đạc
+- làm thí nghiệm
+- tra từ điển
+= Hỏi ý kiến bằng phiếu hỏi.
+?1 Dữ liệu "điểm kiểm tra Toán của 40 học sinh" thuộc loại:
++ số liệu
+- dữ liệu không phải số
+- không phải dữ liệu
+- dữ liệu định tính
+= Điểm là các con số.
+?1 Để biết nhiệt độ mỗi ngày trong tuần, ta thu thập bằng cách:
++ quan sát, đo bằng nhiệt kế
+- phỏng vấn
+- lập phiếu hỏi
+- đoán
+= Đo và ghi chép.
+?2 Dữ liệu nào không hợp lí khi thu thập số giờ ngủ mỗi ngày của học sinh?
++ 25 giờ
+- 8 giờ
+- 7 giờ
+- 9 giờ
+= Một ngày chỉ có 24 giờ.
+?2 Bảng số học sinh đi xe đạp: Thứ Hai 12, Thứ Ba 15, Thứ Tư −3. Dữ liệu không hợp lí là:
++ Thứ Tư −3
+- Thứ Hai 12
+- Thứ Ba 15
+- Không có dữ liệu sai
+= Số học sinh không thể âm.
+?2 Danh sách "Toán, Văn, Anh, Văn, Toán" là dữ liệu:
++ không phải số liệu
+- số liệu
+- vô nghĩa
+- là số đo
+= Tên môn học không phải số.
+?3 Bạn Hà điều tra 30 bạn về món ăn sáng và ghi: Bánh mì 12, Xôi 8, Phở 7. Điều nhận xét đúng:
++ Có 3 bạn chưa được ghi nhận
+- Dữ liệu đủ 30 bạn
+- Phở được chọn nhiều nhất
+- Xôi được chọn ít nhất
+= 12 + 8 + 7 = 27 < 30.
+?3 Muốn biết chiều cao trung bình của học sinh lớp 6 cả trường, cách thu thập tốt nhất là:
++ đo chiều cao của các bạn lớp 6
+- hỏi giáo viên
+- ước lượng bằng mắt
+- tra trên mạng
+= Thu thập trực tiếp bằng đo đạc.
+?3 Dữ liệu về cân nặng (kg) của 5 bạn: 38; 41; 39; 400; 42. Giá trị nghi là sai sót:
++ 400
+- 38
+- 41
+- 42
+= Học sinh lớp 6 không thể nặng 400 kg.
+?4 Một lớp có 35 học sinh. Bảng tổng hợp phương tiện đến trường: đi bộ 10, xe đạp 15, xe buýt 8, được đưa đón 5. Nhận xét đúng:
++ Tổng 38 khác 35 nên dữ liệu có sai sót
+- Dữ liệu hợp lí
+- Xe buýt nhiều nhất
+- Đi bộ ít nhất
+= 10 + 15 + 8 + 5 = 38 ≠ 35.
+?4 Câu hỏi khảo sát nào phù hợp để thu thập số liệu?
++ "Mỗi tuần bạn đọc sách bao nhiêu giờ?"
+- "Bạn có thích đọc sách không?"
+- "Bạn thích thể loại sách nào?"
+- "Bạn đọc sách ở đâu?"
+= Câu trả lời là một con số.
+
+## Bài 39. Bảng thống kê và biểu đồ tranh
+?1 Trong biểu đồ tranh, mỗi biểu tượng biểu diễn:
++ một số lượng đối tượng được quy ước
+- luôn một đối tượng
+- tên đối tượng
+- màu sắc
+= Biểu đồ tranh có chú thích giá trị mỗi biểu tượng.
+?1 Biểu đồ tranh: mỗi 🍎 = 10 quả. Có 4 biểu tượng. Số quả là:
++ 40
+- 4
+- 14
+- 10
+= 4 × 10 = 40.
+?1 Bảng thống kê gồm:
++ các dòng và cột ghi đối tượng và số liệu tương ứng
+- chỉ có hình vẽ
+- chỉ có chữ
+- một đoạn văn
+= Bảng thống kê trình bày số liệu theo hàng, cột.
+?1 Ưu điểm của biểu đồ tranh là:
++ trực quan, dễ hiểu
+- chính xác tuyệt đối với số lẻ
+- không cần chú thích
+- luôn ngắn gọn với số lớn
+= Biểu đồ tranh sinh động, dễ nhìn.
+?2 Mỗi biểu tượng = 6 bạn. Lớp 6A có 3 biểu tượng và nửa biểu tượng. Số bạn là:
++ 21
+- 18
+- 24
+- 9
+= 3 × 6 + 3 = 21 (nửa biểu tượng ứng với 3 bạn).
+?2 Bảng: Táo 12, Cam 18, Xoài 9. Loại quả được bán nhiều nhất là:
++ Cam
+- Táo
+- Xoài
+- Bằng nhau
+= 18 là lớn nhất.
+?2 Bảng: Táo 12, Cam 18, Xoài 9. Tổng số quả là:
++ 39
+- 30
+- 27
+- 21
+= 12 + 18 + 9 = 39.
+?3 Mỗi biểu tượng = 4 học sinh. Lớp A có 5 biểu tượng, lớp B có 7 biểu tượng. Lớp B nhiều hơn lớp A:
++ 8 học sinh
+- 2 học sinh
+- 4 học sinh
+- 12 học sinh
+= (7 − 5) × 4 = 8.
+?3 Số sách quyên góp: 6A: 45, 6B: 60, 6C: 30. Nếu mỗi biểu tượng = 15 quyển thì 6B có:
++ 4 biểu tượng
+- 3 biểu tượng
+- 2 biểu tượng
+- 6 biểu tượng
+= 60 : 15 = 4.
+?3 Bảng điểm: 5 có 3 bạn, 7 có 8 bạn, 9 có 4 bạn. Số bạn đạt từ 7 trở lên là:
++ 12
+- 8
+- 4
+- 15
+= 8 + 4 = 12.
+?4 Biểu đồ tranh dùng biểu tượng = 10 người. Số người là 125 thì cần vẽ:
++ 12 biểu tượng và nửa biểu tượng
+- 12 biểu tượng
+- 13 biểu tượng
+- 125 biểu tượng
+= 125 = 12 × 10 + 5; 5 người ứng với nửa biểu tượng.
+?4 Bảng số học sinh đạt giải: Toán 12, Văn 8, Anh 10. Tỉ lệ học sinh đạt giải Toán trên tổng số là:
++ 40%
+- 12%
+- 30%
+- 33%
+= 12/30 = 40%.
+
+## Bài 40. Biểu đồ cột
+?1 Trong biểu đồ cột, chiều cao mỗi cột biểu diễn:
++ số liệu của đối tượng đó
+- tên đối tượng
+- màu sắc
+- thứ tự
+= Cột càng cao số liệu càng lớn.
+?1 Trục ngang của biểu đồ cột thường ghi:
++ tên các đối tượng
+- số liệu
+- đơn vị đo
+- tiêu đề
+= Trục ngang ghi đối tượng, trục đứng ghi số liệu.
+?1 Để so sánh số học sinh các lớp, biểu đồ phù hợp là:
++ biểu đồ cột
+- biểu đồ đoạn thẳng theo thời gian
+- bản đồ
+- sơ đồ tư duy
+= Biểu đồ cột thích hợp so sánh các đối tượng.
+?1 Cột thấp nhất trong biểu đồ cột cho biết:
++ đối tượng có số liệu nhỏ nhất
+- đối tượng có số liệu lớn nhất
+- đối tượng đứng đầu
+- không có ý nghĩa
+= Chiều cao cột tỉ lệ với số liệu.
+?2 Biểu đồ cột: Thứ 2: 20 kg, Thứ 3: 35 kg, Thứ 4: 25 kg giấy vụn. Ngày thu nhiều nhất là:
++ Thứ 3
+- Thứ 2
+- Thứ 4
+- Bằng nhau
+= 35 kg là lớn nhất.
+?2 Cũng biểu đồ trên, tổng số giấy vụn ba ngày là:
++ 80 kg
+- 70 kg
+- 60 kg
+- 55 kg
+= 20 + 35 + 25 = 80.
+?2 Biểu đồ cột về số học sinh thích các môn: Toán 15, Văn 10, Anh 12, Tin 13. Môn được thích ít nhất là:
++ Văn
+- Toán
+- Anh
+- Tin
+= 10 là nhỏ nhất.
+?3 Số cây trồng được: 6A 30, 6B 45, 6C 27. Lớp 6B trồng nhiều hơn trung bình mỗi lớp bao nhiêu cây?
++ 11 cây
+- 15 cây
+- 18 cây
+- 34 cây
+= Trung bình (30 + 45 + 27) : 3 = 34; 45 − 34 = 11.
+?3 Biểu đồ cột về lượng mưa (mm): T6: 180, T7: 250, T8: 300, T9: 220. Tháng mưa nhiều nhất hơn tháng mưa ít nhất:
++ 120 mm
+- 80 mm
+- 50 mm
+- 70 mm
+= 300 − 180 = 120.
+?3 Một biểu đồ cột có trục đứng chia vạch mỗi vạch 5 đơn vị. Cột cao 7 vạch biểu diễn:
++ 35
+- 12
+- 7
+- 5
+= 7 × 5 = 35.
+?4 Số học sinh giỏi qua 4 năm: 20, 24, 30, 36. Từ năm đầu đến năm cuối, số học sinh giỏi tăng:
++ 80%
+- 16%
+- 44%
+- 36%
+= Tăng 16 so với 20: 16/20 = 80%.
+?4 Biểu đồ cột (đơn vị: chiếc) bán xe: Q1: 120, Q2: 150, Q3: 90, Q4: 140. Quý bán ít hơn trung bình cả năm là:
++ Q1 và Q3
+- chỉ Q3
+- Q2 và Q4
+- chỉ Q1
+= Trung bình 500 : 4 = 125; Q1 = 120 và Q3 = 90 nhỏ hơn 125.
+
+## Bài 41. Biểu đồ cột kép
+?1 Biểu đồ cột kép dùng để:
++ so sánh hai bộ dữ liệu cùng loại
+- biểu diễn một bộ dữ liệu
+- vẽ hình học
+- biểu diễn tỉ lệ phần trăm
+= Mỗi đối tượng có hai cột cạnh nhau.
+?1 Trong biểu đồ cột kép, hai cột cạnh nhau thường có:
++ màu khác nhau, có chú giải
+- cùng màu, không chú giải
+- chiều cao bằng nhau
+- không có ý nghĩa
+= Chú giải giúp phân biệt hai bộ dữ liệu.
+?1 Biểu đồ cột kép về số học sinh nam và nữ các lớp thì trục ngang ghi:
++ tên các lớp
+- số học sinh
+- nam và nữ
+- năm học
+= Trục ngang ghi đối tượng (lớp).
+?1 Đọc biểu đồ cột kép cần chú ý:
++ chú giải màu của từng bộ dữ liệu
+- chỉ chiều cao cột cao nhất
+- màu nền
+- tên người vẽ
+= Chú giải cho biết cột nào thuộc bộ dữ liệu nào.
+?2 Số học sinh nam/nữ: 6A 18/22, 6B 20/20, 6C 23/17. Lớp có số nam nhiều hơn nữ là:
++ 6C
+- 6A
+- 6B
+- Không lớp nào
+= 6C: 23 nam > 17 nữ.
+?2 Với dữ liệu trên, tổng số học sinh nữ của ba lớp là:
++ 59
+- 61
+- 60
+- 120
+= 22 + 20 + 17 = 59.
+?2 Điểm trung bình hai kì: Toán 7,5/8,2; Văn 7,0/6,8. Môn có điểm kì 2 giảm là:
++ Văn
+- Toán
+- Cả hai
+- Không môn nào
+= Văn giảm từ 7,0 xuống 6,8.
+?3 Số sách hai năm: Truyện 120/150, Khoa học 80/105, Lịch sử 60/50. Loại sách tăng nhiều nhất là:
++ Truyện
+- Khoa học
+- Lịch sử
+- Tăng bằng nhau
+= Truyện +30, Khoa học +25, Lịch sử −10.
+?3 Với dữ liệu trên, tổng số sách năm thứ hai là:
++ 305
+- 260
+- 310
+- 565
+= 150 + 105 + 50 = 305.
+?3 Học sinh nam và nữ tham gia CLB: Bóng đá 25/5, Cầu lông 12/18, Cờ vua 10/8. CLB có nhiều nữ hơn nam là:
++ Cầu lông
+- Bóng đá
+- Cờ vua
+- Không có
+= Cầu lông: 18 nữ > 12 nam.
+?4 Với dữ liệu CLB trên, tỉ số học sinh nữ trên tổng số học sinh tham gia là:
++ 31/78
+- 47/78
+- 31/47
+- 1/2
+= Nữ 5 + 18 + 8 = 31; tổng 47 + 31 = 78.
+?4 Doanh thu (triệu đồng) hai cửa hàng trong 3 tháng: A: 50, 60, 70; B: 65, 55, 60. Tháng mà A vượt B nhiều nhất là:
++ Tháng 3
+- Tháng 1
+- Tháng 2
+- A không vượt B tháng nào
+= Tháng 2 chênh 5, tháng 3 chênh 10; tháng 1 A thấp hơn B.
+
+## Bài 42. Kết quả có thể và sự kiện trong trò chơi, thí nghiệm
+?1 Gieo một con xúc xắc, số kết quả có thể là:
++ 6
+- 1
+- 2
+- 12
+= Mặt 1, 2, 3, 4, 5, 6.
+?1 Tung một đồng xu, các kết quả có thể là:
++ sấp, ngửa
+- chỉ sấp
+- 1, 2, 3
+- thắng, thua
+= Đồng xu có hai mặt.
+?1 Sự kiện "Gieo xúc xắc được mặt 7 chấm" là sự kiện:
++ không thể xảy ra
+- chắc chắn xảy ra
+- có thể xảy ra
+- luôn xảy ra hai lần
+= Xúc xắc chỉ có từ 1 đến 6 chấm.
+?1 Sự kiện "Gieo xúc xắc được mặt có số chấm nhỏ hơn 7" là sự kiện:
++ chắc chắn xảy ra
+- không thể xảy ra
+- có thể xảy ra
+- hiếm khi xảy ra
+= Mọi mặt đều nhỏ hơn 7.
+?2 Gieo xúc xắc, các kết quả làm sự kiện "số chấm chẵn" xảy ra là:
++ 2, 4, 6
+- 1, 3, 5
+- 2, 4
+- 6
+= Các số chẵn từ 1 đến 6.
+?2 Lấy ngẫu nhiên một bút trong hộp có bút xanh và bút đỏ. Sự kiện "lấy được bút vàng" là:
++ không thể xảy ra
+- chắc chắn
+- có thể xảy ra
+- xảy ra một nửa
+= Hộp không có bút vàng.
+?2 Tung hai đồng xu, số kết quả có thể là:
++ 4
+- 2
+- 3
+- 6
+= SS, SN, NS, NN.
+?3 Gieo xúc xắc, số kết quả làm sự kiện "số chấm là số nguyên tố" xảy ra là:
++ 3
+- 2
+- 4
+- 6
+= 2, 3, 5.
+?3 Một hộp có 3 bi đỏ, 2 bi xanh. Lấy ngẫu nhiên 1 bi. Sự kiện nào có thể xảy ra?
++ Lấy được bi xanh
+- Lấy được bi vàng
+- Lấy được cả bi đỏ và bi xanh cùng lúc trong một lần lấy 1 bi
+- Không lấy được bi nào
+= Có 2 bi xanh nên có thể lấy được bi xanh.
+?3 Gieo xúc xắc. Sự kiện "số chấm chia hết cho 3" xảy ra với các kết quả:
++ 3, 6
+- 3
+- 1, 3, 6
+- 6, 9
+= Các số chia hết cho 3 trong 1–6.
+?4 Gieo hai xúc xắc. Số kết quả có thể là:
++ 36
+- 12
+- 6
+- 11
+= 6 × 6 = 36.
+?4 Gieo hai xúc xắc. Sự kiện "tổng số chấm bằng 12" xảy ra với bao nhiêu kết quả?
++ 1
+- 2
+- 6
+- 0
+= Chỉ có (6; 6).
+
+## Bài 43. Xác suất thực nghiệm
+?1 Tung đồng xu 50 lần, mặt sấp xuất hiện 23 lần. Xác suất thực nghiệm xuất hiện mặt sấp là:
++ 23/50
+- 27/50
+- 1/2
+- 23/100
+= Số lần sự kiện xảy ra chia tổng số lần thực hiện.
+?1 Xác suất thực nghiệm của sự kiện A được tính bằng:
++ số lần A xảy ra : tổng số lần thực hiện
+- tổng số lần thực hiện : số lần A xảy ra
+- số lần A không xảy ra
+- luôn bằng 1/2
+= Công thức xác suất thực nghiệm.
+?1 Gieo xúc xắc 20 lần, mặt 6 xuất hiện 4 lần. Xác suất thực nghiệm xuất hiện mặt 6 là:
++ 1/5
+- 1/6
+- 4/6
+- 1/4
+= 4/20 = 1/5.
+?1 Xác suất thực nghiệm luôn nằm trong khoảng:
++ từ 0 đến 1
+- từ 1 đến 100
+- lớn hơn 1
+- âm
+= Số lần xảy ra không vượt quá tổng số lần.
+?2 Lấy bi có hoàn lại 40 lần: bi đỏ 15 lần. Xác suất thực nghiệm lấy được bi không đỏ là:
++ 5/8
+- 3/8
+- 15/40
+- 1/2
+= Không đỏ 25 lần: 25/40 = 5/8.
+?2 Một xạ thủ bắn 30 phát, trúng 24 phát. Xác suất thực nghiệm bắn trượt là:
++ 1/5
+- 4/5
+- 6/24
+- 1/6
+= Trượt 6 phát: 6/30 = 1/5.
+?2 Theo dõi 30 ngày tháng 6, có 12 ngày mưa. Xác suất thực nghiệm ngày có mưa là:
++ 2/5
+- 3/5
+- 12/18
+- 1/12
+= 12/30 = 2/5.
+?3 Tung đồng xu 80 lần, xác suất thực nghiệm mặt ngửa là 0,45. Số lần xuất hiện mặt ngửa là:
++ 36
+- 44
+- 45
+- 35
+= 80 · 0,45 = 36.
+?3 Gieo xúc xắc 60 lần, kết quả: mặt chẵn 28 lần. Xác suất thực nghiệm mặt lẻ là:
++ 8/15
+- 7/15
+- 1/2
+- 28/60
+= Mặt lẻ 32 lần: 32/60 = 8/15.
+?3 Trong 200 sản phẩm kiểm tra có 6 sản phẩm lỗi. Xác suất thực nghiệm sản phẩm lỗi là:
++ 3%
+- 6%
+- 0,6%
+- 30%
+= 6/200 = 0,03 = 3%.
+?4 Với tỉ lệ lỗi 3% như trên, trong 5 000 sản phẩm ước tính có khoảng bao nhiêu sản phẩm lỗi?
++ 150
+- 300
+- 15
+- 1 500
+= 5 000 · 3% = 150.
+?4 An ném bóng vào rổ 40 lần, trúng 18 lần. An ném thêm 10 lần và trúng cả 10. Xác suất thực nghiệm ném trúng sau 50 lần là:
++ 14/25
+- 9/20
+- 1/2
+- 28/40
+= Trúng 28/50 = 14/25.

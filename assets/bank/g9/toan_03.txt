@@ -1,0 +1,1121 @@
+// Toán 9 – Kết nối tri thức với cuộc sống – Tập 2
+#! HK2
+# Chương VI. Hàm số y = ax² (a ≠ 0). Phương trình bậc hai một ẩn
+
+## Bài 18. Hàm số y = ax² (a ≠ 0)
+?1 Đồ thị của hàm số y = ax² (a ≠ 0) là:
++ một parabol có đỉnh là gốc tọa độ O
+- một đường thẳng
+- một đường tròn
+- một đường thẳng đi qua gốc tọa độ
+= Đặc điểm đồ thị.
+?1 Với a > 0, đồ thị hàm số y = ax²:
++ nằm phía trên trục hoành, O là điểm thấp nhất
+- nằm phía dưới trục hoành, O là điểm cao nhất
+- cắt trục hoành tại hai điểm
+- là đường thẳng
+= Vị trí đồ thị.
+?1 Đồ thị hàm số y = ax² nhận đường nào làm trục đối xứng?
++ trục Oy
+- trục Ox
+- đường thẳng y = x
+- đường thẳng y = 1
+= Tính đối xứng.
+?2 Cho y = 2x². Khi x = −3 thì y bằng:
++ 18
+- −18
+- 36
+- −12
+= 2·9.
+?2 Điểm nào thuộc đồ thị hàm số y = x²?
++ (−2; 4)
+- (2; −4)
+- (4; 2)
+- (−2; −4)
+= (−2)² = 4.
+?2 Hàm số y = −3x² có giá trị lớn nhất là:
++ 0
+- −3
+- 3
+- không có
+= −3x² ≤ 0, dấu bằng khi x = 0.
+?3 Đồ thị hàm số y = ax² đi qua điểm A(2; 8). Giá trị của a là:
++ 2
+- 4
+- 1/2
+- 8
+= 8 = a·4.
+?3 Cho y = 0,5x². Các giá trị của x để y = 8 là:
++ x = 4 hoặc x = −4
+- x = 4
+- x = 16
+- x = 2 hoặc x = −2
+= x² = 16.
+?3 Parabol y = x² và đường thẳng y = 4 cắt nhau tại:
++ (2; 4) và (−2; 4)
+- (4; 2) và (−4; 2)
+- chỉ (2; 4)
+- (16; 4)
+= x² = 4.
+?3 Quãng đường rơi tự do của một vật được tính bởi s = 5t² (s tính bằng m, t tính bằng giây). Sau 3 giây vật rơi được:
++ 45 m
+- 15 m
+- 30 m
+- 90 m
+= 5·9.
+?4 Một vật rơi tự do từ độ cao 80 m (s = 5t²). Thời gian vật chạm đất là:
++ 4 giây
+- 16 giây
+- 8 giây
+- 2 giây
+= 5t² = 80 nên t² = 16.
+?4 Tọa độ giao điểm của parabol y = x² và đường thẳng y = x + 2 là:
++ (2; 4) và (−1; 1)
+- (−2; 4) và (1; 1)
+- (2; 4) và (1; 1)
+- (−1; 1) và (0; 2)
+= x² − x − 2 = 0 cho x = 2 hoặc x = −1.
+
+## Bài 19. Phương trình bậc hai một ẩn
+?1 Phương trình bậc hai một ẩn có dạng:
++ ax² + bx + c = 0 với a ≠ 0
+- ax + b = 0 với a ≠ 0
+- ax³ + bx = 0
+- ax² + bx + c = 0 với a = 0
+= Định nghĩa.
+?1 Phương trình nào là phương trình bậc hai một ẩn?
++ 2x² − 3x + 1 = 0
+- 0x² + 2x = 1
+- 3x − 1 = 0
+- x³ + x = 0
+= Hệ số a = 2 ≠ 0.
+?1 Biệt thức Δ của phương trình ax² + bx + c = 0 là:
++ Δ = b² − 4ac
+- Δ = b² + 4ac
+- Δ = b − 4ac
+- Δ = 4ac − b²
+= Công thức nghiệm.
+?2 Khi Δ > 0, phương trình bậc hai:
++ có hai nghiệm phân biệt
+- có nghiệm kép
+- vô nghiệm
+- có vô số nghiệm
+= Xét dấu Δ.
+?2 Nghiệm của phương trình x² − 5x + 6 = 0 là:
++ x = 2; x = 3
+- x = −2; x = −3
+- x = 1; x = 6
+- x = −1; x = 6
+= (x − 2)(x − 3) = 0.
+?2 Biệt thức Δ của phương trình 2x² − 3x − 5 = 0 là:
++ 49
+- −31
+- 31
+- 1
+= 9 + 40.
+?3 Phương trình x² − 4x + 4 = 0:
++ có nghiệm kép x = 2
+- có hai nghiệm phân biệt
+- vô nghiệm
+- có nghiệm kép x = −2
+= (x − 2)² = 0.
+?3 Phương trình x² + x + 1 = 0:
++ vô nghiệm
+- có nghiệm kép
+- có hai nghiệm phân biệt
+- có nghiệm x = −1
+= Δ = 1 − 4 = −3 < 0.
+?3 Nghiệm của phương trình 2x² − 3x − 5 = 0 là:
++ x = 5/2; x = −1
+- x = −5/2; x = 1
+- x = 5; x = −1
+- x = 5/2; x = 1
+= x = (3 ± 7)/4.
+?3 Dùng Δ' giải phương trình x² − 6x + 5 = 0, ta được:
++ x = 5; x = 1
+- x = −5; x = −1
+- x = 3; x = 2
+- x = 6; x = −1
+= Δ' = 9 − 5 = 4, x = 3 ± 2.
+?4 Tìm m để phương trình x² − 2x + m = 0 có nghiệm kép.
++ m = 1
+- m = 2
+- m = 0
+- m = −1
+= Δ' = 1 − m = 0.
+?4 Tìm m để phương trình x² + 4x + m = 0 có hai nghiệm phân biệt.
++ m < 4
+- m > 4
+- m = 4
+- m < −4
+= Δ' = 4 − m > 0.
+
+## Bài 20. Định lí Viète và ứng dụng
+?1 Nếu x₁, x₂ là hai nghiệm của ax² + bx + c = 0 thì x₁ + x₂ bằng:
++ −b/a
+- b/a
+- c/a
+- −c/a
+= Định lí Viète.
+?1 Nếu x₁, x₂ là hai nghiệm của ax² + bx + c = 0 thì x₁·x₂ bằng:
++ c/a
+- −c/a
+- b/a
+- −b/a
+= Định lí Viète.
+?1 Nếu a + b + c = 0 thì phương trình ax² + bx + c = 0 có hai nghiệm:
++ x₁ = 1, x₂ = c/a
+- x₁ = −1, x₂ = −c/a
+- x₁ = 1, x₂ = −c/a
+- x₁ = 0, x₂ = c/a
+= Nhẩm nghiệm.
+?2 Tổng hai nghiệm của phương trình x² − 7x + 10 = 0 là:
++ 7
+- −7
+- 10
+- −10
+= x₁ + x₂ = 7.
+?2 Tích hai nghiệm của phương trình 2x² + 5x − 3 = 0 là:
++ −3/2
+- 3/2
+- −5/2
+- 5/2
+= c/a.
+?2 Hai số có tổng bằng 5 và tích bằng 6 là nghiệm của phương trình:
++ x² − 5x + 6 = 0
+- x² + 5x + 6 = 0
+- x² − 6x + 5 = 0
+- x² + 5x − 6 = 0
+= x² − Sx + P = 0.
+?3 Phương trình 3x² − 5x + 2 = 0 có hai nghiệm là:
++ x = 1; x = 2/3
+- x = −1; x = −2/3
+- x = 1; x = 3/2
+- x = 2; x = 3
+= a + b + c = 0.
+?3 Phương trình x² + 4x + 3 = 0 có hai nghiệm là:
++ x = −1; x = −3
+- x = 1; x = 3
+- x = −1; x = 3
+- x = 1; x = −3
+= a − b + c = 0.
+?3 Gọi x₁, x₂ là nghiệm của x² − 6x + 8 = 0. Giá trị x₁² + x₂² là:
++ 20
+- 36
+- 52
+- 28
+= (x₁ + x₂)² − 2x₁x₂ = 36 − 16.
+?3 Hai số có tổng bằng 10 và tích bằng 21 là:
++ 3 và 7
+- 1 và 21
+- 4 và 6
+- 2 và 8
+= Nghiệm của x² − 10x + 21 = 0.
+?4 Gọi x₁, x₂ là nghiệm của x² − 3x + 1 = 0. Giá trị 1/x₁ + 1/x₂ là:
++ 3
+- 1/3
+- −3
+- 1
+= (x₁ + x₂)/(x₁x₂) = 3/1.
+?4 Phương trình x² − 5x + m = 0 có một nghiệm bằng 2. Khi đó:
++ m = 6 và nghiệm còn lại là 3
+- m = 6 và nghiệm còn lại là −3
+- m = −6 và nghiệm còn lại là 3
+- m = 10 và nghiệm còn lại là 5
+= 4 − 10 + m = 0; tổng hai nghiệm bằng 5.
+
+## Bài 21. Giải bài toán bằng cách lập phương trình
+?1 Tích của hai số tự nhiên liên tiếp là 56. Hai số đó là:
++ 7 và 8
+- 6 và 7
+- 8 và 9
+- 4 và 14
+= x(x + 1) = 56.
+?2 Một hình chữ nhật có chiều dài hơn chiều rộng 3 m và diện tích 40 m². Chiều rộng là:
++ 5 m
+- 8 m
+- 4 m
+- 10 m
+= x(x + 3) = 40.
+?2 Số dương nào có bình phương lớn hơn chính nó 12 đơn vị?
++ 4
+- 3
+- 6
+- 12
+= x² − x − 12 = 0.
+?2 Một tam giác vuông có hai cạnh góc vuông hơn kém nhau 2 cm, cạnh huyền 10 cm. Cạnh góc vuông nhỏ là:
++ 6 cm
+- 8 cm
+- 4 cm
+- 5 cm
+= x² + (x + 2)² = 100.
+?2 Một mảnh vườn hình vuông, nếu tăng mỗi cạnh thêm 2 m thì diện tích tăng 24 m². Cạnh mảnh vườn là:
++ 5 m
+- 6 m
+- 4 m
+- 12 m
+= (x + 2)² − x² = 24.
+?2 Hai số có tổng 17 và tích 72 là:
++ 8 và 9
+- 6 và 12
+- 4 và 18
+- 7 và 10
+= Nghiệm của x² − 17x + 72 = 0.
+?2 Số tự nhiên nào khi cộng với bình phương của nó được 110?
++ 10
+- 11
+- 9
+- 12
+= x² + x = 110.
+?3 Một ô tô đi quãng đường 120 km. Nếu tăng vận tốc thêm 10 km/h thì đến sớm hơn 1 giờ. Vận tốc dự định là:
++ 30 km/h
+- 40 km/h
+- 20 km/h
+- 60 km/h
+= 120/x − 120/(x + 10) = 1.
+?3 Giá một sản phẩm qua hai lần tăng liên tiếp cùng tỉ lệ phần trăm, từ 100 000 đồng lên 121 000 đồng. Mỗi lần tăng:
++ 10%
+- 11%
+- 21%
+- 10,5%
+= (1 + x)² = 1,21.
+?3 Một hình chữ nhật có diện tích 60 m² và chu vi 34 m. Chiều dài là:
++ 12 m
+- 10 m
+- 15 m
+- 17 m
+= Hai cạnh là nghiệm của x² − 17x + 60 = 0.
+?4 Hai vòi nước cùng chảy thì đầy bể sau 6 giờ. Chảy riêng, vòi I đầy bể nhanh hơn vòi II 5 giờ. Vòi I chảy riêng thì đầy bể sau:
++ 10 giờ
+- 15 giờ
+- 5 giờ
+- 6 giờ
+= 1/x + 1/(x + 5) = 1/6 cho x² − 7x − 30 = 0.
+?4 Một ca nô xuôi dòng 30 km rồi ngược dòng 30 km hết 4 giờ. Vận tốc dòng nước là 4 km/h. Vận tốc riêng của ca nô là:
++ 16 km/h
+- 15 km/h
+- 12 km/h
+- 20 km/h
+= 30/(x + 4) + 30/(x − 4) = 4 cho x² − 15x − 16 = 0.
+
+# Chương VII. Tần số và tần số tương đối
+
+## Bài 22. Bảng tần số và biểu đồ tần số
+?1 Tần số của một giá trị là:
++ số lần giá trị đó xuất hiện trong mẫu dữ liệu
+- giá trị lớn nhất
+- giá trị trung bình
+- hiệu giữa giá trị lớn nhất và nhỏ nhất
+= Định nghĩa.
+?1 Tổng các tần số trong bảng tần số bằng:
++ cỡ mẫu (số giá trị của mẫu dữ liệu)
+- giá trị lớn nhất
+- số giá trị khác nhau
+- 100
+= Tính chất.
+?1 Biểu đồ tần số thường được biểu diễn dưới dạng:
++ biểu đồ cột hoặc biểu đồ đoạn thẳng
+- bản đồ
+- sơ đồ tư duy
+- bảng chữ cái
+= Biểu diễn dữ liệu.
+?2 Điểm kiểm tra của 7 bạn: 7, 8, 7, 9, 7, 8, 10. Tần số của điểm 7 là:
++ 3
+- 2
+- 7
+- 1
+= Đếm số lần xuất hiện.
+?2 Điểm kiểm tra của 7 bạn: 7, 8, 7, 9, 7, 8, 10. Số giá trị khác nhau là:
++ 4
+- 7
+- 3
+- 5
+= 7, 8, 9, 10.
+?2 Điểm kiểm tra của 7 bạn: 7, 8, 7, 9, 7, 8, 10. Giá trị có tần số lớn nhất là:
++ 7
+- 8
+- 10
+- 9
+= Điểm 7 xuất hiện 3 lần.
+?3 Bảng tần số: điểm 5, 6, 7, 8 có tần số lần lượt 2, 5, 8, 5. Cỡ mẫu là:
++ 20
+- 26
+- 4
+- 8
+= 2 + 5 + 8 + 5.
+?3 Bảng tần số: điểm 5, 6, 7, 8 có tần số lần lượt 2, 5, 8, 5. Điểm trung bình là:
++ 6,8
+- 6,5
+- 7
+- 7,2
+= (10 + 30 + 56 + 40) : 20.
+?3 Bảng tần số: điểm 5, 6, 7, 8 có tần số lần lượt 2, 5, 8, 5. Số bạn đạt từ 7 điểm trở lên là:
++ 13
+- 8
+- 5
+- 15
+= 8 + 5.
+?3 Trong biểu đồ cột tần số, chiều cao mỗi cột biểu diễn:
++ tần số của giá trị tương ứng
+- giá trị trung bình
+- cỡ mẫu
+- tần số tương đối
+= Đọc biểu đồ.
+?4 Mẫu dữ liệu cỡ 30 gồm ba giá trị A, B, C với tần số lần lượt x, 2x và 12. Tần số của B là:
++ 12
+- 6
+- 18
+- 10
+= 3x + 12 = 30 nên x = 6.
+?4 Các giá trị 1, 2, 3 có tần số lần lượt 4, n, 6 và số trung bình bằng 2,1. Giá trị của n là:
++ 10
+- 5
+- 8
+- 12
+= (4 + 2n + 18) = 2,1(10 + n).
+
+## Bài 23. Bảng tần số tương đối và biểu đồ tần số tương đối
+?1 Tần số tương đối của một giá trị bằng:
++ tần số của giá trị đó chia cho cỡ mẫu (thường viết dạng %)
+- cỡ mẫu chia cho tần số
+- tần số nhân cỡ mẫu
+- tần số trừ cỡ mẫu
+= Định nghĩa.
+?1 Tổng các tần số tương đối bằng:
++ 100%
+- 50%
+- 1 000%
+- cỡ mẫu
+= Tính chất.
+?1 Biểu đồ thường dùng để biểu diễn tần số tương đối là:
++ biểu đồ hình quạt tròn hoặc biểu đồ cột
+- bản đồ
+- đồ thị hàm số
+- sơ đồ cây
+= Biểu diễn.
+?2 Mẫu có cỡ 40, một giá trị có tần số 10. Tần số tương đối của giá trị đó là:
++ 25%
+- 10%
+- 40%
+- 4%
+= 10/40.
+?2 Mẫu có cỡ 50, một giá trị có tần số tương đối 20%. Tần số của giá trị đó là:
++ 10
+- 20
+- 25
+- 5
+= 20% · 50.
+?2 Lớp có 40 học sinh, 12 bạn thích bóng đá. Tỉ lệ bạn thích bóng đá là:
++ 30%
+- 12%
+- 28%
+- 40%
+= 12/40.
+?3 Trên biểu đồ hình quạt tròn, nhóm chiếm 25% được biểu diễn bởi hình quạt có góc ở tâm:
++ 90°
+- 25°
+- 45°
+- 180°
+= 25% · 360°.
+?3 Trên biểu đồ hình quạt tròn, hình quạt có góc ở tâm 72° ứng với tần số tương đối:
++ 20%
+- 72%
+- 25%
+- 18%
+= 72/360.
+?3 Ba loại sản phẩm A, B, C có tần số tương đối lần lượt 30%, 45% và x%. Giá trị x là:
++ 25
+- 35
+- 15
+- 75
+= 100 − 30 − 45.
+?3 Mẫu cỡ 200, một giá trị có tần số tương đối 15%. Tần số của giá trị đó là:
++ 30
+- 15
+- 20
+- 300
+= 15% · 200.
+?4 Khảo sát môn học yêu thích: 35% chọn Toán, 25% chọn Văn, còn lại 80 học sinh chọn các môn khác. Số học sinh được khảo sát là:
++ 200
+- 140
+- 320
+- 160
+= 80 học sinh ứng với 40%.
+?4 Trong một lớp, nam chiếm 45%, số nữ nhiều hơn số nam 4 bạn. Số học sinh nữ là:
++ 22
+- 18
+- 20
+- 24
+= 10% ứng với 4 bạn nên lớp có 40 học sinh.
+
+## Bài 24. Bảng tần số, tần số tương đối ghép nhóm và biểu đồ
+?1 Khi mẫu dữ liệu có nhiều giá trị khác nhau, người ta thường:
++ ghép các giá trị thành các nhóm dạng [a; b)
+- bỏ bớt dữ liệu
+- chỉ lấy giá trị lớn nhất
+- không lập bảng
+= Mẫu số liệu ghép nhóm.
+?1 Nhóm [150; 155) gồm các giá trị x thỏa mãn:
++ 150 ≤ x < 155
+- 150 < x ≤ 155
+- 150 ≤ x ≤ 155
+- 150 < x < 155
+= Kí hiệu nửa khoảng.
+?1 Biểu đồ thường dùng cho bảng tần số ghép nhóm là:
++ biểu đồ cột với các cột liền nhau (histogram)
+- biểu đồ tranh
+- sơ đồ Venn
+- bản đồ
+= Biểu diễn mẫu ghép nhóm.
+?2 Giá trị đại diện của nhóm [10; 20) là:
++ 15
+- 10
+- 20
+- 30
+= Trung điểm của nhóm.
+?2 Độ dài của nhóm [40; 50) là:
++ 10
+- 40
+- 50
+- 45
+= 50 − 40.
+?2 Chiều cao 152 cm thuộc nhóm nào?
++ [150; 155)
+- [145; 150)
+- [155; 160)
+- [152; 157)
+= 150 ≤ 152 < 155.
+?3 Giá trị 155 thuộc nhóm nào?
++ [155; 160)
+- [150; 155)
+- cả hai nhóm [150; 155) và [155; 160)
+- không thuộc nhóm nào
+= Nhóm [150; 155) không chứa 155.
+?3 Chia khoảng [0; 50) thành các nhóm có độ dài 10 thì được bao nhiêu nhóm?
++ 5
+- 10
+- 4
+- 6
+= 50 : 10.
+?3 Bảng ghép nhóm: [0; 10) có tần số 5, [10; 20) có tần số 12, [20; 30) có tần số 8. Tần số tương đối của nhóm [10; 20) là:
++ 48%
+- 12%
+- 50%
+- 24%
+= 12/25.
+?3 Bảng ghép nhóm: [0; 10) có tần số 5, [10; 20) có tần số 12, [20; 30) có tần số 8. Số giá trị nhỏ hơn 20 là:
++ 17
+- 12
+- 5
+- 25
+= 5 + 12.
+?4 Bảng ghép nhóm: [0; 10) có tần số 5, [10; 20) có tần số 12, [20; 30) có tần số 8. Số trung bình ước lượng (dùng giá trị đại diện) là:
++ 16,2
+- 15
+- 15,8
+- 17,5
+= (5·5 + 15·12 + 25·8) : 25 = 405 : 25.
+?4 Bảng ghép nhóm: [0; 10) có tần số 5, [10; 20) có tần số 12, [20; 30) có tần số 8. Tần số tương đối của nhóm [20; 30) là:
++ 32%
+- 8%
+- 20%
+- 40%
+= 8/25.
+
+# Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản
+
+## Bài 25. Phép thử ngẫu nhiên và không gian mẫu
+?1 Không gian mẫu của phép thử là:
++ tập hợp tất cả các kết quả có thể xảy ra của phép thử
+- một kết quả bất kì
+- kết quả thuận lợi
+- số lần thực hiện phép thử
+= Định nghĩa.
+?1 Không gian mẫu của phép thử gieo một đồng xu là:
++ {S; N}
+- {S}
+- {N}
+- {S; N; SN}
+= Sấp hoặc ngửa.
+?1 Gieo một con xúc xắc 6 mặt, không gian mẫu có bao nhiêu phần tử?
++ 6
+- 1
+- 12
+- 36
+= {1; 2; 3; 4; 5; 6}.
+?2 Gieo hai đồng xu, không gian mẫu có bao nhiêu phần tử?
++ 4
+- 2
+- 3
+- 8
+= SS, SN, NS, NN.
+?2 Rút ngẫu nhiên một thẻ từ hộp có 10 thẻ đánh số từ 1 đến 10. Không gian mẫu có bao nhiêu phần tử?
++ 10
+- 1
+- 5
+- 20
+= Mỗi thẻ là một kết quả.
+?2 Gieo một đồng xu hai lần liên tiếp. Không gian mẫu là:
++ {SS; SN; NS; NN}
+- {S; N}
+- {SS; NN}
+- {SN; NS}
+= Liệt kê theo thứ tự.
+?3 Gieo hai con xúc xắc, không gian mẫu có bao nhiêu phần tử?
++ 36
+- 12
+- 6
+- 18
+= 6·6.
+?3 Chọn ngẫu nhiên 2 bạn trong 4 bạn A, B, C, D. Không gian mẫu có bao nhiêu phần tử?
++ 6
+- 4
+- 8
+- 12
+= AB, AC, AD, BC, BD, CD.
+?3 Gieo một đồng xu ba lần liên tiếp, không gian mẫu có bao nhiêu phần tử?
++ 8
+- 6
+- 3
+- 9
+= 2·2·2.
+?3 Hộp có 2 bi đỏ và 1 bi xanh (các bi được đánh số phân biệt). Lấy lần lượt 2 bi không hoàn lại. Không gian mẫu có bao nhiêu phần tử?
++ 6
+- 3
+- 9
+- 4
+= 3·2.
+?4 Chọn ngẫu nhiên một lớp trưởng và một lớp phó từ 5 bạn. Không gian mẫu có bao nhiêu phần tử?
++ 20
+- 10
+- 25
+- 5
+= 5·4 (có thứ tự).
+?4 Gieo một con xúc xắc rồi gieo một đồng xu. Không gian mẫu có bao nhiêu phần tử?
++ 12
+- 8
+- 6
+- 36
+= 6·2.
+
+## Bài 26. Xác suất của biến cố liên quan tới phép thử
+?1 Khi các kết quả đồng khả năng, xác suất của biến cố A bằng:
++ số kết quả thuận lợi cho A chia cho số phần tử của không gian mẫu
+- số phần tử không gian mẫu chia cho số kết quả thuận lợi
+- số kết quả thuận lợi
+- 1 trừ số kết quả thuận lợi
+= Công thức.
+?1 Gieo một đồng xu cân đối. Xác suất xuất hiện mặt sấp là:
++ 1/2
+- 1
+- 0
+- 1/4
+= Một trong hai kết quả.
+?1 Xác suất của một biến cố luôn:
++ nằm trong khoảng từ 0 đến 1
+- lớn hơn 1
+- âm
+- bằng 1
+= 0 ≤ P(A) ≤ 1.
+?2 Gieo một con xúc xắc. Xác suất xuất hiện mặt có số chấm chẵn là:
++ 1/2
+- 1/3
+- 1/6
+- 2/3
+= {2; 4; 6}: 3/6.
+?2 Gieo một con xúc xắc. Xác suất xuất hiện mặt 6 chấm là:
++ 1/6
+- 1/2
+- 1/3
+- 6
+= 1 kết quả thuận lợi trên 6.
+?2 Hộp có 3 bi đỏ và 5 bi xanh. Lấy ngẫu nhiên 1 bi, xác suất được bi đỏ là:
++ 3/8
+- 5/8
+- 3/5
+- 1/3
+= 3/(3 + 5).
+?3 Gieo hai đồng xu. Xác suất cả hai đều sấp là:
++ 1/4
+- 1/2
+- 3/4
+- 1/3
+= Chỉ có SS.
+?3 Gieo hai con xúc xắc. Xác suất tổng số chấm bằng 7 là:
++ 1/6
+- 7/36
+- 1/12
+- 1/7
+= 6 kết quả thuận lợi trên 36.
+?3 Rút một thẻ từ 20 thẻ đánh số 1 đến 20. Xác suất rút được thẻ có số chia hết cho 5 là:
++ 1/5
+- 1/4
+- 1/20
+- 1/2
+= 5, 10, 15, 20: 4/20.
+?3 Gieo hai đồng xu. Xác suất có ít nhất một mặt sấp là:
++ 3/4
+- 1/4
+- 1/2
+- 1
+= SS, SN, NS.
+?4 Chọn ngẫu nhiên 2 bạn từ nhóm gồm 3 nam và 2 nữ. Xác suất chọn được cả 2 bạn nữ là:
++ 1/10
+- 2/5
+- 1/5
+- 3/10
+= 10 cách chọn, chỉ 1 cách chọn được 2 nữ.
+?4 Gieo hai con xúc xắc. Xác suất tổng số chấm bằng 5 là:
++ 1/9
+- 5/36
+- 1/6
+- 1/12
+= (1;4), (2;3), (3;2), (4;1): 4/36.
+
+# Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp
+
+## Bài 27. Góc nội tiếp
+?1 Góc nội tiếp là góc:
++ có đỉnh nằm trên đường tròn và hai cạnh chứa hai dây của đường tròn
+- có đỉnh trùng với tâm
+- có đỉnh nằm ngoài đường tròn
+- có đỉnh nằm trong đường tròn
+= Định nghĩa.
+?1 Số đo góc nội tiếp bằng:
++ nửa số đo cung bị chắn
+- số đo cung bị chắn
+- hai lần số đo cung bị chắn
+- 180° trừ số đo cung bị chắn
+= Định lí.
+?1 Góc nội tiếp chắn nửa đường tròn có số đo:
++ 90°
+- 180°
+- 60°
+- 45°
+= Góc vuông.
+?2 Góc nội tiếp chắn cung 100° có số đo:
++ 50°
+- 100°
+- 200°
+- 80°
+= 100° : 2.
+?2 Góc nội tiếp có số đo 35° thì cung bị chắn có số đo:
++ 70°
+- 35°
+- 17,5°
+- 145°
+= 2·35°.
+?2 Các góc nội tiếp cùng chắn một cung thì:
++ bằng nhau
+- bù nhau
+- phụ nhau
+- gấp đôi nhau
+= Hệ quả.
+?3 Góc ở tâm AOB = 120°. Góc nội tiếp ACB chắn cung nhỏ AB có số đo:
++ 60°
+- 120°
+- 240°
+- 30°
+= Nửa góc ở tâm cùng chắn một cung.
+?3 AB là đường kính, C thuộc đường tròn, góc CAB = 30°. Số đo góc CBA là:
++ 60°
+- 30°
+- 90°
+- 120°
+= Góc ACB = 90°.
+?3 Góc nội tiếp ACB = 40°. Góc ở tâm AOB cùng chắn cung AB có số đo:
++ 80°
+- 40°
+- 20°
+- 140°
+= Gấp đôi góc nội tiếp.
+?3 Tam giác ABC nội tiếp đường tròn (O) có góc A = 50°. Số đo góc BOC là:
++ 100°
+- 50°
+- 25°
+- 130°
+= Góc ở tâm gấp đôi góc nội tiếp cùng chắn cung BC.
+?4 AB là đường kính của đường tròn (O; 5 cm), C thuộc đường tròn, AC = 6 cm. Độ dài BC là:
++ 8 cm
+- 4 cm
+- 10 cm
+- 6 cm
+= Tam giác ABC vuông tại C: BC = √(10² − 6²).
+?4 Góc nội tiếp chắn cung lớn có số đo 240° thì có số đo:
++ 120°
+- 240°
+- 60°
+- 480°
+= 240° : 2.
+
+## Bài 28. Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác
+?1 Tâm đường tròn ngoại tiếp tam giác là giao điểm của:
++ ba đường trung trực
+- ba đường phân giác
+- ba đường trung tuyến
+- ba đường cao
+= Cách đều ba đỉnh.
+?1 Tâm đường tròn nội tiếp tam giác là giao điểm của:
++ ba đường phân giác trong
+- ba đường trung trực
+- ba đường trung tuyến
+- ba đường cao
+= Cách đều ba cạnh.
+?1 Đường tròn nội tiếp tam giác:
++ tiếp xúc với ba cạnh của tam giác
+- đi qua ba đỉnh
+- cắt ba cạnh tại sáu điểm
+- đi qua trọng tâm
+= Định nghĩa.
+?2 Bán kính đường tròn ngoại tiếp tam giác đều cạnh a là:
++ a√3/3
+- a√3/6
+- a√3/2
+- a/2
+= Bằng 2/3 đường cao.
+?2 Bán kính đường tròn nội tiếp tam giác đều cạnh a là:
++ a√3/6
+- a√3/3
+- a√3/2
+- a/3
+= Bằng 1/3 đường cao.
+?2 Tam giác vuông có cạnh huyền 10 cm. Bán kính đường tròn ngoại tiếp là:
++ 5 cm
+- 10 cm
+- 20 cm
+- 2,5 cm
+= Nửa cạnh huyền.
+?3 Bán kính đường tròn ngoại tiếp tam giác đều cạnh 6 cm là:
++ 2√3 cm
+- √3 cm
+- 3√3 cm
+- 6 cm
+= 6√3/3.
+?3 Bán kính đường tròn nội tiếp tam giác đều cạnh 6 cm là:
++ √3 cm
+- 2√3 cm
+- 3 cm
+- 3√3 cm
+= 6√3/6.
+?3 Trong tam giác đều, tâm đường tròn ngoại tiếp và tâm đường tròn nội tiếp:
++ trùng nhau
+- đối xứng qua một cạnh
+- cách nhau một cạnh
+- nằm ngoài tam giác
+= Các đường đặc biệt trùng nhau.
+?3 Tam giác đều có bán kính đường tròn ngoại tiếp 4 cm. Bán kính đường tròn nội tiếp là:
++ 2 cm
+- 4 cm
+- 8 cm
+- 1 cm
+= R = 2r.
+?4 Bán kính đường tròn nội tiếp tam giác vuông có ba cạnh 3 cm, 4 cm, 5 cm là:
++ 1 cm
+- 2 cm
+- 2,5 cm
+- 1,5 cm
+= r = (3 + 4 − 5) : 2.
+?4 Tam giác đều có đường cao 9 cm. Bán kính đường tròn ngoại tiếp là:
++ 6 cm
+- 3 cm
+- 4,5 cm
+- 9 cm
+= 2/3 đường cao.
+
+## Bài 29. Tứ giác nội tiếp
+?1 Tứ giác nội tiếp đường tròn là tứ giác:
++ có bốn đỉnh nằm trên một đường tròn
+- có bốn cạnh tiếp xúc với đường tròn
+- có hai đường chéo bằng nhau
+- có bốn góc bằng nhau
+= Định nghĩa.
+?1 Trong tứ giác nội tiếp, tổng hai góc đối bằng:
++ 180°
+- 90°
+- 360°
+- 270°
+= Định lí.
+?1 Hình nào sau đây luôn nội tiếp được đường tròn?
++ hình chữ nhật
+- hình thoi
+- hình bình hành
+- hình thang vuông
+= Tổng hai góc đối bằng 180°.
+?2 Tứ giác ABCD nội tiếp có góc A = 70°. Số đo góc C là:
++ 110°
+- 70°
+- 140°
+- 20°
+= 180° − 70°.
+?2 Tứ giác ABCD nội tiếp có góc B = 95°. Số đo góc D là:
++ 85°
+- 95°
+- 105°
+- 75°
+= 180° − 95°.
+?2 Tứ giác có hai góc đối bằng 80° và 100° thì:
++ nội tiếp được đường tròn
+- không nội tiếp được
+- là hình chữ nhật
+- là hình vuông
+= 80° + 100° = 180°.
+?3 Hình thang cân:
++ luôn nội tiếp được đường tròn
+- không bao giờ nội tiếp được
+- chỉ nội tiếp được khi là hình vuông
+- chỉ nội tiếp được khi có góc vuông
+= Hai góc kề một đáy bằng nhau nên tổng hai góc đối bằng 180°.
+?3 Bán kính đường tròn ngoại tiếp hình chữ nhật kích thước 6 cm × 8 cm là:
++ 5 cm
+- 10 cm
+- 7 cm
+- 4 cm
+= Nửa đường chéo.
+?3 Tứ giác ABCD nội tiếp có góc A gấp đôi góc C. Số đo góc A là:
++ 120°
+- 60°
+- 90°
+- 135°
+= A + C = 180° và A = 2C.
+?3 Tứ giác ABCD có góc A = 90° và góc C = 90°. Tứ giác đó:
++ nội tiếp được đường tròn
+- không nội tiếp được
+- chắc chắn là hình vuông
+- chắc chắn là hình chữ nhật
+= Tổng hai góc đối bằng 180°.
+?4 Tứ giác ABCD nội tiếp có góc A − góc C = 40°. Số đo góc C là:
++ 70°
+- 110°
+- 40°
+- 140°
+= A + C = 180° và A − C = 40°.
+?4 Bán kính đường tròn ngoại tiếp hình vuông cạnh 6 cm là:
++ 3√2 cm
+- 6 cm
+- 3 cm
+- 6√2 cm
+= Nửa đường chéo 6√2.
+
+## Bài 30. Đa giác đều
+?1 Đa giác đều là đa giác có:
++ tất cả các cạnh bằng nhau và tất cả các góc bằng nhau
+- các cạnh bằng nhau
+- các góc bằng nhau
+- các đường chéo bằng nhau
+= Định nghĩa.
+?1 Hình nào sau đây là đa giác đều?
++ hình vuông
+- hình chữ nhật
+- hình thoi
+- tam giác cân
+= Cạnh bằng nhau, góc bằng nhau.
+?1 Phép quay tâm O nào giữ nguyên hình vuông tâm O?
++ phép quay 90°
+- phép quay 30°
+- phép quay 45°
+- phép quay 60°
+= Bốn đỉnh đổi chỗ cho nhau.
+?2 Mỗi góc của lục giác đều có số đo:
++ 120°
+- 60°
+- 108°
+- 135°
+= (6 − 2)·180° : 6.
+?2 Mỗi góc của ngũ giác đều có số đo:
++ 108°
+- 120°
+- 72°
+- 90°
+= (5 − 2)·180° : 5.
+?2 Tổng các góc trong của một bát giác là:
++ 1 080°
+- 1 440°
+- 900°
+- 720°
+= (8 − 2)·180°.
+?3 Lục giác đều cạnh 4 cm thì bán kính đường tròn ngoại tiếp là:
++ 4 cm
+- 2 cm
+- 8 cm
+- 4√3 cm
+= Lục giác đều gồm 6 tam giác đều.
+?3 Phép quay có góc dương nhỏ nhất giữ nguyên tam giác đều tâm O là phép quay:
++ 120°
+- 60°
+- 90°
+- 180°
+= 360° : 3.
+?3 Phép quay có góc dương nhỏ nhất giữ nguyên lục giác đều tâm O là phép quay:
++ 60°
+- 120°
+- 30°
+- 90°
+= 360° : 6.
+?3 Đa giác đều có mỗi góc bằng 140° thì có số cạnh là:
++ 9
+- 8
+- 10
+- 7
+= Mỗi góc ngoài 40°, 360° : 40°.
+?4 Diện tích lục giác đều cạnh 2 cm là:
++ 6√3 cm²
+- 3√3 cm²
+- 12 cm²
+- 4√3 cm²
+= 6 tam giác đều cạnh 2, mỗi tam giác có diện tích √3.
+?4 Trong 20 phút, kim phút của đồng hồ quay một góc:
++ 120°
+- 20°
+- 60°
+- 240°
+= 20/60 vòng.
+
+# Chương X. Một số hình khối trong thực tiễn
+
+## Bài 31. Hình trụ và hình nón
+?1 Diện tích xung quanh của hình trụ bán kính đáy r, chiều cao h là:
++ 2πrh
+- πrh
+- πr²h
+- 2πr²
+= Công thức.
+?1 Thể tích hình trụ bán kính đáy r, chiều cao h là:
++ πr²h
+- 2πrh
+- (1/3)πr²h
+- πrh
+= Công thức.
+?1 Thể tích hình nón bán kính đáy r, chiều cao h là:
++ (1/3)πr²h
+- πr²h
+- πrh
+- (1/2)πr²h
+= Công thức.
+?2 Thể tích hình trụ có bán kính đáy 2 cm, chiều cao 5 cm là:
++ 20π cm³
+- 10π cm³
+- 40π cm³
+- 50π cm³
+= π·4·5.
+?2 Diện tích xung quanh hình trụ có bán kính đáy 3 cm, chiều cao 4 cm là:
++ 24π cm²
+- 12π cm²
+- 36π cm²
+- 42π cm²
+= 2π·3·4.
+?2 Diện tích xung quanh hình nón bán kính đáy r, đường sinh l là:
++ πrl
+- 2πrl
+- πr²l
+- (1/3)πrl
+= Công thức.
+?3 Hình nón có bán kính đáy 3 cm, chiều cao 4 cm. Diện tích xung quanh là:
++ 15π cm²
+- 12π cm²
+- 20π cm²
+- 24π cm²
+= Đường sinh l = 5, S = π·3·5.
+?3 Hình nón có bán kính đáy 3 cm, chiều cao 4 cm. Thể tích là:
++ 12π cm³
+- 36π cm³
+- 15π cm³
+- 4π cm³
+= (1/3)π·9·4.
+?3 Diện tích toàn phần hình trụ bán kính đáy 2 cm, chiều cao 3 cm là:
++ 20π cm²
+- 12π cm²
+- 16π cm²
+- 24π cm²
+= 12π + 2·4π.
+?3 Một cốc nước hình trụ có đường kính đáy 6 cm, cao 10 cm. Thể tích cốc khoảng:
++ 282,6 cm³
+- 188,4 cm³
+- 1 130,4 cm³
+- 94,2 cm³
+= π·3²·10 = 90π.
+?4 Hình trụ và hình nón có cùng bán kính đáy và cùng chiều cao. Thể tích hình trụ:
++ gấp 3 lần thể tích hình nón
+- bằng thể tích hình nón
+- gấp 2 lần thể tích hình nón
+- bằng một nửa thể tích hình nón
+= πr²h so với (1/3)πr²h.
+?4 Quay hình chữ nhật kích thước 3 cm × 5 cm quanh cạnh 5 cm, ta được hình trụ có thể tích:
++ 45π cm³
+- 75π cm³
+- 15π cm³
+- 30π cm³
+= r = 3, h = 5.
+
+## Bài 32. Hình cầu
+?1 Diện tích mặt cầu bán kính R là:
++ 4πR²
+- πR²
+- 2πR²
+- (4/3)πR³
+= Công thức.
+?1 Thể tích hình cầu bán kính R là:
++ (4/3)πR³
+- 4πR²
+- πR³
+- (1/3)πR³
+= Công thức.
+?1 Cắt hình cầu bởi mặt phẳng đi qua tâm, mặt cắt là:
++ hình tròn có bán kính bằng bán kính hình cầu
+- hình vuông
+- hình tròn nhỏ hơn
+- hình elip
+= Đường tròn lớn.
+?2 Diện tích mặt cầu bán kính 3 cm là:
++ 36π cm²
+- 9π cm²
+- 12π cm²
+- 27π cm²
+= 4π·9.
+?2 Thể tích hình cầu bán kính 3 cm là:
++ 36π cm³
+- 27π cm³
+- 12π cm³
+- 108π cm³
+= (4/3)π·27.
+?2 Quả bóng có đường kính 20 cm. Diện tích mặt quả bóng là:
++ 400π cm²
+- 1 600π cm²
+- 100π cm²
+- 200π cm²
+= R = 10 cm, 4π·100.
+?3 Mặt cầu có diện tích 100π cm². Bán kính là:
++ 5 cm
+- 10 cm
+- 25 cm
+- 2,5 cm
+= 4πR² = 100π.
+?3 Hình cầu có thể tích 288π cm³. Bán kính là:
++ 6 cm
+- 8 cm
+- 12 cm
+- 4 cm
+= R³ = 216.
+?3 Khi bán kính hình cầu tăng gấp đôi thì diện tích mặt cầu:
++ tăng gấp 4 lần
+- tăng gấp 2 lần
+- tăng gấp 8 lần
+- không đổi
+= Tỉ lệ với R².
+?3 Khi bán kính hình cầu tăng gấp đôi thì thể tích:
++ tăng gấp 8 lần
+- tăng gấp 4 lần
+- tăng gấp 2 lần
+- tăng gấp 6 lần
+= Tỉ lệ với R³.
+?4 Một quả cầu đặt vừa khít trong một hình trụ (đường kính đáy và chiều cao của trụ đều bằng đường kính quả cầu). Tỉ số thể tích quả cầu và hình trụ là:
++ 2/3
+- 1/2
+- 3/4
+- 1/3
+= (4/3)πR³ : (πR²·2R).
+?4 Coi Trái Đất là hình cầu bán kính khoảng 6 400 km. Diện tích bề mặt Trái Đất khoảng:
++ 5,1·10⁸ km²
+- 1,3·10⁸ km²
+- 2,6·10⁸ km²
+- 1,1·10¹² km²
+= 4π·6 400².

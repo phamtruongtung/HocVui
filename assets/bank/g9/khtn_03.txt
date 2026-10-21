@@ -1,0 +1,507 @@
+// KHTN 9 – Kết nối tri thức với cuộc sống – Phần Hóa học (Học kì 2)
+#! HK2
+# Chương VIII. Ethylic alcohol và acetic acid
+
+## Bài 26. Ethylic alcohol
+?1 Công thức của ethylic alcohol (ethanol) là:
++ C₂H₅OH
+- CH₃COOH
+- CH₄
+- C₆H₁₂O₆
+= Công thức phân tử C₂H₆O.
+?1 Ethanol là chất lỏng:
++ không màu, tan vô hạn trong nước
+- màu đỏ, không tan trong nước
+- màu đen, đặc sệt
+- không bay hơi
+= Tính chất vật lí.
+?1 Độ cồn (độ rượu) cho biết:
++ số mL ethanol có trong 100 mL hỗn hợp rượu với nước
+- số gam đường trong rượu
+- nhiệt độ sôi của rượu
+- số năm ủ rượu
+= Khái niệm.
+?2 Rượu 40° có nghĩa là:
++ trong 100 mL rượu có 40 mL ethanol
+- rượu sôi ở 40 °C
+- rượu có 40 g đường
+- rượu được ủ 40 ngày
+= Ý nghĩa độ rượu.
+?2 Ethanol tác dụng với sodium giải phóng khí:
++ H₂
+- O₂
+- CO₂
+- Cl₂
+= 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂.
+?3 Trong 500 mL rượu 40° có thể tích ethanol là:
++ 200 mL
+- 40 mL
+- 400 mL
+- 20 mL
+= 500·40 : 100.
+?3 Phương trình đốt cháy ethanol là:
++ C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O
+- C₂H₅OH + O₂ → CO₂ + H₂O
+- C₂H₅OH + 2O₂ → 2CO + 3H₂O
+- C₂H₅OH + 3O₂ → 2CO₂ + 2H₂O
+= Cân bằng phương trình.
+?4 Pháp luật Việt Nam nghiêm cấm điều khiển phương tiện giao thông khi có nồng độ cồn vì:
++ cồn làm giảm khả năng phản xạ, phán đoán, dễ gây tai nạn
+- cồn làm tăng tốc độ phản xạ
+- cồn không ảnh hưởng tới thần kinh
+- cồn làm xe chạy nhanh hơn
+= Tác hại của rượu bia.
+
+## Bài 27. Acetic acid
+?1 Công thức của acetic acid là:
++ CH₃COOH
+- C₂H₅OH
+- HCl
+- H₂SO₄
+= Nhóm –COOH.
+?1 Giấm ăn là dung dịch acetic acid có nồng độ khoảng:
++ 2 – 5%
+- 50 – 60%
+- 90 – 100%
+- 0,001%
+= Ứng dụng.
+?1 Dung dịch acetic acid làm quỳ tím chuyển sang màu:
++ đỏ
+- xanh
+- vàng
+- không đổi màu
+= Tính acid.
+?2 Acetic acid tác dụng với NaOH tạo thành:
++ CH₃COONa và H₂O
+- CH₃COONa và H₂
+- C₂H₅OH và NaCl
+- CH₄ và NaOH
+= Phản ứng trung hòa.
+?2 Nhỏ giấm vào đá vôi (CaCO₃), hiện tượng là:
++ sủi bọt khí CO₂
+- tạo kết tủa đen
+- dung dịch hóa xanh
+- không có hiện tượng
+= 2CH₃COOH + CaCO₃ → (CH₃COO)₂Ca + CO₂ + H₂O.
+?3 Đun nóng acetic acid với ethanol (xúc tác H₂SO₄ đặc) thu được:
++ ethyl acetate và nước
+- methane và nước
+- glucose
+- acetic acid và hydrogen
+= Phản ứng ester hóa.
+?3 Có thể dùng giấm để làm sạch cặn trong ấm đun nước vì:
++ acetic acid tác dụng với cặn CaCO₃ tạo chất tan
+- giấm làm ấm sáng bóng nhờ màu
+- giấm bay hơi nhanh
+- giấm là chất béo
+= Ứng dụng thực tế.
+?4 6 g acetic acid phản ứng vừa đủ với bao nhiêu gam NaOH?
++ 4 g
+- 6 g
+- 8 g
+- 2 g
+= n = 6 : 60 = 0,1 mol; m(NaOH) = 0,1·40.
+
+# Chương IX. Lipid. Carbohydrate. Protein. Polymer
+
+## Bài 28. Lipid và chất béo
+?1 Chất béo là:
++ triester của glycerol và các acid béo
+- hợp chất của kim loại
+- một loại đường
+- một loại protein
+= Khái niệm.
+?1 Chất béo có tính chất:
++ không tan trong nước, nhẹ hơn nước
+- tan tốt trong nước
+- nặng hơn nước
+- có vị chua
+= Tính chất vật lí.
+?1 Dầu thực vật (dầu lạc, dầu vừng) ở nhiệt độ thường thường ở trạng thái:
++ lỏng
+- rắn
+- khí
+- dẻo như cao su
+= Phân biệt dầu và mỡ.
+?2 Đun chất béo với dung dịch kiềm (phản ứng xà phòng hóa) thu được:
++ glycerol và muối của acid béo (xà phòng)
+- glucose và nước
+- ethanol và CO₂
+- protein
+= Sản xuất xà phòng.
+?2 Vai trò của chất béo đối với cơ thể là:
++ cung cấp, dự trữ năng lượng và hòa tan một số vitamin (A, D, E, K)
+- chỉ để tạo màu
+- không có vai trò gì
+- thay thế hoàn toàn nước
+= Vai trò dinh dưỡng.
+?3 Xà phòng giặt sạch vết dầu mỡ vì:
++ giúp phân tán dầu mỡ thành những hạt nhỏ trong nước rồi trôi đi
+- hòa tan vải
+- làm vải cứng lại
+- làm dầu mỡ đông đặc
+= Tác dụng tẩy rửa.
+?3 Ăn quá nhiều chất béo có thể dẫn đến:
++ béo phì, bệnh tim mạch
+- tăng chiều cao vượt trội
+- giảm cân nhanh
+- không ảnh hưởng gì
+= Dinh dưỡng hợp lí.
+?4 Dầu ăn để lâu ngoài không khí có mùi khó chịu (bị ôi) chủ yếu do:
++ bị oxi hóa bởi oxygen trong không khí
+- bị đông đá
+- hút nước biến thành giấm
+- chuyển thành protein
+= Bảo quản chất béo.
+
+## Bài 29. Carbohydrate. Glucose và saccharose
+?1 Công thức phân tử của glucose là:
++ C₆H₁₂O₆
+- C₁₂H₂₂O₁₁
+- C₂H₅OH
+- (C₆H₁₀O₅)ₙ
+= Carbohydrate đơn giản.
+?1 Công thức phân tử của saccharose là:
++ C₁₂H₂₂O₁₁
+- C₆H₁₂O₆
+- CH₃COOH
+- C₂H₄
+= Đường mía.
+?1 Glucose có nhiều trong:
++ quả nho chín
+- muối ăn
+- dầu ăn
+- thịt nạc
+= Đường nho.
+?2 Saccharose có nhiều trong:
++ cây mía, củ cải đường
+- quả chanh
+- lòng trắng trứng
+- mỡ động vật
+= Nguồn đường.
+?2 Phản ứng tráng bạc (với AgNO₃ trong NH₃) dùng để nhận biết:
++ glucose
+- saccharose
+- tinh bột
+- chất béo
+= Glucose có tính khử.
+?3 Lên men glucose (xúc tác enzyme) thu được:
++ ethanol và khí CO₂
+- acetic acid và H₂
+- tinh bột
+- protein
+= C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂.
+?3 Thủy phân saccharose (xúc tác acid) thu được:
++ glucose và fructose
+- chỉ glucose
+- tinh bột
+- ethanol
+= Phản ứng thủy phân.
+?4 Lên men hoàn toàn 180 g glucose (hiệu suất 100%) thu được khối lượng ethanol là:
++ 92 g
+- 46 g
+- 180 g
+- 88 g
+= 1 mol glucose cho 2 mol ethanol; 2·46.
+
+## Bài 30. Tinh bột và cellulose
+?1 Tinh bột có nhiều trong:
++ gạo, ngô, khoai, sắn
+- thịt, cá
+- dầu ăn
+- muối ăn
+= Nguồn tinh bột.
+?1 Cellulose là thành phần chính của:
++ thành tế bào thực vật (bông, gỗ)
+- máu
+- xương
+- da động vật
+= Nguồn cellulose.
+?1 Thuốc thử nhận biết tinh bột là:
++ dung dịch iodine (tạo màu xanh tím)
+- quỳ tím
+- nước vôi trong
+- dung dịch bromine
+= Phản ứng màu.
+?2 Thủy phân hoàn toàn tinh bột thu được:
++ glucose
+- saccharose
+- ethanol
+- glycerol
+= Phản ứng thủy phân.
+?2 Cây xanh tạo ra tinh bột nhờ quá trình:
++ quang hợp
+- hô hấp
+- lên men
+- đốt cháy
+= 6nCO₂ + 5nH₂O → (C₆H₁₀O₅)ₙ + 6nO₂.
+?3 Nhai cơm lâu thấy có vị ngọt vì:
++ enzyme amylase trong nước bọt thủy phân tinh bột thành đường
+- cơm có sẵn đường
+- nước bọt có vị ngọt
+- răng tiết ra đường
+= Tiêu hóa ở miệng.
+?3 Cellulose được dùng để sản xuất:
++ giấy, vải sợi
+- xăng
+- thủy tinh
+- kim loại
+= Ứng dụng.
+?4 Cơ thể người không tiêu hóa được cellulose nhưng chất xơ vẫn có lợi vì:
++ giúp tăng nhu động ruột, chống táo bón
+- cung cấp nhiều năng lượng
+- tạo protein
+- làm tăng đường huyết
+= Vai trò chất xơ.
+
+## Bài 31. Protein
+?1 Protein được cấu tạo từ các đơn vị là:
++ amino acid
+- glucose
+- acid béo
+- glycerol
+= Cấu tạo.
+?1 Nhóm thực phẩm giàu protein là:
++ thịt, cá, trứng, đậu
+- gạo, ngô
+- dầu, mỡ
+- rau xanh, trái cây
+= Dinh dưỡng.
+?1 Đun nóng lòng trắng trứng, ta thấy lòng trắng:
++ đông tụ lại
+- tan vào nước
+- chuyển sang màu xanh
+- bay hơi hết
+= Sự đông tụ protein.
+?2 Đốt tóc hoặc lông gà có mùi khét đặc trưng vì:
++ protein bị phân hủy khi đốt
+- tóc chứa dầu
+- tóc chứa tinh bột
+- tóc chứa muối
+= Tính chất protein.
+?2 Vai trò của protein đối với cơ thể là:
++ cấu tạo tế bào, tạo enzyme, hormone, kháng thể
+- chỉ cung cấp nước
+- không cần thiết
+- chỉ tạo màu da
+= Vai trò.
+?3 Thủy phân hoàn toàn protein thu được:
++ các amino acid
+- glucose
+- glycerol
+- ethanol
+= Phản ứng thủy phân.
+?3 Phân biệt sợi len (protein) và sợi bông (cellulose) bằng cách:
++ đốt, sợi len có mùi khét như tóc cháy
+- ngâm nước
+- nhìn màu sắc
+- cân khối lượng
+= Thử nghiệm đơn giản.
+?4 Khi nấu canh cua, riêu cua nổi thành từng mảng vì:
++ protein trong cua đông tụ khi đun nóng
+- cua có nhiều tinh bột
+- nước sôi làm cua tan
+- cua chứa nhiều dầu
+= Ứng dụng thực tế.
+
+## Bài 32. Polymer
+?1 Polymer là những chất:
++ có phân tử khối rất lớn, gồm nhiều mắt xích liên kết với nhau
+- có phân tử rất nhỏ
+- là kim loại
+- là chất khí đơn giản
+= Khái niệm.
+?1 Polyethylene (PE) được tạo thành từ:
++ ethylene
+- methane
+- glucose
+- ethanol
+= Phản ứng trùng hợp.
+?1 Polymer thiên nhiên gồm:
++ tinh bột, cellulose, protein
+- PE, PVC
+- thủy tinh
+- sắt, đồng
+= Phân loại.
+?2 Chất dẻo (nhựa) là:
++ vật liệu polymer có tính dẻo, có thể tạo hình
+- kim loại
+- gốm sứ
+- đá vôi
+= Vật liệu polymer.
+?2 Nhựa PVC thường được dùng để làm:
++ ống dẫn nước, vỏ dây điện
+- thức ăn
+- thuốc chữa bệnh
+- nhiên liệu cho xe
+= Ứng dụng.
+?3 Cao su thiên nhiên được lấy từ:
++ mủ cây cao su
+- dầu mỏ
+- đá vôi
+- quặng sắt
+= Nguồn gốc.
+?3 Rác thải nhựa gây hại cho môi trường vì:
++ rất khó phân hủy, tồn tại hàng trăm năm
+- phân hủy rất nhanh
+- làm đất màu mỡ
+- tạo oxygen
+= Ô nhiễm nhựa.
+?4 Biện pháp hiệu quả để giảm rác thải nhựa là:
++ hạn chế đồ nhựa dùng một lần, phân loại và tái chế
+- đốt rác nhựa ngoài trời
+- thải nhựa xuống sông
+- chôn lấp tất cả
+= Hành động thiết thực.
+
+# Chương X. Khai thác tài nguyên từ vỏ Trái Đất
+
+## Bài 33. Sơ lược về hóa học vỏ Trái Đất và khai thác tài nguyên từ vỏ Trái Đất
+?1 Nguyên tố phổ biến nhất trong vỏ Trái Đất là:
++ oxygen
+- sắt
+- carbon
+- vàng
+= Chiếm gần một nửa khối lượng.
+?1 Kim loại phổ biến nhất trong vỏ Trái Đất là:
++ nhôm
+- sắt
+- đồng
+- bạc
+= Nguyên tố kim loại nhiều nhất.
+?1 Vỏ Trái Đất cung cấp cho con người:
++ khoáng sản, vật liệu xây dựng, nhiên liệu
+- chỉ nước biển
+- chỉ không khí
+- không có gì
+= Tài nguyên.
+?2 Quặng hematite là quặng để sản xuất:
++ sắt
+- nhôm
+- đồng
+- vàng
+= Fe₂O₃.
+?2 Quặng bauxite là quặng để sản xuất:
++ nhôm
+- sắt
+- kẽm
+- chì
+= Al₂O₃.
+?3 Khai thác khoáng sản bừa bãi có thể gây:
++ ô nhiễm môi trường, sạt lở đất, cạn kiệt tài nguyên
+- tăng diện tích rừng
+- làm sạch nguồn nước
+- không ảnh hưởng gì
+= Tác hại.
+?3 Nguyên tố phổ biến thứ hai trong vỏ Trái Đất (sau oxygen) là:
++ silicon
+- nhôm
+- sắt
+- calcium
+= Thành phần cát, đá.
+?4 Biện pháp sử dụng bền vững tài nguyên khoáng sản là:
++ khai thác hợp lí, tái chế kim loại và phục hồi môi trường sau khai thác
+- khai thác càng nhiều càng tốt
+- bỏ rác thải mỏ ra sông
+- khai thác trái phép
+= Phát triển bền vững.
+
+## Bài 34. Khai thác đá vôi. Công nghiệp silicate
+?1 Thành phần chính của đá vôi là:
++ CaCO₃
+- CaO
+- SiO₂
+- NaCl
+= Calcium carbonate.
+?1 Nung đá vôi ở nhiệt độ cao thu được:
++ vôi sống (CaO) và khí CO₂
+- vôi tôi và nước
+- cát và nước
+- muối ăn
+= CaCO₃ → CaO + CO₂.
+?1 Sản phẩm của công nghiệp silicate gồm:
++ gốm sứ, thủy tinh, xi măng
+- xăng, dầu
+- nhựa PE
+- giấy, vải
+= Công nghiệp silicate.
+?2 Nguyên liệu chính để sản xuất thủy tinh là:
++ cát (SiO₂), đá vôi, soda
+- đất sét và than
+- gỗ và nước
+- dầu mỏ
+= Sản xuất thủy tinh.
+?2 Xi măng được sản xuất chủ yếu từ:
++ đá vôi và đất sét
+- cát và muối
+- gỗ và than
+- sắt và đồng
+= Nguyên liệu.
+?3 Cho vôi sống vào nước (tôi vôi), phản ứng xảy ra:
++ CaO + H₂O → Ca(OH)₂, tỏa nhiều nhiệt
+- CaO + H₂O → CaCO₃
+- CaO tan mà không phản ứng
+- thu nhiệt mạnh, nước đóng băng
+= Phản ứng tôi vôi.
+?3 Nung hoàn toàn 100 g CaCO₃ thu được khối lượng CaO là:
++ 56 g
+- 44 g
+- 100 g
+- 28 g
+= n = 1 mol; m(CaO) = 56 g.
+?4 Khi khai thác đá vôi ở vùng núi đá vôi, cần chú ý:
++ bảo vệ cảnh quan, hang động và hạn chế bụi cho dân cư
+- khai thác không giới hạn
+- nổ mìn gần khu dân cư
+- bỏ qua quy hoạch
+= Khai thác có trách nhiệm.
+
+## Bài 35. Khai thác nhiên liệu hóa thạch. Nguồn carbon. Chu trình carbon và sự ấm lên toàn cầu
+?1 Chu trình carbon là:
++ sự tuần hoàn của carbon giữa khí quyển, sinh vật, đại dương và đất đá
+- sự biến mất của carbon
+- quá trình tạo ra kim loại
+- quá trình tạo ra nước
+= Khái niệm.
+?1 Cây xanh lấy CO₂ từ khí quyển qua quá trình:
++ quang hợp
+- hô hấp
+- đốt cháy
+- phân hủy
+= Hấp thụ carbon.
+?1 Khí gây hiệu ứng nhà kính chủ yếu là:
++ CO₂ và CH₄
+- O₂ và N₂
+- H₂ và He
+- Ar và Ne
+= Khí nhà kính.
+?2 Quá trình nào thải CO₂ vào khí quyển?
++ hô hấp và đốt cháy nhiên liệu
+- quang hợp
+- trồng rừng
+- hấp thụ của đại dương
+= Nguồn phát thải.
+?2 Hậu quả của sự ấm lên toàn cầu là:
++ băng tan, nước biển dâng, thời tiết cực đoan
+- khí hậu lạnh hơn
+- băng nhiều hơn
+- giảm thiên tai
+= Tác động.
+?3 Phá rừng làm tăng lượng CO₂ trong khí quyển vì:
++ giảm lượng cây xanh hấp thụ CO₂
+- cây thải ra nhiều O₂ hơn
+- đất hấp thụ CO₂ nhiều hơn
+- không liên quan
+= Mối liên hệ.
+?3 Than chì và kim cương đều là:
++ dạng thù hình của carbon
+- hợp chất của sắt
+- kim loại
+- muối carbonate
+= Cùng được tạo bởi nguyên tố carbon.
+?4 Giải pháp giảm phát thải carbon là:
++ trồng rừng, dùng năng lượng tái tạo, tiết kiệm năng lượng
+- đốt nhiều than hơn
+- phá rừng làm nông nghiệp
+- dùng nhiều xe cá nhân
+= Ứng phó biến đổi khí hậu.

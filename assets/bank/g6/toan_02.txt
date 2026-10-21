@@ -1,0 +1,371 @@
+# Chương II. Tính chia hết trong tập hợp các số tự nhiên
+
+## Bài 8. Quan hệ chia hết và tính chất
+?1 Kí hiệu a ⋮ b đọc là:
++ a chia hết cho b
+- b chia hết cho a
+- a không chia hết cho b
+- a là ước của b
+= a ⋮ b nghĩa là a chia hết cho b.
+?1 Số nào là ước của 12?
++ 4
+- 5
+- 24
+- 8
+= 12 : 4 = 3 nên 4 là ước của 12.
+?1 Tập hợp các bội của 7 nhỏ hơn 30 là:
++ {0; 7; 14; 21; 28}
+- {7; 14; 21; 28}
+- {1; 7}
+- {7; 14; 21; 28; 35}
+= Bội của 7 là 0, 7, 14, 21, 28, 35, … ; các số nhỏ hơn 30 gồm cả 0.
+?1 Nếu a ⋮ m và b ⋮ m thì:
++ (a + b) ⋮ m
+- (a + b) không chia hết cho m
+- a ⋮ b
+- m ⋮ (a + b)
+= Tính chất chia hết của một tổng.
+?2 Tập hợp Ư(18) là:
++ {1; 2; 3; 6; 9; 18}
+- {2; 3; 6; 9}
+- {1; 2; 3; 6; 9}
+- {0; 18; 36}
+= Các số chia hết 18: 1, 2, 3, 6, 9, 18.
+?2 Tổng nào chia hết cho 6?
++ 36 + 24
+- 36 + 25
+- 12 + 15
+- 60 + 4
+= 36 ⋮ 6 và 24 ⋮ 6 nên tổng chia hết cho 6.
+?2 Không tính, cho biết hiệu 72 − 15 có chia hết cho 9 không?
++ Không, vì 72 ⋮ 9 nhưng 15 không chia hết cho 9
+- Có, vì 72 ⋮ 9
+- Có, vì 15 ⋮ 3
+- Không xác định được
+= Một số hạng chia hết, số còn lại không chia hết thì hiệu không chia hết.
+?3 Tìm x ∈ Ư(20) và x > 4.
++ x ∈ {5; 10; 20}
+- x ∈ {4; 5; 10; 20}
+- x ∈ {10; 20}
+- x ∈ {5; 10; 15; 20}
+= Ư(20) = {1; 2; 4; 5; 10; 20}; các ước lớn hơn 4 là 5, 10, 20.
+?3 Tìm x ∈ B(8) và 20 ≤ x ≤ 40.
++ x ∈ {24; 32; 40}
+- x ∈ {16; 24; 32}
+- x ∈ {20; 24; 32; 40}
+- x ∈ {24; 32}
+= Bội của 8 trong khoảng: 24, 32, 40.
+?3 Có 42 quyển vở chia đều cho một nhóm bạn, mỗi bạn được số vở như nhau. Số bạn có thể là:
++ 7
+- 5
+- 8
+- 9
+= Số bạn phải là ước của 42; 7 là ước của 42.
+?4 Tìm số tự nhiên n để (n + 5) ⋮ (n + 1).
++ n ∈ {0; 1; 3}
+- n ∈ {1; 3}
+- n ∈ {0; 4}
+- n ∈ {0; 1; 2; 3}
+= n + 5 = (n + 1) + 4, nên (n + 1) là ước của 4: n + 1 ∈ {1; 2; 4} → n ∈ {0; 1; 3}.
+?4 Cho A = 12 + 15 + 21 + x với x ∈ ℕ. Để A chia hết cho 3 thì x phải:
++ chia hết cho 3
+- chia 3 dư 1
+- chia 3 dư 2
+- là số chẵn
+= 12, 15, 21 đều chia hết cho 3 nên A ⋮ 3 khi x ⋮ 3.
+
+## Bài 9. Dấu hiệu chia hết
+?1 Số nào chia hết cho 2?
++ 1 358
+- 2 471
+- 935
+- 1 003
+= Số có chữ số tận cùng là số chẵn thì chia hết cho 2.
+?1 Số nào chia hết cho 5?
++ 2 340
+- 2 341
+- 2 346
+- 2 348
+= Chữ số tận cùng 0 hoặc 5 thì chia hết cho 5.
+?1 Số nào chia hết cho 9?
++ 4 563
+- 4 561
+- 4 565
+- 4 568
+= 4 + 5 + 6 + 3 = 18 ⋮ 9.
+?1 Một số chia hết cho 3 khi:
++ tổng các chữ số của nó chia hết cho 3
+- chữ số tận cùng chia hết cho 3
+- chữ số đầu tiên chia hết cho 3
+- nó là số lẻ
+= Dấu hiệu chia hết cho 3 dựa vào tổng các chữ số.
+?2 Số nào chia hết cho cả 2 và 5?
++ 1 230
+- 1 235
+- 1 232
+- 1 225
+= Chia hết cho cả 2 và 5 thì có tận cùng là 0.
+?2 Số nào chia hết cho 3 nhưng không chia hết cho 9?
++ 1 302
+- 1 305
+- 1 800
+- 3 249
+= 1 + 3 + 0 + 2 = 6 chia hết cho 3 nhưng không chia hết cho 9.
+?2 Điền chữ số vào dấu * để 47* chia hết cho cả 2 và 5:
++ 0
+- 5
+- 2
+- 7
+= Chia hết cho cả 2 và 5 thì chữ số tận cùng là 0.
+?3 Tìm chữ số * để số 5*8 chia hết cho 9.
++ 5
+- 4
+- 1
+- 9
+= 5 + * + 8 = 13 + * chia hết cho 9 → * = 5.
+?3 Tìm các chữ số a để 3a4 chia hết cho 3.
++ a ∈ {2; 5; 8}
+- a ∈ {0; 3; 6; 9}
+- a ∈ {1; 4; 7}
+- a ∈ {2; 5}
+= 3 + a + 4 = 7 + a chia hết cho 3 → a ∈ {2; 5; 8}.
+?3 Trong các số từ 1 đến 50, có bao nhiêu số chia hết cho 5?
++ 10
+- 9
+- 11
+- 5
+= Các số 5, 10, …, 50: 50 : 5 = 10 số.
+?4 Tìm chữ số a, b để số 7a5b chia hết cho cả 2, 3, 5 và 9.
++ b = 0, a = 6
+- b = 0, a = 3
+- b = 5, a = 1
+- b = 0, a = 9
+= Chia hết cho 2 và 5 nên b = 0; 7 + a + 5 + 0 = 12 + a chia hết cho 9 → a = 6.
+?4 Từ ba chữ số 0, 4, 5 lập được bao nhiêu số có ba chữ số khác nhau chia hết cho 5?
++ 3
+- 2
+- 4
+- 6
+= Tận cùng 0: 450, 540; tận cùng 5: 405 (không có 045). Tổng 3 số.
+
+## Bài 10. Số nguyên tố
+?1 Số nguyên tố là số tự nhiên lớn hơn 1 và:
++ chỉ có hai ước là 1 và chính nó
+- có nhiều hơn hai ước
+- chỉ có một ước
+- là số lẻ
+= Định nghĩa số nguyên tố.
+?1 Số nào là số nguyên tố?
++ 13
+- 15
+- 21
+- 1
+= 13 chỉ có hai ước là 1 và 13.
+?1 Số nguyên tố chẵn duy nhất là:
++ 2
+- 0
+- 4
+- Không có
+= 2 là số nguyên tố chẵn duy nhất.
+?1 Số nào là hợp số?
++ 27
+- 29
+- 31
+- 37
+= 27 = 3 × 9 có nhiều hơn hai ước.
+?2 Phân tích 60 ra thừa số nguyên tố:
++ 2² · 3 · 5
+- 2 · 3 · 10
+- 4 · 15
+- 2² · 15
+= 60 = 4 · 15 = 2² · 3 · 5.
+?2 Phân tích 84 ra thừa số nguyên tố:
++ 2² · 3 · 7
+- 2 · 6 · 7
+- 2³ · 7
+- 4 · 21
+= 84 = 2 · 42 = 2 · 2 · 21 = 2² · 3 · 7.
+?2 Có bao nhiêu số nguyên tố nhỏ hơn 20?
++ 8
+- 9
+- 7
+- 10
+= 2, 3, 5, 7, 11, 13, 17, 19.
+?3 Phân tích 360 ra thừa số nguyên tố:
++ 2³ · 3² · 5
+- 2² · 3² · 10
+- 2³ · 3 · 15
+- 2⁴ · 3 · 5
+= 360 = 8 · 45 = 2³ · 3² · 5.
+?3 Tổng của hai số nguyên tố bằng 15. Hai số đó là:
++ 2 và 13
+- 3 và 12
+- 5 và 10
+- 7 và 8
+= Tổng lẻ nên có một số chẵn là 2; số kia là 13 (số nguyên tố).
+?3 Số 2 · 3 · 5 + 7 là:
++ số nguyên tố
+- hợp số chia hết cho 2
+- hợp số chia hết cho 5
+- hợp số chia hết cho 3
+= 2 · 3 · 5 + 7 = 37 là số nguyên tố.
+?4 Tìm số nguyên tố p sao cho p + 2 và p + 4 cũng là số nguyên tố.
++ p = 3
+- p = 2
+- p = 5
+- p = 7
+= Một trong ba số p, p + 2, p + 4 chia hết cho 3, nên phải có một số bằng 3 → p = 3 (3, 5, 7).
+?4 Số 2⁴ · 3² có bao nhiêu ước?
++ 15
+- 6
+- 8
+- 12
+= Số ước = (4 + 1)(2 + 1) = 15.
+
+## Bài 11. Ước chung. Ước chung lớn nhất
+?1 ƯCLN(12, 18) bằng:
++ 6
+- 3
+- 36
+- 2
+= Ư(12) và Ư(18) có ước chung lớn nhất là 6.
+?1 Hai số nguyên tố cùng nhau là hai số có ƯCLN bằng:
++ 1
+- 0
+- 2
+- chính số nhỏ hơn
+= ƯCLN(a, b) = 1 thì a, b nguyên tố cùng nhau.
+?1 ƯC(8, 12) là:
++ {1; 2; 4}
+- {1; 2; 4; 8}
+- {2; 4}
+- {4; 24}
+= Ư(8) = {1; 2; 4; 8}, Ư(12) = {1; 2; 3; 4; 6; 12}.
+?1 Nếu a ⋮ b thì ƯCLN(a, b) bằng:
++ b
+- a
+- 1
+- a · b
+= b là ước của a và là ước lớn nhất của b.
+?2 ƯCLN(24, 36, 60) bằng:
++ 12
+- 6
+- 24
+- 4
+= 24 = 2³·3, 36 = 2²·3², 60 = 2²·3·5 → ƯCLN = 2²·3 = 12.
+?2 Phân số 18/24 rút gọn tối giản là:
++ 3/4
+- 9/12
+- 6/8
+- 2/3
+= Chia cả tử và mẫu cho ƯCLN(18, 24) = 6.
+?2 Cặp số nào nguyên tố cùng nhau?
++ 8 và 15
+- 6 và 9
+- 10 và 25
+- 12 và 18
+= ƯCLN(8, 15) = 1.
+?3 Có 24 quả cam và 36 quả quýt chia đều vào các đĩa, mỗi đĩa có cả cam và quýt. Chia được nhiều nhất bao nhiêu đĩa?
++ 12
+- 6
+- 24
+- 72
+= Số đĩa lớn nhất là ƯCLN(24, 36) = 12.
+?3 Tìm ƯCLN(56, 140).
++ 28
+- 14
+- 56
+- 7
+= 56 = 2³·7, 140 = 2²·5·7 → ƯCLN = 2²·7 = 28.
+?3 Một mảnh đất hình chữ nhật 60 m × 96 m được chia thành các ô vuông bằng nhau lớn nhất. Cạnh mỗi ô vuông là:
++ 12 m
+- 6 m
+- 24 m
+- 8 m
+= Cạnh ô vuông là ƯCLN(60, 96) = 12.
+?4 Tìm số tự nhiên a lớn nhất sao cho 266 và 365 đều chia cho a dư 2.
++ 33
+- 11
+- 3
+- 121
+= 264 ⋮ a và 363 ⋮ a. 264 = 2³·3·11, 363 = 3·11² → a lớn nhất là ƯCLN = 3·11 = 33 (lớn hơn số dư 2).
+?4 Tìm ƯCLN(2n + 1, 3n + 1) với n ∈ ℕ.
++ 1
+- 2
+- n
+- 3
+= Gọi d là ước chung: d | 3(2n + 1) − 2(3n + 1) = 1 nên d = 1.
+
+## Bài 12. Bội chung. Bội chung nhỏ nhất
+?1 BCNN(4, 6) bằng:
++ 12
+- 24
+- 2
+- 10
+= Bội chung nhỏ nhất khác 0 của 4 và 6 là 12.
+?1 BCNN của hai số nguyên tố cùng nhau a và b là:
++ a · b
+- a + b
+- 1
+- số lớn hơn
+= Hai số nguyên tố cùng nhau có BCNN bằng tích của chúng.
+?1 BC(3, 4) nhỏ hơn 30 là:
++ {0; 12; 24}
+- {12; 24}
+- {0; 7; 14; 21; 28}
+- {12; 24; 36}
+= BC(3, 4) = B(12) = {0; 12; 24; 36; …}.
+?1 Nếu a ⋮ b thì BCNN(a, b) bằng:
++ a
+- b
+- a · b
+- 1
+= a là bội của b nên a là bội chung nhỏ nhất.
+?2 BCNN(12, 18) bằng:
++ 36
+- 6
+- 72
+- 216
+= 12 = 2²·3, 18 = 2·3² → BCNN = 2²·3² = 36.
+?2 BCNN(8, 12, 30) bằng:
++ 120
+- 240
+- 60
+- 24
+= 2³·3·5 = 120.
+?2 Quy đồng mẫu 1/6 và 3/8, mẫu chung nhỏ nhất là:
++ 24
+- 48
+- 14
+- 12
+= Mẫu chung nhỏ nhất là BCNN(6, 8) = 24.
+?3 Hai bạn trực nhật: An 4 ngày một lần, Bình 6 ngày một lần. Hôm nay cùng trực. Sau ít nhất bao nhiêu ngày hai bạn lại cùng trực?
++ 12 ngày
+- 24 ngày
+- 10 ngày
+- 2 ngày
+= BCNN(4, 6) = 12.
+?3 Tính 5/12 + 7/18.
++ 29/36
+- 12/30
+- 1
+- 29/72
+= Mẫu chung 36: 15/36 + 14/36 = 29/36.
+?3 Số học sinh một lớp khi xếp hàng 3, hàng 4, hàng 6 đều vừa đủ, số học sinh khoảng 30 đến 40. Lớp có:
++ 36 học sinh
+- 24 học sinh
+- 30 học sinh
+- 40 học sinh
+= Số học sinh là bội chung của 3, 4, 6, tức bội của 12, trong khoảng 30–40 là 36.
+?4 Tìm số tự nhiên nhỏ nhất chia cho 4, 5, 6 đều dư 1 và chia hết cho 7.
++ 301
+- 61
+- 121
+- 181
+= x − 1 là bội của 60: x ∈ {61; 121; 181; 241; 301; …}; số đầu tiên chia hết cho 7 là 301.
+?4 Biết ƯCLN(a, b) = 6 và BCNN(a, b) = 72. Tích a · b bằng:
++ 432
+- 78
+- 12
+- 66
+= Luôn có a · b = ƯCLN(a, b) · BCNN(a, b) = 6 · 72 = 432.

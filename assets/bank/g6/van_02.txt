@@ -1,0 +1,599 @@
+// Ngữ văn 6 – Tập 2
+#! HK2
+# Học kì 2
+
+## Bài 6. Chuyện kể về những người anh hùng (truyền thuyết)
+?1 Truyền thuyết là loại truyện dân gian kể về:
++ nhân vật, sự kiện liên quan đến lịch sử, có yếu tố kì ảo
+- loài vật được nhân hóa
+- chuyện cười trong đời sống
+- người thật việc thật hiện nay
+= Truyền thuyết gắn với lịch sử, có yếu tố hoang đường.
+?1 Thánh Gióng đánh giặc nào?
++ giặc Ân
+- giặc Minh
+- giặc Nguyên
+- giặc Pháp
+= Truyền thuyết kể Gióng đánh tan giặc Ân.
+?1 Khi nghe sứ giả rao tìm người tài, Gióng nói câu đầu tiên:
++ xin ngựa sắt, roi sắt, áo giáp sắt để đánh giặc
+- xin ăn cơm
+- xin đi học
+- xin làm vua
+= Câu nói đầu tiên là lời xin đi đánh giặc.
+?1 Trong truyện "Sơn Tinh, Thủy Tinh", vua Hùng kén rể cho công chúa:
++ Mị Nương
+- Tiên Dung
+- Ngọc Hoa
+- Âu Cơ
+= Vua Hùng thứ mười tám có con gái là Mị Nương.
+?1 Sính lễ vua Hùng đòi gồm: voi chín ngà, gà chín cựa và:
++ ngựa chín hồng mao
+- trâu chín sừng
+- cá chín vây
+- hổ chín đuôi
+= "Voi chín ngà, gà chín cựa, ngựa chín hồng mao".
+?1 Ai là người mang lễ vật đến trước và lấy được Mị Nương?
++ Sơn Tinh
+- Thủy Tinh
+- Lạc Long Quân
+- Thánh Gióng
+= Sơn Tinh đến trước nên rước được Mị Nương.
+?1 Yếu tố kì ảo là:
++ những chi tiết phi thường, không có thật, do trí tưởng tượng tạo ra
+- chi tiết có thật trong lịch sử
+- lời bình của tác giả
+- số liệu thống kê
+= Ví dụ: Gióng vươn vai thành tráng sĩ.
+?2 Chi tiết "Gióng vươn vai thành tráng sĩ" thể hiện:
++ sức mạnh phi thường của nhân dân khi đất nước có giặc
+- Gióng ăn nhiều
+- Gióng thích tập thể dục
+- Gióng muốn làm vua
+= Hình ảnh kì ảo tượng trưng sức trỗi dậy của dân tộc.
+?2 Chi tiết bà con hàng xóm góp gạo nuôi Gióng có ý nghĩa:
++ sức mạnh của Gióng là sức mạnh của cả cộng đồng
+- hàng xóm giàu có
+- Gióng không có cha mẹ
+- gạo rất rẻ
+= Gióng là người anh hùng của nhân dân.
+?2 Truyện "Sơn Tinh, Thủy Tinh" giải thích hiện tượng tự nhiên nào?
++ lũ lụt hằng năm
+- động đất
+- núi lửa
+- nhật thực
+= Thủy Tinh năm nào cũng dâng nước đánh Sơn Tinh.
+?2 Hình tượng Sơn Tinh thể hiện ước mơ:
++ chế ngự thiên tai, lũ lụt của người Việt cổ
+- trở nên giàu có
+- được làm vua
+- đi khắp thế giới
+= Sơn Tinh luôn chiến thắng Thủy Tinh.
+?2 Sau khi đánh tan giặc, Gióng:
++ cởi áo giáp sắt, cưỡi ngựa bay lên trời
+- về nhà làm ruộng
+- được vua phong làm tướng
+- lên ngôi vua
+= Chi tiết thể hiện Gióng không màng danh lợi.
+> Ngày xưa, ở vùng ven biển có chàng trai tên Dũng. Năm ấy giặc biển kéo đến cướp bóc, Dũng đẽo cây tre làm gậy, dẫn dân làng đánh lui giặc. Khi giặc tan, cây gậy của chàng hóa thành rặng tre xanh chắn sóng, che chở cho làng đến tận bây giờ.
+?2 Câu chuyện trên mang đặc điểm của thể loại nào?
++ truyền thuyết
+- truyện đồng thoại
+- kí
+- văn bản thông tin
+= Có nhân vật anh hùng chống giặc, chi tiết kì ảo, giải thích dấu tích còn lại.
+?3 Chi tiết kì ảo trong câu chuyện là:
++ cây gậy hóa thành rặng tre xanh
+- giặc biển kéo đến cướp bóc
+- Dũng dẫn dân làng
+- làng ở ven biển
+= Gậy hóa thành tre là chi tiết không có thật.
+?3 Chi tiết "che chở cho làng đến tận bây giờ" cho thấy truyền thuyết thường:
++ gắn với dấu tích còn lưu lại đến ngày nay
+- không liên quan thực tế
+- kết thúc buồn
+- kể bằng ngôi thứ nhất
+= Truyền thuyết thường giải thích nguồn gốc dấu tích, địa danh.
+>-
+?3 Các dấu tích liên quan đến Thánh Gióng còn lại đến nay là:
++ tre đằng ngà, những ao hồ liên tiếp, làng Cháy
+- hồ Gươm
+- thành Cổ Loa
+- núi Tản Viên
+= Theo truyện: tre ngà vàng óng, ao hồ do vết chân ngựa, làng Cháy.
+?3 Vì sao Thủy Tinh tức giận đem quân đánh Sơn Tinh?
++ vì đến sau, không lấy được Mị Nương
+- vì Sơn Tinh cướp của
+- vì vua Hùng xúc phạm
+- vì tranh đất đai
+= Thủy Tinh đến muộn nên nổi giận.
+?3 Chi tiết "nước sông dâng lên bao nhiêu, đồi núi cao lên bấy nhiêu" thể hiện:
++ sức mạnh và sự kiên cường của Sơn Tinh, của người Việt chống lũ
+- Sơn Tinh sợ hãi
+- núi đồi bị sụt lở
+- nước không bao giờ rút
+= Sơn Tinh ngang sức, cuối cùng chiến thắng.
+?4 Điểm chung về nhân vật chính trong các truyền thuyết của bài là:
++ đều là người anh hùng có sức mạnh phi thường, gắn với lịch sử dân tộc
+- đều là loài vật
+- đều là người nghèo khổ được đền đáp
+- đều là nhân vật hài hước
+= Thánh Gióng, Sơn Tinh là những người anh hùng.
+?4 Khi kể lại một truyền thuyết bằng lời văn của mình, cần:
++ giữ đúng các sự việc chính và chi tiết kì ảo, có thể sáng tạo cách diễn đạt
+- thay đổi hết cốt truyện
+- bỏ các chi tiết kì ảo
+- chỉ kể đoạn kết
+= Kể lại cần trung thành với cốt truyện.
+
+## Bài 7. Thế giới cổ tích (truyện cổ tích)
+?1 Truyện cổ tích thường kể về:
++ số phận các kiểu nhân vật như người mồ côi, người em, người dũng sĩ…
+- các vị vua có thật trong lịch sử
+- loài vật biết nói nhằm gây cười
+- sự kiện khoa học
+= Cổ tích phản ánh ước mơ công bằng của nhân dân.
+?1 Thạch Sanh làm nghề gì để sống?
++ kiếm củi
+- đánh cá
+- làm ruộng
+- buôn bán
+= Thạch Sanh sống gốc đa, kiếm củi nuôi thân.
+?1 Kẻ nhiều lần lừa gạt Thạch Sanh là:
++ Lý Thông
+- chằn tinh
+- đại bàng
+- hoàng tử
+= Lý Thông kết nghĩa anh em rồi lừa Thạch Sanh.
+?1 Trong truyện "Cây khế", người anh tham lam đã:
++ may túi mười hai gang
+- may túi ba gang
+- không đi lấy vàng
+- chia vàng cho em
+= Lòng tham khiến người anh rơi xuống biển.
+?1 Kết thúc phổ biến của truyện cổ tích là:
++ người tốt được đền đáp, kẻ xấu bị trừng trị
+- người tốt luôn chịu thiệt
+- không có kết thúc
+- kẻ xấu chiến thắng
+= Thể hiện ước mơ công bằng.
+?1 Tiếng đàn của Thạch Sanh có tác dụng:
++ giúp nhận ra người tốt kẻ xấu và làm quân mười tám nước chư hầu xin hàng
+- chỉ để giải trí
+- gọi chim thần
+- chữa bệnh
+= Tiếng đàn tượng trưng cho công lí và tinh thần yêu chuộng hòa bình.
+?2 Niêu cơm thần ăn mãi không hết trong truyện "Thạch Sanh" thể hiện:
++ lòng nhân đạo, tư tưởng yêu hòa bình của nhân dân
+- Thạch Sanh giàu có
+- quân giặc đói
+- phép thuật của Lý Thông
+= Thạch Sanh dùng niêu cơm đãi quân thua trận.
+?2 Kiểu nhân vật của Thạch Sanh là:
++ người dũng sĩ mồ côi, tài năng, tốt bụng
+- người em út thông minh
+- người xấu xí có phép lạ
+- người giàu có tham lam
+= Thạch Sanh là dũng sĩ diệt chằn tinh, đại bàng.
+?2 Trong "Cây khế", chim thần trả ơn người em bằng cách:
++ đưa người em ra đảo lấy vàng
+- cho người em quả khế ngọt
+- dạy người em đánh đàn
+- biến người em thành vua
+= "Ăn một quả, trả cục vàng".
+?2 Bài học từ truyện "Cây khế" là:
++ không nên tham lam, sống hiền lành sẽ được đền đáp
+- nên trồng nhiều cây khế
+- nên làm việc một mình
+- nên sợ chim thần
+= Người anh tham lam bị trừng phạt.
+?2 Trạng ngữ là thành phần phụ của câu, thường bổ sung thông tin về:
++ thời gian, nơi chốn, mục đích, nguyên nhân…
+- chủ ngữ
+- vị ngữ chính
+- tên tác giả
+= Ví dụ: "Ngày xưa, ..." là trạng ngữ chỉ thời gian.
+> Ngày xửa ngày xưa, có hai mẹ con nhà nọ nghèo lắm. Cậu con trai hiếu thảo, ngày ngày lên rừng hái nấm đổi gạo nuôi mẹ. Một hôm, cậu cứu một con rùa nhỏ mắc kẹt trong khe đá. Đêm ấy, rùa hiện về báo mộng chỉ chỗ có cây thuốc chữa khỏi bệnh cho mẹ cậu.
+?2 Câu chuyện trên thuộc thể loại:
++ truyện cổ tích
+- truyền thuyết
+- kí
+- thơ
+= Có nhân vật người con hiếu thảo nghèo khó, yếu tố kì ảo, việc tốt được đền đáp.
+?3 Trạng ngữ trong câu "Đêm ấy, rùa hiện về báo mộng" là:
++ Đêm ấy
+- rùa
+- hiện về
+- báo mộng
+= Trạng ngữ chỉ thời gian, đứng đầu câu, ngăn cách bởi dấu phẩy.
+?3 Chi tiết "rùa báo mộng chỉ chỗ có cây thuốc" thể hiện quan niệm:
++ ở hiền gặp lành
+- phải sợ loài vật
+- mơ là điềm xấu
+- không nên vào rừng
+= Việc tốt của cậu bé được đền đáp.
+>-
+?3 Vì sao Lý Thông bày mưu để Thạch Sanh đi canh miếu?
++ để Thạch Sanh chết thay mình
+- vì tin tưởng Thạch Sanh
+- để Thạch Sanh lập công
+- để hai anh em cùng giàu
+= Lý Thông lừa Thạch Sanh nộp mạng cho chằn tinh.
+?3 Chọn trạng ngữ phù hợp: "..., Thạch Sanh vẫn tha tội chết cho mẹ con Lý Thông."
++ Dù bị lừa nhiều lần
+- Vì rất giàu có
+- Để được làm vua
+- Bởi vì sợ hãi
+= Trạng ngữ chỉ sự nhượng bộ làm nổi bật lòng nhân hậu.
+?3 Hình ảnh mẹ con Lý Thông bị sét đánh, hóa thành bọ hung thể hiện:
++ cái ác bị trừng trị
+- người tốt bị hại
+- sự may mắn
+- thời tiết xấu
+= Kết thúc mang tính công lí của cổ tích.
+?4 Điểm khác nhau cơ bản giữa truyền thuyết và cổ tích là:
++ truyền thuyết gắn với lịch sử, cổ tích gửi gắm ước mơ về công bằng, cái thiện
+- truyền thuyết không có yếu tố kì ảo
+- cổ tích luôn có thật
+- truyền thuyết luôn có vần
+= Mục đích và nội dung khác nhau.
+?4 Khi kể lại truyện cổ tích bằng lời một nhân vật, ta dùng ngôi kể:
++ thứ nhất, xưng "tôi" theo nhân vật đó
+- thứ hai
+- thứ ba
+- không cần ngôi kể
+= Nhập vai nhân vật để kể.
+
+## Bài 8. Khác biệt và gần gũi (văn bản nghị luận)
+?1 Văn bản nghị luận nhằm:
++ thuyết phục người đọc về một ý kiến, quan điểm
+- kể một câu chuyện tưởng tượng
+- tả cảnh thiên nhiên
+- cung cấp công thức nấu ăn
+= Nghị luận dùng lí lẽ, bằng chứng để thuyết phục.
+?1 Các yếu tố chính của văn bản nghị luận là:
++ ý kiến, lí lẽ, bằng chứng
+- nhân vật, cốt truyện
+- vần, nhịp
+- số liệu thời tiết
+= Ba yếu tố cốt lõi.
+?1 Lí lẽ là:
++ những lời giải thích, phân tích để làm rõ ý kiến
+- những câu chuyện cổ tích
+- hình ảnh minh họa
+- những từ láy
+= Lí lẽ giúp ý kiến có sức thuyết phục.
+?1 Bằng chứng là:
++ sự việc, số liệu, ví dụ thực tế để chứng minh lí lẽ
+- cảm xúc của người viết
+- lời khen ngợi
+- câu hỏi tu từ
+= Bằng chứng tăng tính xác thực.
+?1 Văn bản "Xem người ta kìa!" bàn về:
++ việc so sánh con với "người ta" và sự khác biệt của mỗi người
+- cách học toán
+- bảo vệ môi trường
+- lịch sử dân tộc
+= Văn bản đề cao việc tôn trọng sự khác biệt.
+?1 Từ Hán Việt là:
++ từ mượn tiếng Hán, đọc theo cách phát âm của người Việt
+- từ thuần Việt
+- từ mượn tiếng Anh
+- từ địa phương
+= Ví dụ: quốc gia, sơn hà.
+?2 Thông điệp chính của "Xem người ta kìa!" là:
++ mỗi người có cá tính riêng, cần hòa đồng nhưng vẫn giữ được bản sắc
+- phải giống hệt người khác
+- không cần học tập
+- phải hơn mọi người
+= Sống hòa nhập nhưng không đánh mất mình.
+?2 Từ Hán Việt nào có nghĩa là "núi sông"?
++ sơn hà
+- thiên địa
+- giang sơn của cải
+- nhân dân
+= "Sơn" là núi, "hà" là sông.
+?2 Từ "thiên" trong "thiên nhiên" có nghĩa là:
++ trời
+- nghìn
+- dời đi
+- thiên vị
+= "Thiên" (天) nghĩa là trời.
+?2 Câu nào nêu lí lẽ?
++ Mỗi người đều có sở trường riêng nên không nên so sánh mình với người khác.
+- Hôm qua trời mưa to.
+- Lan đạt điểm 9 môn Toán.
+- Cây phượng ở sân trường nở hoa.
+= Câu đưa ra lời giải thích cho một ý kiến.
+> Đọc sách mỗi ngày là thói quen bổ ích. Sách mở rộng hiểu biết và giúp ta biết cảm thông với người khác. Theo một khảo sát, học sinh đọc sách 20 phút mỗi ngày có vốn từ phong phú hơn hẳn. Vì vậy, mỗi chúng ta nên dành thời gian đọc sách mỗi ngày.
+?2 Ý kiến chính của đoạn văn là:
++ Đọc sách mỗi ngày là thói quen bổ ích
+- Sách rất đắt
+- Học sinh không thích đọc sách
+- Khảo sát rất khó làm
+= Câu đầu nêu ý kiến.
+?2 Bằng chứng trong đoạn văn là:
++ kết quả khảo sát về học sinh đọc sách 20 phút mỗi ngày
+- câu "Đọc sách mỗi ngày là thói quen bổ ích"
+- câu kết luận
+- tên một cuốn sách
+= Số liệu khảo sát là bằng chứng.
+?3 Câu "Vì vậy, mỗi chúng ta nên dành thời gian đọc sách mỗi ngày" có vai trò:
++ khẳng định lại ý kiến, kêu gọi hành động
+- đưa ra bằng chứng
+- kể chuyện
+- miêu tả
+= Câu kết của đoạn nghị luận.
+?3 Lí lẽ trong đoạn văn là:
++ Sách mở rộng hiểu biết và giúp ta biết cảm thông với người khác
+- Theo một khảo sát…
+- Vì vậy…
+- Đọc sách mỗi ngày là thói quen bổ ích
+= Câu giải thích vì sao đọc sách bổ ích.
+>-
+?3 Khi viết bài nghị luận về một hiện tượng đời sống, việc đầu tiên cần làm là:
++ xác định rõ hiện tượng và nêu ý kiến của mình
+- kể một câu chuyện cổ tích
+- liệt kê từ láy
+- tả cảnh thiên nhiên
+= Nêu vấn đề và ý kiến trước.
+?3 Dùng từ Hán Việt "phụ nữ" thay cho "đàn bà" trong văn bản trang trọng nhằm:
++ tạo sắc thái trang trọng, lịch sự
+- làm câu dài hơn
+- gây cười
+- tạo sắc thái thân mật, suồng sã
+= Từ Hán Việt thường mang sắc thái trang trọng.
+?3 Bằng chứng nào phù hợp nhất cho ý kiến "Tập thể dục giúp học sinh học tốt hơn"?
++ Nghiên cứu cho thấy học sinh vận động 30 phút mỗi ngày tập trung tốt hơn
+- Em thích bóng đá
+- Sân trường rất rộng
+- Trời hôm nay nắng
+= Bằng chứng cần liên quan trực tiếp đến ý kiến.
+?4 Vì sao văn bản nghị luận cần có cả lí lẽ và bằng chứng?
++ Lí lẽ giải thích, bằng chứng chứng minh, phối hợp giúp ý kiến thuyết phục
+- Vì để bài văn dài hơn
+- Vì quy định phải có
+- Vì người đọc thích đọc số liệu
+= Thiếu một trong hai thì lập luận yếu.
+?4 Trong lập luận, câu "Ai cũng nói vậy nên điều đó đúng" mắc lỗi gì?
++ dùng ý kiến số đông thay cho lí lẽ, bằng chứng
+- thiếu dấu câu
+- dùng từ láy sai
+- dùng sai ngôi kể
+= Số đông chưa chắc đã đúng; cần lí lẽ, bằng chứng.
+
+## Bài 9. Trái Đất – ngôi nhà chung (văn bản thông tin)
+?1 Văn bản thông tin nhằm:
++ cung cấp thông tin chính xác về sự vật, sự việc
+- kể chuyện hư cấu
+- bày tỏ cảm xúc là chính
+- gây cười
+= Văn bản thông tin truyền đạt tri thức.
+?1 Văn bản "Trái Đất – cái nôi của sự sống" cho biết Trái Đất là hành tinh:
++ duy nhất có sự sống trong hệ Mặt Trời (theo hiểu biết hiện nay)
+- lớn nhất hệ Mặt Trời
+- gần Mặt Trời nhất
+- không có nước
+= Trái Đất có nước và sự sống.
+?1 Sa-pô (sapo) của một bản tin là:
++ đoạn mở đầu ngắn tóm tắt nội dung chính
+- phần kết bài
+- tên tác giả
+- hình ảnh minh họa
+= Sa-pô giúp người đọc nắm ý chính.
+?1 Ngày Trái Đất được tổ chức hằng năm vào ngày:
++ 22 tháng 4
+- 5 tháng 6
+- 1 tháng 1
+- 20 tháng 11
+= Ngày Trái Đất 22/4; 5/6 là Ngày Môi trường thế giới.
+?1 Phương tiện phi ngôn ngữ trong văn bản thông tin gồm:
++ hình ảnh, sơ đồ, biểu đồ, bảng số liệu
+- từ láy, từ ghép
+- vần, nhịp
+- lời thoại nhân vật
+= Hỗ trợ truyền tải thông tin trực quan.
+?1 Nước chiếm khoảng bao nhiêu phần bề mặt Trái Đất?
++ khoảng 71%
+- khoảng 30%
+- khoảng 50%
+- khoảng 90%
+= Đại dương bao phủ khoảng 71% bề mặt.
+?2 Đặc điểm nào KHÔNG thuộc văn bản thông tin?
++ Nhân vật tưởng tượng có phép thuật
+- Thông tin chính xác
+- Có số liệu, dẫn chứng
+- Ngôn ngữ rõ ràng
+= Văn bản thông tin không hư cấu.
+?2 Tác dụng của việc dùng số liệu trong văn bản thông tin:
++ tăng độ tin cậy, chính xác
+- làm văn bản vui hơn
+- tạo vần điệu
+- thay cho tiêu đề
+= Số liệu cụ thể giúp thông tin thuyết phục.
+?2 Trật tự trình bày "theo trình tự thời gian" phù hợp khi viết về:
++ quá trình hình thành, diễn biến một sự kiện
+- so sánh hai con vật
+- liệt kê các loại cây
+- miêu tả căn phòng
+= Thời gian giúp người đọc theo dõi diễn biến.
+?2 Thông điệp chung của bài "Trái Đất – ngôi nhà chung" là:
++ mọi người cần chung tay bảo vệ Trái Đất
+- Trái Đất là của riêng con người
+- không cần quan tâm môi trường
+- chỉ nhà khoa học mới bảo vệ được Trái Đất
+= Trái Đất là ngôi nhà của muôn loài.
+> Rác thải nhựa đang là mối đe dọa lớn đối với đại dương. Mỗi năm, khoảng 8 triệu tấn nhựa bị thải ra biển. Nhiều loài rùa, cá voi nuốt phải túi ni lông và chết. Để hạn chế, mỗi người có thể mang túi vải khi đi chợ và hạn chế dùng ống hút nhựa.
+?2 Đoạn văn trên thuộc kiểu văn bản:
++ văn bản thông tin
+- truyện cổ tích
+- thơ lục bát
+- truyền thuyết
+= Cung cấp thông tin, số liệu về rác thải nhựa.
+?2 Số liệu được dùng trong đoạn văn là:
++ khoảng 8 triệu tấn nhựa mỗi năm
+- 8 loài rùa
+- 8 túi vải
+- 8 năm
+= Số liệu về lượng nhựa thải ra biển.
+?3 Theo đoạn văn, giải pháp hạn chế rác thải nhựa là:
++ mang túi vải, hạn chế ống hút nhựa
+- ra biển bắt rùa
+- tăng dùng túi ni lông
+- đốt rác ngoài trời
+= Câu cuối nêu giải pháp.
+?3 Câu "Nhiều loài rùa, cá voi nuốt phải túi ni lông và chết" có vai trò:
++ nêu tác hại cụ thể của rác thải nhựa
+- giới thiệu giải pháp
+- kể chuyện cổ tích
+- nêu ý kiến cá nhân
+= Bằng chứng về tác hại.
+>-
+?3 Nếu biểu diễn lượng rác nhựa qua các năm, nên dùng:
++ biểu đồ
+- bài thơ
+- truyện tranh cổ tích
+- bản nhạc
+= Biểu đồ thể hiện số liệu trực quan.
+?3 "Các loài chung sống với nhau như thế nào?" muốn nhấn mạnh:
++ sự đa dạng và cân bằng giữa các loài trong tự nhiên
+- con người là loài duy nhất quan trọng
+- động vật nên sống tách biệt
+- chỉ thực vật mới quan trọng
+= Các loài phụ thuộc lẫn nhau.
+?3 Khi viết biên bản một cuộc họp, cần ghi:
++ thời gian, địa điểm, thành phần, nội dung, kết luận
+- cảm xúc cá nhân là chủ yếu
+- một bài thơ
+- câu chuyện cổ tích
+= Biên bản ghi trung thực, đầy đủ diễn biến.
+?4 Vì sao văn bản thông tin về môi trường thường kết thúc bằng lời kêu gọi?
++ để người đọc chuyển nhận thức thành hành động bảo vệ môi trường
+- để văn bản dài hơn
+- để giới thiệu tác giả
+- vì không còn thông tin
+= Mục đích cuối cùng là thay đổi hành vi.
+?4 Một bạn viết: "Trái Đất có 100% bề mặt là đất liền." Lỗi trong câu là:
++ thông tin sai sự thật
+- dùng từ láy
+- sai chính tả
+- thiếu chủ ngữ
+= Phần lớn bề mặt Trái Đất là nước.
+
+## Bài 10. Cuốn sách tôi yêu (đọc mở rộng)
+?1 Khi giới thiệu một cuốn sách, cần nêu:
++ tên sách, tác giả, nội dung chính và điều mình yêu thích
+- giá tiền là chủ yếu
+- màu bìa sách
+- tên hiệu sách
+= Giới thiệu sách tập trung nội dung và cảm nhận.
+?1 "Dế Mèn phiêu lưu kí" thuộc thể loại:
++ truyện đồng thoại
+- truyền thuyết
+- kí
+- văn bản thông tin
+= Nhân vật là loài vật.
+?1 Tác phẩm "Hoàng tử bé" là của nhà văn:
++ Antoine de Saint-Exupéry
+- Andersen
+- Tô Hoài
+- Tagore
+= Xanh-tơ Ê-xu-pe-ri, nhà văn Pháp.
+?1 "Nếu cậu muốn có một người bạn" trích từ tác phẩm:
++ Hoàng tử bé
+- Dế Mèn phiêu lưu kí
+- Cô bé bán diêm
+- Mây và sóng
+= Đoạn trích về cuộc gặp gỡ giữa hoàng tử bé và con cáo.
+?1 Văn bản giới thiệu sách nên viết với giọng:
++ rõ ràng, hấp dẫn, khơi gợi người đọc tìm đọc
+- buồn bã
+- giận dữ
+- khó hiểu
+= Mục đích là khuyến khích đọc sách.
+?1 Hoạt động phù hợp để chia sẻ về cuốn sách yêu thích là:
++ thuyết trình giới thiệu sách
+- chép lại cả cuốn sách
+- giấu sách đi
+- vẽ lại bìa sách
+= Thuyết trình giúp chia sẻ với các bạn.
+?2 Trong "Nếu cậu muốn có một người bạn", con cáo đề nghị hoàng tử bé:
++ "cảm hóa" nó, tức là tạo nên mối ràng buộc
+- dạy nó bay
+- cho nó ăn
+- đưa nó lên hành tinh khác
+= Tình bạn được xây dựng bằng sự gắn bó, kiên nhẫn.
+?2 Câu "Người ta chỉ nhìn thấy thật rõ ràng bằng trái tim" có ý nghĩa:
++ những điều quý giá nhất cần cảm nhận bằng tình cảm
+- phải đeo kính
+- mắt không quan trọng
+- trái tim có thể nhìn
+= Lời con cáo về giá trị tình cảm.
+?2 Lợi ích của đọc sách là:
++ mở rộng hiểu biết, bồi dưỡng tâm hồn, rèn ngôn ngữ
+- làm mất thời gian
+- chỉ để giải trí
+- không có lợi ích
+= Sách là người bạn đồng hành.
+?2 Khi thuyết trình giới thiệu sách, nên:
++ nhìn người nghe, nói rõ ràng, có thể dùng hình ảnh minh họa
+- đọc chép nguyên văn từ giấy, không nhìn ai
+- nói thật nhanh
+- quay lưng lại người nghe
+= Kĩ năng thuyết trình hiệu quả.
+> "Tôi đã đọc 'Không gia đình' ba lần. Mỗi lần gấp sách lại, tôi lại thấy thương cậu bé Rê-mi phải lưu lạc khắp nước Pháp. Nhưng tôi học được ở cậu lòng dũng cảm và sự lạc quan: dù khó khăn đến đâu, cậu vẫn không bỏ cuộc."
+?2 Cuốn sách được nhắc đến trong đoạn văn là:
++ Không gia đình
+- Hoàng tử bé
+- Dế Mèn phiêu lưu kí
+- Cô bé bán diêm
+= Người viết nhắc tên sách và nhân vật Rê-mi.
+?2 Người viết rút ra bài học gì từ nhân vật?
++ lòng dũng cảm và sự lạc quan
+- sự giàu có
+- tính lười biếng
+- sự kiêu ngạo
+= Câu cuối đoạn nêu bài học.
+?3 Đoạn văn trên thể hiện những nội dung nào của bài giới thiệu sách?
++ cảm xúc cá nhân và bài học rút ra từ cuốn sách
+- giá bán và nơi bán sách
+- số trang và màu bìa
+- tiểu sử dịch giả
+= Đoạn văn tập trung cảm nhận và bài học.
+?3 Chi tiết "đã đọc ba lần" cho thấy:
++ người viết rất yêu thích cuốn sách
+- sách quá khó
+- người viết đọc chậm
+- sách bị mất trang
+= Đọc lại nhiều lần thể hiện sự yêu thích.
+>-
+?3 Để bài giới thiệu sách hấp dẫn hơn, có thể:
++ trích một câu văn hay hoặc kể một chi tiết ấn tượng
+- kể hết toàn bộ kết thúc
+- chê bai các sách khác
+- viết thật dài về tác giả
+= Trích dẫn gợi tò mò mà không tiết lộ hết.
+?3 Văn bản tóm tắt nội dung cuốn sách cần:
++ ngắn gọn, nêu đúng các sự việc chính
+- kể chi tiết mọi trang
+- thêm nhân vật mới
+- thay đổi kết thúc
+= Tóm tắt trung thành và cô đọng.
+?3 Khi chọn sách để đọc, học sinh lớp 6 nên:
++ chọn sách phù hợp lứa tuổi, có giá trị nội dung
+- chọn sách dày nhất
+- chọn sách có bìa đẹp nhất
+- chọn ngẫu nhiên
+= Sách phù hợp giúp đọc hiệu quả.
+?4 Điểm giống nhau giữa giới thiệu sách và viết đoạn cảm nhận về tác phẩm là:
++ đều cần nêu ấn tượng, cảm xúc và dẫn chứng từ tác phẩm
+- đều chỉ cần nêu giá sách
+- đều không cần đọc tác phẩm
+- đều phải viết bằng thơ
+= Cả hai dựa trên trải nghiệm đọc.
+?4 Câu nói "Một cuốn sách hay là một người bạn tốt" sử dụng biện pháp gì?
++ so sánh/ẩn dụ (coi sách như người bạn)
+- điệp ngữ
+- hoán dụ
+- nói quá
+= Sách được ví với người bạn.

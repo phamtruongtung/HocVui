@@ -1,0 +1,1349 @@
+// Toán 7 – Tập 2
+#! HK2
+# Chương VI. Tỉ lệ thức và đại lượng tỉ lệ
+
+## Bài 20. Tỉ lệ thức
+?1 Tỉ lệ thức là:
++ đẳng thức của hai tỉ số a/b = c/d
+- tổng hai tỉ số
+- tích hai số
+- hiệu hai phân số
+= Định nghĩa tỉ lệ thức.
+?1 Nếu a/b = c/d thì:
++ a · d = b · c
+- a · c = b · d
+- a + d = b + c
+- a = c
+= Tính chất cơ bản.
+?1 Trong tỉ lệ thức a/b = c/d, a và d gọi là:
++ ngoại tỉ
+- trung tỉ
+- số hạng tổng
+- số đối
+= b, c là trung tỉ.
+?1 Từ 2/3 = 4/6, lập được tỉ lệ thức nào?
++ 2/4 = 3/6
+- 2/6 = 4/3
+- 3/2 = 4/6
+- 2/3 = 6/4
+= Đổi chỗ trung tỉ.
+?2 Tìm x biết x/4 = 9/12.
++ 3
+- 2
+- 6
+- 12
+= x = 4 · 9 : 12.
+?2 Tìm x biết 2,5/x = 5/8.
++ 4
+- 2
+- 3,2
+- 16
+= 5x = 20.
+?2 Các tỉ số nào lập thành tỉ lệ thức?
++ 3 : 5 và 9 : 15
+- 3 : 5 và 5 : 3
+- 2 : 7 và 4 : 7
+- 1 : 2 và 2 : 3
+= 3/5 = 9/15.
+?3 Tìm x biết (x − 1)/3 = 4/6.
++ 3
+- 2
+- 1
+- 5
+= x − 1 = 2.
+?3 Từ đẳng thức 6 · 10 = 4 · 15 lập được bao nhiêu tỉ lệ thức?
++ 4
+- 2
+- 1
+- 8
+= 6/4 = 15/10; 6/15 = 4/10; 4/6 = 10/15; 15/6 = 10/4.
+?3 Tìm x biết x/2 = 8/x và x > 0.
++ 4
+- 16
+- 2
+- 8
+= x² = 16.
+?4 Tìm x biết (x + 2)/(x − 1) = 5/2.
++ 3
+- −3
+- 1
+- 4
+= 2x + 4 = 5x − 5 → x = 3.
+?4 Cho a/b = 2/3. Giá trị của (a + b)/b là:
++ 5/3
+- 2/3
+- 1
+- 3/5
+= a/b + 1 = 5/3.
+
+## Bài 21. Tính chất của dãy tỉ số bằng nhau
+?1 Từ a/b = c/d suy ra (với các mẫu khác 0):
++ a/b = (a + c)/(b + d)
+- a/b = (a · c)/(b + d)
+- a/b = a + c
+- a/b = (a − d)/(b − c)
+= Tính chất dãy tỉ số bằng nhau.
+?1 Tìm x, y biết x/2 = y/3 và x + y = 15.
++ x = 6, y = 9
+- x = 9, y = 6
+- x = 5, y = 10
+- x = 3, y = 12
+= x/2 = y/3 = 15/5 = 3.
+?1 Tìm x, y biết x/5 = y/4 và x − y = 3.
++ x = 15, y = 12
+- x = 12, y = 15
+- x = 5, y = 4
+- x = 10, y = 8
+= (x − y)/(5 − 4) = 3.
+?1 Số học sinh ba lớp tỉ lệ với 3; 4; 5. Câu viết đúng là:
++ a/3 = b/4 = c/5
+- a/5 = b/4 = c/3
+- 3a = 4b = 5c
+- a + b + c = 12
+= Tỉ lệ với 3, 4, 5.
+?2 Chia 60 thành ba phần tỉ lệ với 2; 3; 5. Phần lớn nhất là:
++ 30
+- 18
+- 12
+- 25
+= 60 : 10 = 6; 5 · 6 = 30.
+?2 Tìm x, y, z biết x/2 = y/3 = z/4 và x + y + z = 27.
++ x = 6, y = 9, z = 12
+- x = 9, y = 6, z = 12
+- x = 3, y = 9, z = 15
+- x = 4, y = 6, z = 8
+= 27 : 9 = 3.
+?2 Hai lớp trồng 90 cây, số cây tỉ lệ với 4 và 5. Lớp thứ nhất trồng:
++ 40 cây
+- 50 cây
+- 45 cây
+- 36 cây
+= 90 : 9 · 4.
+?3 Tìm x, y biết x/3 = y/7 và 2x + y = 26.
++ x = 6, y = 14
+- x = 3, y = 7
+- x = 9, y = 21
+- x = 6, y = 7
+= 2x/6 = y/7 = 26/13 = 2.
+?3 Ba cạnh tam giác tỉ lệ 3 : 4 : 5, chu vi 36 cm. Cạnh lớn nhất dài:
++ 15 cm
+- 12 cm
+- 9 cm
+- 20 cm
+= 36 : 12 = 3; 5 · 3.
+?3 Số bi của An và Bình tỉ lệ 3 : 5; Bình hơn An 10 viên. An có:
++ 15 viên
+- 25 viên
+- 10 viên
+- 30 viên
+= Hiệu 2 phần = 10 → phần = 5.
+?4 Tìm x, y biết x/2 = y/5 và x · y = 40.
++ x = 4, y = 10 hoặc x = −4, y = −10
+- x = 4, y = 10
+- x = 2, y = 20
+- x = 8, y = 5
+= x = 2k, y = 5k → 10k² = 40 → k = ±2.
+?4 Ba đội làm cùng công việc như nhau, hoàn thành trong 4, 6, 8 ngày (năng suất mỗi người như nhau). Ba đội có tổng 26 người. Đội thứ nhất có:
++ 12 người
+- 8 người
+- 6 người
+- 4 người
+= Số người tỉ lệ nghịch với số ngày: a·4 = b·6 = c·8 → a : b : c = 6 : 4 : 3 → a = 12.
+
+## Bài 22. Đại lượng tỉ lệ thuận
+?1 Đại lượng y tỉ lệ thuận với x theo hệ số k nếu:
++ y = kx (k ≠ 0)
+- y = k/x
+- y = x + k
+- xy = k
+= Định nghĩa.
+?1 Nếu y tỉ lệ thuận với x theo hệ số k thì x tỉ lệ thuận với y theo hệ số:
++ 1/k
+- k
+- −k
+- k²
+= x = y/k.
+?1 Quãng đường s và thời gian t của chuyển động đều (vận tốc không đổi) là hai đại lượng:
++ tỉ lệ thuận
+- tỉ lệ nghịch
+- không liên quan
+- bằng nhau
+= s = v · t.
+?1 y tỉ lệ thuận với x, khi x = 2 thì y = 6. Hệ số tỉ lệ là:
++ 3
+- 1/3
+- 12
+- 4
+= k = y/x.
+?2 y tỉ lệ thuận với x, khi x = 4 thì y = 10. Khi x = 6 thì y bằng:
++ 15
+- 12
+- 20
+- 8
+= k = 2,5; y = 15.
+?2 Mua 5 quyển vở hết 40 000 đồng. Mua 8 quyển hết:
++ 64 000 đồng
+- 48 000 đồng
+- 25 000 đồng
+- 80 000 đồng
+= Giá mỗi quyển 8 000.
+?2 Khối lượng và thể tích của cùng một chất là hai đại lượng:
++ tỉ lệ thuận
+- tỉ lệ nghịch
+- không liên quan
+- tỉ lệ bình phương
+= m = D · V.
+?3 Một ô tô đi 120 km tiêu thụ 9 lít xăng. Đi 200 km tiêu thụ:
++ 15 lít
+- 12 lít
+- 18 lít
+- 13,5 lít
+= 200 · 9/120.
+?3 Ba lớp góp sách tỉ lệ thuận với số học sinh 30; 35; 40. Tổng 210 quyển. Lớp có 35 học sinh góp:
++ 70 quyển
+- 60 quyển
+- 80 quyển
+- 35 quyển
+= 210/105 = 2 quyển/hs.
+?3 Bảng giá trị: x = 1, 2, 3; y = 4, 8, 12. y và x là:
++ tỉ lệ thuận với hệ số 4
+- tỉ lệ nghịch
+- tỉ lệ thuận hệ số 1/4
+- không tỉ lệ
+= y/x = 4.
+?4 Ba cạnh tam giác tỉ lệ thuận với 2; 3; 4 và cạnh lớn nhất dài hơn cạnh nhỏ nhất 6 cm. Chu vi là:
++ 27 cm
+- 18 cm
+- 36 cm
+- 9 cm
+= 2 phần = 6 → phần = 3; chu vi 9 phần = 27.
+?4 Biết 3 m dây đồng nặng 75 g. Cuộn dây nặng 2 kg dài:
++ 80 m
+- 40 m
+- 50 m
+- 120 m
+= 1 m nặng 25 g; 2 000 : 25 = 80.
+
+## Bài 23. Đại lượng tỉ lệ nghịch
+?1 y tỉ lệ nghịch với x theo hệ số a nếu:
++ y = a/x (a ≠ 0)
+- y = ax
+- y = x + a
+- y = x − a
+= Định nghĩa.
+?1 Nếu y tỉ lệ nghịch với x theo hệ số a thì x tỉ lệ nghịch với y theo hệ số:
++ a
+- 1/a
+- −a
+- a²
+= x · y = a.
+?1 Với cùng một quãng đường, vận tốc và thời gian là hai đại lượng:
++ tỉ lệ nghịch
+- tỉ lệ thuận
+- bằng nhau
+- không liên quan
+= v · t = s không đổi.
+?1 y tỉ lệ nghịch với x, khi x = 3 thì y = 4. Hệ số tỉ lệ là:
++ 12
+- 3/4
+- 4/3
+- 7
+= a = x · y.
+?2 y tỉ lệ nghịch với x, khi x = 2 thì y = 10. Khi x = 5 thì y bằng:
++ 4
+- 25
+- 20
+- 2
+= a = 20; y = 20/5.
+?2 Một công việc 6 người làm xong trong 8 ngày. 12 người làm (cùng năng suất) xong trong:
++ 4 ngày
+- 16 ngày
+- 6 ngày
+- 2 ngày
+= Số người tăng gấp đôi, thời gian giảm một nửa.
+?2 Bảng: x = 1, 2, 4; y = 12, 6, 3. y và x là:
++ tỉ lệ nghịch với hệ số 12
+- tỉ lệ thuận
+- tỉ lệ nghịch hệ số 1/12
+- không tỉ lệ
+= x · y = 12.
+?3 Đi từ A đến B với vận tốc 40 km/h mất 3 giờ. Nếu đi với vận tốc 60 km/h thì mất:
++ 2 giờ
+- 4,5 giờ
+- 1,5 giờ
+- 2,5 giờ
+= 40 · 3 = 120 km; 120 : 60.
+?3 Một lượng thức ăn đủ cho 20 con gà trong 15 ngày. Nếu có 25 con gà thì đủ trong:
++ 12 ngày
+- 18,75 ngày
+- 10 ngày
+- 20 ngày
+= 20 · 15 = 300; 300 : 25.
+?3 Hai bánh răng ăn khớp: bánh A có 40 răng quay 15 vòng/phút, bánh B có 30 răng quay:
++ 20 vòng/phút
+- 11,25 vòng/phút
+- 25 vòng/phút
+- 10 vòng/phút
+= Số răng × số vòng không đổi: 600 : 30.
+?4 Ba đội máy cày cùng diện tích như nhau, lần lượt xong trong 4, 6, 8 ngày. Đội 1 nhiều hơn đội 2 là 2 máy (năng suất như nhau). Đội 3 có:
++ 3 máy
+- 4 máy
+- 6 máy
+- 2 máy
+= Số máy tỉ lệ nghịch với số ngày: a : b : c = 1/4 : 1/6 : 1/8 = 6 : 4 : 3; a − b = 2 phần = 2 máy → c = 3.
+?4 Biết y tỉ lệ nghịch với x và x tỉ lệ thuận với z (hệ số 2). Khi đó y và z:
++ tỉ lệ nghịch
+- tỉ lệ thuận
+- bằng nhau
+- không liên quan
+= y = a/x = a/(2z) = (a/2)/z.
+
+# Chương VII. Biểu thức đại số và đa thức một biến
+
+## Bài 24. Biểu thức đại số
+?1 Biểu thức nào là biểu thức đại số?
++ 2x + 3y
+- 2 + 3
+- 5 · 7
+- 10 : 2
+= Có chứa chữ (biến).
+?1 Giá trị của biểu thức 3x − 1 tại x = 2 là:
++ 5
+- 6
+- 4
+- 7
+= 3 · 2 − 1.
+?1 Biểu thức biểu thị chu vi hình chữ nhật có chiều dài a, chiều rộng b là:
++ 2(a + b)
+- a · b
+- a + b
+- 4a
+= Chu vi hình chữ nhật.
+?1 "Tổng của x và 5" viết là:
++ x + 5
+- 5x
+- x − 5
+- x/5
+= Tổng.
+?2 Giá trị của x² − 2x + 1 tại x = −1 là:
++ 4
+- 0
+- 2
+- −2
+= 1 + 2 + 1.
+?2 "Hiệu của bình phương x và 3" viết là:
++ x² − 3
+- (x − 3)²
+- 3 − x²
+- 2x − 3
+= Bình phương x rồi trừ 3.
+?2 Giá trị biểu thức (a + b)/2 tại a = 7, b = −3 là:
++ 2
+- 5
+- −2
+- 10
+= 4 : 2.
+?3 Giá vé xem phim người lớn x đồng, trẻ em y đồng. Gia đình 2 người lớn, 3 trẻ em trả:
++ 2x + 3y
+- 3x + 2y
+- 5(x + y)
+- 2x · 3y
+= Tổng tiền vé.
+?3 Giá trị của biểu thức 2x² − 3x tại x = 3/2 là:
++ 0
+- 9/2
+- 3
+- −9/4
+= 2 · 9/4 − 9/2 = 0.
+?3 Biểu thức nào luôn nhận giá trị dương với mọi x?
++ x² + 1
+- x − 1
+- x²
+- −x²
+= x² ≥ 0 nên x² + 1 ≥ 1.
+?4 Giá trị nhỏ nhất của biểu thức (x − 3)² + 2 là:
++ 2 tại x = 3
+- 0
+- 3
+- −2
+= (x − 3)² ≥ 0.
+?4 Tìm x để biểu thức 2x − 6 có giá trị bằng 0.
++ 3
+- −3
+- 6
+- 0
+= 2x = 6.
+
+## Bài 25. Đa thức một biến
+?1 Bậc của đa thức 3x⁴ − 2x² + 5 là:
++ 4
+- 2
+- 5
+- 3
+= Số mũ lớn nhất của biến.
+?1 Hệ số cao nhất của đa thức 3x⁴ − 2x² + 5 là:
++ 3
+- −2
+- 5
+- 4
+= Hệ số của hạng tử bậc cao nhất.
+?1 Hệ số tự do của đa thức 2x³ − x + 7 là:
++ 7
+- 2
+- −1
+- 0
+= Hạng tử không chứa biến.
+?1 Nghiệm của đa thức P(x) là giá trị của x mà:
++ P(x) = 0
+- P(x) = 1
+- P(x) lớn nhất
+- P(x) > 0
+= Định nghĩa nghiệm.
+?2 x = 2 có là nghiệm của P(x) = x² − 4 không?
++ Có
+- Không
+- Chỉ khi x > 0
+- Không xác định
+= 4 − 4 = 0.
+?2 Sắp xếp 3x − x³ + 5 − 2x² theo lũy thừa giảm của biến:
++ −x³ − 2x² + 3x + 5
+- 5 + 3x − 2x² − x³
+- 3x − x³ − 2x² + 5
+- −2x² − x³ + 3x + 5
+= Bậc giảm dần.
+?2 Nghiệm của đa thức 2x − 8 là:
++ 4
+- −4
+- 8
+- 2
+= 2x = 8.
+?3 Thu gọn P(x) = 2x² − 3x + x² + 5x − 1:
++ 3x² + 2x − 1
+- 3x² − 8x − 1
+- x² + 2x − 1
+- 3x² + 2x + 1
+= Cộng hạng tử đồng dạng.
+?3 Đa thức x² + 1 có bao nhiêu nghiệm?
++ không có nghiệm
+- 1
+- 2
+- vô số
+= x² + 1 ≥ 1 > 0.
+?3 Cho P(x) = x² − 3x + 2. P(1) bằng:
++ 0
+- 6
+- 2
+- −2
+= 1 − 3 + 2.
+?4 Tìm a để x = −1 là nghiệm của P(x) = ax² + 2x + 3.
++ a = −1
+- a = 1
+- a = −5
+- a = 5
+= a − 2 + 3 = 0.
+?4 Nghiệm của đa thức x² − 2x là:
++ x = 0 hoặc x = 2
+- x = 2
+- x = 0
+- x = −2
+= x(x − 2) = 0.
+
+## Bài 26. Phép cộng và phép trừ đa thức một biến
+?1 Tính (2x² + 3x) + (x² − x).
++ 3x² + 2x
+- 3x² + 4x
+- x² + 2x
+- 3x⁴ + 2x
+= Cộng hạng tử đồng dạng.
+?1 Tính (5x − 2) − (3x + 1).
++ 2x − 3
+- 2x − 1
+- 8x − 1
+- 2x + 3
+= 5x − 2 − 3x − 1.
+?1 Hai hạng tử đồng dạng là:
++ 3x² và −5x²
+- 3x² và 3x
+- x và 5
+- 2x³ và 2x²
+= Cùng lũy thừa của biến.
+?1 Tổng của 4x³ và −4x³ bằng:
++ 0
+- 8x³
+- −8x³
+- 8x⁶
+= Hai hạng tử đối nhau.
+?2 Cho P(x) = x³ − 2x + 1, Q(x) = −x³ + x² + 3. P(x) + Q(x) bằng:
++ x² − 2x + 4
+- 2x³ + x² − 2x + 4
+- x² + 2x + 4
+- x² − 2x − 2
+= x³ triệt tiêu.
+?2 Với P, Q như trên, P(x) − Q(x) bằng:
++ 2x³ − x² − 2x − 2
+- 2x³ + x² − 2x + 4
+- −x² − 2x − 2
+- 2x³ − x² + 2x − 2
+= x³ + x³ − x² − 2x + 1 − 3.
+?2 Tìm đa thức M biết M + (x² − 1) = 3x².
++ 2x² + 1
+- 2x² − 1
+- 4x² − 1
+- 3x² + 1
+= M = 3x² − x² + 1.
+?3 Bậc của tổng (2x⁴ + x) + (−2x⁴ + 3x² − 1) là:
++ 2
+- 4
+- 1
+- 0
+= Tổng là 3x² + x − 1.
+?3 Cho A(x) = 2x² − x + 3, B(x) = x² + 2x − 1. Giá trị của A(1) − B(1) là:
++ 2
+- 4
+- 6
+- 0
+= A(1) = 4, B(1) = 2.
+?3 Tìm đa thức N biết (3x² − 2x) − N = x² + x.
++ 2x² − 3x
+- 4x² − x
+- 2x² + 3x
+- 2x² − x
+= N = 3x² − 2x − x² − x.
+?4 Cho P(x) = ax² + 3x − 1, Q(x) = 2x² − bx + 5. Biết P(x) + Q(x) = 5x² + x + 4. Tính a + b.
++ 5
+- 3
+- 2
+- 1
+= a + 2 = 5 → a = 3; 3 − b = 1 → b = 2.
+?4 Tổng các hệ số của đa thức P(x) − Q(x) với P(x) = x² + 2x + 3, Q(x) = 2x² − x + 1 là:
++ 4
+- 2
+- 0
+- 8
+= Tổng các hệ số bằng giá trị tại x = 1: P(1) − Q(1) = 6 − 2 = 4.
+?4 Tổng các hệ số của một đa thức P(x) bằng:
++ P(1)
+- P(0)
+- P(−1)
+- hệ số cao nhất
+= Thay x = 1.
+
+## Bài 27. Phép nhân đa thức một biến
+?1 Tính 2x · 3x².
++ 6x³
+- 5x³
+- 6x²
+- 5x²
+= Nhân hệ số, cộng số mũ.
+?1 Tính x(x + 2).
++ x² + 2x
+- x² + 2
+- 2x²
+- x + 2x
+= Nhân đơn thức với đa thức.
+?1 Tính (x + 1)(x + 2).
++ x² + 3x + 2
+- x² + 2
+- x² + 2x + 2
+- x² + 3x + 3
+= x² + 2x + x + 2.
+?1 Tính −3x²(2x − 1).
++ −6x³ + 3x²
+- −6x³ − 3x²
+- 6x³ + 3x²
+- −6x² + 3x
+= Phân phối.
+?2 Tính (x − 3)(x + 3).
++ x² − 9
+- x² + 9
+- x² − 6x − 9
+- x² − 3
+= x² + 3x − 3x − 9.
+?2 Tính (2x − 1)(x + 4).
++ 2x² + 7x − 4
+- 2x² − 7x − 4
+- 2x² + 9x − 4
+- 2x² + 7x + 4
+= 2x² + 8x − x − 4.
+?2 Bậc của tích (x² + 1)(x³ − x) là:
++ 5
+- 6
+- 3
+- 2
+= 2 + 3.
+?3 Tính (x + 2)² .
++ x² + 4x + 4
+- x² + 4
+- x² + 2x + 4
+- x² + 4x + 2
+= (x + 2)(x + 2).
+?3 Tìm x biết x(x − 2) − x² = 6.
++ −3
+- 3
+- −2
+- 2
+= −2x = 6.
+?3 Tính (x − 1)(x² + x + 1).
++ x³ − 1
+- x³ + 1
+- x³ − x − 1
+- x³ − 2x² − 1
+= x³ + x² + x − x² − x − 1.
+?4 Hệ số của x² trong tích (2x + 1)(x² − 3x + 2) là:
++ −5
+- −6
+- 1
+- 2
+= 2x · (−3x) + 1 · x² = −6x² + x² = −5x².
+?4 Chứng tỏ (x − 1)(x + 2) − x(x + 1) không phụ thuộc x. Giá trị đó là:
++ −2
+- 2
+- 0
+- −1
+= x² + x − 2 − x² − x = −2.
+
+## Bài 28. Phép chia đa thức một biến
+?1 Tính 6x⁵ : 2x².
++ 3x³
+- 3x⁷
+- 4x³
+- 12x³
+= Chia hệ số, trừ số mũ.
+?1 Tính (4x³ − 2x²) : 2x.
++ 2x² − x
+- 2x² − 2x
+- 2x³ − x²
+- 4x² − 2x
+= Chia từng hạng tử.
+?1 Đa thức A chia hết cho đa thức B (B ≠ 0) nếu:
++ tồn tại đa thức Q sao cho A = B · Q
+- bậc A nhỏ hơn bậc B
+- A và B có cùng bậc
+- A = B + Q
+= Định nghĩa chia hết.
+?1 Tính (x² − 1) : (x − 1).
++ x + 1
+- x − 1
+- x² + 1
+- 1
+= x² − 1 = (x − 1)(x + 1).
+?2 Tính (x² + 5x + 6) : (x + 2).
++ x + 3
+- x + 2
+- x − 3
+- x + 6
+= (x + 2)(x + 3).
+?2 Khi chia đa thức bậc 3 cho đa thức bậc 1, thương có bậc:
++ 2
+- 3
+- 1
+- 4
+= 3 − 1.
+?2 Số dư khi chia x² + 1 cho x − 1 là:
++ 2
+- 0
+- 1
+- −1
+= Thay x = 1: 2.
+?3 Tính (2x³ − 5x² + 4x − 1) : (x − 1).
++ 2x² − 3x + 1
+- 2x² + 3x − 1
+- 2x² − 3x − 1
+- 2x² − 7x + 11
+= (x − 1)(2x² − 3x + 1) = 2x³ − 5x² + 4x − 1.
+?3 Tìm a để x² − 3x + a chia hết cho x − 2.
++ a = 2
+- a = −2
+- a = 10
+- a = 4
+= 4 − 6 + a = 0.
+?3 Số dư khi chia x³ − 2x + 5 cho x + 1 là:
++ 6
+- 4
+- 2
+- 8
+= Thay x = −1: −1 + 2 + 5 = 6.
+?4 Tìm a để x³ + ax² − 4 chia hết cho x + 2.
++ a = 3
+- a = −3
+- a = 1
+- a = 2
+= −8 + 4a − 4 = 0 → a = 3.
+?4 Thương của phép chia (x⁴ − 1) cho (x² + 1) là:
++ x² − 1
+- x² + 1
+- x² − 2
+- x − 1
+= x⁴ − 1 = (x² − 1)(x² + 1).
+
+# Chương VIII. Làm quen với biến cố và xác suất của biến cố
+
+## Bài 29. Làm quen với biến cố
+?1 Biến cố chắc chắn là biến cố:
++ luôn xảy ra
+- không bao giờ xảy ra
+- có thể xảy ra
+- xảy ra một nửa số lần
+= Định nghĩa.
+?1 Gieo xúc xắc, biến cố "xuất hiện mặt 7 chấm" là:
++ biến cố không thể
+- biến cố chắc chắn
+- biến cố ngẫu nhiên
+- không phải biến cố
+= Xúc xắc chỉ có 1–6.
+?1 Biến cố ngẫu nhiên là biến cố:
++ có thể xảy ra hoặc không xảy ra
+- luôn xảy ra
+- không bao giờ xảy ra
+- xảy ra đúng một lần
+= Không biết trước kết quả.
+?1 Tung đồng xu, biến cố "xuất hiện mặt sấp" là:
++ biến cố ngẫu nhiên
+- biến cố chắc chắn
+- biến cố không thể
+- không phải biến cố
+= Có thể xảy ra hoặc không.
+?2 Hộp có 5 bi đỏ. Lấy 1 bi, biến cố "lấy được bi đỏ" là:
++ chắc chắn
+- không thể
+- ngẫu nhiên
+- không xác định
+= Hộp chỉ có bi đỏ.
+?2 Gieo xúc xắc, biến cố "số chấm nhỏ hơn 7" là:
++ chắc chắn
+- không thể
+- ngẫu nhiên
+- hiếm
+= Mọi kết quả đều nhỏ hơn 7.
+?2 Rút 1 thẻ từ các thẻ ghi số 1 đến 10, biến cố "rút được số chia hết cho 3" là:
++ ngẫu nhiên
+- chắc chắn
+- không thể
+- không phải biến cố
+= Có 3, 6, 9.
+?3 Gieo hai xúc xắc, biến cố "tổng số chấm bằng 1" là:
++ không thể
+- chắc chắn
+- ngẫu nhiên
+- có khả năng cao
+= Tổng nhỏ nhất là 2.
+?3 Gieo hai xúc xắc, biến cố "tổng số chấm lớn hơn 1" là:
++ chắc chắn
+- không thể
+- ngẫu nhiên
+- hiếm
+= Tổng ≥ 2.
+?3 Chọn ngẫu nhiên 1 học sinh lớp 7A (có cả nam và nữ). Biến cố "chọn được học sinh nữ" là:
++ ngẫu nhiên
+- chắc chắn
+- không thể
+- luôn xảy ra
+= Có thể là nam hoặc nữ.
+?4 Hộp có 3 bi xanh và 2 bi đỏ. Lấy ra 3 bi. Biến cố "có ít nhất 1 bi xanh" là:
++ chắc chắn
+- không thể
+- ngẫu nhiên
+- khả năng thấp
+= Chỉ có 2 bi đỏ nên 3 bi luôn có bi xanh.
+?4 Với hộp trên, lấy ra 3 bi, biến cố "cả 3 bi đều đỏ" là:
++ không thể
+- chắc chắn
+- ngẫu nhiên
+- khả năng cao
+= Chỉ có 2 bi đỏ.
+
+## Bài 30. Làm quen với xác suất của biến cố
+?1 Xác suất của biến cố chắc chắn bằng:
++ 1
+- 0
+- 1/2
+- 100
+= Luôn xảy ra.
+?1 Xác suất của biến cố không thể bằng:
++ 0
+- 1
+- 1/2
+- −1
+= Không xảy ra.
+?1 Tung đồng xu cân đối, xác suất xuất hiện mặt ngửa là:
++ 1/2
+- 1
+- 0
+- 1/4
+= Hai kết quả đồng khả năng.
+?1 Gieo xúc xắc cân đối, xác suất xuất hiện mặt 6 chấm là:
++ 1/6
+- 1/2
+- 6
+- 1/3
+= Sáu kết quả đồng khả năng.
+?2 Gieo xúc xắc, xác suất xuất hiện mặt có số chấm chẵn là:
++ 1/2
+- 1/3
+- 1/6
+- 2/3
+= 3/6.
+?2 Chọn ngẫu nhiên một số trong 1, 2, 3, 4, 5. Xác suất chọn được số nguyên tố là:
++ 3/5
+- 2/5
+- 1/5
+- 4/5
+= 2, 3, 5.
+?2 Hộp có 4 quả bóng cùng kích thước: xanh, đỏ, vàng, tím. Xác suất lấy được bóng đỏ là:
++ 1/4
+- 1/2
+- 1/3
+- 1
+= 4 kết quả đồng khả năng.
+?3 Gieo xúc xắc, xác suất xuất hiện mặt có số chấm chia hết cho 3 là:
++ 1/3
+- 1/2
+- 1/6
+- 2/3
+= Mặt 3 và 6.
+?3 Rút ngẫu nhiên 1 thẻ trong 10 thẻ ghi số 1 đến 10. Xác suất rút được số lớn hơn 7 là:
++ 3/10
+- 7/10
+- 1/10
+- 2/5
+= 8, 9, 10.
+?3 Chọn ngẫu nhiên 1 chữ cái trong từ "TOAN". Xác suất chọn được nguyên âm là:
++ 1/2
+- 1/4
+- 3/4
+- 1
+= O và A.
+?4 Một hộp có 1 bi trắng, 1 bi đen, 1 bi đỏ, 1 bi xanh (đồng khả năng). Xác suất lấy được bi không phải màu trắng là:
++ 3/4
+- 1/4
+- 1/2
+- 1
+= 3 trên 4 kết quả.
+?4 Lớp có 20 nam, 20 nữ. Chọn ngẫu nhiên 1 bạn làm lớp trưởng. Xác suất chọn được bạn nam là:
++ 1/2
+- 1/20
+- 1/40
+- 20
+= Số nam bằng số nữ.
+
+# Chương IX. Quan hệ giữa các yếu tố trong một tam giác
+
+## Bài 31. Quan hệ giữa góc và cạnh đối diện trong một tam giác
+?1 Trong một tam giác, góc đối diện với cạnh lớn hơn là góc:
++ lớn hơn
+- nhỏ hơn
+- bằng nhau
+- vuông
+= Định lí.
+?1 Trong tam giác vuông, cạnh lớn nhất là:
++ cạnh huyền
+- cạnh góc vuông ngắn
+- cạnh góc vuông dài
+- bất kì
+= Đối diện góc vuông (lớn nhất).
+?1 Trong tam giác tù, cạnh lớn nhất là cạnh:
++ đối diện góc tù
+- kề góc tù
+- ngắn nhất
+- bất kì
+= Góc tù lớn nhất.
+?1 Tam giác ABC có AB = 3, BC = 5, AC = 4. Góc lớn nhất là:
++ góc A
+- góc B
+- góc C
+- bằng nhau
+= Đối diện BC = 5.
+?2 Tam giác ABC có góc A = 80°, góc B = 60°. Cạnh lớn nhất là:
++ BC
+- AC
+- AB
+- bằng nhau
+= Đối diện góc A lớn nhất.
+?2 Tam giác ABC có góc A = 50°, góc B = 70°. Sắp xếp các cạnh tăng dần:
++ BC < AB < AC
+- AB < BC < AC
+- AC < AB < BC
+- BC < AC < AB
+= C = 60°: A < C < B nên BC < AB < AC.
+?2 Tam giác ABC có AB < AC. Khẳng định đúng:
++ góc C < góc B
+- góc C > góc B
+- góc B = góc C
+- góc A nhỏ nhất
+= Góc đối diện.
+?3 Tam giác ABC cân tại A có góc A = 100°. Cạnh lớn nhất là:
++ BC
+- AB
+- AC
+- AB = BC
+= Góc A lớn nhất (B = C = 40°).
+?3 Tam giác ABC có AB = 5, AC = 7, BC = 6. Góc nhỏ nhất là:
++ góc C
+- góc A
+- góc B
+- bằng nhau
+= Đối diện AB = 5 nhỏ nhất.
+?3 Tam giác có hai góc 45° và 70°. Cạnh nhỏ nhất đối diện góc:
++ 45°
+- 70°
+- 65°
+- không xác định
+= Góc thứ ba 65°; nhỏ nhất 45°.
+?4 Cho tam giác ABC có góc B > góc C, AD là phân giác. So sánh BD và DC:
++ BD < DC
+- BD > DC
+- BD = DC
+- không xác định
+= Góc B > góc C nên AC > AB; theo tính chất phân giác BD/DC = AB/AC < 1.
+?4 Tam giác ABC có góc A = 90°, AB = 6, AC = 8. Góc B và góc C quan hệ:
++ góc B > góc C
+- góc B < góc C
+- góc B = góc C
+- góc B = 90°
+= AC > AB nên góc B > góc C.
+
+## Bài 32. Quan hệ giữa đường vuông góc và đường xiên
+?1 Từ điểm A ngoài đường thẳng d, kẻ AH ⊥ d. AH gọi là:
++ đường vuông góc
+- đường xiên
+- hình chiếu
+- đường trung tuyến
+= Đoạn vuông góc.
+?1 Trong các đường xiên và đường vuông góc kẻ từ một điểm đến một đường thẳng:
++ đường vuông góc là đường ngắn nhất
+- đường vuông góc dài nhất
+- tất cả bằng nhau
+- đường xiên ngắn nhất
+= Định lí.
+?1 Khoảng cách từ điểm A đến đường thẳng d là:
++ độ dài đường vuông góc AH
+- độ dài đường xiên bất kì
+- độ dài hình chiếu
+- 0
+= Định nghĩa khoảng cách.
+?1 AH ⊥ d, B ∈ d (B ≠ H). HB là:
++ hình chiếu của đường xiên AB trên d
+- đường vuông góc
+- đường xiên
+- đường cao
+= Định nghĩa hình chiếu.
+?2 Từ A kẻ AH ⊥ d, AB, AC là đường xiên với HB < HC. Khẳng định đúng:
++ AB < AC
+- AB > AC
+- AB = AC
+- AH > AB
+= Hình chiếu lớn hơn thì đường xiên lớn hơn.
+?2 AH = 4 cm là khoảng cách từ A đến d. Đường xiên AB có thể dài:
++ 5 cm
+- 3 cm
+- 4 cm
+- 2 cm
+= Đường xiên dài hơn đường vuông góc.
+?2 Hai đường xiên AB = AC thì hình chiếu HB và HC:
++ bằng nhau
+- HB > HC
+- HB < HC
+- không xác định
+= Đường xiên bằng nhau thì hình chiếu bằng nhau.
+?3 Tam giác ABC vuông tại A. So sánh AB và BC:
++ AB < BC
+- AB > BC
+- AB = BC
+- không xác định
+= Từ B kẻ đến đường thẳng AC: BA là đường vuông góc, BC là đường xiên nên AB < BC.
+?3 Bạn An bơi từ bờ sông sang bờ bên kia. Để quãng đường ngắn nhất, An nên bơi:
++ vuông góc với bờ
+- xiên 45°
+- dọc theo bờ
+- tùy ý
+= Đường vuông góc ngắn nhất.
+?3 Cho điểm M nằm ngoài đường thẳng d, MH ⊥ d, MH = 3 cm, MK = 5 cm (K ∈ d). Độ dài HK là:
++ 4 cm
+- 2 cm
+- 8 cm
+- 34 cm
+= Pythagore: HK² = 25 − 9 = 16.
+?4 Cho tam giác ABC cân tại A, điểm M nằm giữa B và C. So sánh AM và AB:
++ AM < AB
+- AM > AB
+- AM = AB
+- không xác định
+= Hình chiếu HM < HB nên AM < AB.
+?4 Tam giác ABC có AB < AC, kẻ AH ⊥ BC. So sánh HB và HC:
++ HB < HC
+- HB > HC
+- HB = HC
+- không xác định
+= Đường xiên nhỏ hơn có hình chiếu nhỏ hơn.
+
+## Bài 33. Quan hệ giữa ba cạnh của một tam giác
+?1 Bất đẳng thức tam giác: trong một tam giác, mỗi cạnh:
++ nhỏ hơn tổng hai cạnh còn lại
+- lớn hơn tổng hai cạnh còn lại
+- bằng tổng hai cạnh còn lại
+- bằng hiệu hai cạnh còn lại
+= Bất đẳng thức tam giác.
+?1 Bộ ba độ dài nào là ba cạnh của một tam giác?
++ 3 cm, 4 cm, 5 cm
+- 1 cm, 2 cm, 3 cm
+- 2 cm, 3 cm, 6 cm
+- 1 cm, 1 cm, 3 cm
+= 3 + 4 > 5.
+?1 Bộ ba nào KHÔNG là ba cạnh của tam giác?
++ 2 cm, 4 cm, 7 cm
+- 3 cm, 3 cm, 3 cm
+- 4 cm, 5 cm, 6 cm
+- 5 cm, 5 cm, 8 cm
+= 2 + 4 < 7.
+?1 Trong tam giác ABC, khẳng định đúng:
++ AB − AC < BC < AB + AC (với AB > AC)
+- BC > AB + AC
+- BC = AB + AC
+- BC < AB − AC
+= Hệ quả bất đẳng thức tam giác.
+?2 Tam giác có hai cạnh 3 cm và 7 cm. Cạnh thứ ba có thể dài:
++ 8 cm
+- 4 cm
+- 10 cm
+- 11 cm
+= 4 < x < 10.
+?2 Tam giác cân có hai cạnh 3 cm và 7 cm. Chu vi là:
++ 17 cm
+- 13 cm
+- 13 cm hoặc 17 cm
+- 10 cm
+= Cạnh bên 7 (3, 3, 7 không tạo tam giác): 7 + 7 + 3 = 17.
+?2 Tam giác có hai cạnh 2 cm và 5 cm, cạnh thứ ba là số nguyên lẻ (cm). Cạnh thứ ba là:
++ 5 cm
+- 3 cm
+- 7 cm
+- 1 cm
+= 3 < x < 7 và lẻ → x = 5.
+?3 Tam giác có các cạnh 1 cm, 7 cm và x cm (x nguyên). x bằng:
++ 7
+- 6
+- 8
+- 9
+= 6 < x < 8.
+?3 Cho ba điểm A, B, C với AB = 4, BC = 6, AC = 10. Kết luận:
++ A, B, C thẳng hàng (B nằm giữa A và C)
+- A, B, C tạo thành tam giác
+- C nằm giữa A và B
+- A nằm giữa B và C
+= AB + BC = AC.
+?3 Có bao nhiêu tam giác (không tính thứ tự) với độ dài cạnh nguyên, chu vi 10 cm và một cạnh bằng 4 cm?
++ 2
+- 1
+- 3
+- 4
+= (4, 4, 2), (4, 3, 3).
+?4 Cho M nằm trong tam giác ABC. So sánh MB + MC và AB + AC:
++ MB + MC < AB + AC
+- MB + MC > AB + AC
+- MB + MC = AB + AC
+- không xác định
+= Kéo dài BM cắt AC tại I, áp dụng bất đẳng thức tam giác hai lần.
+?4 Hai trạm phát sóng A và B cách nhau 7 km. Một nhà dân C cách A 3 km. Khoảng cách từ C đến B ít nhất là:
++ 4 km
+- 10 km
+- 3 km
+- 7 km
+= CB ≥ AB − AC = 4 (khi C nằm trên đoạn AB).
+
+## Bài 34. Sự đồng quy của ba đường trung tuyến, ba đường phân giác trong một tam giác
+?1 Đường trung tuyến của tam giác là đoạn thẳng nối một đỉnh với:
++ trung điểm cạnh đối diện
+- chân đường vuông góc
+- tâm đường tròn
+- đỉnh khác
+= Định nghĩa.
+?1 Giao điểm ba đường trung tuyến của tam giác gọi là:
++ trọng tâm
+- trực tâm
+- tâm đường tròn ngoại tiếp
+- tâm đường tròn nội tiếp
+= Kí hiệu G.
+?1 Trọng tâm G cách mỗi đỉnh một khoảng bằng:
++ 2/3 độ dài đường trung tuyến đi qua đỉnh đó
+- 1/2 độ dài trung tuyến
+- 1/3 độ dài trung tuyến
+- độ dài trung tuyến
+= Tính chất trọng tâm.
+?1 Giao điểm ba đường phân giác của tam giác:
++ cách đều ba cạnh của tam giác
+- cách đều ba đỉnh
+- là trọng tâm
+- nằm ngoài tam giác
+= Tâm đường tròn nội tiếp.
+?2 AM là trung tuyến, G là trọng tâm, AM = 9 cm. AG bằng:
++ 6 cm
+- 3 cm
+- 4,5 cm
+- 9 cm
+= 2/3 · 9.
+?2 G là trọng tâm, GM = 2 cm (M là trung điểm BC). AM bằng:
++ 6 cm
+- 4 cm
+- 3 cm
+- 2 cm
+= GM = 1/3 AM.
+?2 Mỗi tam giác có bao nhiêu đường trung tuyến?
++ 3
+- 1
+- 2
+- 6
+= Ba đường trung tuyến.
+?3 Trong tam giác cân, đường trung tuyến ứng với cạnh đáy đồng thời là:
++ đường phân giác, đường cao, đường trung trực
+- chỉ đường cao
+- đường song song với đáy
+- không có tính chất gì đặc biệt
+= Tính chất tam giác cân.
+?3 Điểm I là giao điểm ba đường phân giác của tam giác ABC, khoảng cách từ I đến AB là 3 cm. Khoảng cách từ I đến BC là:
++ 3 cm
+- 6 cm
+- 1,5 cm
+- không xác định
+= Cách đều ba cạnh.
+?3 Tam giác đều có trọng tâm đồng thời là:
++ giao điểm ba đường phân giác, ba đường cao, ba đường trung trực
+- chỉ trọng tâm
+- một đỉnh
+- trung điểm một cạnh
+= Các điểm đặc biệt trùng nhau.
+?4 Cho tam giác ABC có trung tuyến BM và CN cắt nhau tại G, BM = CN. Tam giác ABC là:
++ tam giác cân tại A
+- tam giác vuông
+- tam giác đều bắt buộc
+- tam giác tù
+= GB = GC, GN = GM suy ra ΔGBN = ΔGCM → BN = CM → AB = AC.
+?4 G là trọng tâm tam giác ABC, diện tích ABC là 36 cm². Diện tích tam giác GBC là:
++ 12 cm²
+- 18 cm²
+- 9 cm²
+- 24 cm²
+= Trọng tâm chia tam giác thành 3 tam giác có diện tích bằng nhau.
+
+## Bài 35. Sự đồng quy của ba đường trung trực, ba đường cao trong một tam giác
+?1 Giao điểm ba đường trung trực của tam giác:
++ cách đều ba đỉnh
+- cách đều ba cạnh
+- là trọng tâm
+- luôn nằm trong tam giác
+= Tâm đường tròn ngoại tiếp.
+?1 Giao điểm ba đường cao của tam giác gọi là:
++ trực tâm
+- trọng tâm
+- tâm nội tiếp
+- tâm ngoại tiếp
+= Kí hiệu H.
+?1 Đường cao của tam giác là đoạn vuông góc kẻ từ một đỉnh đến:
++ đường thẳng chứa cạnh đối diện
+- trung điểm cạnh đối diện
+- đỉnh khác
+- trọng tâm
+= Định nghĩa.
+?1 Trực tâm của tam giác vuông là:
++ đỉnh góc vuông
+- trung điểm cạnh huyền
+- trọng tâm
+- nằm ngoài tam giác
+= Hai cạnh góc vuông là hai đường cao.
+?2 Giao điểm ba đường trung trực của tam giác vuông nằm ở:
++ trung điểm cạnh huyền
+- đỉnh góc vuông
+- trong tam giác
+- ngoài tam giác
+= Cách đều ba đỉnh.
+?2 Trực tâm của tam giác tù nằm:
++ ngoài tam giác
+- trong tam giác
+- trên một cạnh
+- tại một đỉnh
+= Đặc điểm tam giác tù.
+?2 O là giao điểm ba đường trung trực tam giác ABC, OA = 5 cm. OB bằng:
++ 5 cm
+- 10 cm
+- 2,5 cm
+- không xác định
+= OA = OB = OC.
+?3 Muốn xây trạm y tế cách đều ba làng A, B, C (không thẳng hàng), cần xây tại:
++ giao điểm ba đường trung trực của tam giác ABC
+- trọng tâm tam giác ABC
+- giao điểm ba đường phân giác
+- trung điểm AB
+= Cách đều ba đỉnh.
+?3 Tam giác ABC vuông tại A, BC = 10 cm. Khoảng cách từ giao điểm ba đường trung trực đến A là:
++ 5 cm
+- 10 cm
+- 20 cm
+- 6 cm
+= Bằng nửa cạnh huyền.
+?3 Trong tam giác nhọn, trực tâm nằm:
++ bên trong tam giác
+- bên ngoài tam giác
+- trên một cạnh
+- tại một đỉnh
+= Ba đường cao cắt nhau trong tam giác.
+?4 Tam giác ABC có H là trực tâm. Khi đó AH vuông góc với:
++ BC
+- AB
+- AC
+- BH
+= AH nằm trên đường cao từ A.
+?4 Tam giác ABC có trực tâm trùng với trọng tâm. Tam giác ABC là:
++ tam giác đều
+- tam giác vuông
+- tam giác tù
+- tam giác vuông cân
+= Đường cao đồng thời là trung tuyến ở cả ba đỉnh.
+
+# Chương X. Một số hình khối trong thực tiễn
+
+## Bài 36. Hình hộp chữ nhật và hình lập phương
+?1 Hình hộp chữ nhật có bao nhiêu mặt?
++ 6
+- 8
+- 12
+- 4
+= 6 mặt hình chữ nhật.
+?1 Hình lập phương có bao nhiêu cạnh?
++ 12
+- 8
+- 6
+- 4
+= 12 cạnh bằng nhau.
+?1 Thể tích hình hộp chữ nhật có các kích thước a, b, c là:
++ a · b · c
+- 2(a + b) · c
+- a + b + c
+- (a + b) · c
+= V = abc.
+?1 Thể tích hình lập phương cạnh a là:
++ a³
+- 6a²
+- 4a²
+- 3a
+= V = a³.
+?2 Hình hộp chữ nhật kích thước 3 cm, 4 cm, 5 cm có thể tích:
++ 60 cm³
+- 47 cm³
+- 94 cm³
+- 12 cm³
+= 3 · 4 · 5.
+?2 Diện tích xung quanh hình hộp chữ nhật có chiều dài a, rộng b, cao c là:
++ 2(a + b) · c
+- a · b · c
+- 2ab
+- (a + b)c
+= Chu vi đáy nhân chiều cao.
+?2 Hình lập phương cạnh 3 cm có diện tích toàn phần:
++ 54 cm²
+- 27 cm²
+- 36 cm²
+- 9 cm²
+= 6 · 3².
+?3 Một bể nước hình hộp chữ nhật dài 2 m, rộng 1,5 m, cao 1 m. Bể chứa được tối đa:
++ 3 000 lít
+- 300 lít
+- 4,5 m³
+- 30 000 lít
+= 3 m³ = 3 000 lít.
+?3 Hình lập phương có thể tích 64 cm³. Cạnh dài:
++ 4 cm
+- 8 cm
+- 16 cm
+- 21,3 cm
+= 4³ = 64.
+?3 Diện tích xung quanh hình hộp chữ nhật dài 6 cm, rộng 4 cm, cao 5 cm là:
++ 100 cm²
+- 120 cm²
+- 148 cm²
+- 50 cm²
+= 2 · (6 + 4) · 5.
+?4 Nếu tăng cạnh hình lập phương lên 2 lần thì thể tích tăng:
++ 8 lần
+- 2 lần
+- 4 lần
+- 6 lần
+= (2a)³ = 8a³.
+?4 Một hộp quà hình lập phương cạnh 20 cm. Cần ít nhất bao nhiêu giấy để gói kín (không tính mép)?
++ 2 400 cm²
+- 1 600 cm²
+- 8 000 cm²
+- 400 cm²
+= 6 · 20².
+
+## Bài 37. Hình lăng trụ đứng tam giác và hình lăng trụ đứng tứ giác
+?1 Hình lăng trụ đứng tam giác có bao nhiêu mặt?
++ 5
+- 6
+- 4
+- 3
+= 2 đáy tam giác + 3 mặt bên.
+?1 Các mặt bên của hình lăng trụ đứng là:
++ hình chữ nhật
+- hình tam giác
+- hình tròn
+- hình thoi bất kì
+= Mặt bên vuông góc với đáy.
+?1 Thể tích hình lăng trụ đứng bằng:
++ diện tích đáy × chiều cao
+- chu vi đáy × chiều cao
+- diện tích một mặt bên
+- diện tích đáy + chiều cao
+= V = S · h.
+?1 Diện tích xung quanh hình lăng trụ đứng bằng:
++ chu vi đáy × chiều cao
+- diện tích đáy × chiều cao
+- 2 lần diện tích đáy
+- chiều cao × chiều cao
+= Sxq = C · h.
+?2 Lăng trụ đứng tam giác có đáy là tam giác vuông với hai cạnh góc vuông 3 cm và 4 cm, chiều cao 10 cm. Thể tích là:
++ 60 cm³
+- 120 cm³
+- 70 cm³
+- 30 cm³
+= S đáy = 6; V = 60.
+?2 Lăng trụ đứng tam giác có đáy tam giác cạnh 3, 4, 5 cm và chiều cao 10 cm. Diện tích xung quanh:
++ 120 cm²
+- 60 cm²
+- 132 cm²
+- 100 cm²
+= (3 + 4 + 5) · 10.
+?2 Lăng trụ đứng tứ giác có bao nhiêu đỉnh?
++ 8
+- 6
+- 12
+- 4
+= 4 đỉnh mỗi đáy.
+?3 Một lều trại có dạng lăng trụ đứng tam giác, đáy là tam giác có cạnh đáy 2 m, chiều cao 1,5 m; chiều dài lều 3 m. Thể tích không khí trong lều:
++ 4,5 m³
+- 9 m³
+- 6 m³
+- 3 m³
+= S đáy = 1,5; V = 4,5.
+?3 Lăng trụ đứng có đáy là hình thang hai đáy 3 cm, 5 cm, chiều cao hình thang 2 cm; chiều cao lăng trụ 10 cm. Thể tích:
++ 80 cm³
+- 160 cm³
+- 40 cm³
+- 100 cm³
+= S đáy = 8; V = 80.
+?3 Lăng trụ đứng tam giác có thể tích 120 cm³, diện tích đáy 12 cm². Chiều cao là:
++ 10 cm
+- 12 cm
+- 1 440 cm
+- 8 cm
+= h = V : S.
+?4 Một con mương dài 50 m, mặt cắt là hình thang (đáy trên 1,2 m, đáy dưới 0,8 m, sâu 0,5 m). Lượng đất cần đào:
++ 25 m³
+- 50 m³
+- 12,5 m³
+- 0,5 m³
+= S = (1,2 + 0,8) · 0,5 : 2 = 0,5; V = 25.
+?4 Diện tích toàn phần của lăng trụ đứng tam giác đều cạnh đáy 4 cm (diện tích đáy ≈ 6,93 cm²), chiều cao 10 cm khoảng:
++ 133,86 cm²
+- 120 cm²
+- 126,93 cm²
+- 69,3 cm²
+= Sxq = 12 · 10 = 120; Stp = 120 + 2 · 6,93 = 133,86.

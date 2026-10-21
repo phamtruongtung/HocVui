@@ -1,0 +1,911 @@
+// Khoa học tự nhiên 8 – Kết nối tri thức với cuộc sống
+#! HK1
+# Mở đầu
+
+## Bài 1. Sử dụng một số hóa chất, thiết bị cơ bản trong phòng thí nghiệm
+?1 Khi lấy hóa chất dạng bột, ta dùng:
++ thìa xúc hóa chất
+- tay
+- ống hút
+- đũa thủy tinh để múc
+= Không dùng tay tiếp xúc hóa chất.
+?1 Đèn cồn được tắt bằng cách:
++ đậy nắp lại
+- thổi tắt
+- đổ nước vào
+- dùng tay dập
+= Thổi có thể gây cháy lan.
+?1 Dụng cụ dùng để đun nóng dung dịch trong phòng thí nghiệm là:
++ đèn cồn, giá đỡ, ống nghiệm
+- thước kẻ
+- cân điện tử
+- kính lúp
+= Dụng cụ đun.
+?2 Hóa chất có kí hiệu đầu lâu xương chéo là:
++ chất độc
+- chất dễ cháy
+- chất ăn mòn
+- chất nổ
+= Cảnh báo nguy hiểm.
+?2 Khi pha loãng acid sulfuric đặc, phải:
++ rót từ từ acid vào nước, khuấy đều
+- rót nước vào acid
+- đổ nhanh acid vào nước
+- đun nóng acid trước
+= Tránh acid bắn ra gây bỏng.
+?3 Khi đun ống nghiệm chứa chất lỏng, cần:
++ hơ đều ống nghiệm trước, kẹp ở 1/3 ống từ miệng, miệng ống hướng ra xa người
+- đun trực tiếp đáy ngay
+- kẹp ở đáy ống nghiệm
+- hướng miệng ống vào mặt
+= Thao tác an toàn.
+?3 Hóa chất thừa sau thí nghiệm nên:
++ xử lí theo hướng dẫn của giáo viên, không đổ lại vào lọ gốc
+- đổ lại vào lọ ban đầu
+- mang về nhà
+- đổ xuống cống tùy tiện
+= Tránh làm bẩn hóa chất gốc.
+?4 Vì sao không được dùng tay trực tiếp cầm hóa chất?
++ hóa chất có thể gây bỏng, ăn mòn, ngộ độc
+- vì tay quá to
+- vì hóa chất bị hỏng
+- vì không có lí do
+= An toàn phòng thí nghiệm.
+
+# Chương I. Phản ứng hóa học
+
+## Bài 2. Phản ứng hóa học
+?1 Phản ứng hóa học là:
++ quá trình biến đổi từ chất này thành chất khác
+- sự thay đổi trạng thái
+- sự hòa tan
+- sự thay đổi hình dạng
+= Có chất mới tạo thành.
+?1 Dấu hiệu nhận biết có phản ứng hóa học xảy ra là:
++ có chất khí, kết tủa, đổi màu hoặc tỏa nhiệt, phát sáng
+- vật bị gãy
+- nước đá tan
+- muối hòa tan
+= Dấu hiệu chất mới.
+?1 Hiện tượng hóa học là:
++ đốt cháy than
+- nước đá tan
+- cắt tờ giấy
+- hòa tan đường
+= Tạo chất mới.
+?2 Trong phản ứng hóa học, liên kết giữa các nguyên tử:
++ thay đổi, phân tử này biến đổi thành phân tử khác
+- giữ nguyên
+- không tồn tại
+- chỉ tăng
+= Bản chất phản ứng.
+?2 Phản ứng tỏa nhiệt là phản ứng:
++ giải phóng năng lượng dưới dạng nhiệt
+- hấp thụ nhiệt
+- không có nhiệt
+- làm lạnh môi trường hoàn toàn
+= Ví dụ: đốt cháy.
+?3 Nung đá vôi (CaCO₃) thu được vôi sống và khí carbon dioxide. Chất tham gia là:
++ CaCO₃
+- CaO
+- CO₂
+- CaO và CO₂
+= Chất ban đầu.
+?3 Phản ứng thu nhiệt là:
++ nung đá vôi
+- đốt cồn
+- đốt than
+- đốt gas
+= Cần cung cấp nhiệt liên tục.
+?4 Khi để đinh sắt trong không khí ẩm, đinh bị gỉ. Đây là:
++ hiện tượng hóa học
+- hiện tượng vật lí
+- sự hòa tan
+- sự bay hơi
+= Gỉ sắt là chất mới.
+
+## Bài 3. Mol và tỉ khối chất khí
+?1 Mol là lượng chất có chứa:
++ 6,022 × 10²³ hạt (nguyên tử hoặc phân tử)
+- 1 000 hạt
+- 100 hạt
+- 1 hạt
+= Số Avogadro.
+?1 Khối lượng mol của nước (H₂O) là:
++ 18 g/mol
+- 16 g/mol
+- 10 g/mol
+- 20 g/mol
+= 2 + 16.
+?1 Ở điều kiện chuẩn (25 °C, 1 bar), 1 mol khí bất kì có thể tích khoảng:
++ 24,79 lít
+- 22,4 lít
+- 1 lít
+- 100 lít
+= Thể tích mol khí ở điều kiện chuẩn.
+?2 Số mol của 32 g khí oxygen (O₂, M = 32) là:
++ 1 mol
+- 2 mol
+- 0,5 mol
+- 32 mol
+= n = m/M.
+?2 Khối lượng của 0,5 mol CO₂ (M = 44) là:
++ 22 g
+- 44 g
+- 88 g
+- 11 g
+= m = n · M.
+?3 Tỉ khối của khí CO₂ so với khí H₂ là:
++ 22
+- 44
+- 2
+- 11
+= 44 : 2.
+?3 Khí nào nặng hơn không khí (M không khí ≈ 29)?
++ CO₂ (M = 44)
+- H₂ (M = 2)
+- CH₄ (M = 16)
+- NH₃ (M = 17)
+= M > 29.
+?4 Số phân tử nước trong 9 g nước là:
++ 3,011 × 10²³
+- 6,022 × 10²³
+- 9 × 10²³
+- 1,5 × 10²³
+= 0,5 mol × 6,022 × 10²³.
+
+## Bài 4. Dung dịch và nồng độ
+?1 Dung dịch là:
++ hỗn hợp đồng nhất của dung môi và chất tan
+- hỗn hợp không đồng nhất
+- chất tinh khiết
+- chất rắn
+= Định nghĩa.
+?1 Nồng độ phần trăm cho biết:
++ số gam chất tan trong 100 g dung dịch
+- số mol chất tan trong 1 lít
+- khối lượng dung môi
+- thể tích dung dịch
+= C%.
+?1 Nồng độ mol cho biết:
++ số mol chất tan trong 1 lít dung dịch
+- số gam chất tan trong 100 g dung dịch
+- khối lượng dung dịch
+- nhiệt độ dung dịch
+= CM.
+?2 Hòa tan 10 g muối vào 40 g nước. Nồng độ phần trăm là:
++ 20%
+- 25%
+- 10%
+- 40%
+= 10/50 × 100%.
+?2 Hòa tan 0,2 mol NaCl vào nước thành 500 ml dung dịch. Nồng độ mol là:
++ 0,4 M
+- 0,1 M
+- 0,2 M
+- 1 M
+= 0,2 : 0,5.
+?3 Độ tan của một chất trong nước là:
++ số gam chất tan tối đa trong 100 g nước ở nhiệt độ xác định tạo dung dịch bão hòa
+- khối lượng dung dịch
+- số mol dung môi
+- thể tích nước
+= Định nghĩa độ tan.
+?3 Khối lượng muối có trong 200 g dung dịch muối 5% là:
++ 10 g
+- 5 g
+- 20 g
+- 40 g
+= 200 · 5%.
+?4 Cần bao nhiêu gam NaOH (M = 40) để pha 200 ml dung dịch NaOH 1 M?
++ 8 g
+- 4 g
+- 40 g
+- 80 g
+= n = 0,2 mol; m = 8 g.
+
+## Bài 5. Định luật bảo toàn khối lượng và phương trình hóa học
+?1 Định luật bảo toàn khối lượng: trong một phản ứng hóa học,
++ tổng khối lượng sản phẩm bằng tổng khối lượng chất phản ứng
+- khối lượng sản phẩm lớn hơn
+- khối lượng sản phẩm nhỏ hơn
+- khối lượng không xác định
+= Định luật Lomonosov – Lavoisier.
+?1 Phương trình hóa học biểu diễn:
++ phản ứng hóa học bằng công thức hóa học
+- tên các chất
+- màu sắc chất
+- nhiệt độ phản ứng
+= Ngắn gọn, chính xác.
+?1 Cân bằng phương trình: H₂ + O₂ → H₂O. Hệ số đúng là:
++ 2H₂ + O₂ → 2H₂O
+- H₂ + O₂ → H₂O
+- H₂ + 2O₂ → H₂O
+- 2H₂ + 2O₂ → 2H₂O
+= Số nguyên tử mỗi nguyên tố hai vế bằng nhau.
+?2 Đốt 3 g carbon với 8 g oxygen thu được bao nhiêu gam CO₂?
++ 11 g
+- 5 g
+- 24 g
+- 3 g
+= Bảo toàn khối lượng.
+?2 Cân bằng: Al + O₂ → Al₂O₃. Hệ số đúng là:
++ 4Al + 3O₂ → 2Al₂O₃
+- 2Al + 3O₂ → Al₂O₃
+- 4Al + O₂ → 2Al₂O₃
+- Al + O₂ → Al₂O₃
+= Al: 4; O: 6.
+?3 Nung 100 g đá vôi thu được 56 g vôi sống. Khối lượng khí CO₂ thoát ra là:
++ 44 g
+- 56 g
+- 156 g
+- 100 g
+= 100 − 56.
+?3 Cân bằng: Fe + Cl₂ → FeCl₃. Hệ số đúng là:
++ 2Fe + 3Cl₂ → 2FeCl₃
+- Fe + Cl₂ → FeCl₃
+- 2Fe + Cl₂ → 2FeCl₃
+- Fe + 3Cl₂ → FeCl₃
+= Cl: 6 mỗi vế.
+?4 Vì sao khi nung miếng đồng ngoài không khí, khối lượng chất rắn tăng lên?
++ đồng kết hợp với oxygen tạo copper(II) oxide
+- đồng hút nước
+- đồng giãn nở
+- khí bay mất
+= Khối lượng oxygen được cộng vào.
+
+## Bài 6. Tính theo phương trình hóa học
+?1 Để tính theo phương trình hóa học, bước đầu tiên là:
++ viết và cân bằng phương trình
+- tính khối lượng sản phẩm ngay
+- đoán kết quả
+- đo nhiệt độ
+= Các bước giải.
+?1 Theo phương trình 2H₂ + O₂ → 2H₂O, 2 mol H₂ phản ứng với:
++ 1 mol O₂
+- 2 mol O₂
+- 0,5 mol O₂
+- 4 mol O₂
+= Tỉ lệ số mol theo hệ số.
+?1 Hiệu suất phản ứng cho biết:
++ tỉ lệ giữa lượng sản phẩm thực tế và lượng tính theo lí thuyết
+- tốc độ phản ứng
+- nhiệt độ phản ứng
+- màu sản phẩm
+= H% = thực tế/lí thuyết.
+?2 Đốt cháy 1 mol C (C + O₂ → CO₂) thu được bao nhiêu mol CO₂?
++ 1 mol
+- 2 mol
+- 0,5 mol
+- 44 mol
+= Tỉ lệ 1 : 1.
+?2 Cho 13 g Zn (M = 65) tác dụng hết với HCl: Zn + 2HCl → ZnCl₂ + H₂. Số mol H₂ thu được là:
++ 0,2 mol
+- 0,4 mol
+- 0,1 mol
+- 1 mol
+= n Zn = 0,2 mol.
+?3 Với phản ứng trên, thể tích H₂ ở điều kiện chuẩn (24,79 L/mol) là:
++ 4,958 L
+- 2,479 L
+- 9,916 L
+- 24,79 L
+= 0,2 × 24,79.
+?3 Nung 10 g CaCO₃ (M = 100): CaCO₃ → CaO + CO₂. Khối lượng CaO (M = 56) thu được là:
++ 5,6 g
+- 4,4 g
+- 10 g
+- 56 g
+= 0,1 mol × 56.
+?4 Nếu hiệu suất phản ứng nung vôi trên là 80% thì khối lượng CaO thực tế thu được là:
++ 4,48 g
+- 5,6 g
+- 4,4 g
+- 7 g
+= 5,6 × 80%.
+
+## Bài 7. Tốc độ phản ứng và chất xúc tác
+?1 Tốc độ phản ứng cho biết:
++ mức độ nhanh hay chậm của phản ứng hóa học
+- khối lượng sản phẩm
+- màu sắc chất
+- nhiệt độ sôi
+= Định nghĩa.
+?1 Chất xúc tác là chất:
++ làm tăng tốc độ phản ứng nhưng không bị tiêu hao khi phản ứng kết thúc
+- làm chậm phản ứng
+- bị tiêu hao hết
+- tạo thành sản phẩm
+= Định nghĩa chất xúc tác.
+?1 Yếu tố làm tăng tốc độ phản ứng là:
++ tăng nhiệt độ, tăng nồng độ, tăng diện tích bề mặt, dùng xúc tác
+- giảm nhiệt độ
+- giảm nồng độ
+- dùng chất rắn cục to
+= Các yếu tố ảnh hưởng.
+?2 Thức ăn bảo quản trong tủ lạnh lâu hỏng hơn vì:
++ nhiệt độ thấp làm chậm tốc độ phản ứng
+- tủ lạnh có ánh sáng
+- tủ lạnh có xúc tác
+- tủ lạnh tăng nồng độ oxygen
+= Ảnh hưởng nhiệt độ.
+?2 Than cám cháy nhanh hơn than cục vì:
++ diện tích bề mặt tiếp xúc lớn hơn
+- than cám nặng hơn
+- than cám ít carbon
+- than cục có xúc tác
+= Diện tích tiếp xúc.
+?3 Enzyme trong cơ thể đóng vai trò:
++ chất xúc tác sinh học
+- chất ức chế
+- chất dinh dưỡng chính
+- chất thải
+= Tăng tốc các phản ứng trong cơ thể.
+?3 Nấu thức ăn trong nồi áp suất nhanh chín hơn vì:
++ nhiệt độ sôi của nước cao hơn
+- áp suất làm thức ăn mềm cơ học
+- nồi có xúc tác
+- nồi rất nặng
+= Nhiệt độ cao tăng tốc độ phản ứng.
+?4 Để phản ứng giữa đá vôi và acid HCl xảy ra nhanh hơn, ta có thể:
++ nghiền nhỏ đá vôi và dùng acid có nồng độ cao hơn
+- dùng cục đá vôi to
+- làm lạnh acid
+- pha loãng acid
+= Tăng diện tích tiếp xúc và nồng độ.
+
+# Chương II. Một số hợp chất thông dụng
+
+## Bài 8. Acid
+?1 Acid là hợp chất trong phân tử có:
++ nguyên tử hydrogen liên kết với gốc acid
+- nhóm OH
+- kim loại liên kết với oxygen
+- chỉ có oxygen
+= Ví dụ HCl, H₂SO₄.
+?1 Dung dịch acid làm quỳ tím chuyển sang màu:
++ đỏ
+- xanh
+- vàng
+- không đổi
+= Tính chất của acid.
+?1 Acid có trong dạ dày người là:
++ HCl
+- H₂SO₄
+- HNO₃
+- CH₃COOH
+= Acid hydrochloric.
+?2 Acid tác dụng với kim loại (như Zn) tạo thành:
++ muối và khí hydrogen
+- muối và nước
+- base và nước
+- oxide
+= Zn + 2HCl → ZnCl₂ + H₂.
+?2 Giấm ăn chứa acid:
++ acetic acid (CH₃COOH)
+- HCl
+- H₂SO₄
+- H₃PO₄
+= Acid hữu cơ.
+?3 Khi bị ong đốt (nọc có tính acid), có thể bôi:
++ vôi tôi hoặc dung dịch base nhẹ
+- giấm
+- nước chanh
+- acid loãng
+= Trung hòa acid.
+?3 H₂SO₄ đặc có tính háo nước nên:
++ làm than hóa đường và vải
+- không nguy hiểm
+- làm quỳ tím xanh
+- không tác dụng với chất hữu cơ
+= Cần cẩn thận khi dùng.
+?4 Cho 5,6 g Fe (M = 56) tác dụng hết với HCl. Khối lượng FeCl₂ (M = 127) thu được là:
++ 12,7 g
+- 25,4 g
+- 6,35 g
+- 5,6 g
+= Fe + 2HCl → FeCl₂ + H₂; 0,1 mol × 127.
+
+## Bài 9. Base. Thang pH
+?1 Base là hợp chất trong phân tử có:
++ nguyên tử kim loại liên kết với nhóm hydroxide (OH)
+- nguyên tử H liên kết với gốc acid
+- kim loại liên kết với gốc acid
+- oxygen liên kết với phi kim
+= Ví dụ NaOH.
+?1 Dung dịch base làm quỳ tím chuyển sang màu:
++ xanh
+- đỏ
+- vàng
+- không đổi
+= Tính chất base.
+?1 Dung dịch có pH = 7 là dung dịch:
++ trung tính
+- acid
+- base
+- muối mạnh
+= Ví dụ nước cất.
+?2 Dung dịch có pH < 7 là:
++ acid
+- base
+- trung tính
+- muối luôn trung tính
+= pH càng nhỏ tính acid càng mạnh.
+?2 Phản ứng giữa acid và base gọi là phản ứng:
++ trung hòa
+- phân hủy
+- oxi hóa
+- thế
+= Tạo muối và nước.
+?3 Base tan trong nước gọi là:
++ kiềm
+- muối
+- acid
+- oxide
+= Ví dụ NaOH, KOH, Ca(OH)₂.
+?3 Đất chua có pH thấp, người ta bón vôi để:
++ tăng pH, khử chua cho đất
+- giảm pH
+- tăng độ chua
+- làm đất mặn
+= Trung hòa acid.
+?4 Trộn dung dịch chứa 0,1 mol HCl với dung dịch chứa 0,1 mol NaOH. Dung dịch thu được có môi trường:
++ trung tính
+- acid
+- base
+- không xác định
+= Phản ứng vừa đủ 1 : 1.
+
+## Bài 10. Oxide
+?1 Oxide là hợp chất của oxygen với:
++ một nguyên tố khác
+- hai nguyên tố khác
+- hydrogen và kim loại
+- nhóm OH
+= Ví dụ CO₂, CaO.
+?1 Oxide base là:
++ CaO
+- CO₂
+- SO₂
+- P₂O₅
+= Oxide của kim loại tác dụng với acid.
+?1 Oxide acid là:
++ CO₂
+- CaO
+- Na₂O
+- CuO
+= Thường là oxide của phi kim.
+?2 CaO tác dụng với nước tạo thành:
++ Ca(OH)₂
+- CaCO₃
+- CaCl₂
+- Ca
+= Phản ứng tôi vôi.
+?2 CO₂ tác dụng với dung dịch nước vôi trong tạo kết tủa:
++ CaCO₃
+- CaO
+- Ca(OH)₂
+- CaCl₂
+= Nước vôi vẩn đục.
+?3 Khí SO₂ thải ra từ nhà máy gây hiện tượng:
++ mưa acid
+- hiệu ứng làm lạnh
+- tăng tầng ozone
+- không gây hại
+= Ô nhiễm môi trường.
+?3 Oxide lưỡng tính là oxide:
++ tác dụng được với cả acid và base
+- chỉ tác dụng với acid
+- chỉ tác dụng với nước
+- không tác dụng với chất nào
+= Ví dụ Al₂O₃, ZnO.
+?4 Khí CO là oxide trung tính, nguy hiểm vì:
++ kết hợp với hemoglobin trong máu, gây ngạt
+- tạo mưa acid
+- có mùi hắc
+- làm quỳ tím đỏ
+= Ngộ độc khí CO.
+
+## Bài 11. Muối
+?1 Muối là hợp chất được tạo thành khi:
++ thay thế nguyên tử H trong acid bằng ion kim loại hoặc ion ammonium
+- acid tác dụng với nước
+- kim loại tác dụng với oxygen
+- base tác dụng với nước
+= Định nghĩa.
+?1 Muối ăn có công thức hóa học là:
++ NaCl
+- KCl
+- CaCO₃
+- Na₂SO₄
+= Sodium chloride.
+?1 Tên gọi của CaCO₃ là:
++ calcium carbonate
+- calcium oxide
+- calcium hydroxide
+- calcium chloride
+= Thành phần chính của đá vôi.
+?2 Muối tác dụng với acid tạo thành:
++ muối mới và acid mới
+- base và nước
+- oxide
+- kim loại
+= Ví dụ CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂.
+?2 Dung dịch muối tác dụng với dung dịch base có thể tạo ra:
++ muối mới và base mới
+- acid và nước
+- oxide và nước
+- kim loại tự do
+= Phản ứng trao đổi.
+?3 Phản ứng CuSO₄ + 2NaOH → Cu(OH)₂ + Na₂SO₄ có hiện tượng:
++ tạo kết tủa xanh lam
+- sủi bọt khí
+- tạo kết tủa trắng
+- không có hiện tượng
+= Cu(OH)₂ kết tủa xanh.
+?3 Muối được dùng làm thuốc chữa đau dạ dày (giảm acid) là:
++ NaHCO₃ (baking soda)
+- NaCl
+- CuSO₄
+- KNO₃
+= Trung hòa acid dạ dày.
+?4 Cho dung dịch BaCl₂ vào dung dịch Na₂SO₄ thấy có:
++ kết tủa trắng BaSO₄
+- khí thoát ra
+- dung dịch chuyển xanh
+- không có hiện tượng
+= Nhận biết ion sulfate.
+
+## Bài 12. Phân bón hóa học
+?1 Phân đạm cung cấp cho cây nguyên tố:
++ nitrogen
+- phosphorus
+- potassium
+- calcium
+= Đạm (N).
+?1 Phân lân cung cấp cho cây nguyên tố:
++ phosphorus
+- nitrogen
+- potassium
+- sulfur
+= Lân (P).
+?1 Phân kali cung cấp cho cây nguyên tố:
++ potassium
+- nitrogen
+- phosphorus
+- sắt
+= Kali (K).
+?2 Phân NPK là phân bón:
++ hỗn hợp chứa ba nguyên tố N, P, K
+- chỉ chứa N
+- chỉ chứa P
+- hữu cơ hoàn toàn
+= Phân hỗn hợp.
+?2 Urea (NH₂)₂CO là loại phân:
++ đạm
+- lân
+- kali
+- vi lượng
+= Hàm lượng đạm cao.
+?3 Bón quá nhiều phân hóa học gây ra:
++ ô nhiễm đất, nước và tồn dư trong nông sản
+- đất màu mỡ hơn mãi
+- tăng năng suất vô hạn
+- không ảnh hưởng
+= Bón đúng liều lượng.
+?3 Cây lá vàng, còi cọc thường do thiếu:
++ đạm
+- kali
+- nước biển
+- ánh trăng
+= Đạm giúp cây xanh tốt.
+?4 Phần trăm khối lượng nitrogen trong urea (NH₂)₂CO (M = 60) là khoảng:
++ 46,7%
+- 23,3%
+- 28%
+- 60%
+= 28/60.
+
+# Chương III. Khối lượng riêng và áp suất
+
+## Bài 13. Khối lượng riêng
+?1 Khối lượng riêng của một chất là:
++ khối lượng của một đơn vị thể tích chất đó
+- thể tích của 1 kg chất
+- trọng lượng của vật
+- khối lượng của vật
+= D = m/V.
+?1 Đơn vị khối lượng riêng là:
++ kg/m³
+- kg
+- N/m³
+- m³
+= Đơn vị.
+?1 Khối lượng riêng của nước khoảng:
++ 1 000 kg/m³
+- 100 kg/m³
+- 10 kg/m³
+- 7 800 kg/m³
+= Nước tinh khiết.
+?2 Một vật có khối lượng 2,7 kg, thể tích 0,001 m³. Khối lượng riêng là:
++ 2 700 kg/m³
+- 270 kg/m³
+- 0,0027 kg/m³
+- 27 000 kg/m³
+= Nhôm.
+?2 Thể tích của 1,5 kg nước là:
++ 1,5 lít
+- 15 lít
+- 0,15 lít
+- 150 lít
+= V = m/D.
+?3 Vật làm bằng chất có khối lượng riêng nhỏ hơn nước sẽ:
++ nổi trên mặt nước
+- chìm xuống đáy
+- lơ lửng
+- tan trong nước
+= Ví dụ gỗ.
+?3 Một thỏi sắt (D = 7 800 kg/m³) thể tích 2 dm³. Khối lượng là:
++ 15,6 kg
+- 3,9 kg
+- 1,56 kg
+- 156 kg
+= 7 800 × 0,002.
+?4 Hai vật cùng khối lượng, vật A bằng nhôm (2 700 kg/m³), vật B bằng sắt (7 800 kg/m³). Vật có thể tích lớn hơn là:
++ vật A
+- vật B
+- bằng nhau
+- không xác định
+= Cùng m, D nhỏ hơn thì V lớn hơn.
+
+## Bài 15. Áp suất trên một bề mặt
+?1 Áp suất là:
++ độ lớn áp lực trên một đơn vị diện tích bị ép
+- lực kéo
+- trọng lượng vật
+- khối lượng vật
+= p = F/S.
+?1 Đơn vị áp suất là:
++ pascal (Pa)
+- niutơn
+- jun
+- oát
+= 1 Pa = 1 N/m².
+?1 Muốn tăng áp suất, ta có thể:
++ tăng áp lực hoặc giảm diện tích bị ép
+- giảm áp lực
+- tăng diện tích bị ép
+- giảm cả lực và tăng diện tích
+= p = F/S.
+?2 Lưỡi dao sắc cắt dễ hơn vì:
++ diện tích tiếp xúc nhỏ, áp suất lớn
+- dao nặng hơn
+- dao dài hơn
+- áp suất nhỏ
+= Tăng áp suất.
+?2 Một người nặng 500 N đứng trên sàn, diện tích hai bàn chân 0,025 m². Áp suất lên sàn là:
++ 20 000 Pa
+- 12,5 Pa
+- 2 000 Pa
+- 200 000 Pa
+= 500 : 0,025.
+?3 Xe tăng có bánh xích để:
++ tăng diện tích tiếp xúc, giảm áp suất lên mặt đất
+- tăng áp suất
+- chạy nhanh hơn
+- trang trí
+= Tránh lún.
+?3 Đinh có đầu nhọn để:
++ tăng áp suất, dễ đóng vào gỗ
+- giảm áp suất
+- đẹp hơn
+- nặng hơn
+= Diện tích nhỏ.
+?4 Một khối gạch nặng 20 N, mặt tiếp xúc nhỏ nhất 0,005 m², lớn nhất 0,02 m². Áp suất lớn nhất gạch tác dụng lên sàn là:
++ 4 000 Pa
+- 1 000 Pa
+- 400 Pa
+- 100 Pa
+= Đặt mặt nhỏ nhất: 20/0,005.
+
+## Bài 16. Áp suất chất lỏng. Áp suất khí quyển
+?1 Chất lỏng gây áp suất:
++ theo mọi phương lên đáy, thành bình và các vật trong lòng nó
+- chỉ lên đáy bình
+- chỉ lên thành bình
+- không gây áp suất
+= Đặc điểm áp suất chất lỏng.
+?1 Càng xuống sâu trong nước, áp suất:
++ càng tăng
+- càng giảm
+- không đổi
+- bằng 0
+= p = d · h.
+?1 Áp suất khí quyển là:
++ áp suất do lớp không khí bao quanh Trái Đất tác dụng lên mọi vật
+- áp suất của nước
+- áp lực của tay
+- lực hấp dẫn
+= Khí quyển có trọng lượng.
+?2 Công thức tính áp suất chất lỏng là:
++ p = d · h
+- p = F · S
+- p = m/V
+- p = h/d
+= d: trọng lượng riêng, h: độ sâu.
+?2 Thợ lặn ở độ sâu 20 m trong nước biển (d = 10 300 N/m³) chịu áp suất do nước gây ra là:
++ 206 000 Pa
+- 515 Pa
+- 20 600 Pa
+- 2 060 000 Pa
+= 10 300 × 20.
+?3 Hút nước bằng ống hút được là nhờ:
++ áp suất khí quyển đẩy nước lên ống
+- lực hút của miệng tạo ra nước
+- nước tự chảy lên
+- trọng lực
+= Chênh lệch áp suất.
+?3 Bình thông nhau chứa cùng một chất lỏng đứng yên thì mực chất lỏng ở các nhánh:
++ cùng một độ cao
+- khác nhau
+- nhánh to cao hơn
+- nhánh nhỏ cao hơn
+= Nguyên lí bình thông nhau.
+?4 Áp suất khí quyển ở mặt nước biển khoảng 760 mmHg, tương đương khoảng:
++ 101 300 Pa
+- 760 Pa
+- 1 000 Pa
+- 10 Pa
+= 1 atm ≈ 1,013 × 10⁵ Pa.
+
+## Bài 17. Lực đẩy Archimedes
+?1 Một vật nhúng trong chất lỏng chịu tác dụng của lực đẩy hướng:
++ từ dưới lên
+- từ trên xuống
+- sang ngang
+- không có hướng
+= Lực đẩy Archimedes.
+?1 Độ lớn lực đẩy Archimedes bằng:
++ trọng lượng phần chất lỏng bị vật chiếm chỗ
+- trọng lượng của vật
+- khối lượng của vật
+- thể tích của vật
+= F = d · V.
+?1 Vật nổi lên khi:
++ trọng lượng vật nhỏ hơn lực đẩy Archimedes
+- trọng lượng lớn hơn lực đẩy
+- trọng lượng bằng lực đẩy (vật đang chìm hẳn)
+- không có lực đẩy
+= Điều kiện vật nổi.
+?2 Một vật có thể tích 0,002 m³ nhúng chìm trong nước (d = 10 000 N/m³). Lực đẩy Archimedes là:
++ 20 N
+- 2 N
+- 200 N
+- 0,2 N
+= 10 000 × 0,002.
+?2 Tàu thép nặng nổi được trên nước vì:
++ tàu rỗng, thể tích chiếm chỗ lớn, lực đẩy đủ lớn
+- thép nhẹ hơn nước
+- nước biển rất đặc
+- tàu có động cơ đẩy lên
+= Trọng lượng riêng trung bình nhỏ.
+?3 Một vật nặng 10 N trong không khí, nhúng chìm trong nước lực kế chỉ 6 N. Lực đẩy Archimedes là:
++ 4 N
+- 6 N
+- 16 N
+- 10 N
+= 10 − 6.
+?3 Khi tàu đi từ sông ra biển (nước biển có trọng lượng riêng lớn hơn), tàu:
++ nổi lên cao hơn một chút
+- chìm sâu hơn
+- không thay đổi
+- bị chìm
+= Lực đẩy cần cùng độ lớn với thể tích chìm nhỏ hơn.
+?4 Vật ở câu trên (nặng 10 N, lực đẩy trong nước 4 N) có thể tích là:
++ 0,0004 m³
+- 0,004 m³
+- 0,04 m³
+- 0,001 m³
+= V = F/d = 4/10 000.
+
+# Chương IV. Tác dụng làm quay của lực
+
+## Bài 18. Tác dụng làm quay của lực. Moment lực
+?1 Moment lực đặc trưng cho:
++ tác dụng làm quay của lực
+- tác dụng làm vật biến dạng
+- khối lượng vật
+- nhiệt độ vật
+= Định nghĩa.
+?1 Công thức moment lực là:
++ M = F · d (d là cánh tay đòn)
+- M = F/d
+- M = m · g
+- M = F + d
+= d: khoảng cách từ trục quay đến giá của lực.
+?1 Đơn vị moment lực là:
++ N·m
+- N
+- J/s
+- Pa
+= Niutơn mét.
+?2 Mở cửa dễ nhất khi đẩy ở vị trí:
++ xa bản lề nhất
+- gần bản lề nhất
+- ngay bản lề
+- giữa cánh cửa luôn luôn
+= Cánh tay đòn lớn.
+?2 Lực 20 N tác dụng vuông góc với cờ lê dài 0,25 m. Moment lực là:
++ 5 N·m
+- 80 N·m
+- 0,0125 N·m
+- 20 N·m
+= 20 × 0,25.
+?3 Lực có giá đi qua trục quay thì:
++ không làm vật quay
+- làm vật quay mạnh nhất
+- làm vật quay chậm
+- làm vật biến mất
+= Cánh tay đòn bằng 0.
+?3 Muốn vặn ốc chặt, người thợ dùng cờ lê cán dài vì:
++ tăng cánh tay đòn, tăng moment lực
+- giảm lực
+- giảm moment
+- cờ lê nhẹ hơn
+= Ứng dụng moment.
+?4 Để tạo moment 30 N·m với cờ lê dài 0,2 m, cần lực (vuông góc) là:
++ 150 N
+- 6 N
+- 30 N
+- 60 N
+= F = M/d.
+
+## Bài 19. Đòn bẩy và ứng dụng
+?1 Đòn bẩy gồm:
++ điểm tựa, điểm tác dụng lực, điểm đặt vật
+- chỉ một thanh thẳng
+- ròng rọc
+- mặt phẳng nghiêng
+= Cấu tạo đòn bẩy.
+?1 Khi khoảng cách từ điểm tựa đến lực tác dụng lớn hơn khoảng cách đến vật thì:
++ lực tác dụng nhỏ hơn trọng lượng vật (lợi về lực)
+- lực lớn hơn trọng lượng vật
+- lực bằng trọng lượng vật
+- không nâng được
+= Nguyên lí đòn bẩy.
+?1 Dụng cụ nào là đòn bẩy?
++ cái kéo
+- ròng rọc cố định
+- mặt phẳng nghiêng
+- thang máy
+= Kéo có điểm tựa ở chốt.
+?2 Cái bập bênh là ứng dụng của:
++ đòn bẩy
+- mặt phẳng nghiêng
+- ròng rọc
+- lò xo
+= Điểm tựa ở giữa.
+?2 Xe cút kít là đòn bẩy có:
++ vật nằm giữa điểm tựa và lực tác dụng
+- điểm tựa ở giữa
+- lực ở giữa
+- không có điểm tựa
+= Đòn bẩy loại 2.
+?3 Hai bạn ngồi trên bập bênh cân bằng: bạn A nặng 400 N ngồi cách trục 1,5 m. Bạn B nặng 300 N ngồi cách trục:
++ 2 m
+- 1,5 m
+- 1 m
+- 3 m
+= 400 × 1,5 = 300 × d.
+?3 Dùng xà beng dài để bẩy hòn đá nặng, đặt điểm tựa gần hòn đá nhằm:
++ giảm lực cần tác dụng
+- tăng lực cần tác dụng
+- làm đá nặng hơn
+- không có tác dụng
+= Cánh tay đòn phía tay dài hơn.
+?4 Đòn bẩy cân bằng: vật nặng 600 N cách điểm tựa 0,5 m, lực tác dụng cách điểm tựa 1,5 m. Lực cần dùng là:
++ 200 N
+- 1 800 N
+- 300 N
+- 600 N
+= 600 × 0,5 = F × 1,5.

@@ -1,0 +1,927 @@
+// Tiếng Anh 6 – Học kì 2
+#! HK2
+# Units 7–12
+
+## Unit 7. Television
+?1 A programme that makes people laugh is a ___.
++ comedy
+- documentary
+- news
+- weather forecast
+= Comedy: hài kịch.
+?1 A ___ tells you about the weather tomorrow.
++ weather forecast
+- cartoon
+- game show
+- sports programme
+= Weather forecast: dự báo thời tiết.
+?1 ___ do you watch TV? — In the evening.
++ When
+- What
+- Who
+- Where
+= Hỏi thời gian dùng "When".
+?1 ___ is your favourite TV character? — Mr Bean.
++ Who
+- What time
+- How
+- Where
+= Hỏi người dùng "Who".
+?1 I like cartoons, ___ my sister likes game shows.
++ but
+- so
+- because
+- or
+= "but" nối hai ý trái ngược.
+?1 Choose the word whose part in CAPITALS is pronounced differently: THink, THree, THis, birTHday
++ THis
+- THink
+- THree
+- birTHday
+= "this" /ð/, các từ còn lại /θ/.
+?1 A person who reads the news on TV is a ___.
++ newsreader
+- viewer
+- comedian
+- weatherman only
+= Newsreader: phát thanh viên.
+?1 People who watch TV are called ___.
++ viewers
+- actors
+- writers
+- players
+= Viewers: khán giả xem truyền hình.
+?1 A ___ is a film made with drawings, often for children.
++ cartoon
+- documentary
+- talent show
+- news
+= Cartoon: phim hoạt hình.
+?1 Which programme teaches you about animals and nature?
++ a wildlife documentary
+- a comedy
+- a game show
+- a music video
+= Documentary: phim tài liệu.
+?2 I was tired, ___ I went to bed early.
++ so
+- but
+- and
+- or
+= "so" chỉ kết quả.
+?2 ___ channel do you like best? — VTV3.
++ Which
+- Who
+- Where
+- When
+= Hỏi lựa chọn dùng "Which".
+?2 ___ does the film last? — About two hours.
++ How long
+- How many
+- How often
+- What
+= Hỏi khoảng thời gian dùng "How long".
+?2 Choose the word whose part in CAPITALS is pronounced differently: faTHer, wiTH, THeatre, THey
++ THeatre
+- faTHer
+- wiTH
+- THey
+= "theatre" /θ/, các từ khác /ð/.
+?2 "Tom and Jerry" is a famous ___.
++ cartoon
+- news programme
+- quiz show
+- documentary
+= Phim hoạt hình mèo và chuột.
+?2 You can use the ___ to change channels.
++ remote control
+- newspaper
+- radio
+- channel list book
+= Remote control: điều khiển từ xa.
+?2 Choose the correct sentence.
++ I watch TV in the evening, and my brother reads books.
+- I watch TV in the evening, but and my brother reads books.
+- I watch TV in the evening so my brother reads books because.
+- I watches TV in the evening.
+= Nối hai mệnh đề bằng "and".
+?2 Where is the film "The Lion King" set?
++ in Africa
+- in the sea
+- in space
+- in a city
+= Phim lấy bối cảnh châu Phi.
+> My favourite programme is "Animals Around Us". It is a documentary on VTV7. It shows how animals live in the wild. The programme is on at 8 p.m. every Saturday. I always watch it with my dad because we both love animals.
+?3 What kind of programme is "Animals Around Us"?
++ a documentary
+- a comedy
+- a cartoon
+- a game show
+= "It is a documentary on VTV7".
+?3 When is the programme on?
++ at 8 p.m. every Saturday
+- at 8 a.m. every day
+- on Sunday morning
+- at 7 p.m. every Friday
+= Câu thứ tư.
+?3 Why does the writer watch it with his dad?
++ because they both love animals
+- because the TV is new
+- because his dad works on TV
+- because it is funny
+= Câu cuối.
+>-
+?3 Make a question for the underlined part: "I watch TV for TWO HOURS a day."
++ How long do you watch TV a day?
+- How often do you watch TV?
+- When do you watch TV?
+- What do you watch?
+= Hỏi khoảng thời gian.
+?3 Find the mistake: "She likes cartoons, so she doesn't like documentaries."
++ so → but
+- likes → like
+- cartoons → cartoon
+- doesn't → don't
+= Hai ý trái ngược dùng "but".
+?4 Choose the best reply: "What's on TV tonight?" — "___"
++ There's a football match at 8 p.m.
+- I'm watching TV.
+- It's a TV.
+- Yes, it is.
+= Trả lời có chương trình gì.
+?4 Choose the sentence closest in meaning: "The programme is educational."
++ You can learn a lot from the programme.
+- The programme is boring.
+- The programme is only for adults.
+- The programme is very short.
+= Educational: mang tính giáo dục.
+
+## Unit 8. Sports and Games
+?1 We ___ football yesterday afternoon.
++ played
+- play
+- plays
+- playing
+= "yesterday" → quá khứ đơn.
+?1 The past form of "go" is:
++ went
+- goed
+- gone
+- going
+= Động từ bất quy tắc: go → went.
+?1 Which sport do you play with a racket?
++ badminton
+- football
+- swimming
+- running
+= Cầu lông dùng vợt.
+?1 ___ quiet! The baby is sleeping.
++ Be
+- Is
+- Being
+- Are
+= Câu mệnh lệnh: Be quiet!
+?1 Which sport is done in water?
++ swimming
+- cycling
+- volleyball
+- karate
+= Swimming: bơi lội.
+?1 Choose the word whose part in CAPITALS is pronounced differently: bEd, gEt, hEad, mAtch
++ mAtch
+- bEd
+- gEt
+- hEad
+= "match" /æ/, các từ khác /e/.
+?1 The Olympic Games take place every ___ years.
++ four
+- two
+- three
+- five
+= Thế vận hội tổ chức 4 năm một lần.
+?1 A person who plays a sport is a ___.
++ player
+- viewer
+- reader
+- singer
+= Player: người chơi.
+?1 Don't ___ in the classroom. (đừng chạy)
++ run
+- runs
+- running
+- ran
+= Mệnh lệnh phủ định: Don't + V.
+?1 The past form of "be" with "they" is:
++ were
+- was
+- are
+- been
+= They were.
+?2 ___ you go swimming last weekend?
++ Did
+- Do
+- Does
+- Were
+= Câu hỏi quá khứ đơn với động từ thường: Did + S + V?
+?2 She ___ (not watch) the match yesterday.
++ didn't watch
+- don't watch
+- didn't watched
+- wasn't watch
+= Phủ định quá khứ: didn't + V.
+?2 Choose the word whose part in CAPITALS is pronounced differently: Am, Apple, cAmp, gAme
++ gAme
+- Am
+- Apple
+- cAmp
+= "game" /eɪ/, các từ khác /æ/.
+?2 Which word goes with "karate"?
++ do
+- play
+- go
+- make
+= "do karate".
+?2 Which word goes with "cycling"?
++ go
+- play
+- do
+- take
+= "go cycling", "go swimming".
+?2 Who ___ the World Cup in 2022?
++ won
+- win
+- wins
+- winned
+= win → won.
+?2 "Please ___ your sports shoes before you enter the gym." (thay)
++ change
+- changes
+- changing
+- to change
+= Câu mệnh lệnh với "Please + V".
+?2 What is the past form of "swim"?
++ swam
+- swimmed
+- swum
+- swims
+= swim → swam.
+> Last Sunday, our school had a sports day. I took part in the 100-metre race. I ran very fast and came second. My friend Nam played table tennis and won a gold medal. After the competition, we had a picnic in the school garden. It was a great day!
+?3 When was the sports day?
++ last Sunday
+- last Saturday
+- yesterday
+- next Sunday
+= Câu đầu tiên.
+?3 What did the writer do?
++ took part in the 100-metre race
+- played table tennis
+- played football
+- went swimming
+= "I took part in the 100-metre race."
+?3 What did Nam win?
++ a gold medal
+- a silver medal
+- the race
+- a picnic
+= "won a gold medal".
+>-
+?3 Rewrite: "You mustn't touch the ball with your hands." → "___ the ball with your hands."
++ Don't touch
+- Not touch
+- Doesn't touch
+- No touching to
+= Mệnh lệnh phủ định.
+?3 Find the mistake: "We goed to the stadium last night."
++ goed → went
+- We → Us
+- stadium → stadiums
+- last → next
+= go là động từ bất quy tắc.
+?4 Choose the best reply: "I won the chess competition yesterday!" — "___"
++ Congratulations! You're so clever.
+- Never mind.
+- Don't do it.
+- I'm sorry to hear that.
+= Chúc mừng khi bạn thắng.
+?4 Choose the sentence closest in meaning: "My brother isn't good at swimming."
++ My brother can't swim well.
+- My brother swims very well.
+- My brother likes swimming a lot.
+- My brother is a swimmer.
+= Not good at = không giỏi.
+
+## Unit 9. Cities of the World
+?1 Paris is the capital of ___.
++ France
+- Italy
+- Spain
+- England
+= Thủ đô nước Pháp.
+?1 This is my pen. It's ___.
++ mine
+- my
+- me
+- I
+= Đại từ sở hữu: mine.
+?1 "Is this your bag?" — "Yes, it's ___ bag."
++ my
+- mine
+- me
+- I
+= Tính từ sở hữu đứng trước danh từ.
+?1 Which city is in Australia?
++ Sydney
+- London
+- Tokyo
+- New York
+= Sydney ở Úc.
+?1 The opposite of "clean" is:
++ dirty
+- tidy
+- new
+- modern
+= Clean ↔ dirty.
+?1 Choose the word whose part in CAPITALS is pronounced differently: hOme, gO, phOne, tOwn
++ tOwn
+- hOme
+- gO
+- phOne
+= "town" /aʊ/, các từ khác /əʊ/.
+?1 Big Ben is a famous landmark in ___.
++ London
+- Paris
+- Rome
+- Bangkok
+= Tháp đồng hồ Big Ben ở London.
+?1 These books are ___. (của chúng tôi)
++ ours
+- our
+- we
+- us
+= Đại từ sở hữu: ours.
+?1 Which word describes the weather?
++ rainy
+- delicious
+- crowded
+- historic
+= Rainy: có mưa.
+?1 The Eiffel Tower is in ___.
++ Paris
+- London
+- Berlin
+- Madrid
+= Tháp Eiffel ở Paris.
+?2 "Whose bike is this?" — "It's ___." (của cô ấy)
++ hers
+- her
+- she
+- herself
+= Đại từ sở hữu: hers.
+?2 Choose the word whose part in CAPITALS is pronounced differently: nIce, wIde, cIty, skY
++ cIty
+- nIce
+- wIde
+- skY
+= "city" /ɪ/, các từ khác /aɪ/.
+?2 Tokyo is a big and ___ city.
++ busy
+- quiet
+- small
+- empty
+= Busy: nhộn nhịp.
+?2 Which sentence is correct?
++ Their house is bigger than ours.
+- They house is bigger than ours.
+- Their house is bigger than our.
+- Theirs house is bigger than ours.
+= Their + N; ours thay cho "our house".
+?2 Bangkok is famous ___ its street food.
++ for
+- with
+- in
+- of
+= Be famous for: nổi tiếng về.
+?2 The longest river in the world is the ___.
++ Nile
+- Mekong
+- Thames
+- Red River
+= Sông Nin.
+?2 A city with many old buildings is ___.
++ historic
+- modern
+- futuristic
+- new
+= Historic: có tính lịch sử.
+?2 "My city is ___ than your city." (sạch hơn)
++ cleaner
+- more clean
+- cleanest
+- cleanner
+= clean → cleaner.
+> Last summer, my family visited Singapore. It is a small but modern city. The streets are very clean and green. We visited Gardens by the Bay and the zoo. The food was delicious, but the weather was very hot. I bought a key ring as a souvenir.
+?3 When did the writer visit Singapore?
++ last summer
+- last winter
+- last week
+- next summer
+= Câu đầu.
+?3 What was the weather like?
++ very hot
+- cold
+- rainy and cold
+- snowy
+= "the weather was very hot".
+?3 What did the writer buy?
++ a key ring
+- a T-shirt
+- a hat
+- a book
+= Câu cuối.
+>-
+?3 Rewrite: "This is my sister's book." → "This book is ___."
++ my sister's
+- my sister
+- her's sister
+- mine sister
+= Sở hữu cách đứng một mình.
+?3 Find the mistake: "Is that pencil your?"
++ your → yours
+- Is → Are
+- that → those
+- pencil → pencils
+= Đứng cuối câu, không có danh từ theo sau → yours.
+?4 Choose the best reply: "What's London like?" — "___"
++ It's big, busy and has many museums.
+- I like London.
+- It's in England, I think so.
+- Yes, it is.
+= Hỏi đặc điểm thành phố.
+?4 Choose the sentence closest in meaning: "No city in Viet Nam is bigger than Ho Chi Minh City."
++ Ho Chi Minh City is the biggest city in Viet Nam.
+- Ho Chi Minh City is smaller than Ha Noi.
+- Ho Chi Minh City is a small city.
+- Every city in Viet Nam is bigger than Ho Chi Minh City.
+= So sánh nhất.
+
+## Unit 10. Our Houses in the Future
+?1 In the future, we ___ live in smart houses.
++ will
+- did
+- are
+- were
+= Will + V: tương lai đơn.
+?1 We ___ have robots to do the housework. (có lẽ)
++ might
+- did
+- were
+- was
+= Might: có lẽ (khả năng không chắc chắn).
+?1 A house that floats on the water is a ___ house.
++ floating
+- tree
+- cave
+- stilt
+= Floating house: nhà nổi.
+?1 Which appliance washes clothes?
++ washing machine
+- dishwasher
+- fridge
+- microwave
+= Máy giặt.
+?1 Which appliance keeps food cold?
++ fridge
+- oven
+- toaster
+- heater
+= Tủ lạnh.
+?1 Choose the word whose part in CAPITALS is pronounced differently: DRaw, DRess, TRee, DRink
++ TRee
+- DRaw
+- DRess
+- DRink
+= "tree" bắt đầu /tr/, các từ khác /dr/.
+?1 A UFO is a kind of ___.
++ flying object
+- house
+- robot
+- car on the road
+= Unidentified Flying Object: vật thể bay không xác định.
+?1 Smart TVs can connect to the ___.
++ Internet
+- river
+- garden
+- kitchen sink
+= TV thông minh kết nối Internet.
+?1 Which house is in the mountains?
++ a house on a mountain
+- a houseboat
+- a floating house
+- a city flat
+= Nhà trên núi.
+?1 "I ___ be a scientist in the future." (sẽ)
++ will
+- did
+- was
+- am
+= Will + V.
+?2 Robots ___ cook meals for us. (sẽ không)
++ won't
+- will not to
+- don't
+- aren't
+= Won't = will not.
+?2 ___ we live on the Moon in the future?
++ Will
+- Did
+- Do
+- Are
+= Câu hỏi tương lai: Will + S + V?
+?2 Choose the word whose part in CAPITALS is pronounced differently: TRain, TRavel, DRive, TRuck
++ DRive
+- TRain
+- TRavel
+- TRuck
+= "drive" /dr/, các từ khác /tr/.
+?2 A ___ can help clean the floor automatically.
++ robot vacuum cleaner
+- microwave
+- fridge
+- toaster
+= Robot hút bụi.
+?2 Choose the correct sentence.
++ My future house might be on the sea.
+- My future house mights be on the sea.
+- My future house might is on the sea.
+- My future house might to be on the sea.
+= Might + V nguyên thể.
+?2 Solar energy comes from the ___.
++ sun
+- wind
+- water
+- coal
+= Năng lượng mặt trời.
+?2 "Will you have a garden?" — "Yes, I ___."
++ will
+- do
+- am
+- might do
+= Trả lời ngắn: Yes, I will.
+?2 Which is a wireless device?
++ a smartphone
+- a pencil
+- a chair
+- a book
+= Điện thoại thông minh không dây.
+> In the future, I will live in a house by the sea. It will have solar panels on the roof, so it won't need much electricity. There will be a robot to clean the house and water the plants. I might have a small swimming pool too. My house will be eco-friendly and comfortable.
+?3 Where will the writer's house be?
++ by the sea
+- in the city
+- on the Moon
+- in the mountains
+= Câu đầu.
+?3 Why won't the house need much electricity?
++ because it will have solar panels
+- because it is small
+- because there is no TV
+- because it is by the sea
+= Pin mặt trời trên mái.
+?3 What will the robot do?
++ clean the house and water the plants
+- cook meals
+- drive the car
+- teach the writer
+= Câu thứ ba.
+>-
+?3 Rewrite: "Perhaps we will have flying cars." → "We ___ have flying cars."
++ might
+- must
+- should
+- did
+= Perhaps ≈ might.
+?3 Find the mistake: "In the future, people will living on Mars."
++ will living → will live
+- people → peoples
+- In → On
+- on → in
+= Will + V nguyên thể.
+?4 Choose the best reply: "What will your future house be like?" — "___"
++ It'll be big and have a smart kitchen.
+- I like my house.
+- It was very old.
+- Yes, it will.
+= Mô tả nhà tương lai.
+?4 Choose the sentence closest in meaning: "It's possible that it will rain tomorrow."
++ It might rain tomorrow.
+- It must rain tomorrow.
+- It rained yesterday.
+- It won't rain tomorrow.
+= Possible ≈ might.
+
+## Unit 11. Our Greener World
+?1 We should ___ paper and plastic bottles.
++ recycle
+- throw
+- burn
+- waste
+= Recycle: tái chế.
+?1 The 3Rs are Reduce, Reuse and ___.
++ Recycle
+- Repeat
+- Return
+- Remove
+= Giảm thiểu, tái sử dụng, tái chế.
+?1 If we ___ trees, the air will be fresher.
++ plant
+- plants
+- planted
+- will plant
+= Câu điều kiện loại 1: If + hiện tại đơn, will + V.
+?1 ___ apple a day keeps the doctor away.
++ An
+- A
+- The
+- Some
+= "apple" bắt đầu bằng nguyên âm → an.
+?1 Which item can you reuse?
++ a glass bottle
+- a used tissue
+- a broken egg
+- a burnt match
+= Chai thủy tinh dùng lại được.
+?1 Choose the word whose part in CAPITALS is pronounced differently: Air, Area, cAre, hAt
++ hAt
+- Air
+- Area
+- cAre
+= "hat" /æ/, các từ khác /eə/.
+?1 We should use ___ bags instead of plastic bags.
++ reusable
+- dirty
+- broken
+- heavy
+= Reusable: có thể tái sử dụng.
+?1 Air ___ is caused by smoke from factories and cars.
++ pollution
+- recycling
+- energy
+- forest
+= Ô nhiễm không khí.
+?1 Turn off the lights when you leave the room to save ___.
++ energy
+- water
+- paper
+- food
+= Tiết kiệm năng lượng.
+?1 "The" is used when:
++ the listener knows which thing we are talking about
+- we talk about a thing for the first time
+- the noun is plural only
+- the noun is a name of a person
+= Mạo từ xác định.
+?2 If we ___ water, we will have enough for the future.
++ save
+- saved
+- will save
+- saving
+= Mệnh đề If chia hiện tại đơn.
+?2 If you throw rubbish in the river, the fish ___.
++ will die
+- die will
+- died
+- dies will
+= Mệnh đề chính: will + V.
+?2 Choose the correct article: "I saw ___ old man in ___ park yesterday."
++ an / the
+- a / a
+- the / an
+- an / a
+= "old" bắt đầu nguyên âm → an; công viên xác định → the.
+?2 Choose the word whose part in CAPITALS is pronounced differently: thEre, whEre, hEre, wEAR
++ hEre
+- thEre
+- whEre
+- wEAR
+= "here" /ɪə/, các từ khác /eə/.
+?2 Which action is good for the environment?
++ cycling to school
+- leaving the tap running
+- using many plastic bags
+- burning rubbish
+= Đạp xe giảm khí thải.
+?2 Old clothes can be ___ to people in need.
++ donated
+- thrown away
+- burnt
+- wasted
+= Donate: quyên góp.
+?2 "Reduce" means:
++ use less
+- use again
+- make something new from old things
+- throw away
+= Reduce: giảm bớt.
+?2 If it ___ sunny tomorrow, we will clean the beach.
++ is
+- will be
+- was
+- be
+= Mệnh đề If ở hiện tại đơn.
+> Our class started a "Green School" project. We collect old paper and plastic bottles every Friday and sell them to a recycling centre. With the money, we buy small plants for the classroom. If every class joins the project, our school will become greener and cleaner.
+?3 What do the students collect?
++ old paper and plastic bottles
+- old clothes
+- food
+- glass only
+= Câu thứ hai.
+?3 What do they buy with the money?
++ small plants for the classroom
+- new books
+- plastic bags
+- snacks
+= Câu thứ ba.
+?3 What will happen if every class joins the project?
++ The school will become greener and cleaner.
+- The school will close.
+- They will sell plants.
+- They will stop recycling.
+= Câu cuối.
+>-
+?3 Rewrite: "Use less electricity, or the bill will be high." → "If you ___ less electricity, the bill won't be high."
++ use
+- will use
+- used
+- using
+= Câu điều kiện loại 1.
+?3 Find the mistake: "If we will recycle more, we will have less rubbish."
++ will recycle → recycle
+- we → us
+- less → fewer than
+- have → has
+= Mệnh đề If không dùng "will".
+?4 Choose the best reply: "Should I throw this bottle away?" — "___"
++ No, put it in the recycling bin.
+- Yes, throw it into the river.
+- It's my bottle.
+- I don't like bottles.
+= Khuyến khích tái chế.
+?4 Choose the sentence closest in meaning: "We can use this box again."
++ This box is reusable.
+- This box is broken.
+- This box is rubbish.
+- This box is plastic.
+= Reusable.
+
+## Unit 12. Robots
+?1 Robots can help us ___ the housework.
++ do
+- make
+- play
+- go
+= "do the housework".
+?1 Last year, my robot ___ only walk. Now it can talk too.
++ could
+- can
+- will
+- might
+= Could: khả năng trong quá khứ.
+?1 This is the ___ robot in the exhibition. (hiện đại nhất)
++ most modern
+- modernest
+- more modern
+- modern
+= So sánh nhất tính từ dài.
+?1 A robot that looks like a human is a ___.
++ humanoid
+- vacuum
+- drone
+- toy car
+= Humanoid: robot hình người.
+?1 Robots can ___ heavy things.
++ lift
+- smile
+- feel
+- dream
+= Lift: nâng.
+?1 Choose the word whose part in CAPITALS is pronounced differently: bOY, tOY, nOIse, nOW
++ nOW
+- bOY
+- tOY
+- nOIse
+= "now" /aʊ/, các từ khác /ɔɪ/.
+?1 "Can robots understand our feelings?" — "No, they ___."
++ can't
+- don't
+- aren't
+- won't be
+= Trả lời ngắn với "can".
+?1 Which job can a robot do in a hospital?
++ carry medicine to patients
+- feel sad for patients
+- go to school
+- eat lunch
+= Robot vận chuyển thuốc.
+?1 The superlative of "good" is:
++ best
+- goodest
+- better
+- most good
+= good → better → best.
+?1 A ___ robot helps teachers in class.
++ teaching
+- cooking
+- gardening
+- space
+= Robot dạy học.
+?2 My grandfather ___ swim when he was young, but now he can't.
++ could
+- can
+- can't
+- couldn't
+= Quá khứ có thể, hiện tại không thể.
+?2 This is ___ day of my life! (tuyệt vời nhất)
++ the most wonderful
+- the wonderfulest
+- more wonderful
+- most wonderfulest
+= So sánh nhất tính từ dài: the most + adj.
+?2 Choose the word whose part in CAPITALS is pronounced differently: hOUse, mOUth, sOUnd, cOIn
++ cOIn
+- hOUse
+- mOUth
+- sOUnd
+= "coin" /ɔɪ/, các từ khác /aʊ/.
+?2 Robots ___ able to think like humans in the future. (có thể sẽ)
++ might be
+- might
+- might are
+- are might
+= Might + be + adj.
+?2 Which sentence is correct?
++ Robots couldn't talk 50 years ago.
+- Robots can't talked 50 years ago.
+- Robots couldn't talked 50 years ago.
+- Robots didn't could talk 50 years ago.
+= Couldn't + V nguyên thể.
+?2 "Which robot is the ___?" — "The red one. It can do 20 tasks."
++ most useful
+- usefulest
+- more useful
+- usefuller
+= So sánh nhất.
+?2 A robot that works in space is a ___ robot.
++ space
+- home
+- worker only
+- teaching
+= Robot vũ trụ.
+?2 Robots ___ guard our houses when we are away.
++ can
+- can to
+- cans
+- are can
+= Can + V.
+> At the robot show, I saw ASIMO, a humanoid robot made in Japan. It could walk, run and climb stairs. It could also recognise faces and voices. However, it couldn't do the washing or cook meals. I think robots will be more useful in the future.
+?3 Where was ASIMO made?
++ in Japan
+- in the USA
+- in Viet Nam
+- in China
+= "a humanoid robot made in Japan".
+?3 What could ASIMO do?
++ walk, run and climb stairs
+- cook meals
+- do the washing
+- drive a car
+= Câu thứ hai.
+?3 What couldn't ASIMO do?
++ do the washing or cook meals
+- walk
+- recognise faces
+- climb stairs
+= "it couldn't do the washing or cook meals".
+>-
+?3 Rewrite: "No robot is cleverer than this one." → "This robot is ___."
++ the cleverest
+- cleverer
+- more clever than
+- the most cleverer
+= So sánh nhất.
+?3 Find the mistake: "My robot can to sing and dance."
++ can to sing → can sing
+- My → Mine
+- robot → robots
+- and → but
+= Can + V nguyên thể.
+?4 Choose the best reply: "Do you think robots will replace teachers?" — "___"
++ I don't think so. Teachers understand students' feelings.
+- Yes, I'm a robot.
+- It's on Monday.
+- No, they can.
+= Nêu ý kiến kèm lí do.
+?4 Choose the sentence closest in meaning: "I was able to read when I was five."
++ I could read when I was five.
+- I can read when I was five.
+- I couldn't read when I was five.
+- I will read when I am five.
+= Was able to = could.

@@ -1,0 +1,893 @@
+# Chương III. Góc và đường thẳng song song
+
+## Bài 8. Góc ở vị trí đặc biệt. Tia phân giác của một góc
+?1 Hai góc kề bù có tổng số đo bằng:
++ 180°
+- 90°
+- 360°
+- 100°
+= Hai góc kề bù bù nhau.
+?1 Hai góc đối đỉnh thì:
++ bằng nhau
+- bù nhau
+- phụ nhau
+- kề bù
+= Tính chất hai góc đối đỉnh.
+?1 Tia phân giác của một góc là tia:
++ nằm giữa hai cạnh và tạo với hai cạnh hai góc bằng nhau
+- nằm ngoài góc
+- trùng một cạnh của góc
+- vuông góc với một cạnh
+= Định nghĩa tia phân giác.
+?1 Hai góc kề nhau là hai góc:
++ có chung đỉnh, chung một cạnh, hai cạnh còn lại nằm về hai phía của cạnh chung
+- có tổng 180°
+- bằng nhau
+- đối đỉnh
+= Định nghĩa góc kề.
+?2 Góc xOy = 70°. Góc kề bù với nó có số đo:
++ 110°
+- 70°
+- 20°
+- 290°
+= 180° − 70°.
+?2 Tia Ot là phân giác góc xOy = 80°. Góc xOt bằng:
++ 40°
+- 80°
+- 160°
+- 20°
+= 80° : 2.
+?2 Hai đường thẳng cắt nhau tạo thành 4 góc, trong đó một góc bằng 50°. Các góc còn lại là:
++ 130°, 50°, 130°
+- 50°, 50°, 50°
+- 40°, 50°, 40°
+- 130°, 130°, 130°
+= Góc đối đỉnh bằng nhau, góc kề bù có tổng 180°.
+?3 Hai góc kề bù, góc này gấp 3 lần góc kia. Góc nhỏ bằng:
++ 45°
+- 60°
+- 30°
+- 135°
+= 4 phần = 180° → 1 phần = 45°.
+?3 Hai góc kề bù xOy và yOz. Tia phân giác của hai góc đó tạo với nhau góc:
++ 90°
+- 180°
+- 45°
+- 60°
+= Nửa tổng 180° = 90°.
+?3 Ot là phân giác góc xOy; góc xOt = 35°. Góc xOy bằng:
++ 70°
+- 35°
+- 17,5°
+- 145°
+= 2 × 35°.
+?4 Hai đường thẳng cắt nhau tại O tạo thành các góc, biết hiệu hai góc kề bù là 40°. Góc nhỏ bằng:
++ 70°
+- 110°
+- 40°
+- 50°
+= x + y = 180, y − x = 40 → x = 70.
+?4 Ba đường thẳng đồng quy tạo thành 6 góc (không kể góc bẹt). Tổng 6 góc đó bằng:
++ 360°
+- 180°
+- 540°
+- 720°
+= Các góc quanh một điểm có tổng 360°.
+
+## Bài 9. Hai đường thẳng song song và dấu hiệu nhận biết
+?1 Hai đường thẳng song song là hai đường thẳng:
++ không có điểm chung
+- có một điểm chung
+- vuông góc
+- trùng nhau
+= Định nghĩa.
+?1 Kí hiệu a song song b là:
++ a // b
+- a ⊥ b
+- a = b
+- a ∈ b
+= Kí hiệu song song.
+?1 Dấu hiệu: nếu đường thẳng c cắt a, b và tạo một cặp góc so le trong bằng nhau thì:
++ a // b
+- a ⊥ b
+- a cắt b
+- a trùng b
+= Dấu hiệu nhận biết.
+?1 Hai góc đồng vị bằng nhau thì hai đường thẳng:
++ song song
+- vuông góc
+- cắt nhau
+- trùng nhau
+= Dấu hiệu đồng vị.
+?2 Đường thẳng c cắt a, b; một cặp góc so le trong là 65° và 65°. Kết luận:
++ a // b
+- a ⊥ b
+- a cắt b tại 65°
+- không kết luận được
+= Theo dấu hiệu.
+?2 Nếu a ⊥ c và b ⊥ c thì:
++ a // b
+- a ⊥ b
+- a trùng c
+- a cắt b
+= Hai đường thẳng cùng vuông góc với đường thứ ba.
+?2 Cặp góc nào là cặp góc đồng vị khi c cắt a và b?
++ hai góc ở cùng vị trí tương ứng tại hai giao điểm
+- hai góc nằm giữa a, b và khác phía với c
+- hai góc kề bù
+- hai góc đối đỉnh
+= Định nghĩa góc đồng vị.
+?3 c cắt a, b tạo cặp góc trong cùng phía là 110° và 70°. Kết luận:
++ a // b
+- a ⊥ b
+- a cắt b
+- không kết luận được
+= Hai góc trong cùng phía bù nhau → song song.
+?3 c cắt a, b tạo cặp góc đồng vị 80° và 100°. Kết luận:
++ a không song song với b
+- a // b
+- a ⊥ b
+- a trùng b
+= Đồng vị không bằng nhau.
+?3 Trên hình, góc A₁ = 120° và góc B₁ (đồng vị với A₁) = 120°. Hai đường thẳng chứa A, B:
++ song song
+- vuông góc
+- cắt nhau
+- trùng nhau
+= Đồng vị bằng nhau.
+?4 c cắt a, b; góc so le ngoài là 3x và 2x + 30°. Để a // b thì x bằng:
++ 30°
+- 20°
+- 40°
+- 10°
+= 3x = 2x + 30 → x = 30.
+?4 c cắt a, b; hai góc trong cùng phía là x + 20° và 2x − 20°. Để a // b thì x bằng:
++ 60°
+- 40°
+- 80°
+- 20°
+= (x + 20) + (2x − 20) = 180 → x = 60.
+
+## Bài 10. Tiên đề Euclid. Tính chất của hai đường thẳng song song
+?1 Tiên đề Euclid: qua một điểm ở ngoài đường thẳng:
++ chỉ có một đường thẳng song song với đường thẳng đó
+- có vô số đường thẳng song song
+- không có đường thẳng song song
+- có hai đường thẳng song song
+= Nội dung tiên đề.
+?1 Nếu a // b và c cắt a, b thì hai góc so le trong:
++ bằng nhau
+- bù nhau
+- phụ nhau
+- không liên quan
+= Tính chất hai đường thẳng song song.
+?1 Nếu a // b và c cắt a, b thì hai góc trong cùng phía:
++ bù nhau
+- bằng nhau
+- phụ nhau
+- đều bằng 90°
+= Tổng 180°.
+?1 Nếu a // b và c ⊥ a thì:
++ c ⊥ b
+- c // b
+- c trùng b
+- c cắt b tạo góc 45°
+= Đường thẳng vuông góc với một trong hai đường song song.
+?2 a // b, c cắt a tạo góc 60°. Góc đồng vị tương ứng tại b là:
++ 60°
+- 120°
+- 30°
+- 90°
+= Góc đồng vị bằng nhau.
+?2 a // b, một góc trong cùng phía bằng 75°. Góc còn lại là:
++ 105°
+- 75°
+- 15°
+- 285°
+= 180° − 75°.
+?2 Nếu a // b và b // c thì:
++ a // c
+- a ⊥ c
+- a cắt c
+- không kết luận
+= Hai đường thẳng cùng song song với đường thứ ba.
+?3 Cho a // b, c cắt a tại A, cắt b tại B; góc A₁ = 3x, góc so le trong B₁ = 72°. x bằng:
++ 24°
+- 36°
+- 72°
+- 18°
+= 3x = 72.
+?3 Cho Ax // By, góc xAB = 130° (trong cùng phía với yBA). Góc yBA bằng:
++ 50°
+- 130°
+- 40°
+- 30°
+= Hai góc trong cùng phía bù nhau.
+?3 Hai đường thẳng a, b cùng song song với c. Khẳng định đúng:
++ a // b hoặc a trùng b
+- a ⊥ b
+- a cắt b
+- không xác định
+= Tính chất bắc cầu.
+?4 Cho Ax // Cy, điểm B nằm giữa hai tia (cùng phía), góc xAB = 40°, góc yCB = 30°. Góc ABC bằng:
++ 70°
+- 10°
+- 110°
+- 80°
+= Kẻ Bz // Ax: góc ABC = 40° + 30°.
+?4 Cho a // b, c cắt a, b tạo hai góc đồng vị có số đo 2x + 10° và 3x − 20°. Góc đồng vị bằng:
++ 70°
+- 30°
+- 60°
+- 110°
+= 2x + 10 = 3x − 20 → x = 30; góc 70°.
+
+## Bài 11. Định lí và chứng minh định lí
+?1 Định lí là:
++ một khẳng định được suy ra từ những khẳng định đúng đã biết
+- một giả thiết chưa chứng minh
+- một định nghĩa
+- một hình vẽ
+= Định lí cần chứng minh.
+?1 Định lí thường được phát biểu dưới dạng:
++ Nếu … thì …
+- Có hoặc không
+- Hãy vẽ …
+- Tính …
+= Phần "Nếu" là giả thiết, "thì" là kết luận.
+?1 Trong định lí "Hai góc đối đỉnh thì bằng nhau", giả thiết là:
++ hai góc đối đỉnh
+- hai góc bằng nhau
+- hai đường thẳng song song
+- hai góc kề bù
+= Giả thiết là điều cho biết.
+?1 Kí hiệu GT và KL nghĩa là:
++ giả thiết và kết luận
+- góc tù và kết luận
+- giá trị và khoảng lớn
+- giao tuyến và kết luận
+= Viết tắt.
+?2 Trong định lí "Nếu một đường thẳng vuông góc với một trong hai đường thẳng song song thì nó vuông góc với đường thẳng kia", kết luận là:
++ nó vuông góc với đường thẳng kia
+- một đường thẳng vuông góc
+- hai đường thẳng song song
+- hai đường thẳng cắt nhau
+= Phần sau "thì".
+?2 Chứng minh định lí là:
++ dùng lập luận để từ giả thiết suy ra kết luận
+- đo đạc hình vẽ
+- đoán kết quả
+- vẽ nhiều hình
+= Suy luận logic.
+?2 Khẳng định nào là một định lí?
++ Hai góc kề bù có tổng bằng 180°
+- Hãy vẽ góc 60°
+- Góc vuông là gì?
+- Mọi góc đều bằng 90°
+= Khẳng định đúng đã được chứng minh.
+?3 Phát biểu "Nếu hai góc bằng nhau thì chúng đối đỉnh" là:
++ sai
+- đúng
+- là định nghĩa
+- là tiên đề
+= Hai góc bằng nhau chưa chắc đối đỉnh.
+?3 Bước đầu tiên khi chứng minh một định lí hình học là:
++ vẽ hình, ghi giả thiết, kết luận
+- viết kết luận
+- tính toán
+- đo góc
+= Trình bày GT – KL.
+?3 Định lí đảo của "Nếu a // b thì các góc so le trong bằng nhau" là:
++ Nếu các góc so le trong bằng nhau thì a // b
+- Nếu a ⊥ b thì góc vuông
+- Nếu a // b thì a ⊥ b
+- Không có định lí đảo
+= Đổi vai giả thiết và kết luận.
+?4 Để chứng tỏ một khẳng định là sai, ta chỉ cần:
++ đưa ra một phản ví dụ
+- vẽ thật nhiều hình đúng
+- đo góc
+- phát biểu lại
+= Phản ví dụ bác bỏ.
+?4 "Tia phân giác hai góc kề bù vuông góc với nhau". Để chứng minh, ta dùng:
++ tổng hai góc kề bù 180° và tính chất tia phân giác
+- tiên đề Euclid
+- định lí Pythagore
+- tính chất góc đồng vị
+= Mỗi nửa góc cộng lại 90°.
+
+# Chương IV. Tam giác bằng nhau
+
+## Bài 12. Tổng các góc trong một tam giác
+?1 Tổng ba góc của một tam giác bằng:
++ 180°
+- 90°
+- 360°
+- 270°
+= Định lí tổng ba góc.
+?1 Tam giác ABC có góc A = 50°, góc B = 70°. Góc C bằng:
++ 60°
+- 120°
+- 80°
+- 50°
+= 180 − 50 − 70.
+?1 Trong tam giác vuông, hai góc nhọn:
++ phụ nhau
+- bù nhau
+- bằng nhau
+- đều bằng 60°
+= Tổng bằng 90°.
+?1 Góc ngoài của tam giác bằng:
++ tổng hai góc trong không kề với nó
+- góc trong kề với nó
+- 180°
+- tổng ba góc trong
+= Tính chất góc ngoài.
+?2 Tam giác ABC vuông tại A, góc B = 35°. Góc C bằng:
++ 55°
+- 145°
+- 65°
+- 35°
+= 90 − 35.
+?2 Tam giác có ba góc bằng nhau thì mỗi góc bằng:
++ 60°
+- 90°
+- 45°
+- 30°
+= 180 : 3.
+?2 Góc ngoài tại đỉnh C của tam giác ABC có góc A = 40°, góc B = 75° là:
++ 115°
+- 65°
+- 35°
+- 140°
+= 40 + 75.
+?3 Tam giác ABC có góc A : góc B : góc C = 1 : 2 : 3. Góc C bằng:
++ 90°
+- 60°
+- 30°
+- 120°
+= 6 phần = 180 → góc C = 90.
+?3 Một tam giác có thể có nhiều nhất bao nhiêu góc tù?
++ 1
+- 2
+- 3
+- 0
+= Hai góc tù có tổng > 180°.
+?3 Tam giác ABC có góc B = góc C = 50°. Góc A bằng:
++ 80°
+- 100°
+- 50°
+- 130°
+= 180 − 100.
+?4 Tam giác ABC có góc A = 70°, tia phân giác góc B và C cắt nhau tại I. Góc BIC bằng:
++ 125°
+- 110°
+- 145°
+- 55°
+= Góc B + C = 110; nửa tổng 55; góc BIC = 180 − 55 = 125.
+?4 Tam giác ABC có góc ngoài tại A bằng 120°, góc B = 2 góc C. Góc C bằng:
++ 40°
+- 60°
+- 80°
+- 20°
+= B + C = 120, B = 2C → C = 40.
+
+## Bài 13. Hai tam giác bằng nhau. Trường hợp bằng nhau thứ nhất của tam giác
+?1 Hai tam giác bằng nhau là hai tam giác có:
++ các cạnh tương ứng bằng nhau và các góc tương ứng bằng nhau
+- chỉ ba góc bằng nhau
+- cùng diện tích
+- cùng chu vi
+= Định nghĩa.
+?1 Trường hợp bằng nhau thứ nhất của tam giác là:
++ cạnh – cạnh – cạnh (c.c.c)
+- cạnh – góc – cạnh
+- góc – cạnh – góc
+- góc – góc – góc
+= Ba cạnh tương ứng bằng nhau.
+?1 Nếu ΔABC = ΔDEF thì cạnh tương ứng với AB là:
++ DE
+- EF
+- DF
+- AC
+= Thứ tự đỉnh tương ứng.
+?1 Nếu ΔABC = ΔMNP thì góc tương ứng với góc B là:
++ góc N
+- góc M
+- góc P
+- góc A
+= B ↔ N.
+?2 ΔABC = ΔDEF, AB = 5 cm, BC = 7 cm, AC = 6 cm. EF bằng:
++ 7 cm
+- 5 cm
+- 6 cm
+- 18 cm
+= EF tương ứng BC.
+?2 ΔABC = ΔDEF, góc A = 50°, góc E = 70°. Góc F bằng:
++ 60°
+- 50°
+- 70°
+- 120°
+= Góc D = 50°, E = 70° → F = 60°.
+?2 Hai tam giác ABC và ABD có AC = AD, BC = BD. Hai tam giác bằng nhau theo trường hợp:
++ c.c.c
+- c.g.c
+- g.c.g
+- không bằng nhau
+= Cạnh chung AB.
+?3 ΔABC = ΔDEF có chu vi ΔABC là 20 cm, DE = 6 cm, EF = 8 cm. DF bằng:
++ 6 cm
+- 8 cm
+- 14 cm
+- 20 cm
+= Chu vi bằng nhau: 20 − 6 − 8 = 6.
+?3 Cho ΔABC và ΔA'B'C' có AB = A'B', AC = A'C', BC = B'C'. Kết luận:
++ ΔABC = ΔA'B'C'
+- ΔABC = ΔB'A'C'
+- không bằng nhau
+- chỉ bằng nhau về góc
+= Trường hợp c.c.c.
+?3 ΔABC = ΔMNP, góc A = 2 góc N, góc N = 40°. Góc P bằng:
++ 60°
+- 80°
+- 40°
+- 100°
+= M = A = 80°, N = 40° → P = 60°.
+?4 ΔABC có AB = AC, M là trung điểm BC. Khẳng định đúng:
++ ΔABM = ΔACM và AM là phân giác góc A
+- ΔABM = ΔAMC
+- AM = BC
+- góc B ≠ góc C
+= c.c.c với AM chung, BM = CM.
+?4 Cho ΔABC = ΔDEF. Biết góc A + góc E = 130° và góc A − góc E = 30°. Góc F bằng:
++ 50°
+- 80°
+- 30°
+- 130°
+= A = 80, E = 50, D = 80 → F = 180 − 80 − 50 = 50.
+
+## Bài 14. Trường hợp bằng nhau thứ hai và thứ ba của tam giác
+?1 Trường hợp cạnh – góc – cạnh (c.g.c) yêu cầu góc phải:
++ xen giữa hai cạnh
+- đối diện một cạnh
+- bất kì
+- là góc vuông
+= Góc xen giữa.
+?1 Trường hợp góc – cạnh – góc (g.c.g) yêu cầu cạnh phải:
++ nằm giữa hai góc
+- đối diện một góc
+- bất kì
+- dài nhất
+= Cạnh kề hai góc.
+?1 ΔABC và ΔDEF có AB = DE, góc B = góc E, BC = EF. Hai tam giác bằng nhau theo:
++ c.g.c
+- c.c.c
+- g.c.g
+- g.g.g
+= Góc B, E xen giữa.
+?1 ΔABC và ΔDEF có góc B = góc E, BC = EF, góc C = góc F. Hai tam giác bằng nhau theo:
++ g.c.g
+- c.g.c
+- c.c.c
+- không bằng nhau
+= Cạnh BC xen giữa hai góc.
+?2 Hai tam giác có ba góc bằng nhau từng đôi một thì:
++ chưa chắc bằng nhau
+- luôn bằng nhau
+- có chu vi bằng nhau
+- có diện tích bằng nhau
+= Thiếu điều kiện về cạnh.
+?2 Cho góc xOy, trên Ox lấy A, Oy lấy B sao cho OA = OB; Ot là phân giác, M ∈ Ot. Khẳng định đúng:
++ ΔOAM = ΔOBM (c.g.c)
+- ΔOAM = ΔOMB (g.c.g)
+- MA ≠ MB
+- OA = AM
+= OA = OB, góc AOM = góc BOM, OM chung.
+?2 Cho AB và CD cắt nhau tại trung điểm O của mỗi đoạn. Khẳng định đúng:
++ ΔAOC = ΔBOD (c.g.c)
+- ΔAOC = ΔDOB (c.c.c)
+- AC ⊥ BD
+- AC = AB
+= OA = OB, OC = OD, góc đối đỉnh bằng nhau.
+?3 Với kết quả trên (AB, CD cắt nhau tại trung điểm O), suy ra:
++ AC = BD và AC // BD
+- AC = BD và AC ⊥ BD
+- AC = CD
+- AC // AB
+= Các góc so le trong bằng nhau nên song song.
+?3 ΔABC và ΔDEF có AB = DE, góc A = góc D. Cần thêm điều kiện nào để hai tam giác bằng nhau theo c.g.c?
++ AC = DF
+- BC = EF
+- góc B = góc E
+- góc C = góc F
+= Hai cạnh kề góc A, D.
+?3 ΔABC và ΔDEF có góc A = góc D, AB = DE. Thêm điều kiện để bằng nhau theo g.c.g là:
++ góc B = góc E
+- AC = DF
+- BC = EF
+- góc C = góc F
+= Cạnh AB kề góc A và B.
+?4 Cho ΔABC có AB = AC, kẻ phân giác AD (D ∈ BC). Khẳng định đúng:
++ D là trung điểm BC và AD ⊥ BC
+- AD = BC
+- D trùng B
+- góc B ≠ góc C
+= ΔABD = ΔACD (c.g.c) → BD = DC, hai góc ADB = ADC = 90°.
+?4 Cho ΔABC, M là trung điểm BC. Trên tia đối của tia MA lấy E sao cho ME = MA. Khẳng định đúng:
++ AB = CE và AB // CE
+- AB = AE
+- AB ⊥ CE
+- AC = AE
+= ΔAMB = ΔEMC (c.g.c).
+
+## Bài 15. Các trường hợp bằng nhau của tam giác vuông
+?1 Hai tam giác vuông bằng nhau nếu có hai cạnh góc vuông tương ứng bằng nhau. Đây là trường hợp:
++ c.g.c (hai cạnh góc vuông)
+- c.c.c
+- g.c.g
+- cạnh huyền – góc nhọn
+= Góc vuông xen giữa hai cạnh góc vuông.
+?1 Trường hợp cạnh huyền – góc nhọn yêu cầu:
++ cạnh huyền và một góc nhọn tương ứng bằng nhau
+- hai cạnh góc vuông bằng nhau
+- hai góc nhọn bằng nhau
+- chu vi bằng nhau
+= Trường hợp riêng của tam giác vuông.
+?1 Trường hợp cạnh huyền – cạnh góc vuông yêu cầu:
++ cạnh huyền và một cạnh góc vuông tương ứng bằng nhau
+- hai góc nhọn bằng nhau
+- chỉ cạnh huyền bằng nhau
+- chỉ một góc nhọn bằng nhau
+= Trường hợp riêng.
+?1 Trong tam giác vuông, cạnh huyền là cạnh:
++ đối diện góc vuông
+- kề góc vuông
+- ngắn nhất
+- bất kì
+= Cạnh lớn nhất.
+?2 ΔABC vuông tại A và ΔDEF vuông tại D có BC = EF, góc B = góc E. Hai tam giác bằng nhau theo:
++ cạnh huyền – góc nhọn
+- hai cạnh góc vuông
+- cạnh huyền – cạnh góc vuông
+- c.c.c
+= Cạnh huyền và góc nhọn.
+?2 ΔABC vuông tại A, ΔDEF vuông tại D có AB = DE, AC = DF. Theo trường hợp:
++ hai cạnh góc vuông
+- cạnh huyền – góc nhọn
+- cạnh huyền – cạnh góc vuông
+- g.c.g
+= Hai cạnh góc vuông.
+?2 Hai tam giác vuông có hai góc nhọn tương ứng bằng nhau thì:
++ chưa chắc bằng nhau
+- luôn bằng nhau
+- có cạnh huyền bằng nhau
+- có chu vi bằng nhau
+= Thiếu yếu tố cạnh.
+?3 Cho ΔABC cân tại A, kẻ AH ⊥ BC. Theo trường hợp cạnh huyền – cạnh góc vuông, ta có:
++ ΔAHB = ΔAHC nên HB = HC
+- ΔAHB = ΔACH
+- AH = AB
+- HB > HC
+= AB = AC (cạnh huyền), AH chung.
+?3 M thuộc phân giác góc xOy, MA ⊥ Ox, MB ⊥ Oy. Khẳng định đúng:
++ MA = MB
+- MA > MB
+- MA = OM
+- OA ≠ OB
+= Cạnh huyền OM chung và góc nhọn bằng nhau.
+?3 ΔABC vuông tại A, ΔDEF vuông tại D có BC = EF = 10 cm, AC = DF = 6 cm. Khẳng định:
++ ΔABC = ΔDEF (cạnh huyền – cạnh góc vuông)
+- không bằng nhau
+- ΔABC = ΔEDF
+- chỉ bằng nhau khi AB = 6
+= Trường hợp cạnh huyền – cạnh góc vuông.
+?4 Cho góc xOy nhọn, điểm M cách đều hai cạnh Ox, Oy và nằm trong góc. Khi đó:
++ M nằm trên tia phân giác của góc xOy
+- M nằm trên Ox
+- M là trung điểm OA
+- M nằm ngoài góc
+= Điểm cách đều hai cạnh nằm trên phân giác.
+?4 ΔABC cân tại A, BH ⊥ AC, CK ⊥ AB. Khẳng định đúng:
++ BH = CK
+- BH > CK
+- BH = AB
+- CK = AC
+= ΔHBC = ΔKCB (cạnh huyền BC chung – góc nhọn C = B).
+
+## Bài 16. Tam giác cân. Đường trung trực của đoạn thẳng
+?1 Tam giác cân là tam giác có:
++ hai cạnh bằng nhau
+- ba góc vuông
+- ba cạnh khác nhau
+- một góc tù
+= Định nghĩa.
+?1 Trong tam giác cân, hai góc ở đáy:
++ bằng nhau
+- bù nhau
+- phụ nhau
+- khác nhau
+= Tính chất tam giác cân.
+?1 Đường trung trực của đoạn thẳng là đường thẳng:
++ vuông góc với đoạn thẳng tại trung điểm
+- đi qua một đầu mút
+- song song với đoạn thẳng
+- đi qua trung điểm, không vuông góc
+= Định nghĩa.
+?1 Điểm nằm trên đường trung trực của AB thì:
++ cách đều A và B
+- gần A hơn
+- gần B hơn
+- nằm trên AB
+= Tính chất đường trung trực.
+?2 Tam giác ABC cân tại A, góc A = 40°. Góc B bằng:
++ 70°
+- 40°
+- 140°
+- 80°
+= (180 − 40) : 2.
+?2 Tam giác ABC cân tại A, góc B = 65°. Góc A bằng:
++ 50°
+- 65°
+- 115°
+- 130°
+= 180 − 2·65.
+?2 Tam giác vuông cân có mỗi góc nhọn bằng:
++ 45°
+- 60°
+- 30°
+- 90°
+= 90 : 2.
+?3 M nằm trên trung trực của AB, MA = 5 cm. MB bằng:
++ 5 cm
+- 10 cm
+- 2,5 cm
+- không xác định
+= MA = MB.
+?3 Tam giác cân có một góc 60° là tam giác:
++ đều
+- vuông
+- tù
+- vuông cân
+= Ba góc bằng 60°.
+?3 Tam giác ABC cân tại A có chu vi 20 cm, đáy BC = 6 cm. Cạnh AB bằng:
++ 7 cm
+- 6 cm
+- 14 cm
+- 8 cm
+= (20 − 6) : 2.
+?4 Tam giác ABC cân tại A có góc ngoài tại B bằng 110°. Góc A bằng:
++ 40°
+- 70°
+- 110°
+- 55°
+= Góc B = 70° = góc C → A = 40°.
+?4 Cho đoạn AB, tập hợp các điểm cách đều A và B là:
++ đường trung trực của AB
+- trung điểm AB
+- đường tròn đường kính AB
+- đoạn AB
+= Tính chất đặc trưng.
+
+# Chương V. Thu thập và biểu diễn dữ liệu
+
+## Bài 17. Thu thập và phân loại dữ liệu
+?1 Dữ liệu "màu sắc yêu thích" là dữ liệu:
++ không phải là số (định tính)
+- số
+- liên tục
+- rời rạc số
+= Không biểu diễn bằng số.
+?1 Dữ liệu "chiều cao học sinh" là dữ liệu:
++ số
+- không phải số
+- định danh
+- không xác định
+= Đo được bằng số.
+?1 Cách thu thập dữ liệu "nhiệt độ hằng ngày" là:
++ quan sát, đo đạc
+- phỏng vấn
+- lập bảng hỏi về sở thích
+- đoán
+= Đo bằng nhiệt kế.
+?1 Dữ liệu "xếp loại học lực: Tốt, Khá, Đạt" là dữ liệu:
++ định tính có thứ tự
+- số liên tục
+- số rời rạc
+- không có thứ tự
+= Dữ liệu có thể sắp thứ tự.
+?2 Tính đại diện của dữ liệu là:
++ dữ liệu phản ánh đúng đặc điểm của toàn bộ đối tượng cần nghiên cứu
+- dữ liệu nhiều nhất
+- dữ liệu ít nhất
+- dữ liệu đẹp nhất
+= Mẫu phải đại diện.
+?2 Để tìm hiểu sở thích của học sinh cả trường, chỉ hỏi học sinh lớp 6A thì dữ liệu:
++ chưa đại diện
+- đại diện tốt
+- chính xác tuyệt đối
+- không cần thiết
+= Mẫu chỉ một lớp.
+?2 Số lượng học sinh mỗi lớp là dữ liệu:
++ số rời rạc
+- số liên tục
+- định tính
+- không phải dữ liệu
+= Đếm được.
+?3 Dữ liệu nào không hợp lí trong bảng điểm (thang 10): 7; 8,5; 11; 6?
++ 11
+- 7
+- 8,5
+- 6
+= Điểm vượt quá 10.
+?3 Muốn khảo sát thời gian dùng điện thoại của học sinh trường, cách chọn mẫu tốt nhất là:
++ chọn ngẫu nhiên học sinh ở tất cả các khối lớp
+- chỉ hỏi bạn thân
+- chỉ hỏi lớp mình
+- chỉ hỏi thầy cô
+= Mẫu ngẫu nhiên, đa dạng.
+?3 Dữ liệu "cân nặng (kg)" của học sinh thuộc loại:
++ số liên tục
+- số rời rạc
+- định tính
+- định danh
+= Có thể nhận giá trị thập phân.
+?4 Một bạn khảo sát 20 bạn nữ để kết luận về sở thích thể thao của cả lớp gồm cả nam và nữ. Nhận xét:
++ kết luận không đáng tin vì mẫu không đại diện
+- kết luận chính xác
+- mẫu quá lớn
+- không cần mẫu
+= Thiếu học sinh nam.
+?4 Câu hỏi khảo sát nào thu được dữ liệu số?
++ "Mỗi ngày bạn ngủ bao nhiêu giờ?"
+- "Bạn thích môn gì?"
+- "Bạn có thích thể thao không?"
+- "Quê bạn ở đâu?"
+= Câu trả lời là số.
+
+## Bài 18. Biểu đồ hình quạt tròn
+?1 Biểu đồ hình quạt tròn thường dùng để biểu diễn:
++ tỉ lệ phần trăm các thành phần so với tổng thể
+- sự thay đổi theo thời gian
+- vị trí địa lí
+- chiều cao
+= Cơ cấu thành phần.
+?1 Toàn bộ hình tròn trong biểu đồ hình quạt ứng với:
++ 100%
+- 50%
+- 360%
+- 10%
+= Tổng thể.
+?1 Hình quạt chiếm 1/4 hình tròn biểu diễn:
++ 25%
+- 50%
+- 40%
+- 4%
+= 1/4 = 25%.
+?1 Biểu đồ hình quạt: Toán 40%, Văn 25%, Anh 35%. Môn được yêu thích nhất là:
++ Toán
+- Văn
+- Anh
+- bằng nhau
+= 40% lớn nhất.
+?2 Lớp 40 học sinh, 30% thích bóng đá. Số học sinh thích bóng đá là:
++ 12
+- 30
+- 10
+- 28
+= 40 · 30%.
+?2 Hình quạt biểu diễn 20% có góc ở tâm bằng:
++ 72°
+- 20°
+- 36°
+- 90°
+= 20% · 360° = 72°.
+?2 Biểu đồ quạt: Xe đạp 45%, đi bộ 30%, xe buýt x%. x bằng:
++ 25
+- 35
+- 15
+- 75
+= 100 − 45 − 30.
+?3 Biểu đồ quạt về 200 học sinh: CLB Toán 35%, CLB Tiếng Anh 40%, CLB Tin 25%. Số học sinh CLB Tiếng Anh nhiều hơn CLB Tin:
++ 30
+- 15
+- 50
+- 80
+= (40 − 25)% · 200 = 30.
+?3 Góc ở tâm 90° tương ứng với:
++ 25%
+- 90%
+- 50%
+- 9%
+= 90/360.
+?3 Biểu đồ quạt: chi tiêu gia đình: ăn uống 40%, giáo dục 20%, khác 40%. Thu nhập 15 triệu thì tiền giáo dục là:
++ 3 triệu
+- 6 triệu
+- 2 triệu
+- 4 triệu
+= 15 · 20%.
+?4 Một biểu đồ quạt có ba phần với tỉ lệ 2 : 3 : 5. Phần lớn nhất chiếm:
++ 50%
+- 30%
+- 20%
+- 5%
+= 5/10.
+?4 Để so sánh số học sinh giỏi của lớp 7A qua 5 năm, biểu đồ phù hợp nhất là:
++ biểu đồ đoạn thẳng hoặc cột (không phải quạt tròn)
+- biểu đồ quạt tròn
+- bản đồ
+- biểu đồ tranh chỉ có 1 hình
+= Quạt tròn dùng cho cơ cấu, không cho thay đổi theo thời gian.
+
+## Bài 19. Biểu đồ đoạn thẳng
+?1 Biểu đồ đoạn thẳng thường dùng để biểu diễn:
++ sự thay đổi của một đại lượng theo thời gian
+- cơ cấu phần trăm
+- vị trí trên bản đồ
+- hình dạng vật
+= Xu hướng tăng giảm.
+?1 Trục ngang của biểu đồ đoạn thẳng thường biểu diễn:
++ thời gian
+- số liệu
+- phần trăm
+- màu sắc
+= Mốc thời gian.
+?1 Đoạn thẳng đi lên từ trái sang phải cho biết số liệu:
++ tăng
+- giảm
+- không đổi
+- bằng 0
+= Xu hướng tăng.
+?1 Biểu đồ đoạn thẳng được tạo thành bằng cách:
++ nối các điểm biểu diễn số liệu liên tiếp
+- vẽ các cột
+- chia hình tròn
+- vẽ tranh
+= Đường gấp khúc.
+?2 Nhiệt độ: 6 giờ 22 °C, 9 giờ 26 °C, 12 giờ 31 °C, 15 giờ 29 °C. Nhiệt độ cao nhất lúc:
++ 12 giờ
+- 15 giờ
+- 9 giờ
+- 6 giờ
+= 31 °C.
+?2 Với dữ liệu trên, từ 12 giờ đến 15 giờ nhiệt độ:
++ giảm 2 °C
+- tăng 2 °C
+- không đổi
+- giảm 9 °C
+= 31 → 29.
+?2 Dân số một xã: 2020: 5 000; 2021: 5 200; 2022: 5 500. Dân số tăng nhiều nhất trong giai đoạn:
++ 2021–2022
+- 2020–2021
+- bằng nhau
+- không tăng
+= Tăng 300 so với 200.
+?3 Doanh thu (triệu đồng) 4 quý: 120, 150, 140, 180. Quý có doanh thu giảm so với quý trước là:
++ Quý 3
+- Quý 2
+- Quý 4
+- Quý 1
+= 150 → 140.
+?3 Với dữ liệu trên, doanh thu trung bình mỗi quý là:
++ 147,5 triệu
+- 150 triệu
+- 590 triệu
+- 140 triệu
+= 590 : 4.
+?3 Số học sinh đạt giỏi: 2021: 20, 2022: 25, 2023: 30, 2024: 35. Dự đoán năm 2025 theo xu hướng:
++ khoảng 40
+- khoảng 20
+- khoảng 35
+- khoảng 50
+= Mỗi năm tăng 5.
+?4 Lượng mưa tháng 5 là 180 mm, tháng 6 tăng 25% so với tháng 5. Lượng mưa tháng 6 là:
++ 225 mm
+- 205 mm
+- 45 mm
+- 200 mm
+= 180 · 1,25.
+?4 Cân nặng của bé qua các tháng: 3; 4,2; 5,1; 5,9 kg. Mức tăng trung bình mỗi tháng là:
++ khoảng 0,97 kg
+- 2,9 kg
+- 1,2 kg
+- 0,8 kg
+= (5,9 − 3) : 3 ≈ 0,97 kg.

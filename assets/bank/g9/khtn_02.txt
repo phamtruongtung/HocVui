@@ -1,0 +1,404 @@
+// KHTN 9 – Kết nối tri thức với cuộc sống – Phần Hóa học (Học kì 1)
+# Chương VI. Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại
+
+## Bài 18. Tính chất chung của kim loại
+?1 Tính chất vật lí chung của kim loại là:
++ dẫn điện, dẫn nhiệt, có ánh kim, có tính dẻo
+- không dẫn điện
+- giòn, dễ vỡ
+- không có ánh kim
+= Tính chất vật lí.
+?1 Kim loại dẫn điện tốt nhất là:
++ bạc (Ag)
+- sắt (Fe)
+- nhôm (Al)
+- chì (Pb)
+= Sau bạc là đồng.
+?1 Kim loại ở thể lỏng ở nhiệt độ thường là:
++ thủy ngân (Hg)
+- sắt (Fe)
+- đồng (Cu)
+- nhôm (Al)
+= Dùng trong nhiệt kế cũ.
+?2 Đốt magnesium trong oxygen thu được:
++ MgO
+- Mg(OH)₂
+- MgCl₂
+- MgCO₃
+= 2Mg + O₂ → 2MgO.
+?2 Cho kẽm vào dung dịch HCl, khí thoát ra là:
++ H₂
+- O₂
+- Cl₂
+- CO₂
+= Zn + 2HCl → ZnCl₂ + H₂.
+?3 Ngâm đinh sắt trong dung dịch CuSO₄, hiện tượng quan sát được là:
++ có lớp kim loại màu đỏ bám trên đinh sắt, màu xanh của dung dịch nhạt dần
+- đinh sắt tan hết ngay lập tức
+- có khí thoát ra mạnh
+- không có hiện tượng gì
+= Fe + CuSO₄ → FeSO₄ + Cu.
+?3 Sodium tác dụng với nước tạo thành:
++ NaOH và H₂
+- Na₂O và H₂
+- NaCl và H₂O
+- NaOH và O₂
+= 2Na + 2H₂O → 2NaOH + H₂.
+?4 Cho 6,5 g Zn tác dụng hết với dung dịch HCl dư. Khối lượng muối ZnCl₂ thu được là:
++ 13,6 g
+- 6,5 g
+- 27,2 g
+- 7,1 g
+= n(Zn) = 0,1 mol; m = 0,1·136.
+
+## Bài 19. Dãy hoạt động hóa học
+?1 Trong các kim loại K, Fe, Cu, Ag, kim loại hoạt động hóa học mạnh nhất là:
++ K
+- Fe
+- Cu
+- Ag
+= K đứng đầu dãy.
+?1 Kim loại nào không tác dụng với dung dịch HCl?
++ Cu
+- Zn
+- Fe
+- Mg
+= Cu đứng sau H.
+?1 Kim loại đứng trước H trong dãy hoạt động hóa học:
++ tác dụng với dung dịch acid (HCl, H₂SO₄ loãng) giải phóng H₂
+- không tác dụng với acid
+- tác dụng với acid tạo O₂
+- không tác dụng với chất nào
+= Ý nghĩa dãy hoạt động.
+?2 Kim loại nào tác dụng mạnh với nước ở nhiệt độ thường?
++ Na
+- Fe
+- Cu
+- Ag
+= Các kim loại đầu dãy.
+?2 Sắt có thể đẩy kim loại nào ra khỏi dung dịch muối của nó?
++ Cu (từ CuSO₄)
+- Mg (từ MgSO₄)
+- Zn (từ ZnSO₄)
+- Na (từ NaCl)
+= Kim loại mạnh đẩy kim loại yếu hơn.
+?3 Cho dây đồng vào dung dịch AgNO₃, dung dịch dần chuyển sang màu:
++ xanh lam
+- đỏ
+- không màu
+- vàng
+= Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag.
+?3 Đồng không đẩy được sắt ra khỏi dung dịch FeSO₄ vì:
++ đồng hoạt động hóa học yếu hơn sắt
+- đồng mạnh hơn sắt
+- đồng không tan trong nước
+- FeSO₄ không tan
+= Vị trí trong dãy.
+?4 Để tách bạc ra khỏi hỗn hợp bột bạc và sắt, có thể dùng:
++ dung dịch HCl dư, lọc lấy chất rắn không tan
+- nước cất
+- dung dịch NaCl
+- nam châm và nước muối
+= Fe tan trong HCl, Ag không tan.
+
+## Bài 20. Tách kim loại và việc sử dụng hợp kim
+?1 Hợp kim là:
++ vật liệu kim loại có chứa một kim loại cơ bản và một số kim loại hoặc phi kim khác
+- một kim loại nguyên chất
+- một chất phi kim
+- một loại muối
+= Khái niệm.
+?1 Gang và thép là hợp kim của:
++ sắt với carbon và một số nguyên tố khác
+- nhôm với đồng
+- đồng với kẽm
+- vàng với bạc
+= Thành phần.
+?1 Thép không gỉ (inox) được thêm các kim loại như:
++ chromium, nickel
+- natri, kali
+- thủy ngân
+- chì
+= Chống ăn mòn.
+?2 So với thép, gang có hàm lượng carbon:
++ cao hơn (khoảng 2 – 5%)
+- thấp hơn
+- bằng nhau
+- không có carbon
+= Gang cứng và giòn hơn thép.
+?2 Nhôm được sản xuất trong công nghiệp bằng phương pháp:
++ điện phân nóng chảy Al₂O₃
+- dùng CO khử Al₂O₃
+- nhiệt phân muối nhôm
+- cho Al₂O₃ vào nước
+= Tách kim loại hoạt động mạnh.
+?3 Trong lò cao, oxide sắt bị khử chủ yếu bởi:
++ carbon monoxide (CO)
+- oxygen
+- nước
+- nitrogen
+= Fe₂O₃ + 3CO → 2Fe + 3CO₂.
+?3 Hợp kim duralumin (đuyra) nhẹ và bền, được dùng để:
++ chế tạo vỏ máy bay
+- làm dây tóc bóng đèn
+- làm đồ trang sức
+- làm nhiệt kế
+= Hợp kim của nhôm.
+?4 Kim loại K, Na không thể điều chế bằng cách dùng CO khử oxide vì:
++ chúng hoạt động rất mạnh, phải điều chế bằng điện phân nóng chảy
+- chúng không có trong tự nhiên
+- chúng là phi kim
+- chúng quá rẻ
+= Phương pháp tách phụ thuộc độ hoạt động.
+
+## Bài 21. Sự khác nhau cơ bản giữa phi kim và kim loại
+?1 Phần lớn phi kim:
++ không dẫn điện, không có ánh kim
+- dẫn điện tốt
+- có ánh kim
+- dát mỏng được
+= Tính chất vật lí.
+?1 Dãy gồm các phi kim là:
++ sulfur, carbon, chlorine
+- sắt, đồng, nhôm
+- natri, kali, canxi
+- bạc, vàng, đồng
+= Nhận biết phi kim.
+?1 Phi kim ở thể lỏng ở điều kiện thường là:
++ bromine
+- chlorine
+- sulfur
+- carbon
+= Br₂ lỏng màu nâu đỏ.
+?2 Oxide của phi kim như CO₂, SO₂ thường là:
++ oxide acid
+- oxide base
+- muối
+- base
+= Tác dụng với nước tạo acid.
+?2 Oxide của kim loại như Na₂O, CaO thường là:
++ oxide base
+- oxide acid
+- muối
+- acid
+= Tác dụng với nước tạo base.
+?3 Trong phản ứng hóa học, nguyên tử kim loại có xu hướng:
++ nhường electron tạo ion dương
+- nhận electron tạo ion âm
+- không thay đổi
+- nhận proton
+= Phi kim thường nhận electron.
+?3 Than chì (graphite) là phi kim đặc biệt vì:
++ dẫn điện được
+- có màu trắng
+- ở thể lỏng
+- tan trong nước
+= Dùng làm điện cực.
+?4 Cách đơn giản để phân biệt một mẩu đồng và một mẩu lưu huỳnh là:
++ thử tính dẫn điện hoặc dùng búa đập (đồng dát mỏng được, lưu huỳnh vỡ vụn)
+- ngửi mùi
+- cho vào nước xem tan hay không
+- nếm vị
+= Dựa vào tính chất vật lí.
+
+# Chương VII. Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu
+
+## Bài 22. Giới thiệu về chất hữu cơ
+?1 Hợp chất hữu cơ là:
++ hợp chất của carbon (trừ CO, CO₂, muối carbonate, …)
+- mọi hợp chất có oxygen
+- hợp chất của kim loại
+- mọi chất có trong nước
+= Khái niệm.
+?1 Chất nào là hợp chất hữu cơ?
++ CH₄
+- CO₂
+- CaCO₃
+- NaCl
+= Methane.
+?1 Trong hợp chất hữu cơ, carbon luôn có hóa trị:
++ IV
+- I
+- II
+- III
+= Đặc điểm cấu tạo.
+?2 Hydrocarbon là hợp chất hữu cơ chỉ chứa:
++ carbon và hydrogen
+- carbon và oxygen
+- hydrogen và oxygen
+- carbon, hydrogen và nitrogen
+= Phân loại.
+?2 C₂H₅OH thuộc loại:
++ dẫn xuất của hydrocarbon
+- hydrocarbon
+- hợp chất vô cơ
+- kim loại
+= Có thêm nguyên tố O.
+?3 Công thức cấu tạo cho biết:
++ thành phần phân tử và thứ tự liên kết giữa các nguyên tử
+- chỉ số nguyên tử
+- màu sắc của chất
+- nhiệt độ sôi
+= Ý nghĩa.
+?3 Phần trăm khối lượng carbon trong CH₄ là:
++ 75%
+- 25%
+- 80%
+- 12%
+= 12 : 16.
+?4 Đốt cháy một chất hữu cơ chỉ thu được CO₂ và H₂O. Chất đó chắc chắn chứa:
++ C và H, có thể có O
+- chỉ C
+- C, H và N
+- chỉ H và O
+= Bảo toàn nguyên tố.
+
+## Bài 23. Alkane
+?1 Alkane là hydrocarbon:
++ mạch hở, chỉ có liên kết đơn, công thức chung CₙH₂ₙ₊₂
+- có một liên kết đôi
+- có vòng benzene
+- có liên kết ba
+= Khái niệm.
+?1 Methane (CH₄) là thành phần chính của:
++ khí thiên nhiên và khí biogas
+- không khí
+- nước biển
+- dầu ăn
+= Ứng dụng làm nhiên liệu.
+?1 Phản ứng đặc trưng của alkane với chlorine (khi chiếu sáng) là phản ứng:
++ thế
+- cộng
+- trùng hợp
+- trung hòa
+= Tính chất hóa học.
+?2 Phương trình đốt cháy methane là:
++ CH₄ + 2O₂ → CO₂ + 2H₂O
+- CH₄ + O₂ → CO₂ + H₂O
+- CH₄ + 2O₂ → C + 2H₂O
+- 2CH₄ + O₂ → 2CO + H₂O
+= Cân bằng phương trình.
+?2 Công thức phân tử của propane là:
++ C₃H₈
+- C₃H₆
+- C₃H₄
+- C₂H₆
+= CₙH₂ₙ₊₂ với n = 3.
+?3 Alkane có 4 nguyên tử carbon (thành phần chính của khí gas) là:
++ C₄H₁₀ (butane)
+- C₄H₈
+- C₄H₆
+- C₃H₈
+= n = 4.
+?3 Hỗn hợp khí methane và oxygen khi bắt lửa có thể:
++ gây nổ mạnh, rất nguy hiểm trong hầm mỏ than
+- dập tắt lửa
+- không phản ứng
+- tạo nước đá
+= An toàn.
+?4 Đốt cháy hoàn toàn 0,1 mol CH₄. Khối lượng nước tạo thành là:
++ 3,6 g
+- 1,8 g
+- 7,2 g
+- 4,4 g
+= n(H₂O) = 0,2 mol; m = 0,2·18.
+
+## Bài 24. Alkene
+?1 Alkene là hydrocarbon mạch hở có:
++ một liên kết đôi C=C, công thức chung CₙH₂ₙ
+- chỉ liên kết đơn
+- một liên kết ba
+- vòng benzene
+= Khái niệm.
+?1 Công thức phân tử của ethylene là:
++ C₂H₄
+- C₂H₆
+- C₂H₂
+- CH₄
+= Alkene đơn giản nhất.
+?1 Ethylene làm mất màu dung dịch:
++ bromine
+- nước vôi trong
+- muối ăn
+- đường
+= Phản ứng cộng.
+?2 Phản ứng đặc trưng của alkene là phản ứng:
++ cộng
+- thế
+- trung hòa
+- phân hủy
+= Do liên kết đôi.
+?2 Trùng hợp ethylene thu được:
++ polyethylene (PE)
+- PVC
+- tinh bột
+- protein
+= Sản xuất túi nhựa.
+?3 Để phân biệt khí methane và khí ethylene, có thể dùng:
++ dung dịch bromine
+- nước cất
+- quỳ tím
+- dung dịch NaCl
+= Ethylene làm mất màu bromine.
+?3 Ethylene được dùng trong nông nghiệp để:
++ kích thích quả mau chín
+- diệt cỏ
+- làm phân bón
+- bảo quản hạt giống
+= Ứng dụng.
+?4 0,1 mol ethylene phản ứng vừa đủ với bao nhiêu gam bromine?
++ 16 g
+- 8 g
+- 32 g
+- 1,6 g
+= C₂H₄ + Br₂ → C₂H₄Br₂; m = 0,1·160.
+
+## Bài 25. Nguồn nhiên liệu
+?1 Nhiên liệu là những chất:
++ cháy được và tỏa nhiều nhiệt
+- không cháy được
+- hấp thụ nhiệt
+- dập tắt lửa
+= Khái niệm.
+?1 Dầu mỏ là:
++ hỗn hợp nhiều hydrocarbon
+- một chất tinh khiết
+- một loại muối
+- nước có màu đen
+= Thành phần.
+?1 Thành phần chủ yếu của khí thiên nhiên là:
++ methane
+- ethylene
+- oxygen
+- nitrogen
+= CH₄.
+?2 Để nhiên liệu cháy hiệu quả cần:
++ cung cấp đủ không khí (oxygen) và tăng diện tích tiếp xúc
+- đậy kín bếp
+- thêm nước vào nhiên liệu
+- giảm lượng không khí
+= Sử dụng nhiên liệu hiệu quả.
+?2 Chưng cất dầu mỏ thu được:
++ xăng, dầu hỏa, dầu diesel, …
+- đường, muối
+- sắt, thép
+- nước sạch
+= Lọc dầu.
+?3 Đốt than trong phòng kín có thể gây ngộ độc khí:
++ CO
+- O₂
+- N₂
+- H₂
+= Thiếu oxygen tạo CO độc.
+?3 Xăng E5 là:
++ xăng có pha khoảng 5% ethanol sinh học
+- xăng có 5% nước
+- xăng nguyên chất
+- dầu diesel
+= Nhiên liệu sinh học.
+?4 Khi đun bếp củi, người ta chẻ nhỏ củi vì:
++ tăng diện tích tiếp xúc với không khí, củi cháy nhanh và tốt hơn
+- để củi nặng hơn
+- để giảm nhiệt tỏa ra
+- để củi khó cháy
+= Ứng dụng thực tế.

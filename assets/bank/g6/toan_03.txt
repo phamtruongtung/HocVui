@@ -1,0 +1,371 @@
+# Chương III. Số nguyên
+
+## Bài 13. Tập hợp các số nguyên
+?1 Nhiệt độ 5 độ dưới 0 °C được viết là:
++ −5 °C
+- 5 °C
+- +5 °C
+- 0,5 °C
+= Nhiệt độ dưới 0 °C dùng số nguyên âm.
+?1 Số đối của −8 là:
++ 8
+- −8
+- 0
+- 1/8
+= Hai số đối nhau có tổng bằng 0.
+?1 Tập hợp số nguyên được kí hiệu là:
++ ℤ
+- ℕ
+- ℕ*
+- ℚ
+= ℤ là tập hợp các số nguyên.
+?1 Khẳng định nào đúng?
++ −3 ∈ ℤ
+- −3 ∈ ℕ
+- 5 ∉ ℤ
+- 0 ∉ ℤ
+= −3 là số nguyên âm nên thuộc ℤ, không thuộc ℕ.
+?2 Sắp xếp −7; 3; 0; −2; 5 theo thứ tự tăng dần:
++ −7; −2; 0; 3; 5
+- −2; −7; 0; 3; 5
+- 0; −2; 3; 5; −7
+- 5; 3; 0; −2; −7
+= Số âm càng xa 0 càng nhỏ; số âm < 0 < số dương.
+?2 Có bao nhiêu số nguyên x thỏa mãn −3 < x < 3?
++ 5
+- 6
+- 7
+- 4
+= x ∈ {−2; −1; 0; 1; 2}.
+?2 Khẳng định nào sai?
++ −10 > −2
+- −10 < −2
+- 0 > −1
+- −1 > −100
+= −10 nằm bên trái −2 trên trục số nên −10 < −2.
+?3 Một tàu ngầm đang ở độ sâu 30 m dưới mực nước biển, sau đó lặn thêm 15 m. Vị trí mới của tàu được biểu diễn bởi số:
++ −45 m
+- −15 m
+- 45 m
+- −30 m
+= Độ sâu dưới mực nước biển là số âm: −30 − 15 = −45.
+?3 Số nguyên lớn nhất nhỏ hơn −5 là:
++ −6
+- −4
+- −5
+- 0
+= Trên trục số, số liền trước −5 là −6.
+?3 Trên trục số, khoảng cách từ điểm −4 đến điểm 3 là:
++ 7 đơn vị
+- 1 đơn vị
+- −1 đơn vị
+- 12 đơn vị
+= Từ −4 đến 0 là 4, từ 0 đến 3 là 3: tổng 7.
+?4 Tìm các số nguyên x biết −4 ≤ x < 2 và x là số âm. Có bao nhiêu số như vậy?
++ 4
+- 5
+- 6
+- 3
+= x ∈ {−4; −3; −2; −1}.
+?4 Năm 776 trước Công nguyên (kì Olympic đầu tiên) được biểu diễn bằng số nguyên:
++ −776
+- 776
+- 1 776
+- −1 776
+= Năm trước Công nguyên dùng số âm.
+
+## Bài 14. Phép cộng và phép trừ số nguyên
+?1 Tính (−12) + (−8).
++ −20
+- 20
+- −4
+- 4
+= Cộng hai số nguyên âm: cộng hai phần số tự nhiên rồi đặt dấu "−".
+?1 Tính (−15) + 9.
++ −6
+- 6
+- −24
+- 24
+= Khác dấu: 15 − 9 = 6, lấy dấu của số có phần số tự nhiên lớn hơn (−15).
+?1 Tính 7 − 12.
++ −5
+- 5
+- 19
+- −19
+= 7 − 12 = 7 + (−12) = −5.
+?1 Tính 4 − (−6).
++ 10
+- −2
+- 2
+- −10
+= Trừ một số là cộng với số đối: 4 + 6 = 10.
+?2 Tính (−25) + 17 + (−5) + 13.
++ 0
+- −60
+- 10
+- −10
+= (−25 − 5) + (17 + 13) = −30 + 30 = 0.
+?2 Tính (−36) − (−14).
++ −22
+- −50
+- 22
+- 50
+= −36 + 14 = −22.
+?2 Nhiệt độ buổi sáng là −3 °C, buổi trưa tăng 8 °C. Nhiệt độ buổi trưa là:
++ 5 °C
+- −11 °C
+- 11 °C
+- −5 °C
+= −3 + 8 = 5.
+?3 Tìm x biết x + 15 = −7.
++ −22
+- 8
+- −8
+- 22
+= x = −7 − 15 = −22.
+?3 Tìm x biết 12 − x = 20.
++ −8
+- 8
+- 32
+- −32
+= x = 12 − 20 = −8.
+?3 Tính tổng các số nguyên x thỏa mãn −5 < x ≤ 6.
++ 11
+- 6
+- 0
+- 1
+= Các số −4 đến 4 có tổng 0; còn lại 5 + 6 = 11.
+?4 Tính tổng S = 1 − 2 + 3 − 4 + … + 99 − 100.
++ −50
+- 50
+- 0
+- −100
+= Ghép 50 cặp (1 − 2), (3 − 4), …, mỗi cặp bằng −1 → S = −50.
+?4 Một người có 500 nghìn đồng, nợ bạn 750 nghìn đồng. Nếu trả hết nợ thì tài sản (tính bằng nghìn đồng) của người đó là:
++ −250
+- 250
+- −1 250
+- 1 250
+= 500 − 750 = −250 (vẫn còn nợ 250 nghìn).
+
+## Bài 15. Quy tắc dấu ngoặc
+?1 Bỏ dấu ngoặc: −(a − b + c) bằng:
++ −a + b − c
+- −a − b + c
+- a − b + c
+- −a + b + c
+= Dấu "−" trước ngoặc: đổi dấu mọi số hạng trong ngoặc.
+?1 Bỏ dấu ngoặc: +(x − y) bằng:
++ x − y
+- −x + y
+- x + y
+- −x − y
+= Dấu "+" trước ngoặc: giữ nguyên dấu các số hạng.
+?1 Tính 15 − (15 − 8).
++ 8
+- 22
+- −8
+- 38
+= 15 − 15 + 8 = 8.
+?1 Biểu thức a − (b + c) bằng:
++ a − b − c
+- a − b + c
+- a + b − c
+- a + b + c
+= Dấu trừ trước ngoặc đổi dấu cả b và c.
+?2 Tính nhanh (2 024 − 75) − 2 024.
++ −75
+- 75
+- 4 048
+- −4 123
+= 2 024 − 75 − 2 024 = −75.
+?2 Tính nhanh (−351) + (−49) + 400.
++ 0
+- 800
+- −800
+- 100
+= (−351 − 49) + 400 = −400 + 400 = 0.
+?2 Rút gọn (a + b) − (a − b).
++ 2b
+- 2a
+- 0
+- −2b
+= a + b − a + b = 2b.
+?3 Tính 125 − (25 − 78) + (−78 + 35).
++ 135
+- 21
+- −21
+- 291
+= 125 − 25 + 78 − 78 + 35 = 135.
+?3 Tìm x biết −(x − 5) = 12.
++ −7
+- 7
+- 17
+- −17
+= x − 5 = −12 → x = −7.
+?3 Tính 18 − (−23 + 18) + (−23).
++ 0
+- 46
+- −46
+- 36
+= 18 + 23 − 18 − 23 = 0.
+?4 Tính (−1) + 2 + (−3) + 4 + … + (−49) + 50.
++ 25
+- 50
+- −25
+- 0
+= 25 cặp (−1 + 2), (−3 + 4), …, mỗi cặp bằng 1.
+?4 Cho a − b = 7. Giá trị của (b − 5) − (a − 3) là:
++ −9
+- 9
+- −5
+- 5
+= b − 5 − a + 3 = −(a − b) − 2 = −7 − 2 = −9.
+
+## Bài 16. Phép nhân số nguyên
+?1 Tính (−6) · 5.
++ −30
+- 30
+- −11
+- 1
+= Tích hai số khác dấu là số âm.
+?1 Tính (−4) · (−9).
++ 36
+- −36
+- −13
+- 13
+= Tích hai số âm là số dương.
+?1 Tích của một số nguyên với 0 bằng:
++ 0
+- chính nó
+- 1
+- số đối của nó
+= a · 0 = 0.
+?1 Dấu của tích (−2) · (−3) · (−5) là:
++ âm
+- dương
+- bằng 0
+- không xác định
+= Có 3 thừa số âm (lẻ) nên tích âm.
+?2 Tính (−25) · 37 · 4.
++ −3 700
+- 3 700
+- −370
+- −925
+= (−25 · 4) · 37 = −100 · 37 = −3 700.
+?2 Tính (−3)³.
++ −27
+- 27
+- −9
+- 9
+= (−3)·(−3)·(−3) = −27.
+?2 Tính (−12) · 15 + (−12) · (−5).
++ −120
+- 120
+- −240
+- 0
+= (−12) · (15 − 5) = −12 · 10 = −120.
+?3 Tìm x biết −5x = 45.
++ −9
+- 9
+- 40
+- −40
+= x = 45 : (−5) = −9.
+?3 Tìm x biết (x − 3)(x + 2) = 0.
++ x = 3 hoặc x = −2
+- x = −3 hoặc x = 2
+- x = 3
+- x = −2
+= Tích bằng 0 khi một thừa số bằng 0.
+?3 Một trò chơi: trả lời đúng được +5 điểm, sai bị −2 điểm. Bạn Lan đúng 7 câu, sai 3 câu. Tổng điểm là:
++ 29
+- 41
+- 35
+- 26
+= 7 · 5 + 3 · (−2) = 35 − 6 = 29.
+?4 Tính (−1)·(−1)²·(−1)³·…·(−1)¹⁰.
++ −1
+- 1
+- 0
+- −10
+= Tổng số mũ 1 + 2 + … + 10 = 55 là số lẻ nên tích bằng (−1)⁵⁵ = −1.
+?4 Có bao nhiêu số nguyên x thỏa mãn (x − 2)(x + 5) < 0?
++ 6
+- 7
+- 5
+- 8
+= Hai thừa số trái dấu: −5 < x < 2 → x ∈ {−4; −3; −2; −1; 0; 1}.
+
+## Bài 17. Phép chia hết. Ước và bội của một số nguyên
+?1 Tính (−48) : 6.
++ −8
+- 8
+- −42
+- 54
+= Thương hai số khác dấu là số âm.
+?1 Tính (−56) : (−7).
++ 8
+- −8
+- −49
+- 63
+= Thương hai số cùng dấu là số dương.
+?1 Các ước của 4 trong tập số nguyên là:
++ ±1; ±2; ±4
+- 1; 2; 4
+- −1; −2; −4
+- 0; ±4; ±8
+= Mỗi ước dương có một ước âm tương ứng.
+?1 Số nào là bội của −6?
++ 18
+- 4
+- −15
+- 9
+= 18 = (−6) · (−3).
+?2 Có bao nhiêu ước nguyên của 6?
++ 8
+- 4
+- 6
+- 12
+= ±1, ±2, ±3, ±6.
+?2 Tính (−144) : 12 : (−3).
++ 4
+- −4
+- 36
+- −36
+= (−144) : 12 = −12; (−12) : (−3) = 4.
+?2 Tìm x biết 3x = −21.
++ −7
+- 7
+- −24
+- −18
+= x = −21 : 3 = −7.
+?3 Tìm x biết (−84) : x = 12.
++ −7
+- 7
+- −96
+- −1 008
+= x = (−84) : 12 = −7.
+?3 Các bội của −5 nằm trong khoảng −12 đến 12 là:
++ −10; −5; 0; 5; 10
+- −10; −5; 5; 10
+- 5; 10
+- −5; 5
+= Bội của −5 là 5k; các bội từ −12 đến 12.
+?3 Tìm số nguyên x sao cho x + 1 là ước của 3.
++ x ∈ {−4; −2; 0; 2}
+- x ∈ {0; 2}
+- x ∈ {−2; 0}
+- x ∈ {−3; −1; 1; 3}
+= x + 1 ∈ {±1; ±3} → x ∈ {0; −2; 2; −4}.
+?4 Tìm số nguyên n để (2n + 7) chia hết cho (n + 1).
++ n ∈ {−6; −2; 0; 4}
+- n ∈ {0; 4}
+- n ∈ {−2; 0}
+- n ∈ {−6; 4}
+= 2n + 7 = 2(n + 1) + 5 → n + 1 ∈ {±1; ±5} → n ∈ {0; −2; 4; −6}.
+?4 Tìm x ∈ ℤ biết (x − 2)² = 25.
++ x = 7 hoặc x = −3
+- x = 7
+- x = −3
+- x = 3 hoặc x = −7
+= x − 2 = 5 hoặc x − 2 = −5.

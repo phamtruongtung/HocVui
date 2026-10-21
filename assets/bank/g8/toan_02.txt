@@ -1,0 +1,819 @@
+# Chương III. Tứ giác
+
+## Bài 10. Tứ giác
+?1 Tổng các góc của một tứ giác bằng:
++ 360°
+- 180°
+- 540°
+- 270°
+= Định lí tổng các góc của tứ giác.
+?1 Tứ giác lồi là tứ giác:
++ luôn nằm về một phía của đường thẳng chứa bất kì cạnh nào
+- có một góc lớn hơn 180°
+- có hai cạnh cắt nhau
+- có ba góc vuông
+= Định nghĩa tứ giác lồi.
+?1 Tứ giác ABCD có bao nhiêu đường chéo?
++ 2
+- 4
+- 1
+- 3
+= AC và BD.
+?1 Tứ giác có ba góc 80°, 90°, 100°. Góc còn lại bằng:
++ 90°
+- 80°
+- 100°
+- 70°
+= 360 − 270.
+?2 Tứ giác ABCD có góc A = góc B = 110°, góc C = 70°. Góc D bằng:
++ 70°
+- 110°
+- 80°
+- 60°
+= 360 − 290.
+?2 Một tứ giác có thể có nhiều nhất bao nhiêu góc tù?
++ 3
+- 4
+- 2
+- 1
+= Bốn góc tù có tổng lớn hơn 360°.
+?2 Tứ giác có các góc tỉ lệ 1 : 2 : 3 : 4. Góc lớn nhất bằng:
++ 144°
+- 120°
+- 90°
+- 160°
+= 10 phần = 360 → 1 phần = 36; 4 · 36.
+?3 Tứ giác ABCD có góc A = 60°, góc B = 2 góc C, góc D = 3 góc C. Góc C bằng:
++ 50°
+- 60°
+- 40°
+- 100°
+= 60 + 6C = 360 → C = 50.
+?3 Tổng các góc ngoài (mỗi đỉnh một góc) của tứ giác lồi bằng:
++ 360°
+- 180°
+- 720°
+- 540°
+= 4 · 180 − 360.
+?3 Một tứ giác có thể có nhiều nhất bao nhiêu góc vuông?
++ 4
+- 3
+- 2
+- 1
+= Hình chữ nhật.
+?4 Tứ giác ABCD có góc A = 100°, góc C = 60°, hai đường phân giác góc B và góc D cắt nhau tại I (tia phân giác góc B, D trong tứ giác lồi). Góc B + góc D bằng:
++ 200°
+- 160°
+- 180°
+- 100°
+= 360 − 160.
+?4 Tứ giác ABCD có AB = BC, AD = CD. Đường chéo BD là:
++ đường trung trực của AC
+- song song với AC
+- bằng AC
+- cắt AC tại A
+= B và D cùng cách đều A, C.
+
+## Bài 11. Hình thang cân
+?1 Hình thang là tứ giác có:
++ hai cạnh đối song song
+- bốn cạnh bằng nhau
+- bốn góc vuông
+- hai đường chéo vuông góc
+= Định nghĩa.
+?1 Hình thang cân là hình thang có:
++ hai góc kề một đáy bằng nhau
+- hai cạnh đáy bằng nhau
+- một góc vuông
+- hai đường chéo vuông góc
+= Định nghĩa.
+?1 Trong hình thang cân, hai đường chéo:
++ bằng nhau
+- vuông góc
+- song song
+- cắt nhau tại trung điểm mỗi đường
+= Tính chất.
+?1 Trong hình thang, hai góc kề một cạnh bên:
++ bù nhau
+- bằng nhau
+- phụ nhau
+- đều bằng 90°
+= Hai góc trong cùng phía.
+?2 Hình thang cân ABCD (AB // CD) có góc C = 65°. Góc D bằng:
++ 65°
+- 115°
+- 25°
+- 130°
+= Hai góc kề đáy bằng nhau.
+?2 Với hình thang cân trên, góc A bằng:
++ 115°
+- 65°
+- 25°
+- 130°
+= Góc A bù với góc D.
+?2 Hình thang có hai đường chéo bằng nhau là:
++ hình thang cân
+- hình thang vuông
+- hình bình hành
+- hình thoi
+= Dấu hiệu nhận biết.
+?3 Hình thang cân ABCD có đáy AB = 4 cm, CD = 10 cm, cạnh bên 5 cm. Chiều cao là:
++ 4 cm
+- 3 cm
+- 5 cm
+- 6 cm
+= Hình chiếu cạnh bên lên đáy = (10 − 4) : 2 = 3; h = √(25 − 9) = 4.
+?3 Hình thang vuông là hình thang có:
++ một góc vuông
+- hai đáy bằng nhau
+- bốn góc vuông
+- hai cạnh bên bằng nhau
+= Định nghĩa.
+?3 Hình thang ABCD (AB // CD) có góc A − góc D = 40°. Góc D bằng:
++ 70°
+- 110°
+- 40°
+- 140°
+= A + D = 180, A − D = 40 → D = 70.
+?4 Hình thang cân có đáy nhỏ bằng cạnh bên và bằng nửa đáy lớn. Góc kề đáy lớn bằng:
++ 60°
+- 45°
+- 30°
+- 90°
+= Chia được thành 3 tam giác đều.
+?4 Hình thang cân có hai đường chéo vuông góc, chiều cao 6 cm. Diện tích hình thang là:
++ 36 cm²
+- 72 cm²
+- 18 cm²
+- 24 cm²
+= Khi đó tổng hai đáy = 2h = 12; S = 12 · 6 : 2.
+
+## Bài 12. Hình bình hành
+?1 Hình bình hành là tứ giác có:
++ các cạnh đối song song
+- bốn góc vuông
+- bốn cạnh bằng nhau
+- chỉ một cặp cạnh song song
+= Định nghĩa.
+?1 Trong hình bình hành, hai đường chéo:
++ cắt nhau tại trung điểm mỗi đường
+- bằng nhau
+- vuông góc
+- song song
+= Tính chất.
+?1 Trong hình bình hành, các góc đối:
++ bằng nhau
+- bù nhau
+- phụ nhau
+- khác nhau
+= Tính chất.
+?1 Tứ giác có hai cặp cạnh đối bằng nhau là:
++ hình bình hành
+- hình thang cân
+- hình thang vuông
+- tứ giác bất kì
+= Dấu hiệu nhận biết.
+?2 Hình bình hành ABCD có góc A = 70°. Góc B bằng:
++ 110°
+- 70°
+- 20°
+- 140°
+= Hai góc kề bù nhau.
+?2 Hình bình hành ABCD có AB = 6 cm, BC = 4 cm. Chu vi là:
++ 20 cm
+- 10 cm
+- 24 cm
+- 14 cm
+= 2 · (6 + 4).
+?2 Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường là:
++ hình bình hành
+- hình thang cân
+- hình thang
+- tứ giác bất kì
+= Dấu hiệu nhận biết.
+?3 Hình bình hành ABCD, O là giao điểm hai đường chéo, AC = 10 cm. OA bằng:
++ 5 cm
+- 10 cm
+- 20 cm
+- 2,5 cm
+= O là trung điểm AC.
+?3 Hình bình hành có góc A − góc B = 30°. Góc A bằng:
++ 105°
+- 75°
+- 30°
+- 150°
+= A + B = 180, A − B = 30.
+?3 Tứ giác ABCD có AB // CD và AB = CD. ABCD là:
++ hình bình hành
+- hình thang cân
+- hình chữ nhật
+- hình thoi
+= Một cặp cạnh đối song song và bằng nhau.
+?4 Cho tam giác ABC, M là trung điểm BC. Lấy D đối xứng với A qua M. ABDC là:
++ hình bình hành
+- hình thang cân
+- hình chữ nhật
+- hình thoi
+= Hai đường chéo cắt nhau tại trung điểm M.
+?4 Hình bình hành ABCD có AB = 2AD, M là trung điểm AB. Góc DMC bằng:
++ 90°
+- 60°
+- 45°
+- 120°
+= Tam giác ADM và BCM cân; góc DMC = 180° − (góc AMD + góc BMC) = 90°.
+
+## Bài 13. Hình chữ nhật
+?1 Hình chữ nhật là tứ giác có:
++ bốn góc vuông
+- bốn cạnh bằng nhau
+- hai cặp cạnh đối song song, không có góc vuông
+- hai đường chéo vuông góc
+= Định nghĩa.
+?1 Trong hình chữ nhật, hai đường chéo:
++ bằng nhau và cắt nhau tại trung điểm mỗi đường
+- vuông góc
+- không bằng nhau
+- song song
+= Tính chất.
+?1 Hình bình hành có một góc vuông là:
++ hình chữ nhật
+- hình thoi
+- hình thang
+- tứ giác thường
+= Dấu hiệu nhận biết.
+?1 Trong tam giác vuông, đường trung tuyến ứng với cạnh huyền bằng:
++ nửa cạnh huyền
+- cạnh huyền
+- một cạnh góc vuông
+- 2 lần cạnh huyền
+= Áp dụng hình chữ nhật.
+?2 Hình chữ nhật có hai cạnh 6 cm và 8 cm. Đường chéo dài:
++ 10 cm
+- 14 cm
+- 12 cm
+- 7 cm
+= √(36 + 64).
+?2 Tam giác vuông có cạnh huyền 12 cm. Trung tuyến ứng với cạnh huyền dài:
++ 6 cm
+- 12 cm
+- 24 cm
+- 4 cm
+= Bằng nửa cạnh huyền.
+?2 Hình bình hành có hai đường chéo bằng nhau là:
++ hình chữ nhật
+- hình thoi
+- hình thang cân
+- tứ giác bất kì
+= Dấu hiệu nhận biết.
+?3 Hình chữ nhật ABCD có AB = 5 cm, đường chéo AC = 13 cm. BC bằng:
++ 12 cm
+- 8 cm
+- 18 cm
+- √194 cm
+= √(169 − 25) = 12.
+?3 Tam giác có trung tuyến bằng nửa cạnh tương ứng là:
++ tam giác vuông
+- tam giác đều
+- tam giác tù
+- tam giác cân
+= Dấu hiệu tam giác vuông.
+?3 Hình chữ nhật có chu vi 28 cm, chiều dài hơn chiều rộng 4 cm. Diện tích:
++ 45 cm²
+- 48 cm²
+- 40 cm²
+- 56 cm²
+= Dài 9, rộng 5.
+?4 Hình chữ nhật ABCD có AB = 8, BC = 6. Khoảng cách từ A đến đường chéo BD là:
++ 4,8
+- 5
+- 6
+- 2,4
+= AH = AB · AD / BD = 48 / 10.
+?4 Tứ giác có ba góc vuông là:
++ hình chữ nhật
+- hình thoi
+- hình thang cân
+- hình bình hành thường
+= Góc thứ tư cũng vuông.
+
+## Bài 14. Hình thoi và hình vuông
+?1 Hình thoi là tứ giác có:
++ bốn cạnh bằng nhau
+- bốn góc vuông
+- hai đường chéo bằng nhau
+- một cặp cạnh song song
+= Định nghĩa.
+?1 Trong hình thoi, hai đường chéo:
++ vuông góc với nhau và là phân giác các góc
+- bằng nhau
+- song song
+- không cắt nhau
+= Tính chất.
+?1 Hình vuông là tứ giác có:
++ bốn góc vuông và bốn cạnh bằng nhau
+- bốn cạnh bằng nhau, không có góc vuông
+- bốn góc vuông, các cạnh không bằng nhau
+- hai cạnh bằng nhau
+= Định nghĩa.
+?1 Hình chữ nhật có hai cạnh kề bằng nhau là:
++ hình vuông
+- hình thoi không vuông
+- hình bình hành
+- hình thang
+= Dấu hiệu.
+?2 Hình thoi có hai đường chéo 6 cm và 8 cm. Cạnh hình thoi dài:
++ 5 cm
+- 7 cm
+- 10 cm
+- 14 cm
+= √(3² + 4²).
+?2 Hình bình hành có hai đường chéo vuông góc là:
++ hình thoi
+- hình chữ nhật
+- hình thang cân
+- tứ giác thường
+= Dấu hiệu nhận biết.
+?2 Hình vuông cạnh 4 cm có đường chéo dài:
++ 4√2 cm
+- 8 cm
+- 16 cm
+- 2√2 cm
+= a√2.
+?3 Hình thoi có cạnh 10 cm, một đường chéo 12 cm. Đường chéo còn lại:
++ 16 cm
+- 8 cm
+- 14 cm
+- 20 cm
+= Nửa đường chéo còn lại √(100 − 36) = 8.
+?3 Hình thoi có một góc 60° và cạnh 6 cm. Đường chéo ngắn dài:
++ 6 cm
+- 12 cm
+- 3 cm
+- 6√3 cm
+= Tạo thành tam giác đều.
+?3 Hình chữ nhật có hai đường chéo vuông góc là:
++ hình vuông
+- hình thoi thường
+- hình bình hành
+- hình thang
+= Dấu hiệu.
+?4 Hình vuông có đường chéo 10 cm. Diện tích là:
++ 50 cm²
+- 100 cm²
+- 25 cm²
+- 40 cm²
+= d²/2.
+?4 Nối trung điểm các cạnh của một hình chữ nhật được:
++ hình thoi
+- hình chữ nhật
+- hình vuông
+- hình thang
+= Các cạnh bằng nửa đường chéo (hai đường chéo bằng nhau).
+
+# Chương IV. Định lí Thalès
+
+## Bài 15. Định lí Thalès trong tam giác
+?1 Định lí Thalès: nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì:
++ định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ
+- tạo ra hai đoạn bằng nhau
+- vuông góc với cạnh kia
+- đi qua trọng tâm
+= Nội dung định lí.
+?1 Trong tam giác ABC, MN // BC (M ∈ AB, N ∈ AC). Ta có:
++ AM/AB = AN/AC
+- AM/AB = AC/AN
+- AM = AN
+- AM/MB = AC/AN
+= Định lí Thalès.
+?1 Tỉ số của hai đoạn thẳng AB = 3 cm và CD = 6 cm là:
++ 1/2
+- 2
+- 3
+- 1/3
+= AB/CD.
+?1 Định lí Thalès đảo dùng để chứng minh:
++ hai đường thẳng song song
+- hai đoạn thẳng bằng nhau
+- hai góc bằng nhau
+- tam giác vuông
+= Nếu đoạn thẳng tỉ lệ thì song song.
+?2 ΔABC có MN // BC, AM = 2, MB = 3, AN = 4. NC bằng:
++ 6
+- 4
+- 8
+- 5
+= AM/MB = AN/NC → NC = 3 · 4/2.
+?2 ΔABC có MN // BC, AM = 3, AB = 9, AC = 12. AN bằng:
++ 4
+- 3
+- 6
+- 9
+= AN = AC · AM/AB.
+?2 ΔABC có AM/AB = AN/AC = 2/5. Kết luận:
++ MN // BC
+- MN ⊥ BC
+- MN = BC
+- không kết luận được
+= Định lí Thalès đảo.
+?3 ΔABC có MN // BC, AM = 4, MB = 2, BC = 9. MN bằng:
++ 6
+- 4,5
+- 3
+- 12
+= MN/BC = AM/AB = 4/6.
+?3 Để đo chiều rộng khúc sông không qua sông, người ta có thể dùng:
++ định lí Thalès với các tam giác có cạnh song song
+- định lí Pythagore duy nhất
+- đo trực tiếp bằng thước
+- bản đồ thời tiết
+= Ứng dụng thực tế.
+?3 Bóng cây dài 6 m, cùng lúc cột cao 2 m có bóng 1,5 m. Cây cao:
++ 8 m
+- 4,5 m
+- 9 m
+- 12 m
+= Tỉ lệ: h/6 = 2/1,5.
+?4 ΔABC có AB = 12, AC = 15. Điểm M trên AB với AM = 8, N trên AC sao cho MN // BC. Độ dài NC là:
++ 5
+- 10
+- 7
+- 3
+= AN = 15 · 8/12 = 10 → NC = 5.
+?4 Hình thang ABCD (AB // CD) có hai đường chéo cắt nhau tại O, AB = 4, CD = 10, OA = 2. OC bằng:
++ 5
+- 4
+- 8
+- 2,5
+= OA/OC = AB/CD.
+
+## Bài 16. Đường trung bình của tam giác
+?1 Đường trung bình của tam giác là đoạn thẳng nối:
++ trung điểm hai cạnh của tam giác
+- một đỉnh với trung điểm cạnh đối
+- hai đỉnh
+- trọng tâm với một đỉnh
+= Định nghĩa.
+?1 Đường trung bình của tam giác:
++ song song với cạnh thứ ba và bằng nửa cạnh ấy
+- vuông góc với cạnh thứ ba
+- bằng cạnh thứ ba
+- bằng hai lần cạnh thứ ba
+= Tính chất.
+?1 Một tam giác có bao nhiêu đường trung bình?
++ 3
+- 1
+- 2
+- 6
+= Mỗi cặp cạnh một đường.
+?1 ΔABC có BC = 10 cm, MN là đường trung bình song song BC. MN bằng:
++ 5 cm
+- 10 cm
+- 20 cm
+- 2,5 cm
+= Bằng nửa BC.
+?2 ΔABC có M là trung điểm AB, đường thẳng qua M song song với BC cắt AC tại N. Khi đó:
++ N là trung điểm AC
+- N trùng C
+- N là trọng tâm
+- AN = 2NC
+= Đường thẳng qua trung điểm một cạnh, song song cạnh thứ hai.
+?2 Tam giác có ba cạnh 6, 8, 10 cm. Tam giác tạo bởi ba đường trung bình có chu vi:
++ 12 cm
+- 24 cm
+- 48 cm
+- 6 cm
+= Bằng nửa chu vi tam giác ban đầu.
+?2 MN là đường trung bình của ΔABC, MN = 4,5 cm. Cạnh tương ứng dài:
++ 9 cm
+- 4,5 cm
+- 2,25 cm
+- 13,5 cm
+= Gấp đôi.
+?3 Để đo khoảng cách hai điểm B, C bị ngăn bởi hồ nước, chọn A, lấy trung điểm M của AB, N của AC, đo MN = 25 m. BC bằng:
++ 50 m
+- 25 m
+- 12,5 m
+- 75 m
+= BC = 2MN.
+?3 Tứ giác ABCD có M, N, P, Q là trung điểm các cạnh. MNPQ là:
++ hình bình hành
+- hình chữ nhật luôn luôn
+- hình vuông luôn luôn
+- hình thang cân
+= Các cạnh song song và bằng nửa đường chéo.
+?3 Nếu tứ giác ABCD có hai đường chéo bằng nhau thì tứ giác tạo bởi trung điểm các cạnh là:
++ hình thoi
+- hình chữ nhật
+- hình vuông
+- hình thang
+= Các cạnh bằng nửa hai đường chéo bằng nhau.
+?4 Hình thang ABCD (AB // CD), AB = 6, CD = 14. Đường trung bình hình thang dài:
++ 10
+- 8
+- 20
+- 4
+= (6 + 14) : 2.
+?4 ΔABC, trung tuyến AM. Gọi I là trung điểm AM, BI cắt AC tại D. Tỉ số AD/AC là:
++ 1/3
+- 1/2
+- 2/3
+- 1/4
+= Kẻ ME // BI (E ∈ AC): E là trung điểm DC, D là trung điểm AE → AD = DE = EC.
+
+## Bài 17. Tính chất đường phân giác của tam giác
+?1 Trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn:
++ tỉ lệ với hai cạnh kề hai đoạn ấy
+- bằng nhau
+- tỉ lệ nghịch với hai cạnh kề
+- vuông góc
+= Tính chất đường phân giác.
+?1 ΔABC có AD là phân giác (D ∈ BC). Ta có:
++ DB/DC = AB/AC
+- DB/DC = AC/AB
+- DB = DC
+- DB/DC = BC/AB
+= Tính chất.
+?1 ΔABC cân tại A, AD là phân giác. Khi đó:
++ DB = DC
+- DB = 2DC
+- DB > DC
+- DB < DC
+= AB = AC.
+?1 Tính chất đường phân giác vẫn đúng với:
++ đường phân giác góc ngoài của tam giác
+- đường cao
+- đường trung trực
+- trung tuyến
+= Áp dụng cho phân giác ngoài.
+?2 ΔABC có AB = 6, AC = 9, AD là phân giác, BC = 10. BD bằng:
++ 4
+- 6
+- 5
+- 3
+= BD/DC = 6/9 = 2/3 → BD = 10 · 2/5.
+?2 ΔABC có AB = 4, AC = 6, AD phân giác, DB = 2. DC bằng:
++ 3
+- 2
+- 4
+- 6
+= DC = DB · AC/AB.
+?2 ΔABC có AB = 5, AC = 7, phân giác AD. Tỉ số DB/DC là:
++ 5/7
+- 7/5
+- 1
+- 12/7
+= Theo tính chất.
+?3 ΔABC vuông tại A, AB = 6, AC = 8, phân giác AD. BD bằng:
++ 30/7
+- 40/7
+- 5
+- 3
+= BC = 10; BD = 10 · 6/14.
+?3 ΔABC có AB = 8, BC = 10, CA = 12; phân giác góc B cắt AC tại E. AE bằng:
++ 16/3
+- 6
+- 20/3
+- 4
+= AE/EC = AB/BC = 4/5; AE = 12 · 4/9.
+?3 Tam giác ABC có phân giác AD chia BC thành BD = 3, DC = 5, AB = 6. AC bằng:
++ 10
+- 8
+- 3,6
+- 15
+= AC = AB · DC/BD.
+?4 ΔABC có AB = 3, AC = 5, BC = 6. Phân giác AD; D chia BC thành BD và DC. Hiệu DC − BD bằng:
++ 1,5
+- 2
+- 1
+- 0,75
+= BD = 6 · 3/8 = 2,25; DC = 3,75.
+?4 ΔABC có trung tuyến AM và phân giác AD với AB < AC. Vị trí của D so với M:
++ D nằm giữa B và M
+- D trùng M
+- D nằm giữa M và C
+- D nằm ngoài BC
+= BD/DC = AB/AC < 1 nên BD < DC, D gần B hơn M.
+
+# Chương V. Dữ liệu và biểu đồ
+
+## Bài 18. Thu thập và phân loại dữ liệu
+?1 Dữ liệu định lượng là dữ liệu:
++ biểu diễn bằng số
+- biểu diễn bằng chữ, không phải số
+- chỉ là màu sắc
+- không đo được
+= Ví dụ: cân nặng, chiều cao.
+?1 Dữ liệu định tính là dữ liệu:
++ không phải số (tên, loại, xếp hạng)
+- luôn là số thập phân
+- luôn là số nguyên
+- là kết quả phép đo
+= Ví dụ: màu sắc yêu thích.
+?1 Dữ liệu "số anh chị em ruột" là:
++ dữ liệu định lượng rời rạc
+- dữ liệu định lượng liên tục
+- dữ liệu định tính
+- không phải dữ liệu
+= Đếm được.
+?1 Phương pháp thu thập dữ liệu trực tiếp là:
++ quan sát, lập phiếu hỏi, phỏng vấn, làm thí nghiệm
+- đọc tài liệu có sẵn
+- tra cứu Internet
+- xem báo cáo của người khác
+= Thu thập trực tiếp.
+?2 Thu thập dữ liệu gián tiếp là:
++ lấy dữ liệu từ nguồn có sẵn như sách, báo, Internet
+- phỏng vấn trực tiếp
+- quan sát
+- đo đạc
+= Nguồn thứ cấp.
+?2 Dữ liệu "mức độ hài lòng: rất hài lòng, hài lòng, không hài lòng" là:
++ dữ liệu định tính có thể sắp thứ tự
+- dữ liệu định lượng
+- dữ liệu liên tục
+- không phải dữ liệu
+= Dữ liệu thứ bậc.
+?2 Dữ liệu "nhiệt độ cơ thể" là:
++ định lượng liên tục
+- định lượng rời rạc
+- định tính
+- định danh
+= Có thể nhận giá trị thập phân.
+?3 Để đánh giá thời gian tự học của học sinh khối 8, cách chọn mẫu hợp lí là:
++ chọn ngẫu nhiên học sinh ở tất cả các lớp khối 8
+- chỉ hỏi các bạn học giỏi
+- chỉ hỏi lớp 8A
+- hỏi học sinh khối 6
+= Mẫu đại diện.
+?3 Dữ liệu điểm (thang 10): 7; 8; 12; 9. Dữ liệu không hợp lí là:
++ 12
+- 7
+- 8
+- 9
+= Vượt quá thang điểm.
+?3 Khảo sát "Bạn có thích môn Toán không?" thu được dữ liệu:
++ định tính
+- định lượng liên tục
+- định lượng rời rạc
+- số thập phân
+= Câu trả lời có/không.
+?4 Một bạn kết luận "Học sinh cả nước thích bóng đá nhất" sau khi hỏi 10 bạn trong lớp. Nhận xét:
++ kết luận không hợp lí vì mẫu quá nhỏ và không đại diện
+- kết luận đúng
+- mẫu quá lớn
+- dữ liệu chính xác tuyệt đối
+= Tính đại diện của mẫu.
+?4 Bảng thống kê: Nam 18, Nữ 20, Tổng 40. Lỗi trong bảng là:
++ tổng không khớp (18 + 20 = 38)
+- thiếu cột
+- số nữ quá nhiều
+- không có lỗi
+= Kiểm tra tính hợp lí.
+
+## Bài 19. Biểu diễn dữ liệu bằng bảng, biểu đồ
+?1 Để biểu diễn tỉ lệ các thành phần trong tổng thể, nên dùng:
++ biểu đồ hình quạt tròn
+- biểu đồ đoạn thẳng
+- biểu đồ tranh duy nhất
+- bản đồ
+= Cơ cấu phần trăm.
+?1 Để biểu diễn sự thay đổi theo thời gian, nên dùng:
++ biểu đồ đoạn thẳng
+- biểu đồ quạt tròn
+- biểu đồ tranh
+- bảng chú giải
+= Xu hướng.
+?1 Để so sánh số liệu giữa các đối tượng, thường dùng:
++ biểu đồ cột
+- biểu đồ quạt tròn
+- biểu đồ đoạn thẳng về thời gian
+- bản đồ
+= So sánh.
+?1 Biểu đồ cột kép thường dùng để:
++ so sánh hai bộ dữ liệu cùng loại
+- biểu diễn một số liệu
+- biểu diễn tỉ lệ
+- vẽ hình học
+= Hai cột cạnh nhau.
+?2 Để biểu diễn số học sinh nam và nữ của các lớp, biểu đồ phù hợp là:
++ biểu đồ cột kép
+- biểu đồ quạt tròn
+- biểu đồ đoạn thẳng
+- biểu đồ tranh một biểu tượng
+= Hai bộ dữ liệu.
+?2 Số học sinh: Giỏi 12, Khá 20, Đạt 8. Tỉ lệ học sinh giỏi là:
++ 30%
+- 12%
+- 40%
+- 20%
+= 12/40.
+?2 Với dữ liệu trên, góc ở tâm của phần "Khá" trong biểu đồ quạt là:
++ 180°
+- 20°
+- 90°
+- 144°
+= 20/40 · 360.
+?3 Lượng mưa (mm) T5: 150, T6: 220, T7: 310, T8: 280. Tháng có lượng mưa tăng nhiều nhất so với tháng trước là:
++ tháng 7
+- tháng 6
+- tháng 8
+- tháng 5
+= +90 so với +70, −30.
+?3 Bảng tần số điểm: 6 (5 bạn), 7 (10 bạn), 8 (15 bạn), 9 (10 bạn). Điểm trung bình là:
++ 7,75
+- 7,5
+- 8
+- 7,25
+= (30 + 70 + 120 + 90)/40 = 310/40.
+?3 Chuyển bảng thống kê sang biểu đồ cột, cần chú ý:
++ chọn tỉ lệ trục đứng phù hợp, ghi tên trục và đơn vị
+- không cần ghi đơn vị
+- vẽ cột có độ rộng khác nhau tùy ý
+- không cần tiêu đề
+= Vẽ biểu đồ đúng.
+?4 Biểu đồ quạt: chi tiêu Ăn 35%, Học 25%, Đi lại 15%, Khác x%. Biết tổng chi 20 triệu, số tiền mục Khác là:
++ 5 triệu
+- 25 triệu
+- 7 triệu
+- 3 triệu
+= x = 25%; 20 · 25%.
+?4 Lựa chọn biểu đồ nào để vừa so sánh lượng mưa vừa thể hiện xu hướng nhiệt độ theo tháng?
++ biểu đồ kết hợp cột và đường
+- chỉ biểu đồ quạt
+- biểu đồ tranh
+- bảng chú giải
+= Biểu đồ kết hợp.
+
+## Bài 20. Phân tích số liệu thống kê dựa vào biểu đồ
+?1 Phân tích biểu đồ giúp:
++ phát hiện vấn đề, quy luật từ số liệu
+- trang trí báo cáo
+- tính diện tích
+- vẽ hình
+= Mục đích phân tích.
+?1 Biểu đồ đoạn thẳng đi lên liên tục cho thấy số liệu:
++ tăng liên tục
+- giảm liên tục
+- không đổi
+- dao động
+= Xu hướng tăng.
+?1 Khi phân tích biểu đồ, cần kiểm tra:
++ tiêu đề, đơn vị, tỉ lệ trục
+- chỉ màu sắc
+- chỉ hình dạng
+- tên người vẽ
+= Đọc đúng biểu đồ.
+?1 Biểu đồ có trục đứng không bắt đầu từ 0 có thể:
++ làm người xem hiểu sai mức độ chênh lệch
+- luôn chính xác hơn
+- không ảnh hưởng gì
+- bắt buộc phải có
+= Cảnh giác biểu đồ gây hiểu lầm.
+?2 Dân số một xã: 2020: 4 000; 2022: 4 400. Tốc độ tăng dân số giai đoạn này là:
++ 10%
+- 4%
+- 400%
+- 1%
+= 400/4 000.
+?2 Số sách thư viện: 2021: 2 000, 2022: 2 500, 2023: 3 000. Nhận xét đúng:
++ mỗi năm tăng 500 cuốn
+- giảm dần
+- không đổi
+- tăng gấp đôi mỗi năm
+= Tăng đều.
+?2 Biểu đồ quạt cho thấy Ăn uống chiếm 40% chi tiêu. Nếu tổng chi 15 triệu, chi ăn uống là:
++ 6 triệu
+- 4 triệu
+- 40 triệu
+- 9 triệu
+= 15 · 40%.
+?3 Doanh thu quý 1: 200, quý 2: 250 (triệu). Tỉ lệ tăng là:
++ 25%
+- 50%
+- 20%
+- 125%
+= 50/200.
+?3 Một biểu đồ cho thấy học sinh dùng điện thoại trung bình 4 giờ/ngày, tăng dần qua các năm. Kết luận phù hợp:
++ cần có biện pháp hướng dẫn sử dụng điện thoại hợp lí
+- học sinh nên dùng điện thoại nhiều hơn
+- không có vấn đề gì
+- nên cấm hoàn toàn mọi thiết bị
+= Rút ra vấn đề từ số liệu.
+?3 Số liệu năm 2023: Nam 52%, Nữ 48%; tổng 1 000 người. Số nam hơn nữ:
++ 40 người
+- 4 người
+- 520 người
+- 100 người
+= 520 − 480.
+?4 Giá xăng tháng 1 là 24 000 đ/l, tháng 2 tăng 5%, tháng 3 giảm 5% so với tháng 2. Giá tháng 3 là:
++ 23 940 đồng
+- 24 000 đồng
+- 25 200 đồng
+- 22 800 đồng
+= 24 000 · 1,05 · 0,95 = 23 940.
+?4 Biểu đồ điểm trung bình môn Toán lớp 8A tăng từ 6,5 lên 7,8. Mức tăng là:
++ 1,3 điểm (khoảng 20%)
+- 2 điểm
+- 0,3 điểm
+- 13%
+= 7,8 − 6,5 = 1,3; 1,3/6,5 = 20%.

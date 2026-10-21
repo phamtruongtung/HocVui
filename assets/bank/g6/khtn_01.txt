@@ -1,0 +1,555 @@
+// Khoa học tự nhiên 6 – Kết nối tri thức với cuộc sống
+#! HK1
+# Mở đầu
+
+## Bài 1. Giới thiệu về Khoa học tự nhiên
+?1 Khoa học tự nhiên nghiên cứu về:
++ các sự vật, hiện tượng, quy luật tự nhiên
+- lịch sử các triều đại
+- văn học dân gian
+- ngữ pháp tiếng Việt
+= KHTN tìm hiểu thế giới tự nhiên.
+?1 Lĩnh vực nào thuộc khoa học tự nhiên?
++ Vật lí
+- Lịch sử
+- Địa lí kinh tế
+- Văn học
+= Vật lí, Hóa học, Sinh học, Thiên văn học, Khoa học Trái Đất.
+?1 Vật nào là vật sống?
++ con mèo
+- hòn đá
+- chiếc bàn
+- quyển sách
+= Vật sống có trao đổi chất, sinh trưởng, sinh sản.
+?2 Hoạt động nào là hoạt động nghiên cứu khoa học?
++ Tìm hiểu ảnh hưởng của ánh sáng đến sự nảy mầm của hạt đậu
+- Đi chợ mua rau
+- Xem phim hoạt hình
+- Chơi đá bóng
+= Có đặt câu hỏi, làm thí nghiệm, rút ra kết luận.
+?2 Lĩnh vực Hóa học chủ yếu nghiên cứu:
++ chất và sự biến đổi của chất
+- sự sống của sinh vật
+- chuyển động của vật
+- các hành tinh
+= Hóa học nghiên cứu chất.
+?3 Việc sử dụng điện thoại thông minh là ứng dụng của khoa học tự nhiên trong lĩnh vực:
++ thông tin liên lạc
+- nông nghiệp
+- y tế
+- may mặc
+= Công nghệ điện tử, viễn thông.
+?3 Hiện tượng "nước đá tan thành nước lỏng" thuộc lĩnh vực nghiên cứu chủ yếu của:
++ Vật lí
+- Sinh học
+- Thiên văn học
+- Lịch sử
+= Sự chuyển thể là hiện tượng vật lí.
+?4 Vì sao vật không sống như cái bàn không lớn lên được?
++ Vì nó không trao đổi chất và không có khả năng sinh trưởng
+- Vì nó không có màu
+- Vì nó quá nặng
+- Vì nó được làm bằng gỗ nên không thể lớn
+= Đặc điểm của vật không sống.
+
+## Bài 2. An toàn trong phòng thực hành
+?1 Khi vào phòng thực hành, học sinh cần:
++ tuân theo nội quy và hướng dẫn của giáo viên
+- tự ý làm thí nghiệm
+- nếm thử hóa chất
+- chạy nhảy
+= Đảm bảo an toàn.
+?1 Biển báo hình tam giác viền đỏ, nền vàng thường là biển:
++ cảnh báo nguy hiểm
+- bắt buộc thực hiện
+- chỉ dẫn
+- cấm
+= Tam giác nền vàng viền đỏ/đen: cảnh báo.
+?1 Biển báo hình tròn, viền đỏ, có gạch chéo là biển:
++ cấm
+- cảnh báo
+- chỉ dẫn thoát hiểm
+- bắt buộc
+= Hình tròn viền đỏ: cấm.
+?2 Khi bị hóa chất bắn vào mắt, cần làm ngay:
++ rửa mắt dưới vòi nước sạch và báo giáo viên
+- dụi mắt thật mạnh
+- nhắm mắt chờ hết
+- tiếp tục thí nghiệm
+= Xử lí sự cố an toàn.
+?2 Không được ngửi trực tiếp hóa chất vì:
++ có thể gây hại cho đường hô hấp
+- hóa chất sẽ hỏng
+- tốn hóa chất
+- giáo viên không thích
+= Một số hóa chất độc.
+?3 Khi đun nóng ống nghiệm, miệng ống nghiệm phải:
++ hướng ra xa mình và người xung quanh
+- hướng vào mặt mình
+- đậy kín
+- hướng vào bạn bên cạnh
+= Tránh chất lỏng sôi bắn vào người.
+?3 Sau khi làm thí nghiệm xong, cần:
++ dọn dẹp, rửa dụng cụ và rửa tay sạch
+- để nguyên dụng cụ
+- mang hóa chất về nhà
+- đổ hóa chất vào bồn rửa bất kì
+= Giữ vệ sinh và an toàn.
+?4 Biển báo có hình ngọn lửa trên nền vàng cảnh báo điều gì?
++ chất dễ cháy
+- chất độc
+- nơi có điện cao thế
+- lối thoát hiểm
+= Biểu tượng ngọn lửa: dễ cháy.
+
+## Bài 3. Sử dụng kính lúp
+?1 Kính lúp dùng để:
++ quan sát rõ vật nhỏ
+- quan sát vật ở rất xa
+- đo chiều dài
+- đo nhiệt độ
+= Kính lúp phóng to ảnh vật nhỏ.
+?1 Bộ phận chính của kính lúp là:
++ tấm kính lồi
+- tấm kính lõm
+- gương phẳng
+- bóng đèn
+= Kính lúp là thấu kính lồi.
+?1 Kính lúp thường có độ phóng đại khoảng:
++ 3 lần đến 20 lần
+- 1 000 lần
+- 0,5 lần
+- 10 000 lần
+= Kính lúp phóng đại không lớn.
+?2 Vật nào cần dùng kính lúp để quan sát rõ?
++ gân lá cây
+- con voi
+- ngôi nhà
+- tế bào vi khuẩn
+= Vi khuẩn cần kính hiển vi; gân lá dùng kính lúp.
+?2 Cách đặt kính lúp đúng là:
++ để kính gần vật, điều chỉnh khoảng cách đến khi thấy ảnh rõ
+- đặt kính thật xa vật
+- nhìn vật qua mặt sau của tay cầm
+- áp sát kính vào mắt bạn khác
+= Thay đổi khoảng cách để thấy rõ.
+?3 Để bảo quản kính lúp, ta nên:
++ lau bằng khăn mềm, tránh làm xước mặt kính
+- lau bằng giấy nhám
+- ngâm vào nước muối
+- để dưới nắng gắt
+= Giữ mặt kính sạch, không xước.
+?3 Người thợ sửa đồng hồ thường dùng kính lúp vì:
++ các chi tiết đồng hồ rất nhỏ
+- đồng hồ rất to
+- để đo giờ
+- để chiếu sáng
+= Quan sát chi tiết nhỏ.
+?4 Nếu dùng kính lúp hội tụ ánh nắng lên tờ giấy một lúc lâu, có thể xảy ra:
++ tờ giấy bị cháy
+- tờ giấy bị ướt
+- tờ giấy lạnh đi
+- không có gì xảy ra
+= Kính lồi hội tụ ánh sáng, tạo nhiệt.
+
+## Bài 4. Sử dụng kính hiển vi quang học
+?1 Kính hiển vi quang học dùng để quan sát:
++ những vật rất nhỏ như tế bào
+- các ngôi sao
+- con kiến từ xa
+- ngọn núi
+= Phóng đại hàng trăm đến hàng nghìn lần.
+?1 Bộ phận để đặt tiêu bản trên kính hiển vi là:
++ bàn kính
+- thị kính
+- ốc to
+- chân kính
+= Tiêu bản đặt trên bàn kính.
+?1 Bộ phận mắt nhìn vào khi quan sát là:
++ thị kính
+- vật kính
+- bàn kính
+- đèn chiếu sáng
+= Thị kính gần mắt.
+?2 Độ phóng đại của kính hiển vi bằng:
++ tích độ phóng đại của thị kính và vật kính
+- tổng hai độ phóng đại
+- độ phóng đại của thị kính
+- độ phóng đại của vật kính
+= Ví dụ thị kính 10×, vật kính 40× → 400×.
+?2 Thị kính 10×, vật kính 40×. Độ phóng đại của kính là:
++ 400 lần
+- 50 lần
+- 30 lần
+- 4 lần
+= 10 × 40 = 400.
+?3 Khi chuyển sang vật kính có độ phóng đại lớn hơn, nên điều chỉnh bằng:
++ ốc nhỏ (ốc vi cấp)
+- ốc to
+- xoay chân kính
+- tháo thị kính
+= Ốc nhỏ điều chỉnh tinh để ảnh rõ.
+?3 Khi cầm kính hiển vi, cần:
++ một tay cầm thân kính, một tay đỡ chân kính
+- cầm vào thị kính
+- cầm một tay vào bàn kính
+- xách bằng dây điện
+= Đảm bảo kính không rơi.
+?4 Muốn quan sát tế bào ở độ phóng đại 1 000 lần với thị kính 10×, cần dùng vật kính:
++ 100×
+- 10×
+- 40×
+- 1 000×
+= 1 000 : 10 = 100.
+
+## Bài 5. Đo chiều dài
+?1 Đơn vị đo chiều dài trong hệ đơn vị đo lường chính thức của Việt Nam là:
++ mét (m)
+- ki-lô-gam (kg)
+- giây (s)
+- lít (l)
+= Đơn vị chuẩn của chiều dài là mét.
+?1 Giới hạn đo (GHĐ) của thước là:
++ độ dài lớn nhất ghi trên thước
+- độ dài giữa hai vạch chia liên tiếp
+- chiều rộng của thước
+- số vạch trên thước
+= GHĐ: số lớn nhất trên thước.
+?1 Độ chia nhỏ nhất (ĐCNN) của thước là:
++ độ dài giữa hai vạch chia liên tiếp
+- độ dài lớn nhất ghi trên thước
+- chiều dài thước
+- vạch số 0
+= ĐCNN quyết định độ chính xác.
+?2 Để đo chiều dài lớp học, nên dùng:
++ thước cuộn
+- thước kẻ 20 cm
+- thước kẹp
+- thước đo góc
+= Thước cuộn có GHĐ lớn.
+?2 1,5 m bằng:
++ 150 cm
+- 15 cm
+- 1 500 cm
+- 0,15 cm
+= 1 m = 100 cm.
+?3 Khi đọc kết quả đo, đặt mắt:
++ vuông góc với cạnh thước ở đầu kia của vật
+- nghiêng sang trái
+- nhìn từ xa
+- nhắm một mắt và nghiêng thước
+= Tránh sai số do đặt mắt sai.
+?3 Một thước có ĐCNN 1 mm. Kết quả nào được ghi đúng?
++ 12,3 cm
+- 12,35 cm
+- 12 cm 3,5 mm
+- 12,356 cm
+= Kết quả chính xác đến 1 mm = 0,1 cm.
+?4 Đo chiều dài chiếc bút 3 lần được 14,1 cm; 14,3 cm; 14,2 cm. Giá trị trung bình là:
++ 14,2 cm
+- 14,3 cm
+- 14,1 cm
+- 42,6 cm
+= (14,1 + 14,3 + 14,2) : 3 = 14,2.
+
+## Bài 6. Đo khối lượng
+?1 Đơn vị đo khối lượng chính thức là:
++ ki-lô-gam (kg)
+- mét
+- giây
+- niutơn
+= kg là đơn vị chuẩn.
+?1 Dụng cụ đo khối lượng là:
++ cân
+- thước
+- đồng hồ
+- nhiệt kế
+= Cân đo khối lượng.
+?1 1 tấn bằng:
++ 1 000 kg
+- 100 kg
+- 10 kg
+- 10 000 kg
+= 1 tấn = 1 000 kg.
+?2 Trên vỏ hộp sữa ghi "Khối lượng tịnh 400 g". Con số đó cho biết:
++ khối lượng sữa trong hộp
+- khối lượng cả vỏ hộp và sữa
+- thể tích sữa
+- trọng lượng vỏ hộp
+= Khối lượng tịnh không tính bao bì.
+?2 Để cân một bạn học sinh, nên dùng:
++ cân sức khỏe
+- cân tiểu li
+- cân điện tử nhà bếp loại nhỏ
+- cân đòn treo nhỏ
+= Cân sức khỏe phù hợp khối lượng người.
+?3 2,5 kg bằng:
++ 2 500 g
+- 250 g
+- 25 g
+- 25 000 g
+= 1 kg = 1 000 g.
+?3 Trước khi cân bằng cân đồng hồ, cần:
++ điều chỉnh kim chỉ đúng vạch số 0
+- lắc mạnh cân
+- đặt vật lên cân trước
+- đọc kết quả ngay
+= Hiệu chỉnh vạch 0 để kết quả chính xác.
+?4 Một túi gạo 5 kg và 3 túi đường, mỗi túi 500 g. Tổng khối lượng là:
++ 6,5 kg
+- 8 kg
+- 5,15 kg
+- 6 500 kg
+= 5 kg + 1,5 kg = 6,5 kg.
+
+## Bài 7. Đo thời gian
+?1 Đơn vị đo thời gian chính thức là:
++ giây (s)
+- phút
+- giờ
+- ngày
+= Giây là đơn vị cơ bản.
+?1 Dụng cụ đo thời gian là:
++ đồng hồ
+- cân
+- thước
+- nhiệt kế
+= Đồng hồ đo thời gian.
+?1 1 giờ bằng:
++ 3 600 giây
+- 60 giây
+- 360 giây
+- 6 000 giây
+= 60 × 60 = 3 600.
+?2 Để đo thời gian chạy 100 m, nên dùng:
++ đồng hồ bấm giây
+- đồng hồ treo tường
+- lịch
+- đồng hồ cát 1 giờ
+= Cần độ chính xác đến phần giây.
+?2 2,5 phút bằng:
++ 150 giây
+- 25 giây
+- 250 giây
+- 120 giây
+= 2,5 × 60 = 150.
+?3 Một bạn chạy hết 15,3 s, bạn khác hết 14,8 s. Bạn nào chạy nhanh hơn?
++ Bạn chạy hết 14,8 s
+- Bạn chạy hết 15,3 s
+- Bằng nhau
+- Không xác định
+= Cùng quãng đường, thời gian ít hơn thì nhanh hơn.
+?3 Thời gian từ 7 giờ 15 phút đến 9 giờ 45 phút là:
++ 2 giờ 30 phút
+- 2 giờ 15 phút
+- 1 giờ 30 phút
+- 3 giờ
+= 9 h 45 − 7 h 15 = 2 h 30.
+?4 Con lắc dao động 30 lần mất 45 giây. Thời gian một lần dao động là:
++ 1,5 giây
+- 0,67 giây
+- 15 giây
+- 75 giây
+= 45 : 30 = 1,5.
+
+## Bài 8. Đo nhiệt độ
+?1 Dụng cụ đo nhiệt độ là:
++ nhiệt kế
+- đồng hồ
+- cân
+- thước
+= Nhiệt kế đo nhiệt độ.
+?1 Đơn vị đo nhiệt độ thường dùng ở Việt Nam là:
++ độ C (°C)
+- độ F
+- mét
+- kg
+= Thang nhiệt độ Celsius.
+?1 Nhiệt độ của nước đá đang tan (ở áp suất thường) là:
++ 0 °C
+- 100 °C
+- 37 °C
+- −10 °C
+= Mốc 0 °C.
+?2 Nhiệt độ cơ thể người bình thường khoảng:
++ 37 °C
+- 30 °C
+- 42 °C
+- 100 °C
+= Thân nhiệt bình thường khoảng 37 °C.
+?2 Nhiệt kế y tế thủy ngân hoạt động dựa trên:
++ sự nở vì nhiệt của chất lỏng
+- sự bay hơi
+- lực hấp dẫn
+- ánh sáng
+= Thủy ngân nở ra khi nóng.
+?3 Cảm giác tay không thể dùng để đo nhiệt độ chính xác vì:
++ cảm giác nóng lạnh phụ thuộc trạng thái của tay
+- tay quá nhỏ
+- tay không biết đọc số
+- tay luôn lạnh
+= Cần dùng nhiệt kế.
+?3 Nước sôi ở áp suất thường có nhiệt độ:
++ 100 °C
+- 0 °C
+- 50 °C
+- 37 °C
+= Mốc 100 °C.
+?4 Nhiệt độ buổi sáng 18 °C, buổi trưa tăng 9 °C, tối giảm 6 °C so với trưa. Nhiệt độ buổi tối là:
++ 21 °C
+- 27 °C
+- 15 °C
+- 33 °C
+= 18 + 9 − 6 = 21.
+
+# Chương I. Các thể của chất
+
+## Bài 9. Sự đa dạng của chất
+?1 Vật thể tự nhiên là:
++ cây xanh
+- cái bàn
+- quyển vở
+- xe đạp
+= Có sẵn trong tự nhiên.
+?1 Vật thể nhân tạo là:
++ cái cốc
+- con sông
+- hòn núi
+- con cá
+= Do con người tạo ra.
+?1 Chất có trong cây mía là:
++ đường (saccharose)
+- muối ăn
+- sắt
+- nhựa
+= Mía chứa nhiều đường.
+?2 Tính chất nào là tính chất vật lí?
++ màu sắc, mùi vị, nhiệt độ sôi
+- khả năng cháy
+- bị phân hủy khi đun nóng
+- tác dụng với oxygen
+= Tính chất vật lí không tạo chất mới.
+?2 Hiện tượng nào là sự biến đổi hóa học?
++ đốt cháy tờ giấy
+- nước đá tan
+- cắt giấy
+- hòa tan đường vào nước
+= Có chất mới tạo thành.
+?3 Sắt để lâu ngoài không khí ẩm bị gỉ là:
++ biến đổi hóa học
+- biến đổi vật lí
+- sự chuyển thể
+- sự hòa tan
+= Gỉ sắt là chất mới.
+?3 Muối ăn tan trong nước là:
++ tính chất vật lí của muối
+- tính chất hóa học
+- sự cháy
+- sự phân hủy
+= Không tạo chất mới.
+?4 Nấu cơm: gạo chín thành cơm, nước bay hơi. Nhận xét đúng:
++ có cả biến đổi vật lí (nước bay hơi) và biến đổi hóa học (gạo chín)
+- chỉ có biến đổi vật lí
+- chỉ có biến đổi hóa học
+- không có biến đổi nào
+= Phân biệt hai loại biến đổi.
+
+## Bài 10. Các thể của chất và sự chuyển thể
+?1 Ba thể cơ bản của chất là:
++ rắn, lỏng, khí
+- nóng, lạnh, ấm
+- to, nhỏ, vừa
+- trong, đục, màu
+= Ba thể của chất.
+?1 Chất ở thể rắn có:
++ hình dạng và thể tích xác định
+- hình dạng thay đổi theo vật chứa
+- dễ bị nén
+- không có thể tích xác định
+= Đặc điểm thể rắn.
+?1 Sự chuyển từ thể lỏng sang thể khí gọi là:
++ sự bay hơi
+- sự đông đặc
+- sự nóng chảy
+- sự ngưng tụ
+= Lỏng → khí: bay hơi (sôi).
+?2 Sự ngưng tụ là sự chuyển từ:
++ thể khí sang thể lỏng
+- thể lỏng sang thể rắn
+- thể rắn sang thể lỏng
+- thể lỏng sang thể khí
+= Ví dụ: hơi nước đọng trên nắp nồi.
+?2 Hiện tượng nào là sự đông đặc?
++ nước trong ngăn đá thành đá
+- đá tan thành nước
+- nước sôi
+- sương tan
+= Lỏng → rắn.
+?3 Vì sao chất khí dễ bị nén?
++ vì giữa các hạt có khoảng cách lớn
+- vì hạt khí rất nặng
+- vì khí có hình dạng cố định
+- vì khí không có hạt
+= Khoảng cách giữa các hạt lớn.
+?3 Hiện tượng sương đọng trên lá vào sáng sớm là:
++ sự ngưng tụ
+- sự bay hơi
+- sự nóng chảy
+- sự đông đặc
+= Hơi nước gặp lạnh ngưng tụ.
+?4 Phơi quần áo nhanh khô hơn khi:
++ trời nắng, có gió, quần áo được phơi trải rộng
+- trời lạnh, không gió
+- vò quần áo lại
+- phơi trong phòng kín
+= Nhiệt độ, gió, diện tích mặt thoáng làm tăng tốc độ bay hơi.
+
+## Bài 11. Oxygen. Không khí
+?1 Oxygen chiếm khoảng bao nhiêu phần thể tích không khí?
++ 21%
+- 78%
+- 1%
+- 50%
+= Nitrogen 78%, oxygen 21%.
+?1 Oxygen cần cho:
++ sự hô hấp và sự cháy
+- sự đông đặc
+- sự nóng chảy
+- sự quang hợp tạo ra nước
+= Oxygen duy trì sự sống và sự cháy.
+?1 Khí chiếm nhiều nhất trong không khí là:
++ nitrogen
+- oxygen
+- carbon dioxide
+- hơi nước
+= Khoảng 78%.
+?2 Ở điều kiện thường, oxygen là chất khí:
++ không màu, không mùi, ít tan trong nước
+- màu vàng, mùi hắc
+- màu xanh
+- tan rất nhiều trong nước
+= Tính chất vật lí của oxygen.
+?2 Nguyên nhân gây ô nhiễm không khí là:
++ khói từ nhà máy, phương tiện giao thông
+- trồng cây xanh
+- dùng năng lượng mặt trời
+- đi xe đạp
+= Khí thải gây ô nhiễm.
+?3 Úp cốc thủy tinh lên ngọn nến đang cháy, một lúc sau nến tắt vì:
++ hết oxygen để duy trì sự cháy
+- hết nến
+- cốc quá nóng
+- có gió
+= Sự cháy cần oxygen.
+?3 Biện pháp bảo vệ môi trường không khí là:
++ trồng nhiều cây xanh, hạn chế khí thải
+- đốt rác ngoài trời
+- chặt phá rừng
+- dùng nhiều xe máy
+= Cây xanh hấp thụ khí CO₂, tạo oxygen.
+?4 Một phòng có thể tích không khí 100 m³. Thể tích oxygen trong phòng khoảng:
++ 21 m³
+- 78 m³
+- 100 m³
+- 1 m³
+= 21% × 100 = 21 m³.

@@ -1,0 +1,1309 @@
+// KHTN 8 – Tập 2
+#! HK2
+# Chương V. Điện
+
+## Bài 20. Hiện tượng nhiễm điện do cọ xát
+?1 Cọ xát thước nhựa vào mảnh len, thước có thể:
++ hút các mẩu giấy vụn
+- phát sáng
+- nóng chảy
+- đẩy nam châm
+= Thước bị nhiễm điện.
+?1 Có mấy loại điện tích?
++ 2 (dương và âm)
+- 1
+- 3
+- 4
+= Điện tích dương và âm.
+?1 Hai vật nhiễm điện cùng loại đặt gần nhau thì:
++ đẩy nhau
+- hút nhau
+- không tương tác
+- dính chặt
+= Cùng dấu đẩy nhau.
+?2 Vật nhiễm điện âm là do:
++ nhận thêm electron
+- mất bớt electron
+- nhận thêm proton
+- mất proton
+= Electron mang điện âm.
+?2 Hai vật nhiễm điện trái dấu thì:
++ hút nhau
+- đẩy nhau
+- không tương tác
+- triệt tiêu ngay lập tức
+= Trái dấu hút nhau.
+?3 Chải tóc khô bằng lược nhựa, tóc bị lược hút vì:
++ lược và tóc nhiễm điện trái dấu do cọ xát
+- tóc ướt
+- lược có nam châm
+- tóc quá dài
+= Hiện tượng nhiễm điện.
+?3 Sét là hiện tượng:
++ phóng điện giữa các đám mây hoặc giữa mây và mặt đất
+- ánh sáng Mặt Trời
+- động đất
+- mưa đá
+= Phóng điện trong khí quyển.
+?4 Vì sao xe chở xăng thường có sợi xích kéo lê trên mặt đường?
++ để dẫn điện tích sinh ra do cọ xát xuống đất, tránh cháy nổ
+- để trang trí
+- để giảm tốc độ
+- để báo hiệu
+= An toàn khi vận chuyển nhiên liệu.
+
+## Bài 21. Dòng điện, nguồn điện
+?1 Dòng điện là:
++ dòng chuyển dời có hướng của các hạt mang điện
+- dòng nước
+- dòng khí
+- ánh sáng
+= Định nghĩa.
+?1 Nguồn điện có khả năng:
++ cung cấp dòng điện cho các thiết bị điện hoạt động
+- tiêu thụ điện
+- cách điện
+- phát ra âm thanh
+= Ví dụ pin, acquy.
+?1 Mỗi nguồn điện có:
++ hai cực: cực dương và cực âm
+- một cực
+- ba cực
+- không có cực
+= Kí hiệu + và −.
+?2 Chất dẫn điện là chất:
++ cho dòng điện đi qua
+- không cho dòng điện đi qua
+- chỉ dẫn nhiệt
+- phát sáng
+= Ví dụ kim loại.
+?2 Vật liệu cách điện là:
++ nhựa, cao su, sứ
+- đồng, nhôm
+- sắt
+- nước muối
+= Không cho dòng điện qua.
+?3 Dòng điện trong kim loại là:
++ dòng các electron tự do dịch chuyển có hướng
+- dòng proton
+- dòng ion dương
+- dòng neutron
+= Bản chất dòng điện trong kim loại.
+?3 Pin mặt trời chuyển hóa năng lượng ánh sáng thành:
++ điện năng
+- hóa năng
+- cơ năng
+- nhiệt năng duy nhất
+= Nguồn điện.
+?4 Vì sao không nên dùng tay ướt chạm vào ổ điện?
++ nước làm tăng khả năng dẫn điện, dễ bị điện giật
+- nước làm hỏng ổ điện
+- tay ướt cách điện
+- không nguy hiểm
+= An toàn điện.
+
+## Bài 22. Mạch điện đơn giản
+?1 Mạch điện đơn giản gồm:
++ nguồn điện, dây dẫn, công tắc và thiết bị tiêu thụ điện
+- chỉ bóng đèn
+- chỉ pin
+- chỉ dây dẫn
+= Các bộ phận.
+?1 Kí hiệu "—|  |—" (một vạch dài, một vạch ngắn) trong sơ đồ mạch điện là:
++ nguồn điện (pin)
+- bóng đèn
+- công tắc
+- điện trở
+= Vạch dài là cực dương.
+?1 Muốn bóng đèn sáng, mạch điện phải:
++ kín
+- hở
+- không có nguồn
+- bị đứt
+= Dòng điện chạy trong mạch kín.
+?2 Công tắc trong mạch điện dùng để:
++ đóng, ngắt dòng điện
+- tạo ra điện
+- tiêu thụ điện
+- đo điện
+= Điều khiển mạch.
+?2 Cầu chì có tác dụng:
++ tự động ngắt mạch khi dòng điện quá lớn
+- tăng dòng điện
+- tạo ra ánh sáng
+- đo hiệu điện thế
+= Bảo vệ mạch điện.
+?3 Chiều dòng điện quy ước trong mạch là:
++ từ cực dương qua dây dẫn và thiết bị đến cực âm
+- từ cực âm đến cực dương
+- không có chiều
+- đổi chiều liên tục
+= Quy ước.
+?3 Trong mạch có một bóng đèn bị đứt dây tóc, mắc nối tiếp với đèn khác thì:
++ cả hai đèn đều tắt
+- đèn còn lại sáng hơn
+- đèn còn lại vẫn sáng bình thường
+- mạch tạo ra nhiệt lớn
+= Mạch nối tiếp bị hở.
+?4 Aptomat (CB) trong gia đình có tác dụng tương tự:
++ cầu chì, tự ngắt khi quá tải hoặc chập điện
+- bóng đèn
+- quạt điện
+- ổ cắm
+= Thiết bị bảo vệ.
+
+## Bài 23. Tác dụng của dòng điện
+?1 Bóng đèn sợi đốt sáng là do tác dụng:
++ nhiệt và phát sáng của dòng điện
+- từ
+- hóa học
+- sinh lí
+= Dây tóc nóng sáng.
+?1 Nam châm điện hoạt động dựa vào tác dụng:
++ từ của dòng điện
+- nhiệt
+- hóa học
+- phát sáng
+= Cuộn dây có dòng điện.
+?1 Mạ điện là ứng dụng tác dụng:
++ hóa học của dòng điện
+- từ
+- nhiệt
+- sinh lí
+= Phủ kim loại lên vật.
+?2 Bàn là điện hoạt động dựa trên tác dụng:
++ nhiệt của dòng điện
+- từ
+- hóa học
+- phát sáng
+= Biến điện năng thành nhiệt.
+?2 Tác dụng sinh lí của dòng điện có thể:
++ gây điện giật, nhưng cũng dùng trong y học (châm cứu điện)
+- không bao giờ nguy hiểm
+- làm sáng đèn
+- làm nóng nước
+= Ảnh hưởng tới cơ thể.
+?3 Chuông điện hoạt động dựa vào tác dụng:
++ từ của dòng điện
+- nhiệt
+- hóa học
+- sinh lí
+= Nam châm điện hút búa gõ chuông.
+?3 Đèn LED phát sáng dựa vào:
++ tác dụng phát sáng của dòng điện
+- tác dụng từ
+- tác dụng hóa học
+- tác dụng nhiệt chủ yếu
+= Ít tỏa nhiệt.
+?4 Vì sao dây dẫn điện trong nhà quá nhỏ so với công suất thiết bị dễ gây cháy?
++ dòng điện lớn làm dây nóng quá mức (tác dụng nhiệt)
+- vì dây quá dài
+- vì dây có màu đỏ
+- vì dây cách điện tốt
+= An toàn điện.
+
+## Bài 24. Cường độ dòng điện và hiệu điện thế
+?1 Dụng cụ đo cường độ dòng điện là:
++ ampe kế
+- vôn kế
+- nhiệt kế
+- lực kế
+= Đơn vị ampe (A).
+?1 Dụng cụ đo hiệu điện thế là:
++ vôn kế
+- ampe kế
+- oát kế
+- cân
+= Đơn vị vôn (V).
+?1 Ampe kế được mắc:
++ nối tiếp với thiết bị cần đo
+- song song với thiết bị
+- không cần mắc
+- vào hai đầu nguồn
+= Cách mắc.
+?2 Vôn kế được mắc:
++ song song với đoạn mạch cần đo
+- nối tiếp
+- vào giữa dây dẫn bất kì
+- không cần mắc
+= Cách mắc vôn kế.
+?2 Hiệu điện thế định mức của các thiết bị điện gia đình ở Việt Nam là:
++ 220 V
+- 110 V
+- 12 V
+- 380 V
+= Điện lưới sinh hoạt.
+?3 1,5 A bằng:
++ 1 500 mA
+- 150 mA
+- 15 mA
+- 0,15 mA
+= 1 A = 1 000 mA.
+?3 Một bóng đèn ghi 6 V. Khi mắc vào nguồn 6 V, đèn:
++ sáng bình thường
+- sáng yếu
+- bị cháy
+- không sáng
+= Đúng hiệu điện thế định mức.
+?4 Khi mắc đèn 6 V vào nguồn 12 V thì:
++ đèn sáng quá mức và có thể bị cháy
+- đèn sáng yếu
+- đèn sáng bình thường
+- đèn không sáng
+= Vượt định mức.
+
+# Chương VI. Nhiệt
+
+## Bài 26. Năng lượng nhiệt và nội năng
+?1 Nội năng của vật là:
++ tổng động năng và thế năng của các phân tử cấu tạo nên vật
+- khối lượng vật
+- trọng lượng vật
+- thể tích vật
+= Định nghĩa.
+?1 Khi nhiệt độ của vật tăng, các phân tử chuyển động:
++ nhanh hơn, nội năng tăng
+- chậm hơn
+- dừng lại
+- không đổi
+= Mối liên hệ nhiệt độ – nội năng.
+?1 Đơn vị đo nhiệt năng là:
++ jun (J)
+- độ C
+- niutơn
+- oát
+= Năng lượng.
+?2 Có thể làm thay đổi nội năng bằng cách:
++ thực hiện công hoặc truyền nhiệt
+- chỉ bằng cách cân
+- chỉ bằng ánh sáng
+- không thể thay đổi
+= Hai cách.
+?2 Xoa hai bàn tay vào nhau, tay nóng lên là do:
++ thực hiện công làm tăng nội năng
+- truyền nhiệt từ không khí
+- ánh sáng chiếu vào
+- tay hấp thụ nước
+= Ma sát sinh nhiệt.
+?3 Thả miếng kim loại nóng vào cốc nước lạnh, nội năng của miếng kim loại:
++ giảm, nội năng của nước tăng
+- tăng
+- không đổi
+- nước giảm nội năng
+= Truyền nhiệt.
+?3 Nhiệt năng truyền từ vật:
++ có nhiệt độ cao sang vật có nhiệt độ thấp
+- lạnh sang nóng
+- nhỏ sang lớn
+- nặng sang nhẹ
+= Chiều truyền nhiệt.
+?4 Một vật có nhiệt độ 0 °C có nội năng hay không?
++ có, vì các phân tử vẫn chuyển động
+- không có
+- bằng 0
+- âm
+= Mọi vật đều có nội năng.
+
+## Bài 28. Sự truyền nhiệt
+?1 Ba hình thức truyền nhiệt là:
++ dẫn nhiệt, đối lưu, bức xạ nhiệt
+- bay hơi, ngưng tụ, đông đặc
+- phản xạ, khúc xạ, tán xạ
+- nóng chảy, sôi, bay hơi
+= Các cách truyền nhiệt.
+?1 Dẫn nhiệt tốt nhất là:
++ kim loại
+- gỗ
+- nhựa
+- không khí
+= Chất rắn kim loại.
+?1 Đối lưu là hình thức truyền nhiệt chủ yếu của:
++ chất lỏng và chất khí
+- chất rắn
+- chân không
+- kim loại
+= Dòng chất lỏng, khí chuyển động.
+?2 Nhiệt từ Mặt Trời truyền đến Trái Đất bằng hình thức:
++ bức xạ nhiệt
+- dẫn nhiệt
+- đối lưu
+- ma sát
+= Truyền qua chân không.
+?2 Đun nước, ta đặt bếp ở đáy ấm vì:
++ tạo dòng đối lưu, nước nóng đều
+- đáy ấm dày
+- để dễ nhìn
+- tránh cháy
+= Nước nóng nổi lên, nước lạnh chìm xuống.
+?3 Áo bông giữ ấm tốt vì:
++ có nhiều không khí giữa các sợi bông, dẫn nhiệt kém
+- bông dẫn nhiệt tốt
+- áo nặng
+- màu sắc áo
+= Không khí cách nhiệt.
+?3 Mùa hè nên mặc áo màu sáng vì:
++ màu sáng ít hấp thụ bức xạ nhiệt
+- màu sáng hấp thụ nhiều nhiệt
+- màu sáng dẫn nhiệt tốt
+- không liên quan
+= Phản xạ ánh sáng tốt.
+?4 Bình giữ nhiệt (phích) có hai lớp thủy tinh, giữa là chân không, mặt trong tráng bạc nhằm:
++ hạn chế dẫn nhiệt, đối lưu và bức xạ nhiệt
+- tăng dẫn nhiệt
+- làm nước sôi nhanh
+- trang trí
+= Giữ nhiệt lâu.
+
+## Bài 29. Sự nở vì nhiệt
+?1 Hầu hết các chất khi nóng lên thì:
++ nở ra
+- co lại
+- không đổi
+- biến mất
+= Sự nở vì nhiệt.
+?1 Chất nở vì nhiệt nhiều nhất là:
++ chất khí
+- chất rắn
+- chất lỏng
+- như nhau
+= Khí > lỏng > rắn.
+?1 Giữa các thanh ray đường sắt có khe hở để:
++ ray nở ra khi nóng không bị cong vênh
+- tiết kiệm sắt
+- thoát nước
+- trang trí
+= Ứng dụng.
+?2 Nhiệt kế thủy ngân hoạt động dựa trên:
++ sự nở vì nhiệt của chất lỏng
+- sự bay hơi
+- sự đông đặc
+- lực từ
+= Thủy ngân nở ra khi nóng.
+?2 Quả bóng bàn bị móp nhúng vào nước nóng sẽ phồng lên vì:
++ không khí bên trong nở ra
+- nhựa co lại
+- nước vào trong bóng
+- bóng hút nước
+= Khí nở vì nhiệt.
+?3 Khi rót nước nóng vào cốc thủy tinh dày, cốc dễ vỡ vì:
++ mặt trong nở ra nhanh hơn mặt ngoài
+- nước quá nặng
+- thủy tinh quá mỏng
+- nước lạnh đi
+= Nở không đều.
+?3 Nước có điểm đặc biệt: từ 0 °C đến 4 °C, khi nóng lên nước:
++ co lại
+- nở ra
+- không đổi
+- bay hơi hết
+= Tính dị thường của nước.
+?4 Vì sao không nên đổ đầy nước vào chai thủy tinh rồi đặt vào ngăn đá?
++ nước đông thành đá nở ra có thể làm vỡ chai
+- nước sẽ bay hơi
+- chai sẽ co lại
+- không có lí do
+= Nước khi đông đặc tăng thể tích.
+
+# Chương VII. Sinh học cơ thể người
+
+## Bài 30. Khái quát về cơ thể người
+?1 Cơ thể người gồm ba phần:
++ đầu, thân và tay chân (chi)
+- đầu, cổ, chân
+- tim, phổi, gan
+- da, xương, cơ
+= Cấu tạo ngoài.
+?1 Cơ quan nằm trong khoang ngực là:
++ tim, phổi
+- dạ dày, gan
+- thận, ruột
+- bàng quang
+= Khoang ngực.
+?1 Đơn vị cấu tạo và chức năng của cơ thể là:
++ tế bào
+- mô
+- cơ quan
+- hệ cơ quan
+= Cơ sở của sự sống.
+?2 Cơ hoành ngăn cách:
++ khoang ngực và khoang bụng
+- tim và phổi
+- đầu và cổ
+- tay và chân
+= Vị trí cơ hoành.
+?2 Hệ cơ quan làm nhiệm vụ vận chuyển chất dinh dưỡng là:
++ hệ tuần hoàn
+- hệ hô hấp
+- hệ bài tiết
+- hệ vận động
+= Tim và mạch máu.
+?3 Các hệ cơ quan trong cơ thể hoạt động phối hợp nhờ sự điều khiển của:
++ hệ thần kinh và hệ nội tiết
+- hệ tiêu hóa
+- hệ vận động
+- hệ bài tiết
+= Điều hòa.
+?3 Thận thuộc hệ cơ quan:
++ bài tiết
+- tiêu hóa
+- hô hấp
+- tuần hoàn
+= Lọc máu, tạo nước tiểu.
+?4 Khi chạy bộ, hệ cơ quan nào hoạt động tăng cường?
++ vận động, tuần hoàn, hô hấp
+- chỉ tiêu hóa
+- chỉ bài tiết
+- chỉ sinh sản
+= Phối hợp các hệ.
+
+## Bài 31. Hệ vận động ở người
+?1 Hệ vận động gồm:
++ bộ xương và hệ cơ
+- tim và mạch máu
+- phổi và khí quản
+- não và tủy sống
+= Cấu tạo.
+?1 Bộ xương người trưởng thành có khoảng:
++ 206 xương
+- 100 xương
+- 300 xương
+- 50 xương
+= Số lượng xương.
+?1 Chức năng của bộ xương là:
++ nâng đỡ, bảo vệ cơ thể và là chỗ bám cho cơ
+- tiêu hóa thức ăn
+- trao đổi khí
+- lọc máu
+= Vai trò xương.
+?2 Xương dài ra là nhờ:
++ sụn tăng trưởng ở hai đầu xương
+- màng xương
+- tủy xương
+- khoang xương
+= Phát triển chiều dài.
+?2 Khi cơ co, cơ:
++ ngắn lại và phình to
+- dài ra
+- không thay đổi
+- mềm đi
+= Tính chất co cơ.
+?3 Để xương chắc khỏe, cần:
++ ăn đủ calcium, vitamin D, tập thể dục, tắm nắng sáng
+- ăn nhiều đồ ngọt
+- ít vận động
+- uống nhiều nước ngọt có gas
+= Chăm sóc hệ vận động.
+?3 Ngồi học sai tư thế lâu ngày có thể dẫn đến:
++ cong vẹo cột sống
+- xương dài ra
+- tăng chiều cao
+- không ảnh hưởng
+= Bệnh học đường.
+?4 Người già dễ gãy xương hơn trẻ em vì:
++ xương người già giòn hơn do tỉ lệ chất khoáng tăng, chất hữu cơ giảm, loãng xương
+- xương người già mềm hơn
+- người già nhỏ hơn
+- không có lí do
+= Thay đổi thành phần xương.
+
+## Bài 32. Dinh dưỡng và tiêu hóa ở người
+?1 Ống tiêu hóa gồm:
++ miệng, hầu, thực quản, dạ dày, ruột non, ruột già, hậu môn
+- tim, phổi, gan
+- thận, bàng quang
+- não, tủy sống
+= Cấu tạo ống tiêu hóa.
+?1 Nơi hấp thụ chất dinh dưỡng chủ yếu là:
++ ruột non
+- dạ dày
+- thực quản
+- ruột già
+= Ruột non có nhiều lông ruột.
+?1 Tuyến tiêu hóa lớn nhất là:
++ gan
+- tuyến nước bọt
+- tụy
+- tuyến vị
+= Gan tiết mật.
+?2 Ở miệng, tinh bột được biến đổi một phần nhờ enzyme:
++ amylase trong nước bọt
+- pepsin
+- lipase
+- trypsin
+= Tiêu hóa ở miệng.
+?2 Dạ dày tiêu hóa chủ yếu chất:
++ protein
+- tinh bột
+- chất béo
+- vitamin
+= Enzyme pepsin.
+?3 Bệnh sâu răng thường do:
++ vi khuẩn phân hủy thức ăn dính ở răng tạo acid
+- ăn nhiều rau
+- uống nước lọc
+- đánh răng thường xuyên
+= Vệ sinh răng miệng.
+?3 An toàn vệ sinh thực phẩm cần:
++ ăn chín uống sôi, rửa tay trước khi ăn, bảo quản thực phẩm đúng cách
+- ăn đồ ôi thiu
+- dùng thực phẩm không rõ nguồn gốc
+- không rửa tay
+= Phòng ngộ độc.
+?4 Một bạn nữ 13 tuổi cần khoảng 2 200 kcal/ngày, bữa sáng đã cung cấp 600 kcal, bữa trưa 800 kcal. Bữa tối cần cung cấp khoảng:
++ 800 kcal
+- 600 kcal
+- 1 400 kcal
+- 2 200 kcal
+= 2 200 − 1 400.
+
+## Bài 33. Máu và hệ tuần hoàn của cơ thể người
+?1 Máu gồm:
++ huyết tương và các tế bào máu
+- chỉ có nước
+- chỉ có hồng cầu
+- chỉ có huyết tương
+= Thành phần máu.
+?1 Hồng cầu có chức năng:
++ vận chuyển oxygen và carbon dioxide
+- bảo vệ cơ thể chống vi khuẩn
+- làm đông máu
+- tiêu hóa thức ăn
+= Chứa hemoglobin.
+?1 Bạch cầu có chức năng:
++ bảo vệ cơ thể chống lại tác nhân gây bệnh
+- vận chuyển oxygen
+- làm đông máu
+- dẫn truyền thần kinh
+= Hệ miễn dịch.
+?2 Tim người có bao nhiêu ngăn?
++ 4
+- 2
+- 3
+- 5
+= 2 tâm nhĩ, 2 tâm thất.
+?2 Người có nhóm máu O có thể truyền cho:
++ tất cả các nhóm máu (nguyên tắc truyền ít)
+- chỉ nhóm O
+- chỉ nhóm AB
+- không ai
+= Nhóm máu chuyên cho.
+?3 Tiểu cầu có vai trò:
++ tham gia quá trình đông máu
+- vận chuyển khí
+- tiêu diệt vi khuẩn
+- tạo kháng thể
+= Cầm máu.
+?3 Tiêm vaccine giúp cơ thể:
++ tạo miễn dịch chủ động chống bệnh
+- chữa khỏi bệnh ngay
+- tăng hồng cầu
+- giảm bạch cầu
+= Phòng bệnh.
+?4 Vì sao người bị huyết áp cao nên ăn nhạt?
++ ăn mặn làm tăng giữ nước, tăng huyết áp
+- muối làm giảm huyết áp
+- ăn nhạt làm tăng huyết áp
+- không liên quan
+= Phòng bệnh tim mạch.
+
+## Bài 34. Hệ hô hấp ở người
+?1 Cơ quan chính của hệ hô hấp là:
++ phổi
+- tim
+- dạ dày
+- thận
+= Trao đổi khí.
+?1 Đường dẫn khí gồm:
++ mũi, họng, thanh quản, khí quản, phế quản
+- miệng, thực quản
+- tim, mạch máu
+- thận, niệu quản
+= Dẫn khí vào phổi.
+?1 Trao đổi khí ở phổi diễn ra tại:
++ phế nang
+- khí quản
+- thanh quản
+- mũi
+= Phế nang có mao mạch dày đặc.
+?2 Thở bằng mũi tốt hơn thở bằng miệng vì:
++ mũi có lông, chất nhầy làm sạch, làm ấm, ẩm không khí
+- mũi to hơn
+- miệng không dẫn khí
+- không khác nhau
+= Bảo vệ đường hô hấp.
+?2 Hút thuốc lá gây hại cho:
++ phổi và nhiều cơ quan khác, có thể gây ung thư
+- chỉ răng
+- chỉ tóc
+- không gây hại
+= Tác hại thuốc lá.
+?3 Bệnh lao phổi do:
++ vi khuẩn
+- virus cúm
+- nấm
+- giun sán
+= Vi khuẩn lao.
+?3 Để bảo vệ hệ hô hấp, cần:
++ đeo khẩu trang khi ra đường, trồng cây xanh, không hút thuốc
+- ở nơi nhiều khói bụi
+- hút thuốc
+- không vệ sinh nhà cửa
+= Phòng bệnh.
+?4 Khi chạy, nhịp thở tăng vì:
++ cơ thể cần nhiều oxygen hơn cho hô hấp tế bào, thải CO₂ nhiều hơn
+- phổi to ra
+- tim ngừng đập
+- không khí ít oxygen
+= Nhu cầu năng lượng tăng.
+
+## Bài 35. Hệ bài tiết ở người
+?1 Cơ quan chính của hệ bài tiết nước tiểu là:
++ thận
+- gan
+- phổi
+- dạ dày
+= Lọc máu.
+?1 Nước tiểu được tạo thành ở:
++ thận
+- bàng quang
+- niệu đạo
+- ruột
+= Đơn vị thận (nephron).
+?1 Nước tiểu được chứa tạm thời ở:
++ bàng quang
+- thận
+- niệu quản
+- gan
+= Trước khi thải ra ngoài.
+?2 Các cơ quan bài tiết của cơ thể gồm:
++ thận, phổi, da
+- tim, não
+- dạ dày, ruột non
+- xương, cơ
+= Thải chất thải.
+?2 Uống đủ nước giúp:
++ thận hoạt động tốt, phòng sỏi thận
+- gây hại thận
+- không ảnh hưởng
+- làm tăng huyết áp
+= Bảo vệ thận.
+?3 Thói quen nhịn tiểu lâu có thể gây:
++ sỏi thận, viêm đường tiết niệu
+- tăng chiều cao
+- giảm cân
+- tốt cho sức khỏe
+= Hại hệ bài tiết.
+?3 Chạy thận nhân tạo dành cho người:
++ bị suy thận
+- bị cảm cúm
+- bị gãy xương
+- bị cận thị
+= Lọc máu thay thận.
+?4 Vì sao ăn quá mặn lâu dài có hại cho thận?
++ thận phải làm việc nhiều để thải muối, dễ tổn thương
+- muối làm thận khỏe hơn
+- không liên quan
+- muối được phổi thải ra
+= Bảo vệ thận.
+
+## Bài 36. Điều hòa môi trường trong của cơ thể người
+?1 Môi trường trong của cơ thể gồm:
++ máu, nước mô, bạch huyết
+- không khí
+- thức ăn
+- nước uống
+= Thành phần môi trường trong.
+?1 Cân bằng môi trường trong là:
++ duy trì sự ổn định các chỉ số như nhiệt độ, đường huyết, pH
+- làm thay đổi liên tục
+- không cần thiết
+- chỉ giữ nhiệt độ cơ thể
+= Cân bằng nội môi.
+?1 Nồng độ glucose trong máu ổn định nhờ hormone:
++ insulin và glucagon
+- adrenaline duy nhất
+- testosterone
+- estrogen
+= Tuyến tụy tiết.
+?2 Bệnh tiểu đường liên quan đến:
++ rối loạn điều hòa đường huyết
+- rối loạn tiêu hóa
+- thiếu calcium
+- thiếu vitamin C
+= Đường huyết cao.
+?2 Khi mất nước nhiều, cơ thể sẽ:
++ cảm thấy khát, thận giảm lượng nước tiểu
+- tăng lượng nước tiểu
+- không có phản ứng
+- ra nhiều mồ hôi hơn
+= Điều hòa nước.
+?3 Thân nhiệt người bình thường ổn định khoảng:
++ 37 °C
+- 30 °C
+- 40 °C
+- 34 °C
+= Cân bằng nhiệt.
+?3 Khi đường huyết tăng sau bữa ăn, tuyến tụy tiết:
++ insulin để giảm đường huyết
+- glucagon để tăng đường huyết
+- adrenaline
+- mật
+= Điều hòa.
+?4 Vì sao cần hạn chế ăn đồ ngọt quá nhiều?
++ dễ gây rối loạn đường huyết, béo phì, tiểu đường
+- vì đồ ngọt không có năng lượng
+- vì làm tăng chiều cao
+- không cần hạn chế
+= Lối sống lành mạnh.
+
+## Bài 37. Hệ thần kinh và các giác quan ở người
+?1 Hệ thần kinh gồm:
++ bộ phận trung ương (não, tủy sống) và bộ phận ngoại biên (dây thần kinh, hạch)
+- tim và mạch máu
+- phổi
+- dạ dày
+= Cấu tạo.
+?1 Cơ quan thụ cảm thị giác là:
++ mắt
+- tai
+- mũi
+- lưỡi
+= Giác quan.
+?1 Phản xạ là:
++ phản ứng của cơ thể trả lời kích thích từ môi trường dưới sự điều khiển của hệ thần kinh
+- sự lớn lên
+- sự sinh sản
+- sự tiêu hóa
+= Định nghĩa.
+?2 Tật cận thị là tật mắt:
++ chỉ nhìn rõ vật ở gần
+- chỉ nhìn rõ vật ở xa
+- không nhìn thấy gì
+- nhìn màu sai
+= Ảnh hội tụ trước màng lưới.
+?2 Người cận thị đeo kính:
++ phân kì (kính lõm)
+- hội tụ (kính lồi)
+- râm
+- lúp
+= Khắc phục cận thị.
+?3 Để phòng tật cận thị, cần:
++ đọc sách đủ ánh sáng, giữ khoảng cách 25–30 cm, hạn chế dùng thiết bị điện tử lâu
+- đọc sách trong bóng tối
+- nhìn màn hình sát mắt
+- xem tivi liên tục
+= Vệ sinh mắt.
+?3 Tai có chức năng:
++ nghe và giữ thăng bằng
+- nhìn
+- ngửi
+- nếm
+= Cơ quan thính giác và tiền đình.
+?4 Sử dụng ma túy, rượu bia gây hại cho hệ thần kinh vì:
++ làm rối loạn hoạt động thần kinh, gây nghiện
+- giúp não tốt hơn
+- không ảnh hưởng
+- chỉ hại dạ dày
+= Tác hại chất gây nghiện.
+
+## Bài 38. Hệ nội tiết ở người
+?1 Tuyến nội tiết tiết hormone trực tiếp vào:
++ máu
+- ống dẫn ra ngoài
+- dạ dày
+- da
+= Đặc điểm tuyến nội tiết.
+?1 Tuyến yên nằm ở:
++ nền sọ (dưới não)
+- cổ
+- bụng
+- ngực
+= Tuyến quan trọng nhất.
+?1 Tuyến giáp nằm ở:
++ cổ
+- đầu
+- bụng
+- ngực
+= Tiết thyroxine.
+?2 Thiếu iodine trong khẩu phần ăn có thể gây bệnh:
++ bướu cổ
+- tiểu đường
+- cận thị
+- sâu răng
+= Tuyến giáp phì đại.
+?2 Hormone tăng trưởng do tuyến nào tiết ra?
++ tuyến yên
+- tuyến giáp
+- tuyến tụy
+- tuyến trên thận
+= GH.
+?3 Tuyến tụy vừa là tuyến nội tiết vừa là tuyến:
++ ngoại tiết (tiết dịch tiêu hóa)
+- mồ hôi
+- nước bọt
+- lệ
+= Tuyến pha.
+?3 Ăn muối iodine giúp phòng bệnh:
++ bướu cổ
+- tiểu đường
+- cao huyết áp
+- loãng xương
+= Cung cấp iodine.
+?4 Hormone adrenaline do tuyến trên thận tiết ra khi căng thẳng có tác dụng:
++ tăng nhịp tim, tăng đường huyết, giúp cơ thể phản ứng nhanh
+- giảm nhịp tim
+- gây buồn ngủ
+- giảm đường huyết
+= Phản ứng "chiến hay chạy".
+
+## Bài 39. Da và điều hòa thân nhiệt ở người
+?1 Da gồm các lớp:
++ biểu bì, bì, mỡ dưới da
+- xương, cơ, mỡ
+- niêm mạc, cơ trơn
+- tủy, vỏ
+= Cấu tạo da.
+?1 Da có chức năng:
++ bảo vệ, điều hòa thân nhiệt, cảm giác, bài tiết
+- tiêu hóa
+- hô hấp chính
+- tuần hoàn
+= Chức năng da.
+?1 Khi trời nóng, cơ thể tỏa nhiệt chủ yếu bằng cách:
++ tiết mồ hôi
+- run rẩy
+- co mạch máu da
+- nổi da gà
+= Bay hơi mồ hôi.
+?2 Khi trời lạnh, mạch máu dưới da:
++ co lại để giảm tỏa nhiệt
+- dãn ra
+- không thay đổi
+- vỡ ra
+= Giữ nhiệt.
+?2 Mụn trứng cá thường xuất hiện ở tuổi dậy thì do:
++ tuyến nhờn hoạt động mạnh, lỗ chân lông bị bít
+- ăn rau nhiều
+- uống nhiều nước
+- tắm thường xuyên
+= Vệ sinh da.
+?3 Khi bị say nắng, cần:
++ đưa người bệnh vào chỗ mát, chườm mát, cho uống nước
+- cho ra nắng tiếp
+- đắp chăn dày
+- cho uống rượu
+= Sơ cứu.
+?3 Để bảo vệ da, cần:
++ tắm rửa thường xuyên, mặc quần áo phù hợp thời tiết, dùng kem chống nắng
+- phơi nắng gắt cả ngày
+- không tắm
+- nặn mụn bằng tay bẩn
+= Vệ sinh da.
+?4 Vì sao khi sốt cao người ta chườm khăn ướt?
++ nước bay hơi lấy nhiệt, giúp hạ nhiệt độ cơ thể
+- để làm ẩm da
+- để giữ ấm
+- không có tác dụng
+= Ứng dụng thực tế.
+
+## Bài 40. Sinh sản ở người
+?1 Cơ quan sinh dục nữ tạo ra trứng là:
++ buồng trứng
+- tử cung
+- ống dẫn trứng
+- âm đạo
+= Tuyến sinh dục nữ.
+?1 Cơ quan sinh dục nam tạo ra tinh trùng là:
++ tinh hoàn
+- ống dẫn tinh
+- tuyến tiền liệt
+- túi tinh
+= Tuyến sinh dục nam.
+?1 Thụ tinh là:
++ sự kết hợp giữa tinh trùng và trứng tạo hợp tử
+- sự rụng trứng
+- sự phân chia tế bào
+- sự sinh con
+= Định nghĩa.
+?2 Tuổi dậy thì là giai đoạn:
++ cơ thể có những thay đổi về thể chất và tâm lí, bắt đầu có khả năng sinh sản
+- cơ thể ngừng phát triển
+- tuổi già
+- tuổi sơ sinh
+= Đặc điểm tuổi dậy thì.
+?2 Nơi phôi phát triển thành thai là:
++ tử cung
+- buồng trứng
+- ống dẫn trứng
+- bàng quang
+= Làm tổ trong tử cung.
+?3 Biện pháp bảo vệ sức khỏe sinh sản tuổi vị thành niên là:
++ giữ vệ sinh cơ quan sinh dục, tìm hiểu kiến thức đúng, tránh quan hệ sớm
+- không cần quan tâm
+- dùng thuốc tùy tiện
+- giấu bệnh
+= Chăm sóc sức khỏe.
+?3 Bệnh lây truyền qua đường tình dục là:
++ HIV/AIDS, giang mai
+- cảm cúm
+- đau mắt đỏ
+- sâu răng
+= Bệnh xã hội.
+?4 Vì sao mang thai ở tuổi vị thành niên có nhiều nguy cơ?
++ cơ thể chưa phát triển hoàn chỉnh, ảnh hưởng sức khỏe và học tập
+- vì không có nguy cơ gì
+- vì tuổi vị thành niên khỏe nhất
+- vì luật cấm học
+= Giáo dục sức khỏe sinh sản.
+
+# Chương VIII. Sinh vật và môi trường
+
+## Bài 41. Môi trường sống và các nhân tố sinh thái
+?1 Môi trường sống là:
++ nơi sinh sống của sinh vật, bao gồm các yếu tố xung quanh
+- chỉ là không khí
+- chỉ là nước
+- chỉ là đất
+= Định nghĩa.
+?1 Các loại môi trường sống chủ yếu là:
++ trên cạn, nước, trong đất, sinh vật
+- chỉ nước
+- chỉ đất
+- chỉ trên cạn
+= Bốn loại.
+?1 Nhân tố sinh thái vô sinh là:
++ ánh sáng, nhiệt độ, độ ẩm
+- thực vật
+- động vật
+- con người
+= Không sống.
+?2 Nhân tố sinh thái hữu sinh là:
++ các sinh vật và con người
+- ánh sáng
+- nhiệt độ
+- đất
+= Sống.
+?2 Giới hạn sinh thái là:
++ khoảng giá trị của nhân tố sinh thái mà sinh vật có thể tồn tại
+- nơi ở của sinh vật
+- thức ăn của sinh vật
+- tuổi thọ của sinh vật
+= Định nghĩa.
+?3 Cá rô phi sống được trong khoảng 5 °C đến 42 °C. Ở 45 °C, cá rô phi:
++ sẽ chết
+- sống bình thường
+- phát triển tốt nhất
+- sinh sản mạnh
+= Ngoài giới hạn chịu đựng.
+?3 Môi trường sống của giun đũa kí sinh là:
++ môi trường sinh vật (ruột người)
+- môi trường nước
+- môi trường đất
+- môi trường trên cạn
+= Sống kí sinh.
+?4 Con người là nhân tố sinh thái đặc biệt vì:
++ có khả năng tác động mạnh mẽ, làm biến đổi môi trường
+- không ảnh hưởng đến môi trường
+- là nhân tố vô sinh
+- sống tách biệt
+= Tác động tích cực và tiêu cực.
+
+## Bài 42. Quần thể sinh vật
+?1 Quần thể sinh vật là:
++ tập hợp cá thể cùng loài, cùng sống trong một khoảng không gian, có khả năng sinh sản
+- tập hợp nhiều loài khác nhau
+- một cá thể
+- một hệ sinh thái
+= Định nghĩa.
+?1 Ví dụ về quần thể là:
++ đàn voi ở một khu rừng
+- cá trong một cái ao (nhiều loài)
+- các cây trong vườn bách thảo
+- chim trong rừng
+= Cùng loài.
+?1 Mật độ quần thể là:
++ số lượng cá thể trên một đơn vị diện tích hay thể tích
+- tuổi thọ trung bình
+- tỉ lệ giới tính
+- kích thước cá thể
+= Đặc trưng quần thể.
+?2 Các đặc trưng cơ bản của quần thể là:
++ kích thước, mật độ, tỉ lệ giới tính, thành phần nhóm tuổi
+- màu sắc, mùi
+- tên gọi
+- chiều cao
+= Đặc trưng.
+?2 Quần thể người khác quần thể sinh vật khác ở đặc trưng:
++ pháp luật, kinh tế, văn hóa, giáo dục
+- mật độ
+- tỉ lệ giới tính
+- nhóm tuổi
+= Đặc trưng xã hội.
+?3 Một ao có diện tích 200 m² có 1 000 con cá chép. Mật độ quần thể là:
++ 5 con/m²
+- 200 con/m²
+- 1 000 con/m²
+- 0,2 con/m²
+= 1 000 : 200.
+?3 Tháp tuổi có đáy rộng biểu thị quần thể:
++ đang phát triển
+- ổn định
+- suy thoái
+- già hóa
+= Nhiều cá thể trẻ.
+?4 Khi mật độ quần thể quá cao, điều gì thường xảy ra?
++ cạnh tranh tăng, tỉ lệ tử vong tăng, sinh sản giảm
+- cạnh tranh giảm
+- sinh sản tăng mạnh
+- không có gì thay đổi
+= Tự điều chỉnh số lượng.
+
+## Bài 43. Quần xã sinh vật
+?1 Quần xã sinh vật là:
++ tập hợp nhiều quần thể khác loài cùng sống trong một không gian
+- một quần thể
+- một cá thể
+- chỉ thực vật
+= Định nghĩa.
+?1 Ví dụ về quần xã là:
++ rừng mưa nhiệt đới
+- đàn trâu
+- đàn chim sẻ
+- một con hổ
+= Nhiều loài.
+?1 Độ đa dạng của quần xã thể hiện ở:
++ số lượng loài trong quần xã
+- kích thước cá thể
+- màu sắc
+- tuổi
+= Đặc trưng quần xã.
+?2 Loài ưu thế là loài:
++ có số lượng cá thể nhiều, vai trò quan trọng trong quần xã
+- hiếm gặp
+- chỉ có ở một nơi
+- mới xuất hiện
+= Đặc trưng thành phần loài.
+?2 Loài đặc trưng là loài:
++ chỉ có ở một quần xã nhất định hoặc nhiều hơn hẳn loài khác
+- có ở mọi nơi
+- không quan trọng
+- bị tuyệt chủng
+= Ví dụ cây cọ ở vùng đồi Phú Thọ.
+?3 Quan hệ giữa cây tầm gửi và cây chủ là quan hệ:
++ kí sinh (nửa kí sinh)
+- cộng sinh
+- hội sinh
+- hợp tác
+= Tầm gửi lấy chất của cây chủ.
+?3 Quan hệ giữa vi khuẩn cố định đạm và cây họ Đậu là:
++ cộng sinh
+- kí sinh
+- cạnh tranh
+- ức chế cảm nhiễm
+= Hai bên cùng có lợi.
+?4 Khi chặt phá rừng, độ đa dạng của quần xã:
++ giảm mạnh
+- tăng
+- không đổi
+- tăng gấp đôi
+= Tác động tiêu cực.
+
+## Bài 44. Hệ sinh thái
+?1 Hệ sinh thái gồm:
++ quần xã sinh vật và môi trường sống của nó
+- chỉ quần xã
+- chỉ môi trường
+- chỉ thực vật
+= Định nghĩa.
+?1 Sinh vật sản xuất trong hệ sinh thái là:
++ thực vật
+- động vật ăn cỏ
+- động vật ăn thịt
+- vi khuẩn phân giải
+= Tự tổng hợp chất hữu cơ.
+?1 Chuỗi thức ăn là:
++ dãy các loài sinh vật có quan hệ dinh dưỡng với nhau
+- một loài
+- nhiều hệ sinh thái
+- nơi ở của sinh vật
+= Định nghĩa.
+?2 Chuỗi thức ăn đúng là:
++ cỏ → thỏ → cáo → vi khuẩn
+- cáo → cỏ → thỏ
+- thỏ → cỏ → cáo
+- vi khuẩn → cáo → thỏ
+= Từ sinh vật sản xuất.
+?2 Sinh vật phân giải là:
++ vi khuẩn, nấm
+- cây xanh
+- hổ
+- thỏ
+= Phân giải xác sinh vật.
+?3 Lưới thức ăn là:
++ tập hợp các chuỗi thức ăn có nhiều mắt xích chung
+- một chuỗi thức ăn
+- một loài
+- một quần thể
+= Định nghĩa.
+?3 Trong chuỗi cỏ → sâu → chim sâu → rắn, sinh vật tiêu thụ bậc 2 là:
++ chim sâu
+- sâu
+- rắn
+- cỏ
+= Bậc dinh dưỡng.
+?4 Nếu tiêu diệt hết chim sâu trong chuỗi trên, số lượng sâu sẽ:
++ tăng, có thể gây hại cỏ
+- giảm
+- không đổi
+- biến mất
+= Mất cân bằng.
+
+## Bài 45. Sinh quyển
+?1 Sinh quyển là:
++ toàn bộ sinh vật và môi trường sống của chúng trên Trái Đất
+- một khu rừng
+- một quần thể
+- một ao hồ
+= Hệ sinh thái lớn nhất.
+?1 Các khu sinh học chính trên cạn là:
++ rừng mưa nhiệt đới, sa mạc, đồng rêu, rừng lá kim…
+- chỉ rừng
+- chỉ biển
+- chỉ sông
+= Biome.
+?1 Sinh quyển gồm các phần:
++ khí quyển, thủy quyển, thạch quyển có sự sống
+- chỉ thủy quyển
+- chỉ khí quyển
+- chỉ đất
+= Phạm vi sinh quyển.
+?2 Khu sinh học nào có độ đa dạng sinh học cao nhất?
++ rừng mưa nhiệt đới
+- sa mạc
+- đồng rêu đới lạnh
+- rừng lá kim
+= Điều kiện thuận lợi.
+?2 Khu sinh học dưới nước gồm:
++ nước ngọt và nước mặn (biển, đại dương)
+- chỉ nước ngọt
+- chỉ ao hồ
+- chỉ biển sâu
+= Phân loại.
+?3 Đồng rêu đới lạnh có đặc điểm:
++ khí hậu rất lạnh, thực vật chủ yếu rêu, địa y
+- nóng ẩm
+- nhiều cây gỗ lớn
+- sa mạc cát
+= Thích nghi giá lạnh.
+?3 Hoạt động gây hại cho sinh quyển là:
++ phá rừng, ô nhiễm môi trường
+- trồng rừng
+- bảo tồn động vật
+- tái chế rác
+= Tác động tiêu cực.
+?4 Vì sao nói Trái Đất là "ngôi nhà chung" của mọi sinh vật?
++ mọi sinh vật cùng chia sẻ sinh quyển, liên quan chặt chẽ với nhau
+- vì Trái Đất có nhà cửa
+- vì chỉ con người sống trên Trái Đất
+- vì không có sinh vật khác
+= Tính thống nhất của sinh quyển.
+
+## Bài 46. Cân bằng tự nhiên
+?1 Cân bằng tự nhiên là:
++ trạng thái ổn định tự nhiên của quần thể, quần xã, hệ sinh thái
+- trạng thái thay đổi liên tục
+- trạng thái mất cân bằng
+- trạng thái chỉ có thực vật
+= Định nghĩa.
+?1 Nguyên nhân gây mất cân bằng tự nhiên là:
++ săn bắt quá mức, phá rừng, ô nhiễm, thiên tai
+- bảo vệ rừng
+- trồng cây
+- lập khu bảo tồn
+= Tác động con người và tự nhiên.
+?1 Biện pháp duy trì cân bằng tự nhiên là:
++ bảo vệ đa dạng sinh học, khai thác hợp lí tài nguyên
+- săn bắt động vật hoang dã
+- phá rừng làm nương rẫy
+- xả thải
+= Bảo vệ thiên nhiên.
+?2 Số lượng cá thể quần thể được điều chỉnh nhờ:
++ quan hệ dinh dưỡng và các nhân tố môi trường
+- con người quyết định hoàn toàn
+- không có cơ chế
+- chỉ thời tiết
+= Cơ chế điều hòa.
+?2 Dùng thiên địch để diệt sâu hại là:
++ biện pháp sinh học, bảo vệ cân bằng tự nhiên
+- biện pháp hóa học
+- gây ô nhiễm
+- phá hủy hệ sinh thái
+= Ví dụ dùng ong mắt đỏ.
+?3 Khi mèo bị tiêu diệt quá nhiều, số lượng chuột sẽ:
++ tăng, có thể gây hại mùa màng
+- giảm
+- không đổi
+- biến mất
+= Mất thiên địch.
+?3 Lạm dụng thuốc trừ sâu có thể:
++ giết cả thiên địch, gây mất cân bằng
+- bảo vệ thiên địch
+- tăng đa dạng sinh học
+- không ảnh hưởng
+= Tác hại.
+?4 Cân bằng tự nhiên có ý nghĩa với con người vì:
++ đảm bảo nguồn tài nguyên, môi trường sống ổn định lâu dài
+- không có ý nghĩa
+- làm giảm năng suất
+- gây thiên tai
+= Phát triển bền vững.
+
+## Bài 47. Bảo vệ môi trường
+?1 Ô nhiễm môi trường là:
++ sự thay đổi tính chất của môi trường, gây hại cho sinh vật và con người
+- sự trồng cây
+- sự làm sạch
+- sự cải tạo đất
+= Định nghĩa.
+?1 Nguyên nhân gây ô nhiễm không khí là:
++ khí thải giao thông, công nghiệp, đốt rác
+- trồng rừng
+- năng lượng mặt trời
+- đi xe đạp
+= Nguồn ô nhiễm.
+?1 Biện pháp bảo vệ môi trường là:
++ giảm thiểu, tái sử dụng, tái chế rác thải
+- xả rác bừa bãi
+- đốt rác ngoài trời
+- dùng nhiều túi nilon
+= Nguyên tắc 3R.
+?2 Hiệu ứng nhà kính gia tăng do:
++ khí CO₂ và các khí nhà kính tăng
+- khí oxygen tăng
+- cây xanh nhiều
+- băng tăng lên
+= Nguyên nhân ấm lên toàn cầu.
+?2 Biến đổi khí hậu gây ra:
++ thời tiết cực đoan, nước biển dâng
+- khí hậu ổn định hơn
+- băng nhiều hơn
+- giảm thiên tai
+= Hậu quả.
+?3 Ở Việt Nam, vùng chịu ảnh hưởng nặng của nước biển dâng là:
++ đồng bằng sông Cửu Long
+- Tây Bắc
+- Tây Nguyên
+- Việt Bắc
+= Địa hình thấp.
+?3 Học sinh có thể bảo vệ môi trường bằng cách:
++ phân loại rác, tiết kiệm điện nước, trồng cây
+- vứt rác bừa bãi
+- dùng nhiều đồ nhựa một lần
+- bẻ cành cây
+= Hành động thiết thực.
+?4 Một gia đình mỗi ngày thải 1,2 kg rác, trong đó 60% là rác hữu cơ có thể ủ phân. Mỗi tháng (30 ngày) gia đình có thể ủ khoảng:
++ 21,6 kg rác hữu cơ
+- 36 kg
+- 14,4 kg
+- 0,72 kg
+= 1,2 × 0,6 × 30.

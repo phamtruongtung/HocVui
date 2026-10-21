@@ -1,0 +1,579 @@
+// Ngữ văn 9 – Kết nối tri thức với cuộc sống – Tập 2
+#! HK2
+# Học kì 2
+
+## Bài 6. Bí ẩn của thế giới (truyện trinh thám, lựa chọn câu)
+?1 Truyện trinh thám là truyện:
++ xoay quanh một vụ án bí ẩn và quá trình điều tra, suy luận để tìm ra sự thật
+- kể về loài vật biết nói
+- ca ngợi thiên nhiên
+- chỉ có yếu tố kì ảo
+= Đặc trưng thể loại.
+?1 Thám tử Sherlock Holmes là nhân vật của nhà văn:
++ Arthur Conan Doyle
+- Agatha Christie
+- Victor Hugo
+- Jules Verne
+= Nhà văn người Anh.
+?1 Người bạn đồng hành, đồng thời là người kể chuyện trong nhiều truyện về Sherlock Holmes là:
++ bác sĩ Watson
+- thanh tra Lestrade
+- giáo sư Moriarty
+- bà Hudson
+= Ngôi kể thứ nhất.
+?1 Thám tử Hercule Poirot là nhân vật của nhà văn:
++ Agatha Christie
+- Arthur Conan Doyle
+- Mark Twain
+- Charles Dickens
+= "Nữ hoàng trinh thám".
+?1 Yếu tố không thể thiếu trong truyện trinh thám là:
++ vụ án, thám tử, manh mối, nghi phạm
+- phép thuật
+- thơ lục bát
+- lời bình của tác giả
+= Các yếu tố thể loại.
+?1 Manh mối trong truyện trinh thám là:
++ dấu vết, chi tiết giúp thám tử lần ra sự thật
+- tên tác giả
+- nhan đề truyện
+- lời kết của truyện
+= Khái niệm.
+?2 Phương pháp phá án nổi bật của Sherlock Holmes là:
++ quan sát tỉ mỉ và suy luận logic
+- dùng phép thuật
+- đoán bừa
+- nhờ người khác thú nhận
+= Suy luận diễn dịch.
+?2 Kết thúc của truyện trinh thám thường là:
++ bí ẩn được giải đáp, thủ phạm bị phát hiện
+- câu chuyện bỏ dở
+- thám tử thất bại hoàn toàn
+- không có lời giải
+= Cấu trúc thể loại.
+?2 Nghệ thuật tạo sự hồi hộp trong truyện trinh thám thường là:
++ giấu chi tiết then chốt, đưa ra nhiều nghi phạm và giả thuyết
+- kể hết ngay từ đầu
+- không có nhân vật
+- miêu tả thiên nhiên dài dòng
+= Tạo kịch tính.
+> Holmes cúi xuống, soi kính lúp vào vệt bùn đỏ trên mũi giày của vị khách. "Ông vừa từ vùng ngoại ô phía tây tới, đi bộ quãng cuối, và rất vội," anh nói. Vị khách sững sờ: "Sao ông biết?". Holmes mỉm cười: "Loại đất đỏ này chỉ có ở công trường phía tây thành phố, còn vết bùn bắn cao lên ống quần cho thấy ông đã bước rất nhanh."
+?2 Chi tiết được Holmes dùng làm manh mối là:
++ vệt bùn đỏ trên giày và vết bùn bắn lên ống quần
+- chiếc mũ của vị khách
+- giọng nói của vị khách
+- chiếc kính lúp
+= Quan sát chi tiết.
+?2 Câu "Sao ông biết?" thể hiện thái độ:
++ ngạc nhiên, sững sờ của vị khách
+- giận dữ
+- buồn bã
+- thờ ơ
+= Phản ứng nhân vật.
+?3 Đoạn văn cho thấy Holmes là người:
++ có óc quan sát tinh tường và suy luận sắc bén
+- vội vàng, hấp tấp
+- thiếu kiên nhẫn
+- chỉ dựa vào may mắn
+= Phẩm chất nhân vật thám tử.
+?3 Lời giải thích của Holmes đi theo trình tự:
++ từ dấu vết cụ thể đến kết luận
+- từ kết luận đến bịa ra dấu vết
+- không có trình tự
+- từ cảm xúc đến kết luận
+= Lập luận logic.
+>-
+?3 Khi lựa chọn giữa câu đơn và câu ghép trong văn kể chuyện, người viết cần:
++ chọn kiểu câu phù hợp với nhịp kể và ý muốn diễn đạt
+- chỉ dùng câu ghép
+- chỉ dùng câu đơn
+- dùng câu thật dài
+= Lựa chọn câu.
+?3 Dùng nhiều câu ngắn liên tiếp trong đoạn cao trào của truyện trinh thám có tác dụng:
++ tạo nhịp nhanh, gấp gáp, tăng kịch tính
+- làm câu chuyện chậm lại
+- giảm hồi hộp
+- làm người đọc buồn ngủ
+= Hiệu quả của câu ngắn.
+?3 Trong truyện trinh thám, nhân vật "người kể chuyện" là bạn của thám tử giúp:
++ giữ bí mật suy luận của thám tử đến phút chót, tăng sức hấp dẫn
+- tiết lộ ngay thủ phạm
+- làm truyện ngắn lại
+- thay thế thám tử phá án
+= Vai trò điểm nhìn.
+?4 Bài học rút ra từ cách phá án của Holmes là:
++ quan sát kĩ, suy nghĩ logic, dựa vào bằng chứng trước khi kết luận
+- tin vào tin đồn
+- kết luận vội vàng
+- không cần bằng chứng
+= Bài học tư duy.
+?4 Nhân vật siêu trộm hào hoa Arsène Lupin là sáng tạo của nhà văn:
++ Maurice Leblanc
+- Arthur Conan Doyle
+- Agatha Christie
+- Edgar Allan Poe
+= Nhà văn Pháp.
+?4 Vì sao truyện trinh thám có sức hấp dẫn với nhiều thế hệ?
++ kích thích trí tò mò, rèn luyện tư duy suy luận của người đọc
+- vì có nhiều tranh vẽ
+- vì truyện rất ngắn
+- vì không có cốt truyện
+= Giá trị thể loại.
+
+## Bài 7. Hồn nước nâng cánh thơ (thơ tám chữ, thơ tự do, chơi chữ)
+?1 Thơ tám chữ là thể thơ:
++ mỗi dòng thường có tám chữ
+- mỗi dòng có bảy chữ
+- xen kẽ dòng sáu chữ và tám chữ
+- không giới hạn số chữ
+= Đặc điểm thể thơ.
+?1 Thơ tự do có đặc điểm:
++ không gò bó về số chữ, số dòng, vần, nhịp
+- mỗi câu bảy chữ
+- bắt buộc tám câu
+- luôn gieo vần chân
+= Đặc điểm thể thơ.
+?1 Chơi chữ là biện pháp:
++ lợi dụng đặc sắc về âm, về nghĩa của từ để tạo sắc thái dí dỏm, hài hước
+- so sánh hai sự vật
+- gọi tên sự vật bằng tên khác
+- nói quá sự thật
+= Khái niệm.
+?1 Đề tài nổi bật của nhiều bài thơ trong chủ đề "Hồn nước" là:
++ tình yêu quê hương, đất nước
+- khoa học viễn tưởng
+- thể thao
+- công nghệ
+= Chủ đề.
+?1 Nhân vật trữ tình trong thơ là:
++ người trực tiếp bộc lộ cảm xúc, suy nghĩ trong bài thơ
+- người đọc bài thơ
+- nhà xuất bản
+- người bình thơ
+= Khái niệm.
+?2 Trong câu ca dao "Lợi thì có lợi nhưng răng không còn", từ "lợi" được dùng để:
++ chơi chữ đồng âm (lợi ích và lợi răng)
+- so sánh
+- nhân hóa
+- ẩn dụ
+= Hai nghĩa của từ "lợi".
+?2 Cách chơi chữ thường gặp là:
++ dùng từ đồng âm, nói lái, từ trái nghĩa, điệp âm
+- liệt kê
+- câu hỏi tu từ
+- lời dẫn trực tiếp
+= Các lối chơi chữ.
+?2 Câu "Con cá đối nằm trên cối đá" có cách chơi chữ:
++ nói lái (cá đối – cối đá)
+- đồng âm
+- nhân hóa
+- so sánh
+= Đảo vần, đảo phụ âm đầu.
+?2 Nhịp thơ tám chữ thường gặp là:
++ 3/5, 5/3, 4/4
+- 2/2/2/1
+- 1/1/1
+- không có nhịp
+= Đặc điểm nhịp.
+> Tôi yêu đất nước những chiều lộng gió
+> Cánh diều quê bay giữa trời mênh mông
+> Dòng sông mẹ hiền chở nặng phù sa
+> Nuôi lúa vàng thơm ngát cả cánh đồng.
+?2 Đoạn thơ được viết chủ yếu theo thể:
++ tám chữ
+- lục bát
+- song thất lục bát
+- thất ngôn tứ tuyệt
+= Mỗi dòng có tám chữ.
+?2 Hình ảnh "Dòng sông mẹ hiền" sử dụng biện pháp:
++ ẩn dụ, nhân hóa
+- nói quá
+- chơi chữ
+- liệt kê
+= Dòng sông được ví như người mẹ.
+?3 Cảm xúc chủ đạo của đoạn thơ là:
++ tình yêu, niềm tự hào về quê hương đất nước
+- nỗi buồn chia li
+- sự giận dữ
+- nỗi sợ hãi
+= Cảm xúc nhân vật trữ tình.
+?3 Các hình ảnh "cánh diều", "phù sa", "lúa vàng" gợi:
++ vẻ đẹp bình dị, trù phú của làng quê
+- cảnh thành phố hiện đại
+- chiến trường khốc liệt
+- vùng sa mạc khô cằn
+= Hình ảnh thơ.
+>-
+?3 Đọc hiểu một bài thơ, cần chú ý:
++ thể thơ, hình ảnh, biện pháp tu từ, cảm xúc và chủ đề
+- chỉ đếm số chữ
+- chỉ tìm tên tác giả
+- chỉ học thuộc lòng
+= Cách đọc thơ.
+?3 Câu "Đi tu Phật bắt ăn chay / Thịt chó ăn được, thịt cầy thì không" chơi chữ bằng:
++ từ đồng nghĩa (chó – cầy) tạo tiếng cười
+- từ trái nghĩa
+- nói lái
+- từ đồng âm
+= Chó và cầy cùng chỉ một con vật.
+?4 Tác dụng của chơi chữ trong văn thơ là:
++ tạo sự dí dỏm, hài hước, làm câu văn hấp dẫn, có khi để châm biếm
+- làm câu văn khó hiểu
+- làm văn bản dài hơn
+- thay thế lập luận
+= Giá trị biểu đạt.
+?4 Điểm giống nhau giữa thơ tám chữ và thơ tự do là:
++ đều có thể diễn tả cảm xúc phóng khoáng, nhịp điệu linh hoạt
+- đều có tám câu cố định
+- đều bắt buộc gieo vần bằng ở mọi câu
+- đều là thơ chữ Hán
+= Thơ hiện đại.
+?4 Viết đoạn văn ghi lại cảm nghĩ về một bài thơ, cần:
++ nêu ấn tượng chung, phân tích nét đặc sắc nội dung và nghệ thuật có dẫn chứng
+- chép lại cả bài thơ
+- chỉ kể tiểu sử tác giả
+- kể một câu chuyện khác
+= Yêu cầu viết.
+
+## Bài 8. Đối diện với nỗi đau (bi kịch)
+?1 Bi kịch là thể loại kịch:
++ thể hiện xung đột gay gắt, thường kết thúc bằng sự thất bại hoặc cái chết của nhân vật chính
+- luôn kết thúc vui vẻ
+- chỉ gây cười
+- không có xung đột
+= Đặc trưng thể loại.
+?1 "Romeo và Juliet" là vở kịch của:
++ Shakespeare
+- Molière
+- Victor Hugo
+- Lỗ Tấn
+= Nhà viết kịch người Anh.
+?1 Hai dòng họ thù hận trong "Romeo và Juliet" là:
++ Montague (Môn-ta-ghiu) và Capulet (Ca-piu-lét)
+- Trịnh và Nguyễn
+- Holmes và Watson
+- Kim và Vương
+= Xung đột gia tộc.
+?1 Câu chuyện "Romeo và Juliet" diễn ra ở thành:
++ Verona (Ý)
+- Luân Đôn
+- Paris
+- Rome
+= Bối cảnh.
+?1 Ngôn ngữ chủ yếu của kịch là:
++ lời thoại của nhân vật (đối thoại, độc thoại, bàng thoại)
+- lời kể của người kể chuyện
+- vần thơ lục bát
+- bảng số liệu
+= Đặc trưng ngôn ngữ kịch.
+?1 Chỉ dẫn sân khấu trong kịch bản là:
++ lời chỉ dẫn về hành động, cử chỉ, bối cảnh, thường in nghiêng hoặc đặt trong ngoặc
+- lời thoại chính
+- tên tác giả
+- lời bình của khán giả
+= Thành phần kịch bản.
+?2 Xung đột chính trong "Romeo và Juliet" là giữa:
++ tình yêu tự do của đôi trẻ và mối thù truyền kiếp của hai dòng họ
+- hai quốc gia
+- con người và thiên nhiên
+- thám tử và tội phạm
+= Xung đột bi kịch.
+?2 Độc thoại là:
++ lời nhân vật tự nói với chính mình, bộc lộ suy nghĩ nội tâm
+- lời hai nhân vật nói với nhau
+- lời người dẫn chuyện
+- lời chỉ dẫn sân khấu
+= Khái niệm.
+?2 Bàng thoại là:
++ lời nhân vật nói riêng với khán giả, các nhân vật khác coi như không nghe thấy
+- lời đối đáp giữa các nhân vật
+- lời chỉ dẫn sân khấu
+- lời bài hát
+= Khái niệm.
+?2 Cảnh nổi tiếng Romeo đứng dưới vườn bày tỏ tình yêu với Juliet được gọi là:
++ cảnh ban công
+- cảnh vũ hội
+- cảnh đấu kiếm
+- cảnh hầm mộ
+= Màn II.
+> JULIET (một mình bên cửa sổ): Hỡi chàng, vì sao cái tên lại chia cắt đôi ta? Bông hồng kia nếu mang một cái tên khác thì hương thơm vẫn vậy thôi. Giá như chàng chẳng mang họ ấy, thiếp nguyện trao cả trái tim mình.
+> ROMEO (đứng khuất dưới vườn, nói khẽ): Ta nên nghe tiếp hay lên tiếng đây?
+?2 Lời của Juliet trong đoạn trích là:
++ độc thoại (nàng tưởng mình chỉ có một mình)
+- đối thoại với Romeo
+- bàng thoại
+- lời người kể chuyện
+= Nàng không biết Romeo đang nghe.
+?3 Lời của Romeo "Ta nên nghe tiếp hay lên tiếng đây?" là:
++ bàng thoại (nói khẽ, Juliet không nghe thấy)
+- đối thoại với Juliet
+- chỉ dẫn sân khấu
+- lời người dẫn chuyện
+= Lời nói riêng.
+?3 Hình ảnh "bông hồng" mang tên khác "hương thơm vẫn vậy" thể hiện quan niệm:
++ giá trị con người nằm ở bản chất, không phải ở dòng họ, tên gọi
+- tên gọi quyết định tất cả
+- hoa hồng không thơm
+- nên đổi tên hoa
+= Khát vọng vượt lên định kiến.
+?3 Các cụm từ trong ngoặc như "(một mình bên cửa sổ)" là:
++ chỉ dẫn sân khấu
+- lời thoại
+- bàng thoại
+- lời bình
+= Thành phần kịch bản.
+>-
+?3 Kết thúc của "Romeo và Juliet" là:
++ cả hai cùng chết, hai dòng họ hòa giải
+- hai người kết hôn hạnh phúc
+- Romeo trở thành vua
+- Juliet đi xa mãi mãi
+= Kết thúc bi kịch.
+?3 Ý nghĩa cái chết của Romeo và Juliet là:
++ lên án hận thù, ca ngợi tình yêu, thức tỉnh hai dòng họ
+- ca ngợi hận thù
+- phủ nhận tình yêu
+- không có ý nghĩa gì
+= Ý nghĩa nhân văn.
+?4 Giá trị nhân văn của "Romeo và Juliet" là:
++ khẳng định tình yêu và khát vọng tự do của con người vượt lên định kiến, hận thù
+- đề cao sự trả thù
+- khuyên con cái tuyệt đối vâng lời trong mọi việc
+- ca ngợi chiến tranh
+= Chủ nghĩa nhân văn thời Phục hưng.
+?4 Bi kịch khác hài kịch ở chỗ:
++ bi kịch gây xúc động, thương cảm; hài kịch gây tiếng cười phê phán
+- bi kịch luôn có kết thúc vui
+- hài kịch không có nhân vật
+- hai thể loại hoàn toàn giống nhau
+= So sánh thể loại.
+
+## Bài 9. Thế giới đa sắc màu (văn bản nghị luận xã hội, biến đổi cấu trúc câu)
+?1 Văn bản nghị luận xã hội bàn về:
++ một vấn đề, hiện tượng trong đời sống xã hội
+- một bài thơ cụ thể
+- một hiện tượng hóa học
+- một trò chơi
+= Đối tượng nghị luận.
+?1 Bài nghị luận về một vấn đề cần giải quyết thường có:
++ nêu vấn đề, phân tích nguyên nhân, tác hại và đề xuất giải pháp
+- chỉ kể chuyện
+- chỉ miêu tả cảnh vật
+- chỉ liệt kê số liệu
+= Bố cục lập luận.
+?1 Câu bị động là câu có chủ ngữ:
++ chỉ đối tượng chịu sự tác động của hoạt động
+- chỉ người thực hiện hoạt động
+- là một từ cảm thán
+- luôn là đại từ "tôi"
+= Câu bị động.
+?1 Từ thường dùng để tạo câu bị động là:
++ "bị", "được"
+- "và", "với"
+- "nếu", "thì"
+- "rất", "lắm"
+= Dấu hiệu nhận biết.
+?1 Phản đề trong văn nghị luận là:
++ ý kiến trái chiều mà người viết nêu ra để bác bỏ hoặc trao đổi
+- dẫn chứng cùng chiều
+- câu mở bài
+- tên văn bản
+= Tăng sức thuyết phục.
+?2 Chuyển câu "Mọi người yêu quý Lan" sang câu bị động:
++ Lan được mọi người yêu quý.
+- Lan yêu quý mọi người.
+- Mọi người được Lan yêu quý.
+- Lan bị yêu quý mọi người.
+= Đưa đối tượng lên làm chủ ngữ.
+?2 Câu nào là câu bị động?
++ Ngôi nhà được xây dựng năm 2020.
+- Người thợ xây ngôi nhà năm 2020.
+- Ngôi nhà rất đẹp.
+- Năm 2020, bố em xây nhà.
+= Có "được", chủ ngữ là đối tượng.
+?2 Mở rộng thành phần câu "Hoa nở" thành:
++ Những bông hoa hồng trong vườn nở rực rỡ.
+- Hoa.
+- Nở.
+- Hoa nở và.
+= Mở rộng bằng cụm từ.
+?2 Trong bài nghị luận về hiện tượng nghiện mạng xã hội, bằng chứng thuyết phục là:
++ số liệu khảo sát đáng tin cậy và ví dụ thực tế
+- tin đồn trên mạng
+- cảm nhận cá nhân không kiểm chứng
+- câu chuyện tưởng tượng
+= Bằng chứng xác thực.
+> Ngày nay, nhiều bạn trẻ dành hàng giờ mỗi ngày lướt mạng xã hội. Có người cho rằng điều đó giúp mở rộng hiểu biết. Điều này đúng một phần, song nếu sa đà, các bạn dễ đánh mất thời gian học tập, nghỉ ngơi và những cuộc trò chuyện thật với người thân. Vì vậy, mỗi người cần biết làm chủ chiếc điện thoại thay vì để nó làm chủ mình.
+?2 Vấn đề được bàn luận trong đoạn văn là:
++ việc sử dụng mạng xã hội của giới trẻ
+- lợi ích của thể thao
+- bảo vệ môi trường
+- học ngoại ngữ
+= Vấn đề nghị luận.
+?3 Câu "Có người cho rằng điều đó giúp mở rộng hiểu biết" đóng vai trò:
++ nêu ý kiến trái chiều (phản đề) để trao đổi
+- kết luận
+- bằng chứng số liệu
+- câu chủ đề
+= Lập luận đa chiều.
+?3 Giải pháp người viết đề xuất là:
++ biết làm chủ chiếc điện thoại, sử dụng mạng xã hội có kiểm soát
+- bỏ hẳn điện thoại
+- dùng mạng xã hội cả ngày
+- không cần thay đổi gì
+= Câu kết đoạn.
+?3 Câu "mỗi người cần biết làm chủ chiếc điện thoại thay vì để nó làm chủ mình" dùng biện pháp:
++ đối lập (làm chủ – bị làm chủ), nhân hóa chiếc điện thoại
+- so sánh
+- liệt kê
+- nói giảm nói tránh
+= Tăng sức gợi.
+>-
+?3 Lỗi logic trong câu "Bạn ấy học giỏi Toán nên chắc chắn học giỏi tất cả các môn" là:
++ khái quát vội vàng, suy luận thiếu căn cứ
+- sai chính tả
+- thiếu chủ ngữ
+- dùng sai dấu câu
+= Tránh lỗi lập luận.
+?3 Khi trình bày ý kiến trái chiều, người viết nên:
++ tôn trọng, phân tích khách quan rồi mới phản bác bằng lí lẽ
+- chế giễu người khác
+- bỏ qua hoàn toàn
+- công kích cá nhân
+= Văn hóa tranh luận.
+?4 Chuyển câu "Cơn bão đã làm đổ nhiều cây xanh" sang câu bị động:
++ Nhiều cây xanh đã bị cơn bão làm đổ.
+- Nhiều cây xanh đã làm đổ cơn bão.
+- Cơn bão đã bị nhiều cây xanh làm đổ.
+- Cây xanh làm cơn bão đổ.
+= Chủ ngữ chỉ đối tượng chịu tác động, dùng "bị".
+?4 Mục đích của việc dùng câu bị động trong văn bản là:
++ nhấn mạnh đối tượng chịu tác động hoặc liên kết với câu trước
+- làm câu sai ngữ pháp
+- tránh dùng động từ
+- làm câu ngắn lại bất kì lúc nào
+= Lựa chọn cấu trúc câu.
+?4 Một bài nghị luận xã hội thuyết phục cần tránh:
++ áp đặt, cực đoan, lập luận thiếu căn cứ
+- lí lẽ chặt chẽ
+- bằng chứng xác thực
+- giải pháp khả thi
+= Yêu cầu bài viết.
+
+## Bài 10. Văn học – lòng trắc ẩn (truyện hiện đại Việt Nam)
+?1 Truyện ngắn "Làng" là của:
++ Kim Lân
+- Nam Cao
+- Nguyễn Quang Sáng
+- Nguyễn Minh Châu
+= Viết năm 1948.
+?1 Nhân vật chính trong truyện "Làng" là:
++ ông Hai
+- ông Sáu
+- anh thanh niên
+- Nhĩ
+= Người nông dân yêu làng.
+?1 Làng của ông Hai tên là:
++ chợ Dầu
+- Vũ Đại
+- Đông Xá
+- Mỹ Lý
+= Chi tiết truyện.
+?1 "Chiếc lược ngà" là truyện của:
++ Nguyễn Quang Sáng
+- Kim Lân
+- Nguyễn Thành Long
+- Tô Hoài
+= Tình cha con thời chiến.
+?1 "Lặng lẽ Sa Pa" là truyện của:
++ Nguyễn Thành Long
+- Nguyễn Minh Châu
+- Kim Lân
+- Nguyễn Tuân
+= Anh thanh niên làm công tác khí tượng.
+?1 Nhân vật Nhĩ là nhân vật trong truyện:
++ "Bến quê" (Nguyễn Minh Châu)
+- "Làng"
+- "Chiếc lược ngà"
+- "Lặng lẽ Sa Pa"
+= Người bệnh nằm bên cửa sổ nhìn bãi bồi bên kia sông.
+?2 Tình huống truyện đặc sắc trong "Làng" là:
++ ông Hai nghe tin làng mình theo giặc
+- ông Hai đi lính
+- ông Hai bị ốm
+- ông Hai được thưởng
+= Tình huống thử thách tình yêu làng, yêu nước.
+?2 Khi nghe tin cải chính làng không theo giặc, ông Hai:
++ vui mừng khoe khắp nơi dù nhà mình bị đốt
+- buồn bã
+- giận dữ
+- im lặng
+= Niềm vui lớn hơn mất mát riêng.
+?2 Tình cảm nổi bật của ông Hai là:
++ tình yêu làng gắn bó với lòng yêu nước, tinh thần kháng chiến
+- tình yêu thiên nhiên
+- tình bạn
+- lòng ham giàu
+= Chủ đề truyện.
+?2 Trong "Chiếc lược ngà", bé Thu ban đầu không nhận ông Sáu là ba vì:
++ vết thẹo trên mặt ông khác với người trong ảnh
+- ông Sáu nói dối
+- bé Thu bị ốm
+- bé Thu không có ảnh ba
+= Chi tiết vết thẹo.
+> Chiều ấy, ông ngồi lặng bên hiên, nhìn ra cánh đồng đã gặt. Cả đời ông đi biết bao nơi, vậy mà giờ mới thấy cái bờ tre đầu làng sao thân thuộc đến thế. Ông chợt hiểu ra: những điều giản dị nhất ở ngay bên mình lại thường là những điều ta bỏ lỡ lâu nhất.
+?2 Cảnh vật trong đoạn văn được nhìn qua:
++ điểm nhìn và cảm xúc của nhân vật "ông"
+- lời kể của một đứa trẻ
+- lời thoại giữa hai nhân vật
+- bản tin thời sự
+= Điểm nhìn nhân vật.
+?3 Suy ngẫm của nhân vật ở cuối đoạn văn mang tính chất:
++ triết lí về giá trị của những điều bình dị gần gũi
+- hài hước
+- trào phúng
+- thông tin khoa học
+= Chất triết lí.
+?3 Từ "chợt" trong câu "Ông chợt hiểu ra" cho thấy:
++ sự bừng tỉnh, nhận thức bất ngờ của nhân vật
+- sự chậm chạp
+- sự giận dữ
+- hành động lặp lại
+= Khoảnh khắc nhận thức.
+?3 Đoạn văn gần với chủ đề của truyện:
++ "Bến quê" (vẻ đẹp bình dị gần gũi thường bị bỏ lỡ)
+- "Romeo và Juliet"
+- truyện trinh thám
+- "Chuyện người con gái Nam Xương"
+= Điểm tương đồng chủ đề.
+>-
+?3 Anh thanh niên trong "Lặng lẽ Sa Pa" tiêu biểu cho:
++ những con người lặng lẽ cống hiến cho đất nước
+- người lười biếng
+- người thích nổi tiếng
+- người bỏ quê ra phố
+= Ý nghĩa hình tượng.
+?3 Chiếc lược ngà trong truyện cùng tên là biểu tượng của:
++ tình cha con thiêng liêng, sâu nặng
+- sự giàu có
+- chiến thắng quân sự
+- nỗi sợ hãi
+= Ý nghĩa vật kỉ niệm.
+?4 Điểm chung của các truyện "Làng", "Chiếc lược ngà", "Lặng lẽ Sa Pa" là:
++ ngợi ca vẻ đẹp tâm hồn con người Việt Nam trong kháng chiến và xây dựng đất nước
+- đều là truyện trinh thám
+- đều có yếu tố kì ảo
+- đều viết bằng chữ Hán
+= Cảm hứng chung.
+?4 Khi viết bài nghị luận phân tích một truyện ngắn, cần tập trung vào:
++ chủ đề, nhân vật, tình huống truyện và những nét đặc sắc nghệ thuật
+- tóm tắt lại toàn bộ truyện
+- chỉ nêu tiểu sử tác giả
+- chép nguyên văn cả truyện
+= Yêu cầu bài viết.
+?4 Thông điệp chung mà văn học nhân đạo gửi tới người đọc là:
++ biết yêu thương, cảm thông và trân trọng con người
+- sống ích kỉ
+- thờ ơ với người khác
+- chỉ quan tâm tới bản thân
+= Giá trị văn học.

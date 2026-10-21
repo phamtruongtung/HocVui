@@ -1,0 +1,453 @@
+// KHTN 6 – Tập 2
+#! HK2
+# Chương VI. Đa dạng thế giới sống
+
+## Bài 25. Hệ thống phân loại sinh vật
+?1 Sinh vật được chia thành mấy giới?
++ 5 giới
+- 3 giới
+- 2 giới
+- 7 giới
+= Khởi sinh, Nguyên sinh, Nấm, Thực vật, Động vật.
+?1 Bậc phân loại nhỏ nhất là:
++ loài
+- giới
+- ngành
+- họ
+= Loài là bậc thấp nhất.
+?1 Vi khuẩn thuộc giới:
++ Khởi sinh
+- Nấm
+- Thực vật
+- Động vật
+= Sinh vật nhân sơ.
+?2 Thứ tự các bậc phân loại từ thấp đến cao là:
++ loài → chi → họ → bộ → lớp → ngành → giới
+- giới → ngành → lớp → bộ → họ → chi → loài
+- loài → họ → chi → bộ
+- chi → loài → họ
+= Từ thấp đến cao.
+?2 Tên khoa học của loài người là Homo sapiens. "Homo" là tên:
++ chi
+- loài
+- họ
+- giới
+= Tên khoa học gồm tên chi + tên loài.
+?3 Vì sao cần phân loại sinh vật?
++ để dễ gọi tên, nghiên cứu và nhận biết sự đa dạng sinh vật
+- để tiêu diệt sinh vật
+- để đặt tên cho đẹp
+- không có ý nghĩa
+= Phân loại giúp sắp xếp thế giới sống.
+?3 Nấm men thuộc giới:
++ Nấm
+- Thực vật
+- Khởi sinh
+- Động vật
+= Nấm là sinh vật nhân thực, dị dưỡng.
+?4 Hai con vật cùng họ thì chắc chắn:
++ cùng bộ, cùng lớp, cùng ngành, cùng giới
+- cùng loài
+- cùng chi
+- khác giới
+= Bậc nhỏ hơn nằm trong bậc lớn hơn.
+
+## Bài 26. Khóa lưỡng phân
+?1 Khóa lưỡng phân là cách phân loại sinh vật dựa trên:
++ các cặp đặc điểm đối lập
+- màu sắc ngẫu nhiên
+- kích thước duy nhất
+- tên gọi địa phương
+= Mỗi bước chia thành 2 nhóm.
+?1 Ở mỗi bậc của khóa lưỡng phân, sinh vật được chia thành:
++ 2 nhóm
+- 3 nhóm
+- 4 nhóm
+- nhiều nhóm
+= "Lưỡng" nghĩa là hai.
+?1 Cặp đặc điểm nào phù hợp để xây dựng khóa lưỡng phân?
++ có lông vũ / không có lông vũ
+- to / rất to
+- đẹp / xấu
+- đắt / rẻ
+= Đặc điểm đối lập, rõ ràng.
+?2 Để phân loại 4 loài sinh vật bằng khóa lưỡng phân cần ít nhất bao nhiêu bước phân chia?
++ 3
+- 2
+- 4
+- 1
+= n loài cần n − 1 lần phân chia.
+?2 Phân biệt chim và cá bằng đặc điểm:
++ có lông vũ hay có vảy
+- có mắt hay không
+- có miệng hay không
+- sống hay chết
+= Đặc điểm đặc trưng.
+?3 Khóa lưỡng phân phân biệt mèo, gà, cá, rắn. Bước đầu tiên chia "có chân/không có chân" thì nhóm không có chân gồm:
++ cá, rắn
+- mèo, gà
+- gà, cá
+- mèo, rắn
+= Cá và rắn không có chân.
+?3 Tiếp theo, chia nhóm "có chân" bằng đặc điểm:
++ có lông vũ / có lông mao
+- có mắt / không mắt
+- biết bơi / không biết bơi
+- sống trên cạn / dưới nước
+= Gà có lông vũ, mèo có lông mao.
+?4 Muốn phân loại 8 loài cần ít nhất bao nhiêu cặp đặc điểm đối lập (bậc phân chia)?
++ 7
+- 8
+- 4
+- 3
+= Mỗi lần chia tăng thêm 1 nhóm.
+
+## Bài 27. Vi khuẩn
+?1 Vi khuẩn có cấu tạo:
++ đơn bào, nhân sơ
+- đa bào, nhân thực
+- không có tế bào
+- đa bào, nhân sơ
+= Vi khuẩn là sinh vật nhân sơ đơn bào.
+?1 Hình dạng phổ biến của vi khuẩn là:
++ hình que, hình cầu, hình xoắn
+- hình sao
+- hình vuông
+- hình lá cây
+= Ba dạng phổ biến.
+?1 Vi khuẩn có lợi được dùng để:
++ làm sữa chua, muối dưa
+- gây bệnh tả
+- làm hỏng thức ăn
+- gây bệnh lao
+= Vi khuẩn lactic lên men.
+?2 Bệnh do vi khuẩn gây ra là:
++ bệnh tả
+- bệnh cúm
+- bệnh sởi
+- bệnh thủy đậu
+= Tả do vi khuẩn Vibrio cholerae.
+?2 Biện pháp phòng bệnh do vi khuẩn là:
++ ăn chín uống sôi, rửa tay sạch
+- ăn đồ sống
+- uống nước chưa đun sôi
+- không rửa tay
+= Vệ sinh ăn uống.
+?3 Thức ăn để lâu ngoài không khí bị ôi thiu chủ yếu do:
++ vi khuẩn phân hủy
+- ánh sáng
+- nhiệt độ thấp
+- không khí sạch
+= Vi khuẩn hoại sinh.
+?3 Vi khuẩn trong đất có vai trò:
++ phân hủy xác sinh vật thành chất khoáng
+- làm đất cằn cỗi
+- gây hại cây trồng hoàn toàn
+- không có vai trò
+= Tham gia chu trình vật chất.
+?4 Vì sao không nên lạm dụng thuốc kháng sinh?
++ có thể làm vi khuẩn kháng thuốc
+- vì thuốc quá đắt
+- vì thuốc có vị đắng
+- vì thuốc chữa được virus
+= Kháng kháng sinh là nguy cơ lớn.
+
+## Bài 29. Virus
+?1 Virus có cấu tạo:
++ chưa có cấu tạo tế bào
+- đơn bào
+- đa bào
+- nhân thực
+= Gồm vỏ protein và vật chất di truyền.
+?1 Virus chỉ sống và sinh sản được:
++ trong tế bào vật chủ
+- trong nước
+- trong đất
+- trong không khí
+= Kí sinh bắt buộc.
+?1 Bệnh do virus gây ra là:
++ cúm
+- tả
+- lao
+- thương hàn
+= Cúm do virus.
+?2 Hình dạng virus có thể là:
++ dạng xoắn, khối, hỗn hợp
+- hình lá
+- hình chân
+- hình hoa
+= Ba dạng cấu trúc.
+?2 Biện pháp phòng bệnh do virus hiệu quả là:
++ tiêm vaccine
+- uống kháng sinh
+- ăn nhiều đường
+- không ngủ
+= Vaccine giúp tạo miễn dịch.
+?3 Kháng sinh không chữa được bệnh do virus vì:
++ virus không có cấu tạo tế bào như vi khuẩn
+- virus quá to
+- kháng sinh quá yếu
+- virus có lợi
+= Kháng sinh tác động lên vi khuẩn.
+?3 Virus có ích được ứng dụng để:
++ sản xuất vaccine, thuốc trừ sâu sinh học
+- làm sữa chua
+- làm bánh mì
+- làm nước mắm
+= Ứng dụng virus trong y học, nông nghiệp.
+?4 Bệnh COVID-19 lây chủ yếu qua:
++ giọt bắn đường hô hấp
+- ăn rau sống
+- muỗi đốt
+- đất cát
+= Đeo khẩu trang giúp phòng bệnh.
+
+## Bài 30. Nguyên sinh vật
+?1 Nguyên sinh vật phần lớn là:
++ sinh vật đơn bào nhân thực
+- sinh vật đa bào phức tạp
+- sinh vật nhân sơ
+- virus
+= Ví dụ: trùng roi, trùng giày.
+?1 Trùng sốt rét gây bệnh sốt rét, lây truyền qua:
++ muỗi Anopheles
+- ruồi
+- nước uống
+- không khí
+= Muỗi đốt truyền bệnh.
+?1 Trùng kiết lị gây bệnh ở:
++ ruột người
+- phổi
+- da
+- mắt
+= Gây bệnh kiết lị.
+?2 Tảo lục là nguyên sinh vật có khả năng:
++ quang hợp
+- gây bệnh sốt rét
+- ăn thịt
+- sống kí sinh trong máu
+= Có lục lạp.
+?2 Biện pháp phòng bệnh sốt rét là:
++ ngủ màn, diệt muỗi
+- ăn chín uống sôi
+- rửa tay
+- tiêm phòng cúm
+= Ngăn muỗi đốt.
+?3 Trùng roi xanh vừa có thể tự dưỡng vừa dị dưỡng vì:
++ có lục lạp để quang hợp và có thể hấp thụ chất hữu cơ
+- có xương
+- có lá
+- có rễ
+= Đặc điểm đặc biệt.
+?3 Vai trò của tảo trong tự nhiên là:
++ tạo oxygen và làm thức ăn cho động vật thủy sinh
+- gây ô nhiễm
+- gây bệnh cho người
+- không có vai trò
+= Tảo là sinh vật sản xuất.
+?4 Hiện tượng "tảo nở hoa" làm cá chết hàng loạt vì:
++ tảo phát triển quá mức làm thiếu oxygen trong nước
+- tảo ăn cá
+- nước quá lạnh
+- tảo tạo nhiều oxygen
+= Ô nhiễm nguồn nước giàu dinh dưỡng.
+
+## Bài 32. Nấm
+?1 Nấm thuộc giới:
++ Nấm
+- Thực vật
+- Động vật
+- Khởi sinh
+= Nấm là sinh vật nhân thực dị dưỡng.
+?1 Nấm ăn được là:
++ nấm hương, nấm rơm
+- nấm độc đỏ
+- nấm mốc trên bánh mì
+- nấm gây hắc lào
+= Nấm làm thực phẩm.
+?1 Nấm men được dùng để:
++ làm bánh mì, nấu rượu
+- làm sữa chua
+- chữa cúm
+- làm muối
+= Nấm men lên men.
+?2 Bệnh hắc lào ở người do:
++ nấm
+- vi khuẩn
+- virus
+- trùng sốt rét
+= Nấm kí sinh trên da.
+?2 Nấm không có:
++ chất diệp lục
+- tế bào
+- nhân
+- thành tế bào
+= Nấm không quang hợp.
+?3 Dấu hiệu nhận biết nấm độc thường là:
++ màu sắc sặc sỡ, có vòng cuống, bao gốc
+- màu trắng nhạt luôn an toàn
+- mọc trên rơm
+- có mùi thơm
+= Không ăn nấm lạ.
+?3 Penicillium là loại nấm dùng để sản xuất:
++ thuốc kháng sinh penicillin
+- vaccine
+- đường
+- muối
+= Kháng sinh đầu tiên.
+?4 Bánh mì để lâu bị mốc xanh chủ yếu là do:
++ nấm mốc phát triển trong điều kiện ẩm
+- vi khuẩn lactic
+- virus
+- tảo
+= Nấm mốc thích nơi ẩm ấm.
+
+## Bài 34. Thực vật
+?1 Thực vật có khả năng:
++ quang hợp tự tạo chất hữu cơ
+- di chuyển nhanh
+- ăn thịt các loài khác như động vật
+- không cần nước
+= Thực vật tự dưỡng.
+?1 Rêu là thực vật:
++ chưa có mạch dẫn
+- có hoa
+- hạt trần
+- hạt kín
+= Rêu nhỏ, sống nơi ẩm.
+?1 Cây thông thuộc nhóm:
++ hạt trần
+- hạt kín
+- rêu
+- dương xỉ
+= Hạt nằm lộ trên lá noãn.
+?2 Dương xỉ sinh sản bằng:
++ bào tử
+- hạt
+- hoa
+- quả
+= Dương xỉ có túi bào tử.
+?2 Đặc điểm của thực vật hạt kín là:
++ có hoa, quả; hạt nằm trong quả
+- không có mạch dẫn
+- sinh sản bằng bào tử
+- hạt lộ ra ngoài
+= Nhóm tiến hóa nhất.
+?3 Vai trò của thực vật đối với môi trường:
++ điều hòa khí hậu, cung cấp oxygen, chống xói mòn
+- gây ô nhiễm không khí
+- làm đất cằn cỗi
+- tạo khí độc
+= Rừng là lá phổi xanh.
+?3 Cây lúa thuộc nhóm thực vật:
++ hạt kín
+- hạt trần
+- dương xỉ
+- rêu
+= Lúa có hoa và quả (hạt).
+?4 Vì sao cần trồng rừng ở vùng đồi núi trọc?
++ để chống xói mòn, giữ nước, hạn chế lũ quét
+- để làm đẹp
+- để có chỗ nghỉ
+- không cần thiết
+= Rễ cây giữ đất.
+
+## Bài 36. Động vật
+?1 Động vật được chia thành hai nhóm lớn:
++ động vật không xương sống và động vật có xương sống
+- động vật ăn cỏ và ăn thịt
+- động vật trên cạn và dưới nước
+- động vật lớn và nhỏ
+= Dựa vào xương cột sống.
+?1 Con nào thuộc động vật có xương sống?
++ con cá chép
+- con giun đất
+- con ốc sên
+- con châu chấu
+= Cá có cột sống.
+?1 Lớp động vật có lông vũ là:
++ Chim
+- Thú
+- Bò sát
+- Lưỡng cư
+= Chim có lông vũ.
+?2 Ếch thuộc lớp:
++ Lưỡng cư
+- Bò sát
+- Cá
+- Thú
+= Sống cả trên cạn và dưới nước.
+?2 Đặc điểm của lớp Thú là:
++ có lông mao, đẻ con và nuôi con bằng sữa
+- có vảy, đẻ trứng
+- có lông vũ
+- thở bằng mang
+= Đặc trưng lớp Thú.
+?3 Con dơi thuộc lớp:
++ Thú
+- Chim
+- Bò sát
+- Lưỡng cư
+= Dơi nuôi con bằng sữa.
+?3 Động vật gây hại cho con người là:
++ muỗi, chuột
+- trâu, bò
+- gà, vịt
+- ong mật
+= Truyền bệnh, phá hoại.
+?4 Cá voi sống dưới nước nhưng thuộc lớp Thú vì:
++ thở bằng phổi, đẻ con và nuôi con bằng sữa
+- có vây
+- sống dưới nước
+- có hình dạng giống cá
+= Đặc điểm của thú.
+
+## Bài 38. Đa dạng sinh học
+?1 Đa dạng sinh học là:
++ sự phong phú về số loài, hệ sinh thái và nguồn gen
+- chỉ số lượng cây xanh
+- số người trên Trái Đất
+- số động vật nuôi
+= Định nghĩa đa dạng sinh học.
+?1 Nơi có đa dạng sinh học cao nhất là:
++ rừng mưa nhiệt đới
+- hoang mạc
+- vùng băng giá
+- sa mạc cát
+= Điều kiện thuận lợi cho nhiều loài.
+?1 Nguyên nhân làm suy giảm đa dạng sinh học là:
++ phá rừng, săn bắt trái phép
+- trồng rừng
+- bảo vệ động vật
+- lập khu bảo tồn
+= Tác động tiêu cực của con người.
+?2 Hoang mạc có đa dạng sinh học thấp vì:
++ khí hậu khắc nghiệt, thiếu nước
+- quá nhiều nước
+- nhiều cây cối
+- khí hậu ôn hòa
+= Ít loài thích nghi được.
+?2 Biện pháp bảo vệ đa dạng sinh học là:
++ thành lập vườn quốc gia, khu bảo tồn
+- săn bắt động vật quý
+- chặt phá rừng
+- buôn bán động vật hoang dã
+= Bảo vệ nơi sống.
+?3 Vườn quốc gia Cúc Phương thuộc tỉnh:
++ Ninh Bình
+- Quảng Bình
+- Lâm Đồng
+- Đồng Nai
+= Vườn quốc gia đầu tiên của Việt Nam.
+?3 Đa dạng sinh học có vai trò đối với con người:
++ cung cấp thực phẩm, dược liệu, nguyên liệu
+- gây hại hoàn toàn
+- không liên quan
+- chỉ để ngắm
+= Giá trị kinh tế và sinh thái.
+?4 Khi một loài trong chuỗi thức ăn bị tiêu diệt, điều có thể xảy ra là:
++ mất cân bằng sinh thái
+- các loài khác không bị ảnh hưởng
+- đa dạng sinh học tăng
+- môi trường tốt hơn
+= Các loài liên hệ với nhau.

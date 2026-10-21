@@ -1,0 +1,1053 @@
+// Lịch sử và Địa lí 6 – Kết nối tri thức với cuộc sống. Bài Lịch sử và Địa lí xếp xen kẽ theo tiến độ dạy song song.
+#! HK1
+# Học kì 1
+
+## Sử – Bài 1. Lịch sử và cuộc sống
+?1 Lịch sử là:
++ những gì đã diễn ra trong quá khứ
+- những gì sẽ xảy ra trong tương lai
+- những câu chuyện tưởng tượng
+- dự báo thời tiết
+= Định nghĩa lịch sử.
+?1 Môn Lịch sử là môn học tìm hiểu về:
++ lịch sử loài người và các hoạt động của con người trong quá khứ
+- các hành tinh
+- cấu tạo cơ thể
+- các phép tính
+= Đối tượng của môn Lịch sử.
+?1 Học lịch sử giúp chúng ta:
++ hiểu cội nguồn, rút ra bài học cho hiện tại và tương lai
+- biết bói toán
+- tính toán nhanh hơn
+- không cần thiết
+= Ý nghĩa của học lịch sử.
+?2 "Ôn cố tri tân" có nghĩa là:
++ ôn lại cái cũ để hiểu biết cái mới
+- quên quá khứ
+- chỉ học cái mới
+- không cần học
+= Câu nói đề cao việc học lịch sử.
+?2 Hoạt động nào giúp em tìm hiểu lịch sử địa phương?
++ tham quan di tích, bảo tàng, hỏi chuyện người cao tuổi
+- chơi điện tử
+- xem phim viễn tưởng
+- đọc truyện tranh siêu anh hùng
+= Tìm hiểu từ nguồn tư liệu.
+?3 Vì sao nói "Dân ta phải biết sử ta"?
++ để hiểu cội nguồn, tự hào và giữ gìn truyền thống dân tộc
+- để thi điểm cao
+- để biết tên vua
+- để kể chuyện cười
+= Lời Chủ tịch Hồ Chí Minh.
+?3 Bảo tàng là nơi:
++ lưu giữ, trưng bày hiện vật lịch sử
+- bán hàng
+- tổ chức thi đấu thể thao
+- trồng cây
+= Nguồn tư liệu hiện vật.
+?4 Câu "Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam" là của:
++ Hồ Chí Minh
+- Nguyễn Trãi
+- Lý Thường Kiệt
+- Trần Hưng Đạo
+= Trích "Lịch sử nước ta" (1942).
+
+## Địa – Bài 1. Hệ thống kinh, vĩ tuyến và tọa độ địa lí
+?1 Kinh tuyến là:
++ đường nối cực Bắc với cực Nam trên quả Địa Cầu
+- vòng tròn song song với Xích đạo
+- đường Xích đạo
+- đường bờ biển
+= Định nghĩa kinh tuyến.
+?1 Vĩ tuyến dài nhất là:
++ Xích đạo
+- vĩ tuyến 23°27'B
+- vòng cực Bắc
+- kinh tuyến gốc
+= Xích đạo là vĩ tuyến 0°.
+?1 Kinh tuyến gốc là kinh tuyến:
++ 0°, đi qua đài thiên văn Greenwich (Luân Đôn)
+- 180°
+- đi qua Hà Nội
+- dài nhất
+= Kinh tuyến 0°.
+?2 Tọa độ địa lí của một điểm gồm:
++ kinh độ và vĩ độ
+- độ cao và độ sâu
+- hướng và khoảng cách
+- nhiệt độ và lượng mưa
+= Xác định vị trí trên bề mặt Trái Đất.
+?2 Nửa cầu Bắc nằm ở:
++ phía bắc đường Xích đạo
+- phía nam Xích đạo
+- phía đông kinh tuyến gốc
+- phía tây kinh tuyến gốc
+= Xích đạo chia Trái Đất thành hai nửa cầu Bắc, Nam.
+?3 Hà Nội có tọa độ khoảng 21°B, 105°Đ. Hà Nội nằm ở:
++ nửa cầu Bắc và nửa cầu Đông
+- nửa cầu Nam và nửa cầu Tây
+- nửa cầu Bắc và nửa cầu Tây
+- nửa cầu Nam và nửa cầu Đông
+= Vĩ độ Bắc, kinh độ Đông.
+?3 Nếu cách 10° vẽ một kinh tuyến thì trên quả Địa Cầu có:
++ 36 kinh tuyến
+- 18 kinh tuyến
+- 10 kinh tuyến
+- 360 kinh tuyến
+= 360 : 10 = 36.
+?4 Nếu cách 10° vẽ một vĩ tuyến (kể cả Xích đạo và không tính hai cực) thì có:
++ 17 vĩ tuyến
+- 18 vĩ tuyến
+- 36 vĩ tuyến
+- 9 vĩ tuyến
+= Mỗi nửa cầu 8 vĩ tuyến (10°–80°) và Xích đạo: 8 + 8 + 1 = 17.
+
+## Sử – Bài 2. Dựa vào đâu để biết và phục dựng lại lịch sử?
+?1 Tư liệu hiện vật là:
++ những di tích, đồ vật của người xưa còn giữ lại
+- những câu chuyện truyền miệng
+- những bài viết trên giấy
+- những bộ phim
+= Ví dụ: trống đồng, bia đá.
+?1 Truyền thuyết "Thánh Gióng" là loại tư liệu:
++ truyền miệng
+- hiện vật
+- chữ viết
+- gốc
+= Được kể lại qua nhiều thế hệ.
+?1 Tư liệu chữ viết là:
++ những bản ghi, sách vở, văn bia
+- đồ gốm
+- truyện cổ tích kể miệng
+- công cụ đá
+= Thông tin bằng chữ.
+?2 Tư liệu gốc là:
++ tư liệu liên quan trực tiếp, ra đời vào thời điểm diễn ra sự kiện
+- tư liệu viết lại sau nhiều năm
+- truyện cổ tích
+- tranh tưởng tượng
+= Có giá trị xác thực cao nhất.
+?2 Trống đồng Đông Sơn là loại tư liệu:
++ hiện vật
+- chữ viết
+- truyền miệng
+- âm thanh
+= Hiện vật khảo cổ.
+?3 Bia Tiến sĩ ở Văn Miếu là loại tư liệu:
++ chữ viết (khắc trên đá)
+- truyền miệng
+- âm nhạc
+- tưởng tượng
+= Văn bia ghi tên người đỗ đạt.
+?3 Để biết chính xác một sự kiện, nhà sử học cần:
++ đối chiếu nhiều nguồn tư liệu khác nhau
+- chỉ tin vào truyền thuyết
+- đoán theo cảm tính
+- chỉ dùng một nguồn
+= Đảm bảo tính khách quan.
+?4 Vì sao tư liệu truyền miệng cần được kiểm chứng?
++ vì qua nhiều đời kể lại có thể bị thêm bớt, sai lệch
+- vì nó luôn sai hoàn toàn
+- vì không ai tin
+- vì quá ngắn
+= Truyền miệng có yếu tố hư cấu.
+
+## Địa – Bài 2. Kí hiệu và chú giải trên một số bản đồ thông dụng
+?1 Kí hiệu bản đồ dùng để:
++ thể hiện các đối tượng địa lí trên bản đồ
+- trang trí bản đồ
+- ghi tên người vẽ
+- tính tỉ lệ
+= Kí hiệu đại diện cho đối tượng.
+?1 Bảng chú giải cho biết:
++ ý nghĩa của các kí hiệu trên bản đồ
+- tỉ lệ bản đồ
+- tên tác giả
+- năm xuất bản
+= Đọc chú giải trước khi đọc bản đồ.
+?1 Ba loại kí hiệu bản đồ là:
++ kí hiệu điểm, kí hiệu đường, kí hiệu diện tích
+- kí hiệu màu, mùi, vị
+- kí hiệu to, nhỏ, vừa
+- kí hiệu chữ, số, hình
+= Phân loại theo hình thức.
+?2 Đường biên giới quốc gia được thể hiện bằng kí hiệu:
++ đường
+- điểm
+- diện tích
+- chữ
+= Đối tượng phân bố theo chiều dài.
+?2 Vùng trồng lúa được thể hiện bằng kí hiệu:
++ diện tích
+- điểm
+- đường
+- mũi tên
+= Đối tượng phân bố trên diện rộng.
+?3 Sân bay trên bản đồ thường thể hiện bằng:
++ kí hiệu điểm (hình máy bay)
+- kí hiệu đường
+- kí hiệu diện tích
+- màu xanh lam
+= Đối tượng chiếm diện tích nhỏ.
+?3 Trên bản đồ tự nhiên, màu xanh lam thường thể hiện:
++ sông, hồ, biển
+- đồi núi cao
+- đồng bằng
+- sa mạc
+= Màu nước.
+?4 Tỉ lệ bản đồ 1 : 1 000 000 nghĩa là 1 cm trên bản đồ ứng với ngoài thực tế:
++ 10 km
+- 1 km
+- 100 km
+- 1 000 m
+= 1 000 000 cm = 10 km.
+
+## Sử – Bài 3. Thời gian trong lịch sử
+?1 Âm lịch được tính theo chu kì chuyển động của:
++ Mặt Trăng quanh Trái Đất
+- Trái Đất quanh Mặt Trời
+- Mặt Trời quanh Trái Đất
+- các vì sao
+= Âm lịch dựa vào Mặt Trăng.
+?1 Dương lịch được tính theo chu kì:
++ Trái Đất quay quanh Mặt Trời
+- Mặt Trăng quay quanh Trái Đất
+- ngày đêm
+- mùa mưa
+= Dương lịch dựa vào Mặt Trời.
+?1 Một thế kỉ là:
++ 100 năm
+- 10 năm
+- 1 000 năm
+- 50 năm
+= Thế kỉ = 100 năm.
+?2 Năm 2026 thuộc thế kỉ:
++ XXI
+- XX
+- XXII
+- XIX
+= Thế kỉ XXI: 2001–2100.
+?2 Một thiên niên kỉ là:
++ 1 000 năm
+- 100 năm
+- 10 năm
+- 10 000 năm
+= Thiên niên kỉ = 1 000 năm.
+?3 Năm 179 TCN cách năm 2026 bao nhiêu năm?
++ 2 205 năm
+- 1 847 năm
+- 2 026 năm
+- 2 204 năm
+= 179 + 2026 = 2 205 năm.
+?3 Năm 938 (chiến thắng Bạch Đằng của Ngô Quyền) thuộc thế kỉ:
++ X
+- IX
+- XI
+- VIII
+= Từ năm 901 đến 1000 là thế kỉ X.
+?4 Năm 40 (khởi nghĩa Hai Bà Trưng) cách năm 1945 bao nhiêu năm?
++ 1 905 năm
+- 1 985 năm
+- 1 940 năm
+- 2 000 năm
+= 1945 − 40 = 1 905.
+
+## Địa – Bài 3. Tìm đường đi trên bản đồ
+?1 Trên bản đồ, nếu không có mũi tên chỉ hướng, phía trên bản đồ là hướng:
++ Bắc
+- Nam
+- Đông
+- Tây
+= Quy ước hướng trên bản đồ.
+?1 Phía bên phải bản đồ là hướng:
++ Đông
+- Tây
+- Bắc
+- Nam
+= Bắc trên, Nam dưới, Đông phải, Tây trái.
+?1 Để biết khoảng cách thực tế giữa hai địa điểm trên bản đồ, ta dựa vào:
++ tỉ lệ bản đồ
+- bảng chú giải
+- màu sắc
+- tên bản đồ
+= Tỉ lệ cho biết mức thu nhỏ.
+?2 Hướng nằm giữa Bắc và Đông là:
++ Đông Bắc
+- Tây Bắc
+- Đông Nam
+- Tây Nam
+= Hướng trung gian.
+?2 Trên bản đồ tỉ lệ 1 : 500 000, hai điểm cách nhau 4 cm. Khoảng cách thực tế là:
++ 20 km
+- 2 km
+- 200 km
+- 5 km
+= 4 × 500 000 cm = 2 000 000 cm = 20 km.
+?3 Để tìm đường đi ngắn nhất giữa hai địa điểm trên bản đồ, cần:
++ xác định vị trí hai điểm, hướng đi và các tuyến đường nối
+- chỉ nhìn màu
+- đọc tên bản đồ
+- tính diện tích
+= Kĩ năng đọc bản đồ.
+?3 Ứng dụng tìm đường phổ biến trên điện thoại là:
++ bản đồ số (Google Maps…)
+- máy tính bỏ túi
+- từ điển
+- nhạc
+= Bản đồ số giúp chỉ đường.
+?4 Hai thành phố cách nhau 150 km. Trên bản đồ tỉ lệ 1 : 3 000 000, khoảng cách là:
++ 5 cm
+- 50 cm
+- 0,5 cm
+- 45 cm
+= 15 000 000 cm : 3 000 000 = 5 cm.
+
+## Sử – Bài 4. Nguồn gốc loài người
+?1 Loài người có nguồn gốc từ:
++ loài vượn người
+- loài cá
+- loài chim
+- thần thánh
+= Theo khoa học, con người tiến hóa từ vượn người.
+?1 Quá trình tiến hóa từ vượn thành người gồm các giai đoạn:
++ vượn người → người tối cổ → người tinh khôn
+- người tinh khôn → vượn người → người tối cổ
+- người tối cổ → vượn người
+- vượn người → người tinh khôn → người tối cổ
+= Ba giai đoạn tiến hóa.
+?1 Dấu tích người tối cổ ở Việt Nam được tìm thấy ở:
++ Thẩm Khuyên, Thẩm Hai (Lạng Sơn)
+- Hà Nội
+- TP Hồ Chí Minh
+- Đà Nẵng
+= Hang động ở Lạng Sơn.
+?2 Đặc điểm của người tinh khôn so với người tối cổ là:
++ cấu tạo cơ thể giống người ngày nay, não lớn hơn
+- còn lớp lông dày
+- đi khom
+- không biết dùng công cụ
+= Người tinh khôn hoàn thiện hơn.
+?2 Bằng chứng về người tối cổ thường là:
++ hóa thạch răng, xương và công cụ đá
+- sách vở
+- tiền xu
+- tranh vẽ trên giấy
+= Tư liệu khảo cổ.
+?3 Lao động có vai trò như thế nào trong quá trình tiến hóa của con người?
++ giúp đôi tay khéo léo, não phát triển
+- không có vai trò
+- làm con người yếu đi
+- chỉ để vui chơi
+= Lao động sáng tạo ra con người.
+?3 Việt Nam là một trong những nơi có dấu tích:
++ con người sinh sống từ rất sớm
+- không có người cổ
+- chỉ có người sau thế kỉ X
+- chỉ có động vật
+= Nhiều di chỉ khảo cổ.
+?4 Vì sao người tối cổ thường sống trong hang động?
++ để tránh thú dữ, mưa gió, giữ lửa
+- vì không biết xây nhà là duy nhất
+- vì thích bóng tối
+- vì hang động có điện
+= Hang là nơi trú ẩn an toàn.
+
+## Địa – Bài 4. Lược đồ trí nhớ
+?1 Lược đồ trí nhớ là:
++ hình vẽ đơn giản về một khu vực theo hiểu biết, trí nhớ của mỗi người
+- bản đồ chính xác tuyệt đối
+- ảnh vệ tinh
+- quả Địa Cầu
+= Hình dung không gian trong đầu.
+?1 Lược đồ trí nhớ đường đi từ nhà đến trường thường thể hiện:
++ các địa điểm, đối tượng quen thuộc trên đường đi
+- tọa độ chính xác
+- toàn bộ thế giới
+- độ cao địa hình
+= Các mốc dễ nhận biết.
+?1 Lược đồ trí nhớ của mỗi người:
++ khác nhau, tùy trải nghiệm
+- giống hệt nhau
+- luôn chính xác tỉ lệ
+- do nhà nước ban hành
+= Mang tính cá nhân.
+?2 Khi vẽ lược đồ trí nhớ, cần:
++ xác định điểm đầu, điểm cuối, hướng đi và các mốc
+- tính tỉ lệ chính xác
+- dùng ảnh vệ tinh
+- vẽ toàn bộ thành phố
+= Các bước vẽ.
+?2 Lược đồ trí nhớ giúp ích cho:
++ việc đi lại, định hướng hằng ngày
+- tính toán khoảng cách chính xác
+- dự báo thời tiết
+- đo độ cao núi
+= Hỗ trợ định hướng.
+?3 Một bạn mô tả: "Đi thẳng qua chợ, rẽ phải ở ngã tư có cây đa". Đây là thông tin để:
++ vẽ lược đồ trí nhớ
+- đo nhiệt độ
+- xác định tọa độ
+- tính tỉ lệ bản đồ
+= Mô tả bằng mốc quen thuộc.
+?3 Lược đồ trí nhớ khác bản đồ ở chỗ:
++ không cần chính xác về tỉ lệ và kí hiệu
+- có chú giải đầy đủ
+- có lưới kinh vĩ tuyến
+- do máy đo đạc
+= Mang tính phác họa.
+?4 Lợi ích của việc rèn kĩ năng vẽ lược đồ trí nhớ là:
++ phát triển khả năng định hướng, ghi nhớ không gian
+- không có lợi ích
+- thay thế hoàn toàn bản đồ
+- giúp tính toán nhanh
+= Kĩ năng sống.
+
+## Sử – Bài 5. Xã hội nguyên thủy
+?1 Tổ chức xã hội đầu tiên của người nguyên thủy là:
++ bầy người nguyên thủy
+- nhà nước
+- làng xã
+- quốc gia
+= Bầy người có người đứng đầu.
+?1 Công xã thị tộc gồm:
++ những người cùng huyết thống
+- những người khác dòng họ
+- những người buôn bán
+- vua và quan
+= Thị tộc là nhóm cùng huyết thống.
+?1 Đời sống vật chất của người nguyên thủy chủ yếu dựa vào:
++ săn bắt, hái lượm
+- buôn bán
+- công nghiệp
+- dịch vụ
+= Kinh tế chiếm đoạt.
+?2 Người nguyên thủy biết làm ra lửa đã giúp:
++ sưởi ấm, nướng chín thức ăn, xua đuổi thú dữ
+- làm đồ sắt ngay lập tức
+- xây nhà cao tầng
+- không có tác dụng
+= Phát minh quan trọng.
+?2 Đời sống tinh thần của người nguyên thủy thể hiện qua:
++ đồ trang sức, tranh vẽ trên vách hang, tục chôn người chết
+- sách vở
+- phim ảnh
+- trường học
+= Hoạt động tinh thần sơ khai.
+?3 Đặc điểm nổi bật của xã hội nguyên thủy là:
++ mọi người cùng làm, cùng hưởng, chưa có phân hóa giàu nghèo
+- có vua và nô lệ
+- có tiền tệ
+- có chữ viết
+= Bình đẳng trong cộng đồng.
+?3 Thời kì nguyên thủy ở Việt Nam, người xưa biết trồng trọt từ thời văn hóa:
++ Hòa Bình
+- Đông Sơn
+- Sa Huỳnh
+- Óc Eo
+= Văn hóa Hòa Bình có dấu tích nông nghiệp sơ khai.
+?4 Vì sao người nguyên thủy phải sống theo bầy đàn?
++ vì công cụ thô sơ, cần hợp sức để kiếm sống và chống thú dữ
+- vì thích đông vui
+- vì luật pháp quy định
+- vì có vua cai quản
+= Sức mạnh tập thể.
+
+## Địa – Bài 5. Vị trí Trái Đất trong hệ Mặt Trời. Hình dạng, kích thước của Trái Đất
+?1 Trái Đất là hành tinh thứ mấy tính từ Mặt Trời?
++ 3
+- 2
+- 4
+- 5
+= Thủy, Kim, Trái Đất.
+?1 Trái Đất có dạng:
++ hình cầu
+- hình vuông
+- hình đĩa phẳng
+- hình trụ
+= Trái Đất hình cầu (hơi dẹt ở hai cực).
+?1 Bán kính Trái Đất ở Xích đạo khoảng:
++ 6 378 km
+- 637 km
+- 63 780 km
+- 1 000 km
+= Kích thước Trái Đất.
+?2 Chu vi Trái Đất ở Xích đạo khoảng:
++ 40 076 km
+- 4 000 km
+- 400 000 km
+- 12 756 km
+= Khoảng 40 nghìn km.
+?2 Vị trí thứ ba của Trái Đất có ý nghĩa:
++ khoảng cách đến Mặt Trời phù hợp để tồn tại sự sống
+- quá nóng
+- quá lạnh
+- không có ý nghĩa
+= Nhiệt độ thích hợp để có nước lỏng.
+?3 Nếu Trái Đất ở gần Mặt Trời như Sao Kim thì:
++ quá nóng, nước khó tồn tại ở thể lỏng
+- lạnh hơn
+- có nhiều băng hơn
+- không thay đổi
+= Sự sống khó tồn tại.
+?3 Bằng chứng Trái Đất hình cầu là:
++ ảnh chụp từ vũ trụ, tàu đi xa dần khuất từ thân lên đến cột buồm
+- mặt đất bằng phẳng trước mắt
+- trời có mây
+- có mưa
+= Nhiều bằng chứng khoa học.
+?4 Đường kính Trái Đất ở Xích đạo khoảng:
++ 12 756 km
+- 6 378 km
+- 40 076 km
+- 3 189 km
+= Gấp đôi bán kính.
+
+## Sử – Bài 6. Sự chuyển biến và phân hóa của xã hội nguyên thủy
+?1 Kim loại được con người sử dụng đầu tiên là:
++ đồng đỏ
+- sắt
+- nhôm
+- vàng
+= Đồng đỏ xuất hiện sớm.
+?1 Công cụ bằng kim loại giúp:
++ năng suất lao động tăng, xuất hiện sản phẩm dư thừa
+- năng suất giảm
+- con người lười đi
+- không có thay đổi
+= Cơ sở cho phân hóa xã hội.
+?1 Khi xuất hiện của cải dư thừa, xã hội:
++ phân hóa giàu nghèo
+- bình đẳng hơn
+- trở lại bầy người
+- tan rã ngay
+= Tư hữu xuất hiện.
+?2 Gia đình phụ hệ là gia đình:
++ người đàn ông làm chủ
+- người phụ nữ làm chủ
+- không có người đứng đầu
+- con cái làm chủ
+= Vai trò đàn ông tăng lên.
+?2 Ở Việt Nam, thời kì kim khí gắn với các nền văn hóa:
++ Phùng Nguyên, Đồng Đậu, Gò Mun, Đông Sơn
+- Hòa Bình, Bắc Sơn
+- Thẩm Khuyên
+- Óc Eo hiện đại
+= Văn hóa thời đồ đồng và sắt.
+?3 Vì sao công xã thị tộc tan rã?
++ do tư hữu xuất hiện, phân hóa giàu nghèo
+- do thiên tai
+- do thú dữ
+- do thiếu lửa
+= Mất đi sự bình đẳng.
+?3 Trống đồng Đông Sơn thể hiện:
++ trình độ đúc đồng cao và đời sống tinh thần phong phú
+- người Việt chưa biết kim loại
+- chỉ là đồ chơi
+- người Việt mua của nước ngoài
+= Biểu tượng văn hóa Đông Sơn.
+?4 Hệ quả lớn nhất của sự xuất hiện kim loại đối với xã hội nguyên thủy là:
++ dẫn tới sự hình thành giai cấp và nhà nước
+- con người quay lại săn bắt
+- dân số giảm mạnh
+- con người không làm nông nghiệp
+= Bước chuyển sang xã hội có giai cấp.
+
+## Địa – Bài 6. Chuyển động tự quay quanh trục của Trái Đất và hệ quả
+?1 Trái Đất tự quay quanh trục theo hướng:
++ từ tây sang đông
+- từ đông sang tây
+- từ bắc xuống nam
+- từ nam lên bắc
+= Hướng tự quay.
+?1 Thời gian Trái Đất tự quay một vòng quanh trục là:
++ 24 giờ
+- 12 giờ
+- 365 ngày
+- 30 ngày
+= Một ngày đêm.
+?1 Hệ quả của chuyển động tự quay là:
++ ngày đêm luân phiên
+- các mùa trong năm
+- năm nhuận
+- thủy triều duy nhất
+= Ngày đêm kế tiếp nhau.
+?2 Bề mặt Trái Đất được chia thành bao nhiêu khu vực giờ?
++ 24
+- 12
+- 36
+- 360
+= Mỗi khu vực rộng 15 kinh độ.
+?2 Việt Nam nằm ở múi giờ số:
++ 7
+- 8
+- 0
+- 12
+= GMT+7.
+?3 Khi ở Luân Đôn (múi giờ 0) là 8 giờ, thì ở Hà Nội là:
++ 15 giờ
+- 1 giờ
+- 8 giờ
+- 20 giờ
+= 8 + 7 = 15.
+?3 Do Trái Đất tự quay, các vật chuyển động ở nửa cầu Bắc bị lệch:
++ về bên phải theo hướng chuyển động
+- về bên trái
+- không lệch
+- lên trên
+= Lực Coriolis.
+?4 Khi ở Hà Nội là 9 giờ sáng thứ Hai, ở Tokyo (múi giờ 9) là:
++ 11 giờ sáng thứ Hai
+- 7 giờ sáng thứ Hai
+- 9 giờ sáng thứ Hai
+- 11 giờ tối Chủ nhật
+= Chênh 2 giờ: 9 + 2 = 11.
+
+## Sử – Bài 7. Ai Cập và Lưỡng Hà cổ đại
+?1 Ai Cập cổ đại hình thành bên dòng sông:
++ Nin
+- Hằng
+- Hoàng Hà
+- Ơ-phrát
+= Sông Nin.
+?1 Lưỡng Hà cổ đại hình thành giữa hai sông:
++ Ơ-phrát và Ti-grơ
+- Nin và Hằng
+- Hoàng Hà và Trường Giang
+- Ấn và Hằng
+= "Lưỡng Hà" nghĩa là hai sông.
+?1 Người Ai Cập cổ đại xây dựng công trình nổi tiếng là:
++ kim tự tháp
+- Vạn Lý Trường Thành
+- đền Pác-tê-nông
+- đấu trường Cô-li-dê
+= Lăng mộ các pharaoh.
+?2 Vua Ai Cập cổ đại được gọi là:
++ Pha-ra-ông
+- Hoàng đế
+- Thiên tử
+- Ra-gia
+= Pharaoh.
+?2 Người Lưỡng Hà viết chữ trên:
++ những tấm đất sét
+- giấy
+- lụa
+- mai rùa
+= Chữ hình nêm trên đất sét.
+?3 Điều kiện tự nhiên thuận lợi cho sự hình thành Ai Cập cổ đại là:
++ đất phù sa màu mỡ, nguồn nước dồi dào của sông Nin
+- khí hậu lạnh giá
+- nhiều núi lửa
+- không có sông
+= Nền văn minh lưu vực sông.
+?3 Bộ luật Ham-mu-ra-bi là thành tựu của:
++ Lưỡng Hà
+- Ai Cập
+- Ấn Độ
+- Trung Quốc
+= Bộ luật thành văn cổ.
+?4 Thành tựu toán học của người Ai Cập phục vụ chủ yếu cho:
++ đo đạc ruộng đất sau lũ và xây dựng kim tự tháp
+- bói toán
+- buôn bán ngoại tệ
+- thiên văn hiện đại
+= Ứng dụng thực tế.
+
+## Địa – Bài 7. Chuyển động quanh Mặt Trời của Trái Đất và hệ quả
+?1 Trái Đất chuyển động quanh Mặt Trời một vòng hết khoảng:
++ 365 ngày 6 giờ
+- 24 giờ
+- 30 ngày
+- 100 ngày
+= Một năm.
+?1 Khi chuyển động quanh Mặt Trời, trục Trái Đất:
++ luôn nghiêng và không đổi hướng
+- thẳng đứng
+- luôn thay đổi hướng
+- nằm ngang
+= Nghiêng 66°33' so với mặt phẳng quỹ đạo.
+?1 Hệ quả của chuyển động quanh Mặt Trời là:
++ hiện tượng các mùa
+- ngày đêm
+- giờ khác nhau
+- lệch hướng chuyển động
+= Mùa xuân, hạ, thu, đông.
+?2 Ngày 22/6, nửa cầu Bắc là mùa:
++ hạ
+- đông
+- xuân
+- thu
+= Nửa cầu Bắc ngả về phía Mặt Trời.
+?2 Ngày 21/3 và 23/9, Mặt Trời chiếu thẳng góc tại:
++ Xích đạo
+- chí tuyến Bắc
+- chí tuyến Nam
+- vòng cực
+= Ngày xuân phân, thu phân.
+?3 Vì sao có năm nhuận 366 ngày?
++ vì mỗi năm dư 6 giờ, 4 năm cộng thêm 1 ngày
+- vì Trái Đất quay chậm lại
+- vì Mặt Trăng
+- ngẫu nhiên
+= 6 giờ × 4 = 24 giờ.
+?3 Khi nửa cầu Bắc là mùa đông thì nửa cầu Nam là mùa:
++ hạ
+- đông
+- xuân
+- thu
+= Hai nửa cầu có mùa trái ngược.
+?4 Ngày 22/12, hiện tượng ở vòng cực Bắc là:
++ đêm dài 24 giờ
+- ngày dài 24 giờ
+- ngày đêm bằng nhau
+- không có ngày đêm
+= Nửa cầu Bắc chếch xa Mặt Trời nhất.
+
+## Sử – Bài 8. Ấn Độ cổ đại
+?1 Ấn Độ cổ đại hình thành trên lưu vực sông:
++ Ấn và Hằng
+- Nin
+- Hoàng Hà
+- Ti-grơ
+= Hai con sông lớn.
+?1 Tôn giáo ra đời ở Ấn Độ cổ đại là:
++ Phật giáo và Bà La Môn giáo
+- Thiên Chúa giáo
+- Hồi giáo
+- Đạo giáo
+= Phật giáo do Thích Ca Mâu Ni sáng lập.
+?1 Chữ viết của người Ấn Độ cổ đại phổ biến là:
++ chữ Phạn
+- chữ Hán
+- chữ hình nêm
+- chữ Latinh
+= Chữ Phạn (Sanskrit).
+?2 Xã hội Ấn Độ cổ đại phân chia thành các đẳng cấp dựa trên:
++ chế độ đẳng cấp Vác-na
+- tài năng cá nhân
+- giới tính
+- tuổi tác
+= Bốn đẳng cấp chính.
+?2 Hai bộ sử thi nổi tiếng của Ấn Độ là:
++ Ra-ma-y-a-na và Ma-ha-bha-ra-ta
+- I-li-át và Ô-đi-xê
+- Đăm Săn
+- Tây du kí
+= Sử thi Ấn Độ.
+?3 Người Ấn Độ cổ đại có đóng góp lớn trong toán học là:
++ sáng tạo chữ số, trong đó có số 0
+- phát minh la bàn
+- phát minh giấy
+- lịch âm
+= Hệ chữ số Ấn Độ.
+?3 Đẳng cấp cao nhất trong xã hội Ấn Độ cổ đại là:
++ Bra-man (tăng lữ)
+- Ksa-tri-a
+- Vai-si-a
+- Su-đra
+= Tầng lớp tăng lữ.
+?4 Ảnh hưởng của văn hóa Ấn Độ đến Việt Nam rõ nhất qua:
++ Phật giáo và kiến trúc tháp Chăm
+- chữ Hán
+- Nho giáo
+- kim tự tháp
+= Giao lưu văn hóa.
+
+## Địa – Bài 8. Xác định phương hướng ngoài thực tế
+?1 Dụng cụ dùng để xác định phương hướng là:
++ la bàn
+- nhiệt kế
+- thước kẻ
+- cân
+= Kim la bàn chỉ hướng Bắc – Nam.
+?1 Kim la bàn luôn chỉ theo hướng:
++ Bắc – Nam
+- Đông – Tây
+- Đông Bắc
+- Tây Nam
+= Do từ trường Trái Đất.
+?1 Ban đêm có thể xác định hướng Bắc nhờ:
++ sao Bắc Cực
+- Mặt Trăng tròn
+- Sao Kim
+- mây
+= Sao Bắc Cực chỉ hướng Bắc.
+?2 Buổi sáng, đứng giang tay phải về hướng Mặt Trời mọc thì trước mặt là hướng:
++ Bắc
+- Nam
+- Đông
+- Tây
+= Tay phải Đông, tay trái Tây, trước mặt Bắc.
+?2 Khi dùng la bàn, đầu kim màu (thường màu đỏ hoặc xanh) chỉ hướng:
++ Bắc
+- Nam
+- Đông
+- Tây
+= Quy ước la bàn.
+?3 Khi lạc trong rừng ban ngày, có thể xác định hướng nhờ:
++ hướng Mặt Trời mọc, lặn
+- màu lá cây
+- tiếng chim
+- độ cao cây
+= Mặt Trời mọc Đông, lặn Tây.
+?3 Ở Việt Nam (nửa cầu Bắc), buổi trưa bóng cây thường ngả về hướng:
++ Bắc (khi Mặt Trời ở phía Nam)
+- Nam
+- Đông
+- Tây
+= Phần lớn thời gian trong năm Mặt Trời lệch về phía Nam.
+?4 Một người đi ngược hướng Mặt Trời lặn, rồi rẽ trái. Người đó đang đi về hướng:
++ Bắc
+- Nam
+- Tây
+- Đông
+= Ngược hướng lặn (Tây) là đi về Đông; rẽ trái từ hướng Đông là hướng Bắc.
+
+## Sử – Bài 9. Trung Quốc từ thời cổ đại đến thế kỉ VII
+?1 Trung Quốc cổ đại hình thành trên lưu vực sông:
++ Hoàng Hà và Trường Giang
+- Nin
+- Ấn
+- Ti-grơ
+= Hai sông lớn.
+?1 Người thống nhất Trung Quốc năm 221 TCN là:
++ Tần Thủy Hoàng
+- Lưu Bang
+- Khổng Tử
+- Đường Thái Tông
+= Lập ra nhà Tần.
+?1 Công trình phòng thủ nổi tiếng của Trung Quốc là:
++ Vạn Lý Trường Thành
+- kim tự tháp
+- Đền Pác-tê-nông
+- Ăng-co Vát
+= Bức tường thành dài.
+?2 Bốn phát minh lớn của Trung Quốc gồm:
++ giấy, la bàn, thuốc súng, kĩ thuật in
+- chữ số 0, lịch, kim tự tháp
+- đồng hồ, kính, điện
+- máy hơi nước
+= Tứ đại phát minh.
+?2 Người sáng lập Nho giáo là:
++ Khổng Tử
+- Lão Tử
+- Tần Thủy Hoàng
+- Thích Ca
+= Khổng Tử thời Xuân Thu.
+?3 Chế độ phong kiến ở Trung Quốc được xác lập dưới thời:
++ nhà Tần
+- nhà Đường
+- nhà Thanh
+- nhà Minh
+= Từ thời Tần.
+?3 Chữ viết đầu tiên của người Trung Quốc được khắc trên:
++ mai rùa, xương thú (giáp cốt văn)
+- giấy
+- đất sét
+- lụa
+= Giáp cốt văn.
+?4 Vì sao phát minh giấy có ý nghĩa lớn đối với văn minh nhân loại?
++ giúp lưu trữ, truyền bá tri thức dễ dàng hơn
+- chỉ để gói hàng
+- không có ý nghĩa
+- thay thế kim loại
+= Thúc đẩy giáo dục, văn hóa.
+
+## Địa – Bài 9. Cấu tạo của Trái Đất. Mảng kiến tạo. Núi lửa và động đất
+?1 Cấu tạo Trái Đất gồm ba lớp:
++ vỏ Trái Đất, man-ti, nhân
+- đất, nước, không khí
+- núi, đồng bằng, biển
+- lõi, sông, hồ
+= Ba lớp từ ngoài vào trong.
+?1 Lớp có nhiệt độ cao nhất là:
++ nhân Trái Đất
+- vỏ Trái Đất
+- man-ti trên
+- bề mặt
+= Nhân có nhiệt độ khoảng 5 000 °C.
+?1 Vỏ Trái Đất có độ dày:
++ từ 5 km đến 70 km
+- 3 000 km
+- 1 km
+- 6 370 km
+= Lớp mỏng nhất.
+?2 Động đất là:
++ hiện tượng rung chuyển đột ngột của vỏ Trái Đất
+- hiện tượng mưa lớn
+- hiện tượng nước biển dâng
+- gió mạnh
+= Do vận động bên trong.
+?2 Núi lửa là hiện tượng:
++ phun trào mắc-ma lên bề mặt Trái Đất
+- sạt lở đất
+- nước sôi
+- băng tan
+= Mắc-ma phun lên qua miệng núi lửa.
+?3 Động đất và núi lửa thường xảy ra ở:
++ nơi tiếp giáp các mảng kiến tạo
+- giữa các mảng ổn định
+- trên sa mạc
+- giữa đồng bằng
+= Vành đai lửa Thái Bình Dương.
+?3 Khi xảy ra động đất ở trong nhà, nên:
++ chui xuống gầm bàn chắc chắn, tránh xa cửa kính
+- chạy ra ban công
+- đi thang máy
+- đứng cạnh cửa kính
+= Kĩ năng ứng phó.
+?4 Nhật Bản thường xảy ra động đất vì:
++ nằm trên ranh giới tiếp xúc của nhiều mảng kiến tạo
+- có nhiều sông
+- có nhiều rừng
+- nằm gần Xích đạo
+= Vành đai lửa Thái Bình Dương.
+
+## Sử – Bài 10. Hy Lạp và La Mã cổ đại
+?1 Hy Lạp và La Mã cổ đại hình thành ở ven:
++ biển Địa Trung Hải
+- biển Đông
+- Ấn Độ Dương
+- Đại Tây Dương
+= Văn minh Địa Trung Hải.
+?1 Thể chế dân chủ chủ nô phát triển nhất ở:
++ A-ten (Hy Lạp)
+- Ai Cập
+- Trung Quốc
+- Ấn Độ
+= Dân chủ A-ten.
+?1 Đại hội thể thao Ô-lim-pích bắt nguồn từ:
++ Hy Lạp cổ đại
+- La Mã
+- Ai Cập
+- Trung Quốc
+= Năm 776 TCN.
+?2 Hệ chữ cái La-tinh là thành tựu của:
++ người La Mã
+- người Ai Cập
+- người Trung Quốc
+- người Ấn Độ
+= Chữ La-tinh dùng rộng rãi ngày nay.
+?2 Hai bộ sử thi nổi tiếng của Hy Lạp là:
++ I-li-át và Ô-đi-xê
+- Ra-ma-y-a-na
+- Ma-ha-bha-ra-ta
+- Đăm Săn
+= Tác giả Hô-me.
+?3 Điều kiện tự nhiên của Hy Lạp, La Mã thuận lợi cho:
++ phát triển thủ công nghiệp và thương nghiệp đường biển
+- trồng lúa nước quy mô lớn
+- chăn nuôi gia súc trên đồng cỏ
+- khai thác dầu mỏ
+= Nhiều bờ biển, cảng tốt.
+?3 Đền Pác-tê-nông là công trình kiến trúc của:
++ Hy Lạp
+- La Mã
+- Ai Cập
+- Lưỡng Hà
+= Đền thờ nữ thần A-tê-na.
+?4 Nhà toán học Hy Lạp nổi tiếng với định lí về tam giác vuông là:
++ Py-ta-go
+- Ác-si-mét
+- Ơ-clít
+- Ta-lét
+= Định lí Pythagore.
+
+## Địa – Bài 10. Quá trình nội sinh và ngoại sinh. Các dạng địa hình chính. Khoáng sản
+?1 Quá trình nội sinh là quá trình xảy ra:
++ trong lòng Trái Đất
+- trên bề mặt Trái Đất do gió, mưa
+- trong khí quyển
+- trong đại dương
+= Do năng lượng bên trong.
+?1 Quá trình ngoại sinh có xu hướng:
++ san bằng, hạ thấp địa hình
+- nâng cao địa hình
+- tạo núi lửa
+- tạo động đất
+= Phong hóa, xâm thực, bồi tụ.
+?1 Núi có độ cao tuyệt đối:
++ trên 500 m so với mực nước biển
+- dưới 200 m
+- dưới 100 m
+- bằng 0 m
+= Phân loại núi.
+?2 Đồng bằng là dạng địa hình:
++ thấp, tương đối bằng phẳng, thường dưới 200 m
+- cao trên 1 000 m
+- có sườn dốc
+- có đỉnh nhọn
+= Đặc điểm đồng bằng.
+?2 Khoáng sản là:
++ những khoáng vật và đá có ích được con người khai thác
+- tất cả các loại đá
+- đất trồng
+- nước ngọt
+= Tài nguyên khoáng sản.
+?3 Đồng bằng sông Hồng được hình thành chủ yếu do:
++ phù sa sông bồi tụ (ngoại sinh)
+- núi lửa phun trào
+- động đất
+- băng hà
+= Quá trình bồi tụ.
+?3 Than đá thuộc nhóm khoáng sản:
++ năng lượng (nhiên liệu)
+- kim loại
+- phi kim loại
+- quý hiếm trang sức
+= Dùng làm nhiên liệu.
+?4 Vì sao cần sử dụng khoáng sản tiết kiệm, hợp lí?
++ vì khoáng sản là tài nguyên không tái tạo, hình thành rất lâu
+- vì khoáng sản tái tạo nhanh
+- vì khoáng sản vô tận
+- vì không ai cần
+= Bảo vệ tài nguyên cho tương lai.
+
+## Sử – Bài 11. Các quốc gia sơ kì ở Đông Nam Á
+?1 Đông Nam Á nằm ở khu vực:
++ phía đông nam châu Á
+- phía tây châu Âu
+- phía bắc châu Phi
+- Nam Mỹ
+= Vị trí khu vực.
+?1 Các quốc gia sơ kì ở Đông Nam Á hình thành khoảng:
++ những thế kỉ đầu Công nguyên
+- thế kỉ XX
+- thế kỉ XV
+- trước 3 000 năm TCN
+= Phù Nam, Chăm-pa…
+?1 Quốc gia sơ kì ở miền Trung Việt Nam ngày nay là:
++ Lâm Ấp (Chăm-pa)
+- Phù Nam
+- Văn Lang
+- Âu Lạc
+= Hình thành khoảng thế kỉ II.
+?2 Điều kiện tự nhiên giúp Đông Nam Á phát triển nông nghiệp lúa nước là:
++ khí hậu nhiệt đới gió mùa, nhiều sông lớn
+- khí hậu khô hạn
+- băng giá quanh năm
+- sa mạc rộng lớn
+= Điều kiện thuận lợi.
+?2 Quốc gia sơ kì ở vùng đồng bằng sông Cửu Long là:
++ Phù Nam
+- Chăm-pa
+- Văn Lang
+- Đại Việt
+= Hình thành khoảng thế kỉ I.
+?3 Cảng thị Óc Eo thuộc vương quốc:
++ Phù Nam
+- Chăm-pa
+- Âu Lạc
+- Văn Lang
+= Trung tâm buôn bán quốc tế.
+?3 Các quốc gia sơ kì Đông Nam Á chịu ảnh hưởng văn hóa chủ yếu từ:
++ Ấn Độ và Trung Quốc
+- Hy Lạp
+- Ai Cập
+- La Mã
+= Giao lưu văn hóa.
+?4 Vì sao nhiều quốc gia sơ kì Đông Nam Á phát triển thương mại biển?
++ nằm trên tuyến đường biển nối Ấn Độ Dương và Thái Bình Dương
+- vì không có đất trồng trọt
+- vì không có sông
+- vì khí hậu lạnh
+= Vị trí cầu nối.

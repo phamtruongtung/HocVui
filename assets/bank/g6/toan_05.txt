@@ -1,0 +1,671 @@
+// Toán 6 – Tập 2
+#! HK2
+# Chương VI. Phân số
+
+## Bài 23. Mở rộng phân số. Phân số bằng nhau
+?1 Trong cách viết a/b là phân số thì:
++ a, b ∈ ℤ và b ≠ 0
+- a, b ∈ ℕ
+- b có thể bằng 0
+- a ≠ 0
+= Phân số a/b với a, b là số nguyên, b khác 0.
+?1 Phân số nào bằng 2/3?
++ 6/9
+- 3/2
+- 4/9
+- 2/6
+= 2/3 = (2·3)/(3·3) = 6/9.
+?1 Viết phân số âm năm phần bảy:
++ −5/7
+- 5/7
+- 7/5
+- −7/5
+= Phân số âm năm phần bảy là −5/7.
+?1 Hai phân số a/b và c/d bằng nhau khi:
++ a · d = b · c
+- a · c = b · d
+- a + d = b + c
+- a = c
+= Quy tắc bằng nhau của hai phân số.
+?2 Tìm x biết x/4 = 15/20.
++ 3
+- 5
+- 12
+- 1
+= x · 20 = 4 · 15 → x = 3.
+?2 Rút gọn −24/36 về phân số tối giản:
++ −2/3
+- −4/6
+- −12/18
+- 2/3
+= Chia tử và mẫu cho 12.
+?2 Phân số 3/−5 viết lại với mẫu dương là:
++ −3/5
+- 3/5
+- 5/−3
+- −5/3
+= Nhân cả tử và mẫu với −1.
+?3 Tìm x biết −6/x = 18/−21.
++ 7
+- −7
+- 3
+- −3
+= −6 · (−21) = 18x → 126 = 18x → x = 7.
+?3 Có bao nhiêu phân số bằng 1/2 có mẫu là số tự nhiên có một chữ số?
++ 4
+- 5
+- 9
+- 3
+= Mẫu chẵn từ 2 đến 8: 1/2, 2/4, 3/6, 4/8.
+?3 Một lớp có 40 học sinh, trong đó 15 bạn nữ. Phân số tối giản chỉ phần học sinh nữ là:
++ 3/8
+- 15/40
+- 5/8
+- 8/3
+= 15/40 = 3/8.
+?4 Tìm các số nguyên x, y biết x/3 = 4/y và x < y < 0.
++ x = −4, y = −3 hoặc x = −6, y = −2 hoặc x = −12, y = −1
+- x = −3, y = −4
+- x = 4, y = 3
+- x = −2, y = −6
+= xy = 12, x < y < 0: (−12; −1), (−6; −2), (−4; −3).
+?4 Tìm số nguyên n để phân số 12/n có giá trị là số nguyên dương nhỏ hơn 5.
++ n ∈ {3; 4; 6; 12}
+- n ∈ {1; 2; 3; 4}
+- n ∈ {3; 4; 6}
+- n ∈ {4; 6; 12}
+= 12/n ∈ {1; 2; 3; 4} → n ∈ {12; 6; 4; 3}.
+
+## Bài 24. So sánh phân số. Hỗn số dương
+?1 So sánh 3/7 và 5/7.
++ 3/7 < 5/7
+- 3/7 > 5/7
+- 3/7 = 5/7
+- Không so sánh được
+= Cùng mẫu dương, tử nhỏ hơn thì phân số nhỏ hơn.
+?1 Hỗn số 2 1/3 viết dưới dạng phân số là:
++ 7/3
+- 5/3
+- 6/3
+- 3/7
+= 2 1/3 = (2·3 + 1)/3 = 7/3.
+?1 Phân số 17/5 viết dưới dạng hỗn số là:
++ 3 2/5
+- 2 3/5
+- 3 1/5
+- 5 2/3
+= 17 : 5 = 3 dư 2.
+?1 Phân số nào lớn hơn 1?
++ 9/8
+- 7/8
+- 8/8
+- −9/8
+= Phân số dương có tử lớn hơn mẫu thì lớn hơn 1.
+?2 So sánh 2/3 và 3/4.
++ 2/3 < 3/4
+- 2/3 > 3/4
+- 2/3 = 3/4
+- Không so sánh được
+= Quy đồng: 8/12 < 9/12.
+?2 So sánh −3/4 và −4/5.
++ −3/4 > −4/5
+- −3/4 < −4/5
+- −3/4 = −4/5
+- Không so sánh được
+= −15/20 > −16/20.
+?2 Sắp xếp 1/2; 2/5; 3/4 theo thứ tự tăng dần:
++ 2/5; 1/2; 3/4
+- 1/2; 2/5; 3/4
+- 3/4; 1/2; 2/5
+- 2/5; 3/4; 1/2
+= Quy đồng mẫu 20: 8/20; 10/20; 15/20.
+?3 So sánh 2023/2024 và 2024/2025.
++ 2023/2024 < 2024/2025
+- 2023/2024 > 2024/2025
+- Bằng nhau
+- Không so sánh được
+= 1 − 2023/2024 = 1/2024 > 1/2025 = 1 − 2024/2025.
+?3 Tìm số nguyên x biết 1/3 < x/12 < 1/2.
++ x = 5
+- x = 4
+- x = 6
+- x = 3
+= 4/12 < x/12 < 6/12 → x = 5.
+?3 Bạn An đọc 3/5 cuốn sách, bạn Bình đọc 5/8 cuốn sách cùng loại. Ai đọc nhiều hơn?
++ Bình
+- An
+- Bằng nhau
+- Không xác định
+= 3/5 = 24/40 < 25/40 = 5/8.
+?4 Số phân số có dạng a/7 (a ∈ ℕ) nằm giữa 1/2 và 1 là:
++ 3
+- 4
+- 2
+- 5
+= 1/2 = 3,5/7 nên 3,5 < a < 7 → a ∈ {4; 5; 6}.
+?4 So sánh 13/27 và 27/41 mà không quy đồng.
++ 13/27 < 27/41
+- 13/27 > 27/41
+- Bằng nhau
+- Không so sánh được
+= 13/27 < 1/2 (vì 26 < 27) còn 27/41 > 1/2 (vì 54 > 41).
+
+## Bài 25. Phép cộng và phép trừ phân số
+?1 Tính 2/7 + 3/7.
++ 5/7
+- 5/14
+- 6/7
+- 1
+= Cộng hai phân số cùng mẫu: cộng tử, giữ mẫu.
+?1 Tính 5/9 − 2/9.
++ 1/3
+- 3/0
+- 7/9
+- 3/18
+= 3/9 = 1/3.
+?1 Số đối của −4/5 là:
++ 4/5
+- −5/4
+- 5/4
+- −4/5
+= Tổng hai số đối bằng 0.
+?1 Tính 1/2 + 1/3.
++ 5/6
+- 2/5
+- 1/6
+- 2/6
+= 3/6 + 2/6 = 5/6.
+?2 Tính 3/4 − 5/6.
++ −1/12
+- 1/12
+- −2/2
+- 2/12
+= 9/12 − 10/12 = −1/12.
+?2 Tính −2/3 + 5/6.
++ 1/6
+- 3/9
+- −1/6
+- 7/6
+= −4/6 + 5/6 = 1/6.
+?2 Tìm x biết x + 1/4 = 3/4.
++ 1/2
+- 1
+- −1/2
+- 1/4
+= x = 3/4 − 1/4 = 2/4 = 1/2.
+?3 Tính nhanh 3/5 + (−2/7) + 2/5 + (−5/7).
++ 0
+- 1
+- −1
+- 2/35
+= (3/5 + 2/5) + (−2/7 − 5/7) = 1 − 1 = 0.
+?3 Tìm x biết 2/3 − x = 1/4.
++ 5/12
+- 11/12
+- −5/12
+- 1/12
+= x = 2/3 − 1/4 = 8/12 − 3/12 = 5/12.
+?3 Một vòi nước chảy giờ đầu được 1/3 bể, giờ thứ hai được 2/5 bể. Sau hai giờ còn lại bao nhiêu phần bể chưa có nước?
++ 4/15
+- 11/15
+- 3/8
+- 1/15
+= 1/3 + 2/5 = 11/15; còn 1 − 11/15 = 4/15.
+?4 Tính 1/(1·2) + 1/(2·3) + 1/(3·4) + … + 1/(9·10).
++ 9/10
+- 1/10
+- 1
+- 10/9
+= Mỗi số hạng 1/(n(n+1)) = 1/n − 1/(n+1); tổng = 1 − 1/10.
+?4 Tính 1/2 + 1/4 + 1/8 + 1/16 + 1/32.
++ 31/32
+- 1
+- 5/32
+- 15/16
+= Tổng = 1 − 1/32 = 31/32.
+
+## Bài 26. Phép nhân và phép chia phân số
+?1 Tính 2/3 · 3/5.
++ 2/5
+- 6/8
+- 5/8
+- 3/5
+= 6/15 = 2/5.
+?1 Số nghịch đảo của −3/4 là:
++ −4/3
+- 4/3
+- 3/4
+- −3/4
+= Hai số nghịch đảo có tích bằng 1.
+?1 Tính 4/7 : 2/7.
++ 2
+- 8/49
+- 1/2
+- 2/7
+= 4/7 · 7/2 = 2.
+?1 Tính (−5/6) · 0.
++ 0
+- −5/6
+- 5/6
+- 1
+= Mọi số nhân 0 bằng 0.
+?2 Tính (−3/8) · 16/9.
++ −2/3
+- 2/3
+- −1/2
+- −3/2
+= (−3 · 16)/(8 · 9) = −48/72 = −2/3.
+?2 Tính 5 : 2/3.
++ 15/2
+- 10/3
+- 2/15
+- 5/3
+= 5 · 3/2 = 15/2.
+?2 Tìm x biết x · 3/4 = 9/8.
++ 3/2
+- 27/32
+- 2/3
+- 9/4
+= x = 9/8 : 3/4 = 9/8 · 4/3 = 3/2.
+?3 Tính nhanh 5/7 · 2/11 + 5/7 · 9/11.
++ 5/7
+- 55/77
+- 1
+- 10/77
+= 5/7 · (2/11 + 9/11) = 5/7 · 1.
+?3 Tìm x biết 2/3 : x = −4/9.
++ −3/2
+- 3/2
+- −8/27
+- −2/3
+= x = 2/3 : (−4/9) = 2/3 · (−9/4) = −3/2.
+?3 Một mảnh vườn hình chữ nhật dài 3/4 km, rộng bằng 2/3 chiều dài. Diện tích mảnh vườn là:
++ 3/8 km²
+- 1/2 km²
+- 9/16 km²
+- 5/12 km²
+= Chiều rộng 3/4 · 2/3 = 1/2 km; diện tích 3/4 · 1/2 = 3/8 km².
+?4 Tính (1 − 1/2)(1 − 1/3)(1 − 1/4)…(1 − 1/10).
++ 1/10
+- 9/10
+- 1/2
+- 1/20
+= Tích = 1/2 · 2/3 · 3/4 · … · 9/10 = 1/10.
+?4 Tìm x biết (x − 1/2) · (x + 2/3) = 0.
++ x = 1/2 hoặc x = −2/3
+- x = −1/2 hoặc x = 2/3
+- x = 1/2
+- x = −2/3
+= Một trong hai thừa số bằng 0.
+
+## Bài 27. Hai bài toán về phân số
+?1 Tìm 2/3 của 36.
++ 24
+- 54
+- 12
+- 18
+= 36 · 2/3 = 24.
+?1 Biết 3/4 của một số là 12. Số đó là:
++ 16
+- 9
+- 36
+- 48
+= 12 : 3/4 = 16.
+?1 Tìm 25% của 80.
++ 20
+- 25
+- 40
+- 320
+= 80 · 25/100 = 20.
+?1 Muốn tìm m/n của số b, ta tính:
++ b · m/n
+- b : m/n
+- b + m/n
+- m/n : b
+= Giá trị phân số của một số: nhân số đó với phân số.
+?2 Lớp 6A có 40 học sinh, số học sinh giỏi bằng 3/8 cả lớp. Số học sinh giỏi là:
++ 15
+- 12
+- 25
+- 18
+= 40 · 3/8 = 15.
+?2 2/5 quãng đường dài 6 km. Cả quãng đường dài:
++ 15 km
+- 2,4 km
+- 12 km
+- 10 km
+= 6 : 2/5 = 15 km.
+?2 Một chiếc áo giá 200 000 đồng, giảm giá 15%. Giá sau khi giảm là:
++ 170 000 đồng
+- 185 000 đồng
+- 30 000 đồng
+- 230 000 đồng
+= Giảm 200 000 · 15% = 30 000 → còn 170 000.
+?3 Một người đã đi 3/7 quãng đường, còn lại 20 km. Quãng đường dài:
++ 35 km
+- 28 km
+- 140/3 km
+- 15 km
+= Phần còn lại 4/7 ứng với 20 km → cả quãng 20 : 4/7 = 35 km.
+?3 Một cuốn sách 240 trang. Ngày đầu đọc 1/4 số trang, ngày thứ hai đọc 2/3 số trang còn lại. Số trang chưa đọc là:
++ 60 trang
+- 120 trang
+- 80 trang
+- 40 trang
+= Ngày 1: 60 trang, còn 180; ngày 2: 120 trang; còn 60 trang.
+?3 Sau khi tăng giá 10%, một món hàng có giá 330 000 đồng. Giá ban đầu là:
++ 300 000 đồng
+- 297 000 đồng
+- 320 000 đồng
+- 363 000 đồng
+= Giá mới = 110% giá cũ → giá cũ 330 000 : 1,1 = 300 000.
+?4 Một bể đầy nước, lần thứ nhất lấy ra 1/3 lượng nước, lần thứ hai lấy ra 1/4 lượng nước còn lại thì bể còn 120 lít. Lúc đầu bể có:
++ 240 lít
+- 200 lít
+- 360 lít
+- 180 lít
+= Còn lại sau lần 1: 2/3; sau lần 2: 2/3 · 3/4 = 1/2 bể = 120 lít → bể 240 lít.
+?4 Số học sinh nữ bằng 4/5 số học sinh nam. Số học sinh nữ chiếm bao nhiêu phần cả lớp?
++ 4/9
+- 4/5
+- 5/9
+- 1/5
+= Nữ 4 phần, nam 5 phần → nữ chiếm 4/9.
+
+# Chương VII. Số thập phân
+
+## Bài 28. Số thập phân
+?1 Phân số thập phân 37/100 viết dưới dạng số thập phân là:
++ 0,37
+- 3,7
+- 0,037
+- 37,00
+= 37/100 = 0,37.
+?1 Trong số 12,345, chữ số 4 thuộc hàng:
++ phần trăm
+- phần mười
+- phần nghìn
+- chục
+= Sau dấu phẩy: 3 hàng phần mười, 4 hàng phần trăm, 5 hàng phần nghìn.
+?1 Số thập phân −2,5 viết dưới dạng phân số tối giản là:
++ −5/2
+- −25/100
+- 5/2
+- −2/5
+= −2,5 = −25/10 = −5/2.
+?1 Số đối của 3,14 là:
++ −3,14
+- 1/3,14
+- 3,41
+- 0
+= Hai số đối nhau có tổng bằng 0.
+?2 So sánh −0,75 và −0,8.
++ −0,75 > −0,8
+- −0,75 < −0,8
+- Bằng nhau
+- Không so sánh được
+= 0,75 < 0,8 nên −0,75 > −0,8.
+?2 Sắp xếp 1,2; 1,02; 1,21; 1,12 theo thứ tự giảm dần:
++ 1,21; 1,2; 1,12; 1,02
+- 1,02; 1,12; 1,2; 1,21
+- 1,2; 1,21; 1,12; 1,02
+- 1,21; 1,12; 1,2; 1,02
+= So sánh hàng phần mười rồi phần trăm.
+?2 Phân số 3/8 viết dưới dạng số thập phân là:
++ 0,375
+- 0,38
+- 3,8
+- 0,83
+= 3 : 8 = 0,375.
+?3 Tìm số nguyên x biết −1,5 < x < 1,2.
++ x ∈ {−1; 0; 1}
+- x ∈ {−2; −1; 0; 1}
+- x ∈ {0; 1}
+- x ∈ {−1; 0}
+= Các số nguyên lớn hơn −1,5 và nhỏ hơn 1,2.
+?3 Nhiệt độ ở ba thành phố: −2,5 °C; −3,1 °C; 0,4 °C. Thành phố lạnh nhất có nhiệt độ:
++ −3,1 °C
+- −2,5 °C
+- 0,4 °C
+- Không xác định
+= Số nhỏ nhất là −3,1.
+?3 Số thập phân lớn nhất có hai chữ số phần thập phân và nhỏ hơn 1 là:
++ 0,99
+- 0,9
+- 0,999
+- 1,00
+= Lớn nhất với hai chữ số sau dấu phẩy là 0,99.
+?4 Có bao nhiêu số thập phân có một chữ số ở phần thập phân nằm giữa 2 và 3?
++ 9
+- 10
+- 8
+- 11
+= 2,1; 2,2; …; 2,9.
+?4 Viết 0,125 dưới dạng phân số tối giản:
++ 1/8
+- 125/100
+- 1/80
+- 5/40
+= 0,125 = 125/1 000 = 1/8.
+
+## Bài 29. Tính toán với số thập phân
+?1 Tính 3,5 + 2,75.
++ 6,25
+- 5,25
+- 6,15
+- 6,8
+= Đặt thẳng hàng dấu phẩy: 3,50 + 2,75 = 6,25.
+?1 Tính 5 − 7,2.
++ −2,2
+- 2,2
+- −12,2
+- −2,8
+= 5 − 7,2 = −(7,2 − 5) = −2,2.
+?1 Tính 0,4 · 2,5.
++ 1
+- 0,1
+- 10
+- 0,01
+= 0,4 · 2,5 = 1.
+?1 Tính 7,2 : 0,9.
++ 8
+- 0,8
+- 80
+- 6,3
+= 72 : 9 = 8.
+?2 Tính (−1,2) · (−0,5).
++ 0,6
+- −0,6
+- 6
+- −1,7
+= Tích hai số âm là số dương; 1,2 · 0,5 = 0,6.
+?2 Tính 12,5 · 4,7 · 0,8.
++ 47
+- 4,7
+- 470
+- 58,75
+= (12,5 · 0,8) · 4,7 = 10 · 4,7 = 47.
+?2 Tính (−4,5) : 1,5 + 2.
++ −1
+- 1
+- −5
+- −3
+= −3 + 2 = −1.
+?3 Tính nhanh 3,7 · 2,5 + 3,7 · 7,5.
++ 37
+- 3,7
+- 370
+- 18,5
+= 3,7 · (2,5 + 7,5) = 37.
+?3 Mua 2,5 kg táo giá 48 000 đồng/kg và 1,5 kg cam giá 30 000 đồng/kg. Tổng số tiền là:
++ 165 000 đồng
+- 156 000 đồng
+- 120 000 đồng
+- 195 000 đồng
+= 120 000 + 45 000 = 165 000.
+?3 Tìm x biết 2,4x − 1,2 = 6.
++ 3
+- 2
+- 3,5
+- 2,5
+= 2,4x = 7,2 → x = 3.
+?4 Một ô tô đi 3 giờ được 157,5 km. Nếu đi thêm 1,2 giờ với vận tốc như cũ thì tổng quãng đường là:
++ 220,5 km
+- 210 km
+- 189 km
+- 225 km
+= Vận tốc 52,5 km/h; thêm 52,5 · 1,2 = 63 km; tổng 220,5 km.
+?4 Tính (0,25 · 8 − 1,5) : 0,25.
++ 2
+- 0,5
+- 4
+- 0,125
+= 2 − 1,5 = 0,5; 0,5 : 0,25 = 2.
+
+## Bài 30. Làm tròn và ước lượng
+?1 Làm tròn 12,367 đến hàng phần trăm:
++ 12,37
+- 12,36
+- 12,4
+- 12,3
+= Chữ số sau hàng phần trăm là 7 ≥ 5 nên làm tròn lên.
+?1 Làm tròn 4,251 đến hàng phần mười:
++ 4,3
+- 4,2
+- 4,25
+- 4
+= Chữ số hàng phần trăm là 5 ≥ 5 nên tăng hàng phần mười thêm 1.
+?1 Làm tròn 1 234 đến hàng trăm:
++ 1 200
+- 1 300
+- 1 230
+- 1 000
+= Chữ số hàng chục là 3 < 5 nên giữ nguyên hàng trăm.
+?1 Làm tròn 9,96 đến hàng phần mười:
++ 10,0
+- 9,9
+- 9,10
+- 10,1
+= 9,96 ≈ 10,0.
+?2 Ước lượng kết quả 19,8 · 5,1 gần nhất với:
++ 100
+- 10
+- 1 000
+- 25
+= 20 · 5 = 100.
+?2 Làm tròn số 3,14159 đến hàng phần nghìn:
++ 3,142
+- 3,141
+- 3,14
+- 3,1416
+= Chữ số hàng phần chục nghìn là 5 nên làm tròn lên.
+?2 Làm tròn −2,46 đến hàng phần mười:
++ −2,5
+- −2,4
+- −2,46
+- −3
+= Làm tròn phần số 2,46 ≈ 2,5 rồi giữ dấu âm.
+?3 Một lớp có 38 học sinh, mỗi bạn góp 19 500 đồng. Ước lượng tổng số tiền khoảng:
++ 800 000 đồng
+- 80 000 đồng
+- 8 000 000 đồng
+- 600 000 đồng
+= 40 · 20 000 = 800 000 đồng.
+?3 Chiều dài đo được 2,348 m. Làm tròn đến cm (hàng phần trăm của mét) là:
++ 2,35 m
+- 2,34 m
+- 2,3 m
+- 2,4 m
+= Chữ số hàng phần nghìn là 8 ≥ 5.
+?3 Số 7,5 là kết quả làm tròn đến hàng phần mười của số nào?
++ 7,46
+- 7,44
+- 7,56
+- 7,55
+= 7,46 ≈ 7,5; các số còn lại làm tròn thành 7,4 hoặc 7,6.
+?4 Một số khi làm tròn đến hàng chục được 250. Số tự nhiên lớn nhất thỏa mãn là:
++ 254
+- 255
+- 259
+- 249
+= Các số từ 245 đến 254 làm tròn thành 250.
+?4 Mỗi bước chân dài khoảng 0,62 m. Đi 1 km cần khoảng bao nhiêu bước (làm tròn đến hàng trăm)?
++ 1 600 bước
+- 620 bước
+- 1 500 bước
+- 16 000 bước
+= 1 000 : 0,62 ≈ 1 613 ≈ 1 600 bước.
+
+## Bài 31. Một số bài toán về tỉ số và tỉ số phần trăm
+?1 Tỉ số của 3 và 4 là:
++ 3/4
+- 4/3
+- 7
+- 12
+= Tỉ số a và b là a : b.
+?1 Tỉ số phần trăm của 1 và 4 là:
++ 25%
+- 4%
+- 40%
+- 14%
+= 1/4 = 0,25 = 25%.
+?1 Tỉ số của 30 cm và 1 m là:
++ 3/10
+- 30
+- 30/1
+- 10/3
+= Đổi cùng đơn vị: 30 cm : 100 cm.
+?1 Viết 0,45 dưới dạng tỉ số phần trăm:
++ 45%
+- 4,5%
+- 0,45%
+- 450%
+= 0,45 = 45/100 = 45%.
+?2 Một lớp có 15 nữ và 25 nam. Tỉ số phần trăm của số nữ so với cả lớp là:
++ 37,5%
+- 60%
+- 15%
+- 62,5%
+= 15/40 = 37,5%.
+?2 Tỉ lệ bản đồ 1 : 100 000 nghĩa là 1 cm trên bản đồ ứng với thực tế:
++ 1 km
+- 100 m
+- 10 km
+- 100 km
+= 100 000 cm = 1 km.
+?2 Một người gửi 10 triệu đồng, lãi suất 6% một năm. Sau một năm tiền lãi là:
++ 600 000 đồng
+- 60 000 đồng
+- 6 000 000 đồng
+- 10 600 000 đồng
+= 10 000 000 · 6% = 600 000.
+?3 Năm ngoái lớp có 32 học sinh giỏi, năm nay 40. Số học sinh giỏi tăng bao nhiêu phần trăm?
++ 25%
+- 20%
+- 8%
+- 80%
+= Tăng 8 so với 32: 8/32 = 25%.
+?3 Hai thành phố cách nhau 5 cm trên bản đồ tỉ lệ 1 : 2 000 000. Khoảng cách thực tế là:
++ 100 km
+- 10 km
+- 1 000 km
+- 40 km
+= 5 · 2 000 000 cm = 10 000 000 cm = 100 km.
+?3 Một trường có 600 học sinh, 45% là nữ. Số học sinh nam là:
++ 330
+- 270
+- 300
+- 450
+= Nam chiếm 55%: 600 · 55% = 330.
+?4 Giá một món hàng tăng 20% rồi giảm 20%. So với giá ban đầu, giá cuối:
++ giảm 4%
+- không đổi
+- tăng 4%
+- giảm 20%
+= 1,2 · 0,8 = 0,96 → giảm 4%.
+?4 Tỉ số của hai số là 3/5, hiệu hai số là 24. Số lớn là:
++ 60
+- 36
+- 40
+- 15
+= Hiệu ứng với 2 phần = 24 → mỗi phần 12; số lớn 5 · 12 = 60.

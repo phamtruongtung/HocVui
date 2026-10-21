@@ -1,0 +1,373 @@
+# Chương IV. Một số hình phẳng trong thực tiễn
+
+## Bài 18. Hình tam giác đều. Hình vuông. Hình lục giác đều
+?1 Tam giác đều có:
++ ba cạnh bằng nhau và ba góc bằng nhau
+- ba cạnh bằng nhau, các góc khác nhau
+- hai cạnh bằng nhau
+- một góc vuông
+= Tam giác đều có ba cạnh bằng nhau, ba góc bằng nhau (mỗi góc 60°).
+?1 Hình vuông có:
++ bốn cạnh bằng nhau và bốn góc vuông
+- bốn cạnh bằng nhau, không có góc vuông
+- hai cặp cạnh đối bằng nhau, không có góc vuông
+- ba góc vuông
+= Đặc điểm của hình vuông.
+?1 Hình lục giác đều có bao nhiêu cạnh?
++ 6
+- 5
+- 8
+- 4
+= "Lục" nghĩa là sáu.
+?1 Hai đường chéo của hình vuông:
++ bằng nhau và vuông góc với nhau
+- không bằng nhau
+- song song với nhau
+- bằng cạnh hình vuông
+= Hai đường chéo hình vuông bằng nhau, vuông góc và cắt nhau tại trung điểm mỗi đường.
+?2 Hình lục giác đều được ghép từ bao nhiêu tam giác đều bằng nhau (chung đỉnh là tâm)?
++ 6
+- 4
+- 3
+- 8
+= Nối tâm với 6 đỉnh được 6 tam giác đều.
+?2 Hình lục giác đều ABCDEF có bao nhiêu đường chéo chính (đi qua tâm)?
++ 3
+- 6
+- 2
+- 9
+= AD, BE, CF.
+?2 Chu vi tam giác đều cạnh 7 cm là:
++ 21 cm
+- 14 cm
+- 49 cm
+- 28 cm
+= 3 × 7 = 21 cm.
+?3 Một hình vuông có chu vi 36 cm. Diện tích hình vuông là:
++ 81 cm²
+- 36 cm²
+- 9 cm²
+- 144 cm²
+= Cạnh = 36 : 4 = 9 cm; diện tích 9 × 9 = 81 cm².
+?3 Lục giác đều có cạnh 5 cm. Đường chéo chính dài:
++ 10 cm
+- 5 cm
+- 15 cm
+- 25 cm
+= Đường chéo chính bằng hai lần cạnh (gồm hai cạnh tam giác đều).
+?3 Một khung tranh hình lục giác đều cạnh 20 cm. Độ dài dây viền quanh khung là:
++ 120 cm
+- 100 cm
+- 80 cm
+- 140 cm
+= Chu vi = 6 × 20 = 120 cm.
+?4 Ghép 4 hình vuông nhỏ cạnh 3 cm thành một hình vuông lớn. Chu vi hình vuông lớn là:
++ 24 cm
+- 48 cm
+- 12 cm
+- 36 cm
+= Hình vuông lớn cạnh 6 cm, chu vi 4 × 6 = 24 cm.
+?4 Một hình lục giác đều được chia thành 6 tam giác đều, mỗi tam giác có diện tích 10 cm². Diện tích lục giác là:
++ 60 cm²
+- 36 cm²
+- 16 cm²
+- 30 cm²
+= 6 × 10 = 60 cm².
+
+## Bài 19. Hình chữ nhật. Hình thoi. Hình bình hành. Hình thang cân
+?1 Hình chữ nhật có:
++ bốn góc vuông, các cạnh đối bằng nhau
+- bốn cạnh bằng nhau
+- hai đường chéo vuông góc
+- chỉ hai góc vuông
+= Đặc điểm hình chữ nhật.
+?1 Hình thoi có:
++ bốn cạnh bằng nhau
+- bốn góc vuông
+- hai đường chéo bằng nhau
+- chỉ một cặp cạnh song song
+= Hình thoi có bốn cạnh bằng nhau, hai đường chéo vuông góc.
+?1 Hình bình hành có:
++ các cạnh đối song song và bằng nhau
+- bốn cạnh bằng nhau
+- bốn góc vuông
+- hai đường chéo vuông góc
+= Đặc điểm hình bình hành.
+?1 Hình thang cân có:
++ hai cạnh bên bằng nhau, hai đường chéo bằng nhau
+- bốn cạnh bằng nhau
+- bốn góc vuông
+- hai cạnh đáy bằng nhau
+= Đặc điểm hình thang cân.
+?2 Hình nào có hai đường chéo vuông góc với nhau?
++ Hình thoi
+- Hình chữ nhật (không vuông)
+- Hình bình hành (không phải hình thoi)
+- Hình thang cân
+= Hình thoi có hai đường chéo vuông góc.
+?2 Hình nào có hai đường chéo bằng nhau?
++ Hình chữ nhật
+- Hình thoi (không vuông)
+- Hình bình hành (không phải hình chữ nhật)
+- Tam giác
+= Hình chữ nhật có hai đường chéo bằng nhau.
+?2 Trong hình bình hành ABCD, khẳng định nào đúng?
++ AB = CD và AD = BC
+- AB = BC
+- AC = BD luôn đúng
+- Góc A bằng 90°
+= Các cạnh đối của hình bình hành bằng nhau.
+?3 Hình chữ nhật có chiều dài 12 cm, chiều rộng bằng một nửa chiều dài. Chu vi là:
++ 36 cm
+- 72 cm
+- 18 cm
+- 24 cm
+= Chiều rộng 6 cm; chu vi (12 + 6) × 2 = 36 cm.
+?3 Hình thoi có chu vi 28 cm. Độ dài mỗi cạnh là:
++ 7 cm
+- 14 cm
+- 4 cm
+- 28 cm
+= Bốn cạnh bằng nhau: 28 : 4 = 7.
+?3 Trong hình thang cân ABCD (AB // CD), góc D bằng 70°. Góc C bằng:
++ 70°
+- 110°
+- 20°
+- 90°
+= Hai góc kề một đáy của hình thang cân bằng nhau.
+?4 Một hình bình hành có một góc 60°. Số đo góc kề với nó là:
++ 120°
+- 60°
+- 90°
+- 30°
+= Hai góc kề một cạnh của hình bình hành có tổng 180°.
+?4 Từ một tấm bìa hình chữ nhật 20 cm × 12 cm cắt thành các hình vuông cạnh 4 cm. Cắt được nhiều nhất bao nhiêu hình vuông?
++ 15
+- 12
+- 20
+- 10
+= (20 : 4) × (12 : 4) = 5 × 3 = 15.
+
+## Bài 20. Chu vi và diện tích của một số tứ giác đã học
+?1 Diện tích hình chữ nhật có chiều dài a, chiều rộng b là:
++ a · b
+- (a + b) · 2
+- a + b
+- a · b : 2
+= S = a · b.
+?1 Diện tích hình thoi có hai đường chéo m, n là:
++ m · n : 2
+- m · n
+- (m + n) · 2
+- m + n
+= S = (m · n) : 2.
+?1 Diện tích hình bình hành có cạnh đáy a, chiều cao h là:
++ a · h
+- a · h : 2
+- (a + h) · 2
+- a + h
+= S = a · h.
+?1 Diện tích hình thang có hai đáy a, b và chiều cao h là:
++ (a + b) · h : 2
+- (a + b) · h
+- a · b · h
+- (a + b) : 2
+= S = (a + b) · h : 2.
+?2 Diện tích hình thoi có hai đường chéo 8 cm và 6 cm là:
++ 24 cm²
+- 48 cm²
+- 14 cm²
+- 28 cm²
+= 8 · 6 : 2 = 24.
+?2 Hình bình hành có cạnh đáy 15 cm, chiều cao 8 cm. Diện tích là:
++ 120 cm²
+- 60 cm²
+- 46 cm²
+- 23 cm²
+= 15 · 8 = 120.
+?2 Hình thang có hai đáy 10 m và 6 m, chiều cao 5 m. Diện tích là:
++ 40 m²
+- 80 m²
+- 300 m²
+- 21 m²
+= (10 + 6) · 5 : 2 = 40.
+?3 Một mảnh vườn hình chữ nhật dài 25 m, rộng 16 m. Người ta trồng rau, mỗi m² thu 3 kg. Tổng số rau thu được là:
++ 1 200 kg
+- 400 kg
+- 123 kg
+- 246 kg
+= Diện tích 25 · 16 = 400 m²; 400 · 3 = 1 200 kg.
+?3 Một hình chữ nhật có diện tích 72 cm², chiều rộng 6 cm. Chu vi là:
++ 36 cm
+- 24 cm
+- 18 cm
+- 78 cm
+= Chiều dài 72 : 6 = 12; chu vi (12 + 6) · 2 = 36.
+?3 Hình thoi có cạnh 5 cm, hai đường chéo 6 cm và 8 cm. Chu vi và diện tích lần lượt là:
++ 20 cm và 24 cm²
+- 20 cm và 48 cm²
+- 24 cm và 20 cm²
+- 28 cm và 24 cm²
+= Chu vi 4 · 5 = 20; diện tích 6 · 8 : 2 = 24.
+?4 Một sân hình vuông cạnh 12 m, ở giữa có bồn hoa hình thoi với hai đường chéo 4 m và 6 m. Diện tích phần sân còn lại là:
++ 132 m²
+- 120 m²
+- 144 m²
+- 156 m²
+= 12 · 12 − 4 · 6 : 2 = 144 − 12 = 132.
+?4 Lát nền phòng hình chữ nhật 6 m × 4 m bằng gạch vuông cạnh 40 cm. Cần bao nhiêu viên gạch?
++ 150 viên
+- 240 viên
+- 60 viên
+- 1 500 viên
+= Diện tích phòng 24 m² = 240 000 cm²; mỗi viên 1 600 cm² → 150 viên.
+
+# Chương V. Tính đối xứng của hình phẳng trong tự nhiên
+
+## Bài 21. Hình có trục đối xứng
+?1 Hình vuông có bao nhiêu trục đối xứng?
++ 4
+- 2
+- 1
+- 8
+= Hai đường chéo và hai đường nối trung điểm các cạnh đối.
+?1 Hình chữ nhật (không phải hình vuông) có bao nhiêu trục đối xứng?
++ 2
+- 4
+- 1
+- 0
+= Hai đường nối trung điểm các cặp cạnh đối.
+?1 Chữ cái in hoa nào có trục đối xứng?
++ A
+- F
+- G
+- R
+= Chữ A có một trục đối xứng thẳng đứng.
+?1 Đường tròn có bao nhiêu trục đối xứng?
++ Vô số
+- 1
+- 2
+- 4
+= Mọi đường thẳng đi qua tâm đều là trục đối xứng.
+?2 Tam giác đều có bao nhiêu trục đối xứng?
++ 3
+- 1
+- 6
+- 0
+= Mỗi đường thẳng qua một đỉnh và trung điểm cạnh đối diện.
+?2 Hình thang cân có bao nhiêu trục đối xứng?
++ 1
+- 2
+- 0
+- 4
+= Đường thẳng đi qua trung điểm hai đáy.
+?2 Hình nào KHÔNG có trục đối xứng?
++ Hình bình hành (không phải hình thoi, hình chữ nhật)
+- Hình thoi
+- Hình thang cân
+- Tam giác đều
+= Hình bình hành thông thường không có trục đối xứng.
+?3 Lục giác đều có bao nhiêu trục đối xứng?
++ 6
+- 3
+- 12
+- 2
+= 3 đường chéo chính và 3 đường nối trung điểm các cạnh đối.
+?3 Trong các chữ số 0, 1, 3, 8 (viết kiểu số điện tử), chữ số nào có cả trục đối xứng ngang và dọc?
++ 0 và 8
+- chỉ 3
+- chỉ 1
+- 1 và 3
+= 0 và 8 đối xứng theo cả trục ngang lẫn trục dọc; 3 chỉ có trục ngang.
+?3 Từ "HOA" viết in hoa, chữ nào có trục đối xứng dọc?
++ Cả H, O và A
+- Chỉ H
+- Chỉ O
+- Không chữ nào
+= H, O, A đều có trục đối xứng thẳng đứng.
+?4 Gấp đôi một tờ giấy rồi cắt theo nét vẽ, mở ra được hình có trục đối xứng là:
++ nếp gấp
+- mép giấy
+- đường chéo tờ giấy
+- không có trục đối xứng
+= Hai nửa trùng nhau qua nếp gấp nên nếp gấp là trục đối xứng.
+?4 Hình thoi (không phải hình vuông) có trục đối xứng là:
++ hai đường chéo
+- bốn cạnh
+- hai đường nối trung điểm các cạnh đối
+- không có
+= Hình thoi đối xứng qua hai đường chéo.
+
+## Bài 22. Hình có tâm đối xứng
+?1 Tâm đối xứng của hình chữ nhật là:
++ giao điểm hai đường chéo
+- một đỉnh
+- trung điểm một cạnh
+- không có
+= Hình chữ nhật nhận giao điểm hai đường chéo làm tâm đối xứng.
+?1 Hình nào có tâm đối xứng?
++ Hình bình hành
+- Tam giác đều
+- Hình thang cân
+- Tam giác vuông
+= Hình bình hành có tâm đối xứng là giao điểm hai đường chéo.
+?1 Đường tròn có tâm đối xứng là:
++ tâm đường tròn
+- một điểm trên đường tròn
+- không có
+- vô số điểm
+= Tâm đường tròn là tâm đối xứng.
+?1 Chữ cái in hoa nào có tâm đối xứng?
++ N
+- A
+- T
+- V
+= Quay chữ N nửa vòng quanh điểm giữa được chính nó.
+?2 Tam giác đều có tâm đối xứng không?
++ Không
+- Có, là trọng tâm
+- Có, là một đỉnh
+- Có, là trung điểm một cạnh
+= Quay tam giác đều 180° không trùng với chính nó.
+?2 Hình nào vừa có trục đối xứng vừa có tâm đối xứng?
++ Hình vuông
+- Tam giác đều
+- Hình thang cân
+- Hình bình hành thông thường
+= Hình vuông có 4 trục và 1 tâm đối xứng.
+?2 Chữ cái in hoa nào vừa có trục đối xứng vừa có tâm đối xứng?
++ H
+- N
+- S
+- A
+= H có hai trục đối xứng và tâm đối xứng.
+?3 Trong các chữ số 0, 6, 7, 8 (viết kiểu số điện tử), những chữ số có tâm đối xứng là:
++ 0 và 8
+- 6 và 8
+- 0 và 6
+- 7 và 8
+= Quay 180°: 0 và 8 không đổi; 6 thành 9; 7 thành hình khác.
+?3 Hình lục giác đều có tâm đối xứng là:
++ giao điểm các đường chéo chính
+- một đỉnh
+- trung điểm một cạnh
+- không có
+= Ba đường chéo chính cắt nhau tại tâm, đó là tâm đối xứng.
+?3 Từ "SOS" viết in hoa có tâm đối xứng không?
++ Có
+- Không
+- Chỉ chữ O có
+- Chỉ khi viết thường
+= S và O đều có tâm đối xứng, quay cả từ 180° vẫn được "SOS".
+?4 Số nào khi quay 180° vẫn là chính nó?
++ 69
+- 66
+- 98
+- 16
+= Quay 180°: 6 ↔ 9, nên 69 thành 69.
+?4 Hình nào có tâm đối xứng nhưng không có trục đối xứng?
++ Hình bình hành (không phải hình thoi, hình chữ nhật)
+- Hình vuông
+- Hình thoi
+- Hình tròn
+= Hình bình hành thông thường chỉ có tâm đối xứng.

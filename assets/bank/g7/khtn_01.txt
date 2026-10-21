@@ -1,0 +1,965 @@
+// Khoa học tự nhiên 7 – Kết nối tri thức với cuộc sống
+#! HK1
+# Mở đầu
+
+## Bài 1. Phương pháp và kĩ năng học tập môn Khoa học tự nhiên
+?1 Bước đầu tiên của phương pháp tìm hiểu tự nhiên là:
++ đề xuất vấn đề cần tìm hiểu
+- viết báo cáo
+- kết luận
+- lập kế hoạch kiểm tra giả thuyết
+= Bắt đầu từ quan sát, đặt câu hỏi.
+?1 Kĩ năng nào là kĩ năng học tập môn KHTN?
++ quan sát, phân loại, đo, dự báo
+- hát, múa
+- vẽ tranh phong cảnh
+- chơi thể thao
+= Các kĩ năng tiến trình.
+?1 Giả thuyết là:
++ một dự đoán có thể kiểm chứng được
+- một kết luận chắc chắn
+- một câu chuyện
+- một quy luật đã biết
+= Cần kiểm tra bằng thí nghiệm.
+?2 Thứ tự đúng của các bước tìm hiểu tự nhiên là:
++ đề xuất vấn đề → đưa ra dự đoán → lập kế hoạch → thực hiện → kết luận
+- kết luận → thực hiện → dự đoán
+- thực hiện → đề xuất vấn đề → kết luận
+- dự đoán → kết luận → thực hiện
+= Tiến trình khoa học.
+?2 Dụng cụ dùng để đo thời gian chính xác trong thí nghiệm đo tốc độ là:
++ đồng hồ đo thời gian hiện số với cổng quang
+- thước kẻ
+- nhiệt kế
+- cân
+= Thiết bị đo chính xác.
+?3 Bạn An dự đoán "Cây đậu mọc nhanh hơn khi có ánh sáng". Để kiểm tra, An cần:
++ trồng hai chậu giống nhau, một chậu để sáng, một chậu để tối, so sánh kết quả
+- trồng một chậu duy nhất
+- hỏi bạn bè
+- đọc truyện
+= Thí nghiệm đối chứng.
+?3 Kĩ năng "liên kết" trong học KHTN là:
++ tìm mối quan hệ giữa các sự vật, hiện tượng
+- ghi nhớ máy móc
+- vẽ hình
+- đọc to
+= Kĩ năng tư duy.
+?4 Khi kết quả thí nghiệm không giống giả thuyết, ta nên:
++ xem lại giả thuyết, đề xuất giả thuyết mới và tiếp tục kiểm tra
+- sửa số liệu cho khớp
+- bỏ qua kết quả
+- kết luận giả thuyết đúng
+= Trung thực khoa học.
+
+# Chương I. Nguyên tử. Sơ lược về bảng tuần hoàn các nguyên tố hóa học
+
+## Bài 2. Nguyên tử
+?1 Nguyên tử gồm:
++ hạt nhân và vỏ electron
+- chỉ có hạt nhân
+- chỉ có electron
+- phân tử và ion
+= Cấu tạo nguyên tử.
+?1 Hạt mang điện tích dương trong nguyên tử là:
++ proton
+- electron
+- neutron
+- photon
+= Proton nằm trong hạt nhân.
+?1 Hạt không mang điện là:
++ neutron
+- proton
+- electron
+- ion
+= Neutron trung hòa.
+?2 Nguyên tử trung hòa về điện vì:
++ số proton bằng số electron
+- số proton bằng số neutron
+- không có electron
+- không có proton
+= Điện tích dương và âm cân bằng.
+?2 Nguyên tử có 11 proton thì có bao nhiêu electron?
++ 11
+- 12
+- 22
+- 10
+= Số p = số e.
+?3 Khối lượng nguyên tử tập trung chủ yếu ở:
++ hạt nhân
+- vỏ electron
+- lớp ngoài cùng
+- khoảng trống
+= Electron rất nhẹ.
+?3 Nguyên tử carbon có 6 proton, 6 neutron. Khối lượng nguyên tử carbon xấp xỉ:
++ 12 amu
+- 6 amu
+- 18 amu
+- 24 amu
+= Khối lượng ≈ số p + số n.
+?4 Nguyên tử X có tổng số hạt là 40, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 12. Số proton của X là:
++ 13
+- 14
+- 12
+- 20
+= 2p + n = 40; 2p − n = 12 → p = 13 (nhôm).
+
+## Bài 3. Nguyên tố hóa học
+?1 Nguyên tố hóa học là tập hợp những nguyên tử cùng loại có cùng:
++ số proton trong hạt nhân
+- số neutron
+- khối lượng
+- số electron lớp ngoài
+= Định nghĩa.
+?1 Kí hiệu hóa học của nguyên tố oxygen là:
++ O
+- Ox
+- On
+- Og
+= Kí hiệu O.
+?1 Kí hiệu hóa học của sắt là:
++ Fe
+- S
+- Si
+- F
+= Từ tiếng Latinh "Ferrum".
+?2 Kí hiệu "Na" là của nguyên tố:
++ sodium (natri)
+- nitrogen
+- neon
+- nickel
+= Natrium.
+?2 Nguyên tố phổ biến nhất trong vỏ Trái Đất là:
++ oxygen
+- sắt
+- nhôm
+- hydrogen
+= Khoảng 46% khối lượng vỏ Trái Đất.
+?3 Kí hiệu "Ca" và "C" lần lượt là:
++ calcium và carbon
+- carbon và calcium
+- copper và chlorine
+- cobalt và carbon
+= Ca: canxi; C: cacbon.
+?3 Nguyên tố có số proton bằng 8 là:
++ oxygen
+- nitrogen
+- carbon
+- fluorine
+= O có Z = 8.
+?4 Hai nguyên tử có cùng số proton nhưng khác số neutron là:
++ đồng vị của cùng một nguyên tố
+- hai nguyên tố khác nhau
+- hai phân tử
+- hai ion trái dấu
+= Đồng vị.
+
+## Bài 4. Sơ lược về bảng tuần hoàn các nguyên tố hóa học
+?1 Các nguyên tố trong bảng tuần hoàn được sắp xếp theo chiều tăng dần của:
++ điện tích hạt nhân (số proton)
+- khối lượng nguyên tử
+- tên gọi
+- màu sắc
+= Nguyên tắc sắp xếp.
+?1 Chu kì là:
++ dãy các nguyên tố có cùng số lớp electron, xếp thành hàng ngang
+- cột dọc
+- một nguyên tố
+- một nhóm kim loại
+= Chu kì là hàng ngang.
+?1 Nhóm là:
++ tập hợp các nguyên tố có tính chất tương tự, xếp thành cột
+- hàng ngang
+- một nguyên tử
+- một phân tử
+= Nhóm là cột dọc.
+?2 Ô nguyên tố cho biết:
++ số hiệu nguyên tử, kí hiệu, tên, khối lượng nguyên tử
+- giá tiền
+- màu sắc
+- nơi khai thác
+= Thông tin trong ô.
+?2 Nguyên tố khí hiếm thuộc nhóm:
++ VIIIA
+- IA
+- IIA
+- VIIA
+= He, Ne, Ar…
+?3 Nguyên tố ở ô số 11 có bao nhiêu proton?
++ 11
+- 1
+- 22
+- 12
+= Số hiệu = số proton.
+?3 Nhóm IA (trừ H) gồm các:
++ kim loại kiềm, hoạt động mạnh
+- phi kim
+- khí hiếm
+- kim loại quý không phản ứng
+= Li, Na, K…
+?4 Nguyên tố X ở chu kì 3, nhóm IIA. X có:
++ 3 lớp electron và 2 electron lớp ngoài cùng
+- 2 lớp electron và 3 electron lớp ngoài
+- 3 lớp và 3 electron lớp ngoài
+- 2 lớp và 2 electron lớp ngoài
+= Chu kì = số lớp; nhóm A = số e ngoài cùng (X là Mg).
+
+# Chương II. Phân tử. Liên kết hóa học
+
+## Bài 5. Phân tử – Đơn chất – Hợp chất
+?1 Đơn chất là chất được tạo nên từ:
++ một nguyên tố hóa học
+- hai nguyên tố trở lên
+- hỗn hợp
+- dung dịch
+= Ví dụ: O₂, Fe.
+?1 Hợp chất là chất được tạo nên từ:
++ hai hay nhiều nguyên tố hóa học
+- một nguyên tố
+- không có nguyên tố
+- chỉ kim loại
+= Ví dụ: H₂O, NaCl.
+?1 Chất nào là đơn chất?
++ khí oxygen (O₂)
+- nước (H₂O)
+- muối ăn (NaCl)
+- khí carbon dioxide (CO₂)
+= Chỉ gồm nguyên tố O.
+?2 Phân tử nước gồm:
++ 2 nguyên tử H và 1 nguyên tử O
+- 1 H và 2 O
+- 2 H và 2 O
+- 1 H và 1 O
+= H₂O.
+?2 Khối lượng phân tử H₂O (H = 1, O = 16) là:
++ 18 amu
+- 17 amu
+- 34 amu
+- 16 amu
+= 2·1 + 16 = 18.
+?3 Khối lượng phân tử CO₂ (C = 12, O = 16) là:
++ 44 amu
+- 28 amu
+- 32 amu
+- 40 amu
+= 12 + 2·16 = 44.
+?3 Chất nào là hợp chất?
++ CaCO₃ (đá vôi)
+- N₂
+- Cu
+- H₂
+= Gồm Ca, C, O.
+?4 Phân tử X gồm 1 nguyên tử nguyên tố A và 2 nguyên tử O, khối lượng phân tử 64 amu. A là:
++ sulfur (S = 32)
+- carbon (C = 12)
+- nitrogen (N = 14)
+- silicon (Si = 28)
+= A + 32 = 64 → A = 32 (SO₂).
+
+## Bài 6. Giới thiệu về liên kết hóa học
+?1 Các nguyên tử liên kết với nhau để đạt cấu hình electron bền vững giống:
++ khí hiếm
+- kim loại kiềm
+- halogen
+- hydrogen
+= Lớp ngoài cùng 8 electron (hoặc 2 với He).
+?1 Liên kết ion được hình thành do:
++ lực hút giữa các ion mang điện tích trái dấu
+- dùng chung electron
+- lực hấp dẫn
+- lực ma sát
+= Ví dụ NaCl.
+?1 Liên kết cộng hóa trị được hình thành do:
++ các nguyên tử dùng chung electron
+- nhường nhận electron hoàn toàn
+- lực từ
+- ion trái dấu hút nhau
+= Ví dụ H₂O, H₂.
+?2 Trong NaCl, nguyên tử Na:
++ nhường 1 electron tạo ion Na⁺
+- nhận 1 electron
+- dùng chung electron
+- không thay đổi
+= Kim loại nhường electron.
+?2 Phân tử H₂ có liên kết:
++ cộng hóa trị
+- ion
+- kim loại
+- hydrogen
+= Dùng chung một cặp electron.
+?3 Hợp chất ion thường có trạng thái ở nhiệt độ phòng là:
++ rắn, nhiệt độ nóng chảy cao
+- khí
+- lỏng dễ bay hơi
+- plasma
+= Ví dụ muối ăn.
+?3 Nguyên tử chlorine (Cl) có 7 electron lớp ngoài cùng, khi tạo liên kết ion có xu hướng:
++ nhận 1 electron tạo ion Cl⁻
+- nhường 7 electron
+- nhường 1 electron
+- không phản ứng
+= Đạt 8 electron.
+?4 Hợp chất nào có liên kết ion?
++ MgO
+- CO₂
+- H₂O
+- CH₄
+= Giữa kim loại điển hình và phi kim điển hình.
+
+## Bài 7. Hóa trị và công thức hóa học
+?1 Hóa trị của H được quy ước là:
++ I
+- II
+- III
+- 0
+= Quy ước.
+?1 Hóa trị của O thường là:
++ II
+- I
+- III
+- IV
+= Oxygen hóa trị II.
+?1 Công thức hóa học của nước là:
++ H₂O
+- HO₂
+- H₂O₂
+- OH
+= Hai H, một O.
+?2 Công thức hóa học tạo bởi Al (III) và O (II) là:
++ Al₂O₃
+- AlO
+- Al₃O₂
+- AlO₃
+= Quy tắc hóa trị: 2·III = 3·II.
+?2 Trong hợp chất CO₂, hóa trị của C là:
++ IV
+- II
+- I
+- III
+= x · 1 = II · 2.
+?3 Hóa trị của Fe trong Fe₂O₃ là:
++ III
+- II
+- I
+- IV
+= 2x = 3·II → x = 3.
+?3 Công thức của hợp chất tạo bởi Ca (II) và nhóm OH (I) là:
++ Ca(OH)₂
+- CaOH
+- Ca₂OH
+- Ca(OH)₃
+= Cần 2 nhóm OH.
+?4 Phần trăm khối lượng của O trong CO₂ (C = 12, O = 16) là khoảng:
++ 72,7%
+- 27,3%
+- 50%
+- 36,4%
+= 32/44 ≈ 72,7%.
+
+# Chương III. Tốc độ
+
+## Bài 8. Tốc độ chuyển động
+?1 Tốc độ cho biết:
++ mức độ nhanh hay chậm của chuyển động
+- hướng chuyển động
+- khối lượng vật
+- nhiệt độ vật
+= Định nghĩa tốc độ.
+?1 Công thức tính tốc độ là:
++ v = s/t
+- v = s · t
+- v = t/s
+- v = s + t
+= s: quãng đường, t: thời gian.
+?1 Đơn vị tốc độ thường dùng là:
++ m/s và km/h
+- kg
+- m²
+- °C
+= Đơn vị tốc độ.
+?2 Một người đi 6 km trong 2 giờ. Tốc độ là:
++ 3 km/h
+- 12 km/h
+- 4 km/h
+- 8 km/h
+= 6 : 2.
+?2 36 km/h bằng:
++ 10 m/s
+- 36 m/s
+- 3,6 m/s
+- 100 m/s
+= 36 : 3,6.
+?3 Một xe đi với tốc độ 40 km/h trong 1,5 giờ. Quãng đường là:
++ 60 km
+- 26,7 km
+- 41,5 km
+- 80 km
+= s = v · t.
+?3 Bạn An chạy 100 m hết 20 s, bạn Bình chạy 60 m hết 10 s. Ai chạy nhanh hơn?
++ Bình (6 m/s so với 5 m/s)
+- An
+- Bằng nhau
+- Không so sánh được
+= So sánh tốc độ.
+?4 Một ô tô đi nửa quãng đường đầu với 40 km/h, nửa sau với 60 km/h. Tốc độ trung bình cả quãng đường là:
++ 48 km/h
+- 50 km/h
+- 45 km/h
+- 100 km/h
+= Gọi nửa quãng đường là s: t = s/40 + s/60 = s/24; v = 2s : (s/24) = 48.
+
+## Bài 9. Đo tốc độ
+?1 Để đo tốc độ, cần đo:
++ quãng đường và thời gian
+- khối lượng và thể tích
+- nhiệt độ
+- lực
+= v = s/t.
+?1 Thiết bị "bắn tốc độ" của cảnh sát giao thông dùng để:
++ đo tốc độ phương tiện
+- đo khối lượng xe
+- đo nhiệt độ động cơ
+- đo độ ồn
+= Kiểm soát tốc độ.
+?1 Dụng cụ đo quãng đường trong phòng thí nghiệm là:
++ thước đo
+- cân
+- nhiệt kế
+- lực kế
+= Đo chiều dài.
+?2 Đồng hồ đo thời gian hiện số dùng cổng quang điện giúp:
++ đo thời gian chính xác khi vật đi qua cổng
+- đo nhiệt độ
+- đo khối lượng
+- đo lực
+= Cảm biến quang.
+?2 Đồng hồ tốc độ (công tơ mét) trên xe máy chỉ:
++ tốc độ tức thời của xe
+- quãng đường đã đi duy nhất
+- nhiên liệu còn lại
+- nhiệt độ
+= Tốc độ tại thời điểm đó.
+?3 Một viên bi lăn qua hai cổng quang cách nhau 50 cm hết 0,25 s. Tốc độ trung bình là:
++ 2 m/s
+- 12,5 m/s
+- 0,5 m/s
+- 200 m/s
+= 0,5 m : 0,25 s.
+?3 Khi đo tốc độ chạy của bạn trên quãng đường 50 m bằng đồng hồ bấm giây, sai số chủ yếu do:
++ thời gian phản ứng của người bấm
+- chiều dài quãng đường
+- màu áo
+- trọng lượng bạn chạy
+= Sai số con người.
+?4 Biển báo giới hạn tốc độ 60 km/h. Một xe đi 1,2 km trong 1 phút. Xe có vượt quá tốc độ không?
++ Có, vì tốc độ là 72 km/h
+- Không, vì tốc độ 20 km/h
+- Không, vì tốc độ 60 km/h
+- Không xác định
+= 1,2 km/phút = 72 km/h.
+
+## Bài 10. Đồ thị quãng đường – thời gian
+?1 Đồ thị quãng đường – thời gian biểu diễn:
++ sự thay đổi quãng đường theo thời gian
+- sự thay đổi nhiệt độ
+- khối lượng vật
+- thể tích vật
+= Trục ngang thời gian, trục đứng quãng đường.
+?1 Vật chuyển động với tốc độ không đổi có đồ thị s – t là:
++ đường thẳng xiên đi lên
+- đường nằm ngang
+- đường cong
+- đường thẳng đứng
+= Quãng đường tăng đều.
+?1 Đoạn đồ thị nằm ngang cho biết vật:
++ đứng yên
+- chuyển động nhanh
+- chuyển động chậm dần
+- đi lùi
+= Quãng đường không đổi.
+?2 Từ đồ thị s – t, ta có thể xác định:
++ quãng đường, thời gian và tốc độ
+- khối lượng
+- nhiệt độ
+- lực
+= Thông tin từ đồ thị.
+?2 Đường đồ thị càng dốc thì tốc độ:
++ càng lớn
+- càng nhỏ
+- bằng 0
+- không đổi
+= Độ dốc thể hiện tốc độ.
+?3 Đồ thị cho thấy sau 2 giờ xe đi được 80 km. Tốc độ của xe là:
++ 40 km/h
+- 160 km/h
+- 80 km/h
+- 20 km/h
+= 80 : 2.
+?3 Hai xe có đồ thị s – t: xe A dốc hơn xe B. Kết luận:
++ xe A nhanh hơn xe B
+- xe B nhanh hơn
+- hai xe như nhau
+- xe A đứng yên
+= Dốc hơn → nhanh hơn.
+?4 Một người đi bộ 2 km trong 30 phút, nghỉ 15 phút, rồi đi tiếp 1 km trong 15 phút. Tốc độ trung bình cả hành trình là:
++ 3 km/h
+- 4 km/h
+- 2 km/h
+- 6 km/h
+= 3 km trong 1 giờ.
+
+## Bài 11. Thảo luận về ảnh hưởng của tốc độ trong an toàn giao thông
+?1 Khi tốc độ xe càng lớn thì quãng đường dừng xe:
++ càng dài
+- càng ngắn
+- không đổi
+- bằng 0
+= Khó dừng kịp.
+?1 Biển báo hình tròn viền đỏ có số 50 nghĩa là:
++ tốc độ tối đa cho phép 50 km/h
+- tốc độ tối thiểu 50 km/h
+- khoảng cách 50 m
+- trọng tải 50 tấn
+= Biển giới hạn tốc độ.
+?1 Giữ khoảng cách an toàn giữa các xe giúp:
++ có đủ thời gian xử lí, tránh va chạm
+- xe chạy nhanh hơn
+- tiết kiệm xăng
+- trang trí đường
+= An toàn giao thông.
+?2 Khi trời mưa, người lái xe nên:
++ giảm tốc độ, tăng khoảng cách an toàn
+- tăng tốc
+- bám sát xe trước
+- tắt đèn
+= Đường trơn, khó phanh.
+?2 Thời gian phản ứng của người lái xe tăng khi:
++ người lái mệt mỏi, dùng rượu bia, dùng điện thoại
+- người lái tỉnh táo
+- đường thẳng
+- trời đẹp
+= Yếu tố nguy hiểm.
+?3 Xe chạy 72 km/h (20 m/s), thời gian phản ứng của tài xế là 1 s. Quãng đường xe đi được trong thời gian phản ứng là:
++ 20 m
+- 72 m
+- 1 m
+- 2 m
+= 20 m/s · 1 s.
+?3 Tại sao trong khu vực trường học thường có biển hạn chế tốc độ thấp?
++ vì nhiều học sinh qua đường, cần đảm bảo an toàn
+- vì đường hẹp
+- vì xe hết xăng
+- vì trời tối
+= Bảo vệ người đi bộ.
+?4 Nếu tốc độ tăng gấp đôi, quãng đường xe đi được trong cùng thời gian phản ứng:
++ tăng gấp đôi
+- không đổi
+- giảm một nửa
+- tăng gấp bốn
+= s = v · t.
+
+# Chương IV. Âm thanh
+
+## Bài 12. Mô tả sóng âm
+?1 Nguồn âm là:
++ vật phát ra âm thanh
+- vật hấp thụ âm
+- tai người
+- không khí
+= Ví dụ: dây đàn rung.
+?1 Âm thanh được tạo ra khi vật:
++ dao động
+- đứng yên
+- bị nung nóng
+- được chiếu sáng
+= Các vật phát âm đều dao động.
+?1 Âm thanh KHÔNG truyền được trong:
++ chân không
+- không khí
+- nước
+- thép
+= Cần môi trường vật chất.
+?2 Âm truyền nhanh nhất trong môi trường:
++ chất rắn
+- chất lỏng
+- chất khí
+- chân không
+= Rắn > lỏng > khí.
+?2 Sóng âm là:
++ dao động lan truyền trong môi trường
+- ánh sáng
+- dòng điện
+- lực hút
+= Định nghĩa sóng âm.
+?3 Khi gõ vào mặt trống, âm phát ra do:
++ mặt trống dao động
+- không khí đứng yên
+- dùi trống nóng lên
+- trống phát sáng
+= Nguồn âm dao động.
+?3 Các nhà du hành trên Mặt Trăng phải nói chuyện qua bộ đàm vì:
++ không có không khí để truyền âm
+- họ ở quá xa nhau
+- âm quá to
+- tai họ bị che
+= Chân không.
+?4 Tốc độ âm trong không khí khoảng 340 m/s. Thấy chớp, sau 3 s nghe tiếng sấm. Nơi sét đánh cách người quan sát khoảng:
++ 1 020 m
+- 113 m
+- 340 m
+- 3 400 m
+= 340 · 3.
+
+## Bài 13. Độ to và độ cao của âm
+?1 Tần số là:
++ số dao động trong một giây
+- biên độ dao động
+- tốc độ âm
+- độ to của âm
+= Đơn vị hertz (Hz).
+?1 Đơn vị đo tần số là:
++ hertz (Hz)
+- decibel (dB)
+- mét
+- niutơn
+= Hz.
+?1 Âm càng cao (bổng) khi tần số:
++ càng lớn
+- càng nhỏ
+- bằng 0
+- không đổi
+= Tần số quyết định độ cao.
+?2 Biên độ dao động càng lớn thì âm:
++ càng to
+- càng nhỏ
+- càng cao
+- càng trầm
+= Biên độ quyết định độ to.
+?2 Tai người nghe được âm có tần số khoảng:
++ 20 Hz đến 20 000 Hz
+- dưới 20 Hz
+- trên 20 000 Hz
+- 0 Hz
+= Âm nghe được.
+?3 Siêu âm là âm có tần số:
++ lớn hơn 20 000 Hz
+- nhỏ hơn 20 Hz
+- từ 20 đến 200 Hz
+- bằng 1 000 Hz
+= Tai người không nghe được.
+?3 Một vật dao động 500 lần trong 2 giây. Tần số dao động là:
++ 250 Hz
+- 1 000 Hz
+- 500 Hz
+- 2 Hz
+= 500 : 2.
+?4 Khi vặn dây đàn căng hơn, âm phát ra:
++ cao hơn vì tần số dao động tăng
+- trầm hơn
+- to hơn vì biên độ giảm
+- không đổi
+= Dây căng dao động nhanh hơn.
+
+## Bài 14. Phản xạ âm, chống ô nhiễm tiếng ồn
+?1 Vật phản xạ âm tốt là vật:
++ cứng, có bề mặt nhẵn
+- mềm, xốp
+- gồ ghề, mềm
+- rỗng
+= Ví dụ: tường gạch, kính.
+?1 Vật hấp thụ âm tốt là:
++ rèm vải, xốp, thảm
+- tấm kính
+- tường đá nhẵn
+- tấm kim loại
+= Mềm, xốp.
+?1 Tiếng vang là:
++ âm phản xạ nghe được cách âm trực tiếp ít nhất 1/15 giây
+- âm phát ra từ loa
+- âm có tần số cao
+- siêu âm
+= Điều kiện có tiếng vang.
+?2 Biện pháp chống ô nhiễm tiếng ồn là:
++ trồng cây xanh, xây tường cách âm, giảm âm lượng
+- bật nhạc to
+- bấm còi liên tục
+- mở cửa khi có tiếng ồn
+= Giảm, ngăn tiếng ồn.
+?2 Ô nhiễm tiếng ồn có thể gây:
++ mất ngủ, giảm thính lực, căng thẳng
+- tốt cho sức khỏe
+- tăng thị lực
+- không ảnh hưởng
+= Tác hại của tiếng ồn.
+?3 Dơi định hướng khi bay trong đêm nhờ:
++ phát siêu âm và thu âm phản xạ
+- nhìn bằng mắt
+- ngửi mùi
+- ánh trăng
+= Định vị bằng tiếng vang.
+?3 Trong phòng hòa nhạc, tường thường được ốp vật liệu xốp để:
++ giảm tiếng vang, âm nghe rõ hơn
+- tăng tiếng vang
+- trang trí
+- làm phòng sáng hơn
+= Hấp thụ âm.
+?4 Tàu phát siêu âm xuống đáy biển, sau 2 s nhận được âm phản xạ. Tốc độ âm trong nước 1 500 m/s. Độ sâu đáy biển là:
++ 1 500 m
+- 3 000 m
+- 750 m
+- 6 000 m
+= Âm đi xuống rồi lên: h = 1 500 · 2 : 2.
+
+# Chương V. Ánh sáng
+
+## Bài 15. Năng lượng ánh sáng. Tia sáng, vùng tối
+?1 Ánh sáng là một dạng:
++ năng lượng
+- chất
+- lực
+- âm thanh
+= Năng lượng ánh sáng.
+?1 Trong môi trường trong suốt, đồng tính, ánh sáng truyền theo:
++ đường thẳng
+- đường cong
+- đường gấp khúc
+- vòng tròn
+= Định luật truyền thẳng.
+?1 Tia sáng được biểu diễn bằng:
++ đường thẳng có mũi tên chỉ hướng
+- đường cong
+- đoạn thẳng không có hướng
+- dấu chấm
+= Quy ước.
+?2 Vùng tối là vùng:
++ nằm phía sau vật cản, không nhận được ánh sáng từ nguồn
+- được chiếu sáng đầy đủ
+- nhận được một phần ánh sáng
+- trước vật cản
+= Bóng tối.
+?2 Pin mặt trời chuyển hóa năng lượng ánh sáng thành:
++ điện năng
+- nhiệt năng duy nhất
+- hóa năng
+- âm năng
+= Ứng dụng năng lượng ánh sáng.
+?3 Hiện tượng nhật thực xảy ra khi:
++ Mặt Trăng nằm giữa Mặt Trời và Trái Đất
+- Trái Đất nằm giữa Mặt Trời và Mặt Trăng
+- Mặt Trời nằm giữa
+- ba thiên thể không thẳng hàng
+= Mặt Trăng che Mặt Trời.
+?3 Vùng nửa tối là vùng:
++ nhận được một phần ánh sáng từ nguồn sáng rộng
+- không nhận ánh sáng
+- nhận đầy đủ ánh sáng
+- nằm trước nguồn sáng
+= Nguồn sáng rộng tạo nửa tối.
+?4 Khi đứng dưới đèn, bóng của người dài nhất khi:
++ người đứng xa chân cột đèn nhất (đèn ở thấp và xa)
+- người đứng ngay dưới đèn
+- đèn ở rất cao ngay trên đầu
+- không có đèn
+= Tia sáng xiên nhiều tạo bóng dài.
+
+## Bài 16. Sự phản xạ ánh sáng
+?1 Định luật phản xạ ánh sáng: góc phản xạ:
++ bằng góc tới
+- lớn hơn góc tới
+- nhỏ hơn góc tới
+- luôn bằng 90°
+= i' = i.
+?1 Tia phản xạ nằm trong mặt phẳng chứa:
++ tia tới và pháp tuyến tại điểm tới
+- gương
+- mặt đất
+- tia khúc xạ
+= Nội dung định luật.
+?1 Phản xạ khuếch tán xảy ra trên:
++ bề mặt gồ ghề
+- gương phẳng nhẵn
+- mặt nước phẳng lặng
+- tấm kính nhẵn
+= Ánh sáng hắt lại nhiều hướng.
+?2 Chiếu tia sáng tới gương phẳng với góc tới 30°. Góc phản xạ là:
++ 30°
+- 60°
+- 90°
+- 15°
+= i' = i.
+?2 Tia tới hợp với mặt gương góc 40°. Góc tới là:
++ 50°
+- 40°
+- 80°
+- 140°
+= Góc tới tính với pháp tuyến: 90° − 40°.
+?3 Góc tạo bởi tia tới và tia phản xạ là 120°. Góc tới là:
++ 60°
+- 120°
+- 30°
+- 240°
+= i + i' = 120 → i = 60.
+?3 Ta nhìn thấy trang sách không tự phát sáng vì:
++ trang sách phản xạ ánh sáng vào mắt
+- trang sách là nguồn sáng
+- mắt phát ra ánh sáng
+- giấy trong suốt
+= Vật được chiếu sáng.
+?4 Chiếu tia sáng vuông góc với mặt gương phẳng. Tia phản xạ:
++ bật ngược trở lại theo đường cũ
+- song song với gương
+- không có
+- tạo với gương góc 45°
+= Góc tới 0° → góc phản xạ 0°.
+
+## Bài 17. Ảnh của vật qua gương phẳng
+?1 Ảnh của vật tạo bởi gương phẳng là:
++ ảnh ảo, lớn bằng vật
+- ảnh thật, lớn hơn vật
+- ảnh thật, nhỏ hơn vật
+- ảnh ảo, nhỏ hơn vật
+= Đặc điểm ảnh qua gương phẳng.
+?1 Khoảng cách từ ảnh đến gương phẳng:
++ bằng khoảng cách từ vật đến gương
+- gấp đôi khoảng cách từ vật
+- bằng một nửa
+- không liên quan
+= Ảnh và vật đối xứng qua gương.
+?1 Ảnh ảo là ảnh:
++ không hứng được trên màn chắn
+- hứng được trên màn
+- luôn lớn hơn vật
+- luôn ngược chiều vật
+= Định nghĩa ảnh ảo.
+?2 Người đứng cách gương phẳng 1,5 m. Khoảng cách từ người đến ảnh là:
++ 3 m
+- 1,5 m
+- 0,75 m
+- 6 m
+= 1,5 + 1,5.
+?2 Một người cao 1,6 m soi gương phẳng. Ảnh cao:
++ 1,6 m
+- 0,8 m
+- 3,2 m
+- 1,2 m
+= Ảnh bằng vật.
+?3 Người tiến lại gần gương 0,5 m thì khoảng cách giữa người và ảnh giảm:
++ 1 m
+- 0,5 m
+- 0,25 m
+- 2 m
+= Cả người và ảnh cùng lại gần gương 0,5 m.
+?3 Chữ "A" khi nhìn qua gương phẳng đặt thẳng đứng trông:
++ vẫn là A vì chữ A đối xứng trục dọc
+- thành chữ V
+- bị lộn ngược
+- biến mất
+= Ảnh đối xứng.
+?4 Kính chiếu hậu của ô tô thường dùng gương cầu lồi thay vì gương phẳng vì:
++ vùng nhìn thấy rộng hơn
+- ảnh lớn hơn
+- ảnh thật
+- rẻ hơn
+= Mở rộng tầm quan sát.
+
+# Chương VI. Từ
+
+## Bài 18. Nam châm
+?1 Nam châm có:
++ hai cực Bắc (N) và Nam (S)
+- một cực
+- ba cực
+- không có cực
+= Cấu tạo nam châm.
+?1 Hai cực cùng tên của hai nam châm đặt gần nhau thì:
++ đẩy nhau
+- hút nhau
+- không tương tác
+- dính chặt
+= Cùng cực đẩy nhau.
+?1 Nam châm hút được vật làm bằng:
++ sắt, thép, niken, cobalt
+- nhôm
+- đồng
+- gỗ
+= Vật liệu từ.
+?2 Khi để tự do, kim nam châm định hướng:
++ Bắc – Nam
+- Đông – Tây
+- ngẫu nhiên
+- theo hướng gió
+= Do từ trường Trái Đất.
+?2 Cắt đôi một thanh nam châm thì được:
++ hai nam châm mới, mỗi nam châm có đủ hai cực
+- một cực Bắc và một cực Nam riêng biệt
+- hai mảnh không còn từ tính
+- một nam châm và một mảnh sắt
+= Không tách riêng được cực.
+?3 Để tách mạt sắt khỏi cát, dùng:
++ nam châm
+- nước
+- lưới lọc
+- lửa
+= Sắt bị hút.
+?3 Hai nam châm hút nhau khi đặt gần:
++ cực N của nam châm này với cực S của nam châm kia
+- hai cực N
+- hai cực S
+- không bao giờ hút
+= Khác cực hút nhau.
+?4 Có một thanh thép, làm sao biết nó có phải nam châm không?
++ đưa lại gần mạt sắt hoặc treo tự do xem có chỉ hướng Bắc – Nam
+- cân khối lượng
+- đo chiều dài
+- nhúng nước
+= Kiểm tra từ tính.
+
+## Bài 19. Từ trường
+?1 Từ trường tồn tại xung quanh:
++ nam châm và dây dẫn có dòng điện
+- gỗ
+- nhựa
+- thủy tinh
+= Định nghĩa từ trường.
+?1 Đường sức từ ở bên ngoài nam châm có chiều:
++ đi ra từ cực Bắc, đi vào cực Nam
+- đi ra từ cực Nam
+- vòng tròn quanh nam châm không có chiều
+- không xác định
+= Quy ước.
+?1 Dụng cụ dùng để xác định hướng dựa vào từ trường Trái Đất là:
++ la bàn
+- nhiệt kế
+- cân
+- đồng hồ
+= Kim la bàn là nam châm.
+?2 Rắc mạt sắt quanh nam châm, mạt sắt sắp xếp theo:
++ các đường sức từ
+- đường thẳng song song
+- ngẫu nhiên
+- vòng tròn đồng tâm quanh mọi điểm
+= Hình ảnh từ phổ.
+?2 Nơi đường sức từ dày thì từ trường:
++ mạnh
+- yếu
+- bằng 0
+- không xác định
+= Mật độ đường sức.
+?3 Cực Bắc địa lí của Trái Đất gần với:
++ cực Nam từ của Trái Đất
+- cực Bắc từ
+- Xích đạo
+- Nam Cực
+= Kim la bàn cực N chỉ về phía Bắc địa lí.
+?3 Chim bồ câu có thể định hướng khi bay xa nhờ:
++ cảm nhận từ trường Trái Đất
+- nhìn bản đồ
+- nghe âm thanh
+- ngửi mùi
+= Khả năng định hướng.
+?4 Đặt kim nam châm gần dây dẫn có dòng điện, kim bị lệch. Hiện tượng chứng tỏ:
++ dòng điện tạo ra từ trường
+- dây dẫn là nam châm vĩnh cửu
+- kim bị hỏng
+- không khí có điện
+= Thí nghiệm Ơ-xtét.

@@ -1,0 +1,593 @@
+// Ngữ văn 7 – Tập 2
+#! HK2
+# Học kì 2
+
+## Bài 6. Bài học cuộc sống (truyện ngụ ngôn, tục ngữ)
+?1 Truyện ngụ ngôn là truyện:
++ ngắn, mượn chuyện loài vật, đồ vật hoặc con người để nêu bài học
+- kể về các anh hùng lịch sử
+- có yếu tố thần kì giải thích tự nhiên
+- ghi chép người thật việc thật
+= Mục đích khuyên răn, giáo dục.
+?1 Tục ngữ là:
++ câu nói ngắn gọn, có vần, đúc kết kinh nghiệm của nhân dân
+- bài thơ dài
+- truyện kể dân gian
+- câu đố
+= Kinh nghiệm về tự nhiên, lao động, xã hội.
+?1 Truyện "Ếch ngồi đáy giếng" phê phán:
++ những người hiểu biết hạn hẹp mà huênh hoang
+- những người chăm chỉ
+- những người dũng cảm
+- những người tốt bụng
+= Bài học về sự hiểu biết.
+?1 Truyện "Đẽo cày giữa đường" khuyên chúng ta:
++ cần có chính kiến, không nghe theo người khác một cách mù quáng
+- nên làm nghề đẽo cày
+- nên nghe theo mọi lời khuyên
+- không nên làm việc
+= Người thợ nghe ai cũng làm theo nên hỏng việc.
+?1 Câu tục ngữ "Tấc đất tấc vàng" đề cao:
++ giá trị quý báu của đất đai
+- giá vàng
+- nghề đào vàng
+- việc đo đạc
+= Đất quý như vàng.
+?1 Thành ngữ là:
++ cụm từ cố định, biểu thị một ý nghĩa hoàn chỉnh
+- câu hoàn chỉnh có vần
+- một từ đơn
+- một đoạn văn
+= Ví dụ: "Nước đổ đầu vịt".
+?2 Câu tục ngữ "Chuồn chuồn bay thấp thì mưa / Bay cao thì nắng, bay vừa thì râm" đúc kết kinh nghiệm về:
++ dự báo thời tiết
+- trồng trọt
+- chăn nuôi
+- quan hệ xã hội
+= Kinh nghiệm quan sát tự nhiên.
+?2 Câu "Uống nước nhớ nguồn" khuyên chúng ta:
++ biết ơn những người đã tạo ra thành quả cho mình hưởng
+- uống nhiều nước
+- tìm nguồn nước
+- bảo vệ sông suối
+= Đạo lí biết ơn.
+?2 Ếch tưởng bầu trời "chỉ bé bằng chiếc vung" vì:
++ ếch sống lâu ngày trong giếng, tầm nhìn hạn hẹp
+- ếch bị cận thị
+- bầu trời thật sự nhỏ
+- ếch chưa bao giờ nhìn lên
+= Môi trường sống hạn hẹp.
+?2 Câu "Có công mài sắt có ngày nên kim" khuyên:
++ kiên trì, nhẫn nại thì sẽ thành công
+- nên làm nghề rèn
+- nên mua kim
+- không nên làm việc khó
+= Bài học về sự kiên trì.
+> Một con thỏ chế giễu con rùa chậm chạp. Rùa thách thỏ chạy thi. Thỏ cậy mình nhanh, vừa chạy vừa ngủ trưa giữa đường. Rùa cứ kiên trì bò không nghỉ. Khi thỏ tỉnh dậy thì rùa đã về đích.
+?2 Câu chuyện trên thuộc thể loại:
++ truyện ngụ ngôn
+- truyền thuyết
+- tục ngữ
+- tùy bút
+= Mượn chuyện loài vật để nêu bài học.
+?2 Nguyên nhân thỏ thua cuộc là:
++ chủ quan, kiêu ngạo
+- chạy chậm
+- bị ngã
+- bị rùa lừa
+= Thỏ ngủ giữa đường.
+?3 Bài học rút ra từ câu chuyện là:
++ không nên chủ quan, kiêu ngạo; kiên trì sẽ thành công
+- nên ngủ trưa
+- nên chạy thật nhanh
+- không nên thi đấu
+= Đức tính kiên trì.
+?3 Câu tục ngữ phù hợp với câu chuyện là:
++ "Chậm mà chắc"
+- "Tấc đất tấc vàng"
+- "Ăn quả nhớ kẻ trồng cây"
+- "Gần mực thì đen"
+= Chậm nhưng chắc chắn sẽ đến đích.
+>-
+?3 Nghĩa của thành ngữ "Nước đổ đầu vịt" là:
++ khuyên bảo mãi mà không có tác dụng
+- vịt thích tắm
+- trời mưa to
+- làm việc chăm chỉ
+= Như nước trôi khỏi lông vịt.
+?3 Câu "Gần mực thì đen, gần đèn thì sáng" khuyên:
++ cần chọn bạn tốt, môi trường tốt
+- nên dùng đèn
+- không nên dùng mực
+- nên học bài buổi tối
+= Ảnh hưởng của môi trường.
+?3 Đặc điểm hình thức thường gặp của tục ngữ là:
++ ngắn gọn, có vần, nhịp, thường có đối
+- rất dài, không vần
+- có nhiều nhân vật
+- có lời thoại
+= Dễ nhớ, dễ thuộc.
+?4 Vì sao truyện ngụ ngôn thường mượn chuyện loài vật?
++ để nói chuyện con người một cách kín đáo, sinh động, dễ hiểu
+- vì loài vật thông minh hơn người
+- vì tác giả không thích con người
+- để kể chuyện hài hước đơn thuần
+= Bài học được gửi gắm gián tiếp.
+?4 Câu tục ngữ "Một cây làm chẳng nên non / Ba cây chụm lại nên hòn núi cao" đề cao:
++ sức mạnh của sự đoàn kết
+- việc trồng cây
+- vẻ đẹp núi non
+- sự cô độc
+= Đoàn kết tạo sức mạnh.
+
+## Bài 7. Thế giới viễn tưởng (truyện khoa học viễn tưởng)
+?1 Truyện khoa học viễn tưởng là truyện:
++ dựa trên tri thức khoa học để tưởng tượng những điều chưa có hoặc sẽ có trong tương lai
+- kể chuyện lịch sử có thật
+- có yếu tố thần thánh, ma quỷ
+- ghi chép du lịch
+= Kết hợp khoa học và trí tưởng tượng.
+?1 "Hai vạn dặm dưới biển" là tác phẩm của:
++ Giuyn Véc-nơ (Jules Verne)
+- An-đéc-xen
+- Ai-ma-tốp
+- Tô Hoài
+= Nhà văn Pháp.
+?1 Con tàu ngầm trong "Hai vạn dặm dưới biển" có tên:
++ Nau-ti-lúx
+- Ti-ta-níc
+- A-pô-lô
+- Côn-tích
+= Tàu của thuyền trưởng Nê-mô.
+?1 Thuyền trưởng của tàu Nau-ti-lúx là:
++ Nê-mô
+- A-rôn-nác
+- Nét Len
+- Công-xây
+= Nhân vật bí ẩn.
+?1 Yếu tố quan trọng của truyện khoa học viễn tưởng là:
++ không gian, thời gian kì ảo dựa trên cơ sở khoa học
+- yếu tố ma thuật
+- lời ca dao
+- tục ngữ
+= Tưởng tượng có cơ sở.
+?1 Dấu chấm lửng (…) có công dụng:
++ thể hiện lời nói bỏ dở, ngập ngừng hoặc liệt kê chưa hết
+- kết thúc câu hỏi
+- ngăn cách các vế câu
+- mở đầu lời thoại
+= Ví dụ: "Em… em xin lỗi".
+?2 Khi Jules Verne viết "Hai vạn dặm dưới biển" (1870), tàu ngầm hiện đại:
++ chưa phổ biến, sau này mới phát triển như tác giả tưởng tượng
+- đã có khắp nơi
+- đã bị cấm
+- đã lỗi thời
+= Tính dự báo của viễn tưởng.
+?2 Dấu chấm lửng trong câu "Tôi mua sách, bút, thước, tẩy…" dùng để:
++ biểu thị liệt kê chưa hết
+- lời nói bỏ dở
+- kết thúc câu cảm thán
+- trích dẫn
+= Còn nhiều đồ dùng khác.
+?2 Câu "Anh ấy… anh ấy đã đi rồi" dùng dấu chấm lửng để:
++ thể hiện lời nói ngập ngừng, xúc động
+- liệt kê
+- kết thúc câu hỏi
+- giới thiệu
+= Diễn tả cảm xúc.
+?2 Truyện khoa học viễn tưởng khác truyện cổ tích ở chỗ:
++ yếu tố kì ảo dựa trên khoa học chứ không dựa trên phép thuật
+- có nhân vật
+- có cốt truyện
+- có kết thúc
+= Cơ sở của trí tưởng tượng.
+> Năm 2150, những chiếc xe buýt bay chở học sinh lướt êm trên các tầng mây. Minh đeo kính dịch tự động, trò chuyện với bạn mới đến từ trạm không gian sao Hỏa. "Ở chỗ mình, trời màu hồng cam cơ", bạn ấy nói…
+?2 Đoạn văn trên mang đặc điểm của thể loại:
++ truyện khoa học viễn tưởng
+- truyện ngụ ngôn
+- tục ngữ
+- truyền thuyết
+= Bối cảnh tương lai với công nghệ tưởng tượng.
+?2 Chi tiết nào dựa trên hiểu biết khoa học?
++ bầu trời sao Hỏa màu hồng cam
+- xe buýt bằng gỗ
+- học sinh biết phép thuật
+- con rồng chở học sinh
+= Bụi oxide sắt làm trời sao Hỏa ngả hồng cam.
+?3 Dấu chấm lửng ở cuối đoạn văn có tác dụng:
++ gợi câu chuyện còn tiếp, tạo sự tò mò
+- kết thúc chắc chắn
+- liệt kê đồ vật
+- biểu thị câu hỏi
+= Mở ra phần sau.
+?3 Bối cảnh "Năm 2150" giúp người đọc nhận ra:
++ câu chuyện diễn ra trong tương lai
+- câu chuyện có thật trong quá khứ
+- câu chuyện cổ tích
+- truyện lịch sử
+= Đặc trưng viễn tưởng.
+>-
+?3 Mục đích của truyện khoa học viễn tưởng là:
++ khơi gợi trí tò mò khám phá khoa học và suy ngẫm về tương lai
+- dạy nấu ăn
+- kể về các vua chúa
+- giải thích phong tục
+= Giá trị của thể loại.
+?3 Câu "Lòng đại dương vẫn còn bao điều bí ẩn chờ con người khám phá" thể hiện:
++ khát vọng chinh phục thiên nhiên của con người
+- nỗi sợ biển
+- sự chán nản
+- không quan tâm đến biển
+= Tinh thần khám phá.
+?3 Khi viết bài văn kể lại một sự việc tưởng tượng, cần:
++ có trình tự hợp lí, chi tiết sinh động, sự việc có ý nghĩa
+- chép lại truyện có sẵn
+- chỉ liệt kê nhân vật
+- không cần kết bài
+= Yêu cầu kể chuyện sáng tạo.
+?4 Vì sao nhiều dự đoán của truyện viễn tưởng sau này trở thành sự thật?
++ vì tác giả dựa trên hiểu biết khoa học và xu hướng phát triển của thời đại
+- vì tác giả biết bói toán
+- vì ngẫu nhiên hoàn toàn
+- vì người đọc sao chép theo
+= Trí tưởng tượng có cơ sở.
+?4 Thông điệp của nhiều truyện viễn tưởng về khoa học công nghệ là:
++ khoa học cần được dùng vì lợi ích con người và bảo vệ Trái Đất
+- khoa học luôn có hại
+- không nên học khoa học
+- máy móc nên thay thế con người hoàn toàn
+= Trách nhiệm khi phát triển khoa học.
+
+## Bài 8. Trải nghiệm để trưởng thành (văn bản nghị luận)
+?1 Văn bản nghị luận gồm các yếu tố:
++ luận đề, luận điểm, lí lẽ, bằng chứng
+- nhân vật, cốt truyện
+- vần, nhịp
+- biểu đồ, số liệu thời tiết
+= Cấu trúc nghị luận.
+?1 Luận đề là:
++ vấn đề chính được bàn luận trong văn bản
+- một bằng chứng
+- một câu cảm thán
+- tên tác giả
+= Vấn đề xuyên suốt.
+?1 Luận điểm là:
++ ý kiến thể hiện quan điểm của người viết về luận đề
+- con số
+- chi tiết miêu tả
+- lời thoại nhân vật
+= Các ý lớn triển khai luận đề.
+?1 "Bản đồ dẫn đường" là văn bản nghị luận bàn về:
++ mỗi người cần tự vẽ "bản đồ" cuộc đời mình qua trải nghiệm
+- cách đọc bản đồ địa lí
+- du lịch
+- lịch sử địa danh
+= Lời khuyên cho người trẻ.
+?1 Bài thơ "Nói với con" là của:
++ Y Phương
+- Tố Hữu
+- Thanh Hải
+- Nguyễn Khoa Điềm
+= Nhà thơ dân tộc Tày.
+?1 Văn bản "Hãy cầm lấy và đọc" bàn về:
++ ý nghĩa của việc đọc sách
+- cách trồng cây
+- phương pháp học toán
+- bảo vệ môi trường
+= Tác giả Huỳnh Như Phương.
+?2 Lí lẽ và bằng chứng có quan hệ:
++ lí lẽ giải thích, bằng chứng chứng minh cho luận điểm
+- không liên quan
+- bằng chứng thay thế lí lẽ
+- lí lẽ phải luôn là số liệu
+= Phối hợp tạo sức thuyết phục.
+?2 Trong "Nói với con", người cha mong con:
++ sống mạnh mẽ, nghĩa tình, tự hào về quê hương
+- rời bỏ quê hương
+- sống ích kỉ
+- chỉ lo làm giàu
+= Lời dặn dò sâu sắc.
+?2 Câu "Sách là ngọn đèn sáng bất diệt của trí tuệ con người" là:
++ một luận điểm/ý kiến về sách
+- một bằng chứng số liệu
+- một câu chuyện
+- một câu hỏi
+= Khẳng định quan điểm.
+?2 Thái độ của người viết trong văn bản nghị luận thể hiện qua:
++ cách lựa chọn từ ngữ, lí lẽ, cách đánh giá vấn đề
+- số trang
+- màu chữ
+- tên văn bản
+= Thái độ đồng tình hay phản đối.
+> Mỗi lần vấp ngã là một bài học. Thomas Edison đã thử hàng nghìn vật liệu trước khi chế tạo thành công bóng đèn điện. Ông nói rằng mình không thất bại, chỉ là tìm ra hàng nghìn cách không hiệu quả. Vì vậy, đừng sợ thất bại; hãy coi đó là bước đệm để trưởng thành.
+?2 Luận điểm chính của đoạn văn là:
++ Mỗi lần vấp ngã là một bài học
+- Edison chế tạo bóng đèn
+- Bóng đèn rất quan trọng
+- Không nên thử nghiệm
+= Câu mở đầu nêu ý kiến.
+?2 Bằng chứng trong đoạn văn là:
++ câu chuyện Edison thử hàng nghìn vật liệu
+- câu "Mỗi lần vấp ngã là một bài học"
+- câu kết luận
+- lời khuyên đừng sợ thất bại
+= Sự việc có thật làm dẫn chứng.
+?3 Câu cuối đoạn văn có vai trò:
++ kết luận, rút ra bài học hành động
+- nêu bằng chứng
+- giới thiệu nhân vật
+- miêu tả
+= Khép lại lập luận.
+?3 Thái độ của người viết đối với thất bại là:
++ tích cực, coi thất bại là cơ hội trưởng thành
+- sợ hãi
+- chán nản
+- phủ nhận
+= Thái độ lạc quan.
+>-
+?3 Khi viết bài nghị luận về một vấn đề đời sống, phần mở bài cần:
++ giới thiệu vấn đề và nêu ý kiến của người viết
+- kể toàn bộ bằng chứng
+- kết luận vấn đề
+- chép đề bài
+= Bố cục bài nghị luận.
+?3 Lỗi lập luận "Bạn ấy học kém nên chắc chắn bạn ấy lười" là:
++ khái quát vội vàng, thiếu căn cứ
+- dùng bằng chứng chính xác
+- lập luận chặt chẽ
+- không có lỗi
+= Kết luận không đủ cơ sở.
+?3 Mạch lạc trong văn bản là:
++ sự thống nhất về chủ đề và trình tự hợp lí giữa các phần
+- câu văn dài
+- có nhiều từ khó
+- có nhiều dấu chấm than
+= Yêu cầu của văn bản.
+?4 Vì sao người viết nghị luận cần nêu cả ý kiến trái chiều rồi phản bác?
++ để lập luận toàn diện, thuyết phục hơn
+- để bài dài hơn
+- để làm người đọc bối rối
+- vì không có ý kiến riêng
+= Lập luận chặt chẽ.
+?4 Trong câu "Người đồng mình thô sơ da thịt / Chẳng mấy ai nhỏ bé đâu con", người cha muốn khẳng định:
++ vẻ đẹp tâm hồn, ý chí lớn lao của người quê hương dù cuộc sống giản dị
+- người quê mình đều to lớn về thân thể
+- người quê mình nghèo nên yếu kém
+- con nên rời quê
+= Ẩn dụ "nhỏ bé" về tầm vóc tinh thần.
+
+## Bài 9. Hòa điệu với tự nhiên (văn bản thông tin)
+?1 Văn bản thông tin giới thiệu quy tắc hoặc luật lệ trong một hoạt động nhằm:
++ giúp người đọc hiểu và thực hiện đúng hoạt động đó
+- kể chuyện cổ tích
+- bày tỏ cảm xúc cá nhân
+- gây cười
+= Ví dụ: luật chơi một trò chơi.
+?1 Văn bản "Ca Huế" giới thiệu:
++ một loại hình âm nhạc truyền thống của xứ Huế
+- món ăn Huế
+- lịch sử triều Nguyễn
+- kiến trúc lăng tẩm
+= Ca Huế trên sông Hương.
+?1 "Hội thi thổi cơm ở Đồng Vân" là lễ hội ở vùng:
++ Hà Nội (làng Đồng Vân, huyện Đan Phượng)
+- Huế
+- Đà Lạt
+- Cà Mau
+= Lễ hội làng truyền thống.
+?1 Thuật ngữ là:
++ từ ngữ biểu thị khái niệm khoa học, công nghệ, thường dùng trong văn bản khoa học
+- từ địa phương
+- tiếng lóng
+- từ láy
+= Ví dụ: "quang hợp", "phân số".
+?1 Cước chú (chú thích cuối trang) dùng để:
++ giải thích từ ngữ, thông tin khó hiểu trong văn bản
+- trang trí văn bản
+- ghi tên người đọc
+- đánh số trang
+= Hỗ trợ người đọc.
+?1 Phương tiện phi ngôn ngữ trong văn bản thông tin gồm:
++ hình ảnh, sơ đồ, bảng biểu
+- vần, nhịp
+- lời thoại
+- từ láy
+= Minh họa trực quan.
+?2 Từ "quang hợp" là:
++ thuật ngữ sinh học
+- từ địa phương
+- từ láy
+- thành ngữ
+= Khái niệm khoa học.
+?2 Đặc điểm của thuật ngữ là:
++ mỗi thuật ngữ thường chỉ biểu thị một khái niệm, không có sắc thái biểu cảm
+- giàu sắc thái biểu cảm
+- dùng nhiều trong thơ
+- mang tính địa phương
+= Tính chính xác khoa học.
+?2 Văn bản giới thiệu luật chơi thường được trình bày theo:
++ các bước, quy định rõ ràng, có thể dùng số thứ tự hoặc gạch đầu dòng
+- dạng thơ
+- dạng kịch
+- dạng nhật kí
+= Dễ theo dõi.
+?2 Thông điệp chung của bài "Hòa điệu với tự nhiên" là:
++ con người gắn bó, sống hài hòa với thiên nhiên qua các hoạt động văn hóa
+- con người chinh phục và hủy hoại thiên nhiên
+- thiên nhiên không quan trọng
+- chỉ cần phát triển công nghệ
+= Văn hóa gắn với tự nhiên.
+> Luật chơi kéo co: Mỗi đội có số người bằng nhau. Giữa sợi dây buộc một dải vải đỏ. Khi có hiệu lệnh, hai đội cùng kéo. Đội nào kéo được dải vải đỏ qua vạch giới hạn về phía mình là đội thắng. Trò chơi thường diễn ra ba hiệp.
+?2 Đoạn văn trên là văn bản:
++ thông tin giới thiệu luật chơi
+- truyện ngụ ngôn
+- tùy bút
+- thơ
+= Hướng dẫn cách chơi.
+?2 Điều kiện để một đội thắng là:
++ kéo dải vải đỏ qua vạch giới hạn về phía mình
+- có nhiều người hơn
+- kéo lâu nhất
+- hô to nhất
+= Theo luật chơi.
+?3 Chi tiết "Mỗi đội có số người bằng nhau" nhằm đảm bảo:
++ sự công bằng
+- trò chơi kéo dài
+- dây không bị đứt
+- trang trí đẹp
+= Luật chơi công bằng.
+?3 Trình tự trình bày của đoạn văn là:
++ theo trình tự diễn ra trò chơi
+- theo không gian
+- theo tầm quan trọng giảm dần ngẫu nhiên
+- không có trình tự
+= Từ chuẩn bị đến kết quả.
+>-
+?3 Khi viết văn bản giới thiệu quy tắc một trò chơi, điều quan trọng nhất là:
++ thông tin chính xác, rõ ràng, đầy đủ các bước
+- dùng nhiều từ láy
+- viết dài dòng
+- bày tỏ cảm xúc
+= Người đọc làm theo được.
+?3 Cách dùng thuật ngữ đúng là:
++ dùng đúng nghĩa khoa học, trong văn bản phù hợp
+- dùng tùy ý trong mọi hoàn cảnh
+- thay thuật ngữ bằng từ địa phương
+- giải thích bằng thơ
+= Đảm bảo chính xác.
+?3 Ca Huế thường được biểu diễn ở đâu?
++ trên thuyền rồng trên sông Hương
+- trong sân vận động
+- trên núi cao
+- trong rạp chiếu phim
+= Không gian đặc trưng.
+?4 Vì sao các lễ hội dân gian gắn với thiên nhiên cần được bảo tồn?
++ chúng lưu giữ bản sắc văn hóa và giáo dục ý thức sống hài hòa với tự nhiên
+- vì để thu tiền vé
+- vì bắt buộc
+- vì không có giá trị
+= Giá trị văn hóa.
+?4 Văn bản thông tin khác văn bản văn học ở chỗ:
++ mục đích chính là cung cấp thông tin chính xác, khách quan
+- luôn có vần
+- luôn có nhân vật hư cấu
+- không có bố cục
+= Chức năng khác nhau.
+
+## Bài 10. Trang sách và cuộc sống (đọc mở rộng)
+?1 Đọc mở rộng giúp học sinh:
++ vận dụng kĩ năng đọc vào các văn bản mới, mở rộng hiểu biết
+- chỉ đọc sách giáo khoa
+- không cần suy nghĩ
+- học thuộc lòng
+= Rèn thói quen đọc.
+?1 Khi đọc một tác phẩm, ta nên chú ý:
++ đề tài, chủ đề, nhân vật, nghệ thuật và thông điệp
+- chỉ số trang
+- giá tiền
+- tên nhà in
+= Các yếu tố cần đọc hiểu.
+?1 Sách là:
++ nguồn tri thức quý giá của nhân loại
+- vật trang trí
+- đồ chơi
+- thứ không cần thiết
+= Giá trị của sách.
+?1 Một cách ghi chép khi đọc sách hiệu quả là:
++ ghi lại ý chính, câu hay và suy nghĩ của mình
+- chép toàn bộ sách
+- không ghi gì
+- chỉ ghi tên sách
+= Ghi chép chọn lọc.
+?1 Văn bản giới thiệu một cuốn sách cần có:
++ thông tin về sách, nội dung chính, đánh giá và lời khuyên đọc
+- giá và nơi bán là chính
+- màu bìa
+- số chữ trong sách
+= Mục đích giới thiệu.
+?1 Câu "Sách mở ra trước mắt tôi những chân trời mới" (M. Gorki) dùng biện pháp:
++ ẩn dụ
+- nói giảm
+- liệt kê
+- điệp ngữ
+= "chân trời mới" chỉ tri thức mới.
+?2 Lợi ích của thói quen đọc sách mỗi ngày là:
++ mở rộng vốn sống, rèn tư duy và khả năng diễn đạt
+- làm mắt mỏi
+- tốn thời gian vô ích
+- không có lợi ích
+= Đọc sách bồi dưỡng tâm hồn.
+?2 Khi thảo luận về một cuốn sách, cần:
++ lắng nghe, tôn trọng ý kiến khác và nêu dẫn chứng cho ý kiến của mình
+- ngắt lời người khác
+- chỉ nói ý kiến của mình
+- chê bai bạn
+= Kĩ năng thảo luận.
+?2 "Đọc sách không cần nhiều, mà cần đọc cho kĩ" khuyên:
++ đọc có chọn lọc và đọc sâu
+- đọc thật nhiều sách
+- không cần đọc
+- chỉ đọc lướt
+= Ý của Chu Quang Tiềm.
+?2 Phương pháp đọc hiểu thơ là:
++ chú ý hình ảnh, vần, nhịp, biện pháp tu từ và cảm xúc
+- chỉ đếm số dòng
+- chỉ tìm tên tác giả
+- đọc lướt nhanh
+= Đặc trưng đọc thơ.
+> Hôm qua cô giáo giới thiệu cho lớp cuốn "Tuổi thơ dữ dội" của Phùng Quán. Tôi đã đọc một mạch hết tập đầu. Những chiến sĩ nhỏ tuổi ở Huế dũng cảm, hồn nhiên khiến tôi vừa khâm phục vừa xúc động. Tôi tự hứa sẽ sống có ích như các anh.
+?2 Đoạn văn thể hiện:
++ cảm nhận và bài học của người đọc sau khi đọc sách
+- tóm tắt toàn bộ cốt truyện
+- giới thiệu tác giả là chính
+- quảng cáo bán sách
+= Cảm xúc và bài học.
+?2 Cuốn sách được nhắc đến viết về:
++ những chiến sĩ thiếu niên dũng cảm ở Huế
+- cuộc sống thành phố hiện đại
+- loài vật
+- khoa học viễn tưởng
+= Đội thiếu niên trinh sát.
+?3 Chi tiết "đọc một mạch hết tập đầu" cho thấy:
++ cuốn sách hấp dẫn người đọc
+- người đọc không thích sách
+- sách quá mỏng
+- sách khó hiểu
+= Sức cuốn hút.
+?3 Câu cuối đoạn văn thể hiện:
++ ảnh hưởng tích cực của sách đến hành động người đọc
+- sự chán nản
+- sự sợ hãi
+- không liên quan đến sách
+= Sách thay đổi con người.
+>-
+?3 Khi viết bài văn phân tích đặc điểm nhân vật trong một tác phẩm, cần:
++ nêu đặc điểm và lấy dẫn chứng từ lời nói, hành động của nhân vật
+- kể lại toàn bộ truyện
+- chỉ nêu cảm xúc chung
+- nói về tác giả là chính
+= Phân tích có dẫn chứng.
+?3 Đọc sách điện tử và sách in khác nhau chủ yếu ở:
++ hình thức tiếp nhận; giá trị nội dung có thể như nhau
+- sách điện tử không có nội dung
+- sách in không có chữ
+- không khác gì
+= Phương tiện khác nhau.
+?3 Câu "Trang sách hay là người bạn hiền" thuộc kiểu câu nào về mục đích?
++ câu trần thuật (khẳng định)
+- câu nghi vấn
+- câu cầu khiến
+- câu cảm thán
+= Kể, khẳng định một nhận định.
+?4 Để lan tỏa văn hóa đọc trong trường học, giải pháp hiệu quả là:
++ tổ chức câu lạc bộ đọc sách, ngày hội đọc, góc sách lớp học
+- cấm học sinh đọc truyện
+- giảm số sách thư viện
+- chỉ đọc sách giáo khoa
+= Tạo môi trường đọc.
+?4 Vì sao nói "Một quyển sách tốt là một người bạn tốt"?
++ sách mang lại tri thức, lời khuyên, sự đồng cảm như một người bạn
+- vì sách biết nói
+- vì sách đắt tiền
+- vì sách luôn ở cạnh ta
+= So sánh sách với bạn.

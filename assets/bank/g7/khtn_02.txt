@@ -1,0 +1,859 @@
+// KHTN 7 – Tập 2
+#! HK2
+# Chương VII. Trao đổi chất và chuyển hóa năng lượng ở sinh vật
+
+## Bài 21. Khái quát về trao đổi chất và chuyển hóa năng lượng
+?1 Trao đổi chất ở sinh vật là:
++ quá trình cơ thể lấy chất từ môi trường, biến đổi và thải chất thải ra môi trường
+- chỉ là ăn uống
+- chỉ là thở
+- sự di chuyển
+= Định nghĩa trao đổi chất.
+?1 Chuyển hóa năng lượng là:
++ sự biến đổi năng lượng từ dạng này sang dạng khác
+- sự mất đi năng lượng
+- sự tạo ra năng lượng từ không có gì
+- sự tích lũy chất béo
+= Năng lượng chuyển dạng.
+?1 Sinh vật tự dưỡng là sinh vật:
++ tự tổng hợp chất hữu cơ từ chất vô cơ
+- lấy chất hữu cơ từ sinh vật khác
+- không cần dinh dưỡng
+- chỉ ăn thịt
+= Ví dụ: cây xanh.
+?2 Sinh vật dị dưỡng là:
++ động vật, nấm, đa số vi khuẩn
+- cây xanh
+- tảo lục
+- vi khuẩn lam quang hợp
+= Lấy chất hữu cơ có sẵn.
+?2 Vai trò của trao đổi chất là:
++ cung cấp nguyên liệu và năng lượng cho hoạt động sống
+- làm cơ thể yếu đi
+- không cần thiết
+- chỉ để bài tiết
+= Đảm bảo sự sống.
+?3 Khi chạy bộ, năng lượng hóa học trong tế bào chuyển hóa chủ yếu thành:
++ động năng và nhiệt năng
+- quang năng
+- điện năng
+- âm năng duy nhất
+= Cơ thể nóng lên, vận động.
+?3 Nếu trao đổi chất ngừng lại thì:
++ sinh vật sẽ chết
+- sinh vật lớn nhanh hơn
+- sinh vật khỏe hơn
+- không ảnh hưởng
+= Trao đổi chất là đặc trưng sống.
+?4 Trong hệ sinh thái, năng lượng ban đầu được cây xanh lấy từ:
++ ánh sáng mặt trời
+- đất
+- nước
+- không khí lạnh
+= Quang hợp.
+
+## Bài 22. Quang hợp ở thực vật
+?1 Quang hợp là quá trình lá cây sử dụng:
++ nước, carbon dioxide và năng lượng ánh sáng để tạo chất hữu cơ và giải phóng oxygen
+- oxygen để tạo carbon dioxide
+- chất hữu cơ để tạo năng lượng
+- đất để tạo lá
+= Định nghĩa quang hợp.
+?1 Cơ quan chủ yếu thực hiện quang hợp là:
++ lá
+- rễ
+- hoa
+- quả
+= Lá chứa nhiều lục lạp.
+?1 Sản phẩm của quang hợp là:
++ glucose và oxygen
+- carbon dioxide và nước
+- tinh bột và nitrogen
+- oxygen và nước
+= Chất hữu cơ và oxygen.
+?2 Phương trình chữ của quang hợp là:
++ nước + carbon dioxide → (ánh sáng, diệp lục) glucose + oxygen
+- glucose + oxygen → nước + carbon dioxide
+- nước + oxygen → glucose
+- carbon dioxide → oxygen
+= Tóm tắt quang hợp.
+?2 Chất diệp lục có vai trò:
++ hấp thụ năng lượng ánh sáng
+- hút nước
+- thải khí
+- dự trữ tinh bột
+= Sắc tố quang hợp.
+?3 Lá cây thường có dạng bản mỏng, rộng để:
++ nhận được nhiều ánh sáng
+- giữ nước
+- chống sâu bệnh
+- giảm trọng lượng
+= Đặc điểm thích nghi.
+?3 Khí khổng ở lá có vai trò:
++ trao đổi khí carbon dioxide, oxygen và thoát hơi nước
+- hút nước từ đất
+- dẫn chất hữu cơ
+- tổng hợp protein
+= Lỗ khí ở biểu bì lá.
+?4 Vì sao trồng cây xanh giúp không khí trong lành?
++ cây hấp thụ carbon dioxide và thải oxygen
+- cây hấp thụ oxygen
+- cây thải khí độc
+- cây làm tăng nhiệt độ
+= Vai trò của quang hợp.
+
+## Bài 23. Một số yếu tố ảnh hưởng đến quang hợp
+?1 Các yếu tố ảnh hưởng đến quang hợp là:
++ ánh sáng, nước, carbon dioxide, nhiệt độ
+- màu chậu cây
+- tên cây
+- âm nhạc
+= Yếu tố môi trường.
+?1 Cây ưa sáng thường sống ở:
++ nơi quang đãng, nhiều ánh sáng
+- dưới tán cây khác
+- trong hang tối
+- trong phòng kín
+= Ví dụ: lúa, ngô.
+?1 Cây ưa bóng là:
++ cây lá lốt, vạn niên thanh
+- cây lúa
+- cây ngô
+- cây hướng dương
+= Sống nơi ít ánh sáng.
+?2 Nhiệt độ quá cao (trên 40 °C) làm quang hợp:
++ giảm hoặc ngừng
+- tăng mạnh
+- không đổi
+- tăng gấp đôi
+= Ảnh hưởng của nhiệt độ.
+?2 Thiếu nước, cây đóng khí khổng nên:
++ quang hợp giảm do thiếu carbon dioxide và nước
+- quang hợp tăng
+- cây lớn nhanh
+- không ảnh hưởng
+= Nước là nguyên liệu.
+?3 Trong nhà kính, người ta tăng nồng độ carbon dioxide nhằm:
++ tăng cường quang hợp, tăng năng suất
+- giảm quang hợp
+- diệt sâu bệnh
+- làm mát cây
+= Ứng dụng thực tiễn.
+?3 Trồng cây với mật độ hợp lí nhằm:
++ đảm bảo mỗi cây nhận đủ ánh sáng
+- tiết kiệm giống tối đa
+- để cây cạnh tranh
+- làm đất khô
+= Tránh che khuất nhau.
+?4 Cây trồng trong bóng râm thường có lá:
++ to, mỏng, màu xanh đậm để hấp thụ nhiều ánh sáng hơn
+- nhỏ, dày, màu nhạt
+- không có lá
+- màu đỏ
+= Thích nghi với ánh sáng yếu.
+
+## Bài 25. Hô hấp tế bào
+?1 Hô hấp tế bào là quá trình:
++ phân giải chất hữu cơ, giải phóng năng lượng cho cơ thể
+- tổng hợp chất hữu cơ
+- hấp thụ ánh sáng
+- thải oxygen
+= Ngược với quang hợp.
+?1 Nơi diễn ra hô hấp tế bào là:
++ ti thể
+- lục lạp
+- nhân
+- màng tế bào
+= "Nhà máy năng lượng" của tế bào.
+?1 Sản phẩm của hô hấp tế bào là:
++ carbon dioxide, nước và năng lượng
+- glucose và oxygen
+- tinh bột
+- protein
+= Phương trình hô hấp.
+?2 Phương trình chữ của hô hấp tế bào là:
++ glucose + oxygen → carbon dioxide + nước + năng lượng
+- carbon dioxide + nước → glucose + oxygen
+- glucose → tinh bột
+- oxygen → carbon dioxide
+= Tóm tắt hô hấp.
+?2 Năng lượng từ hô hấp tế bào được dùng cho:
++ mọi hoạt động sống của tế bào
+- chỉ quang hợp
+- chỉ sinh sản
+- không dùng cho việc gì
+= ATP cung cấp năng lượng.
+?3 Mối quan hệ giữa quang hợp và hô hấp là:
++ sản phẩm của quá trình này là nguyên liệu của quá trình kia
+- không liên quan
+- giống hệt nhau
+- chỉ xảy ra ở động vật
+= Hai quá trình đối lập, thống nhất.
+?3 Khi vận động mạnh, nhịp thở tăng nhằm:
++ cung cấp thêm oxygen cho hô hấp tế bào
+- giảm oxygen
+- thải nhiệt
+- giảm năng lượng
+= Nhu cầu năng lượng tăng.
+?4 Bảo quản rau quả bằng cách để ở nhiệt độ thấp nhằm:
++ giảm cường độ hô hấp, giữ rau quả tươi lâu
+- tăng hô hấp
+- tăng quang hợp
+- làm rau quả chín nhanh
+= Ứng dụng hô hấp.
+
+## Bài 26. Một số yếu tố ảnh hưởng đến hô hấp tế bào
+?1 Các yếu tố ảnh hưởng đến hô hấp tế bào là:
++ nhiệt độ, nước, oxygen, carbon dioxide
+- màu sắc
+- âm thanh
+- ánh trăng
+= Yếu tố môi trường.
+?1 Hạt khô (độ ẩm thấp) có cường độ hô hấp:
++ thấp
+- cao
+- rất cao
+- không đổi khi ngâm nước
+= Ít nước → hô hấp chậm.
+?1 Nồng độ carbon dioxide quá cao làm hô hấp:
++ bị ức chế
+- tăng mạnh
+- không đổi
+- tăng gấp đôi
+= CO₂ là sản phẩm.
+?2 Để bảo quản hạt giống lâu, cần:
++ phơi khô, để nơi thoáng mát
+- ngâm nước
+- để nơi ẩm, nóng
+- đóng kín với nước
+= Giảm hô hấp.
+?2 Bảo quản rau quả trong túi kín có bơm khí nitrogen nhằm:
++ giảm oxygen, hạn chế hô hấp
+- tăng oxygen
+- tăng nhiệt độ
+- tăng độ ẩm
+= Bảo quản lâu.
+?3 Vì sao khi ngủ trong phòng kín có nhiều cây xanh vào ban đêm lại không tốt?
++ ban đêm cây hô hấp, lấy oxygen và thải carbon dioxide
+- cây thải oxygen quá nhiều
+- cây phát ra âm thanh
+- cây tỏa nhiệt
+= Không có ánh sáng, cây không quang hợp.
+?3 Ngâm hạt giống trong nước ấm trước khi gieo nhằm:
++ tăng hô hấp, giúp hạt nảy mầm nhanh
+- giảm hô hấp
+- diệt hạt
+- bảo quản hạt
+= Nước và nhiệt độ thích hợp.
+?4 Rau quả chín nhanh hơn trong mùa hè vì:
++ nhiệt độ cao làm tăng cường độ hô hấp
+- ánh sáng mạnh
+- độ ẩm thấp
+- không khí sạch
+= Nhiệt độ ảnh hưởng hô hấp.
+
+## Bài 28. Trao đổi khí ở sinh vật
+?1 Trao đổi khí ở sinh vật là:
++ sự trao đổi oxygen và carbon dioxide giữa cơ thể với môi trường
+- chỉ hít vào
+- chỉ thở ra
+- trao đổi nước
+= Định nghĩa.
+?1 Ở thực vật, trao đổi khí diễn ra chủ yếu qua:
++ khí khổng
+- rễ
+- hoa
+- vỏ thân
+= Lỗ khí trên lá.
+?1 Cơ quan trao đổi khí của cá là:
++ mang
+- phổi
+- da
+- khí quản
+= Cá thở bằng mang.
+?2 Ở người, trao đổi khí diễn ra tại:
++ phế nang của phổi
+- dạ dày
+- tim
+- thận
+= Phế nang có mao mạch dày đặc.
+?2 Côn trùng trao đổi khí qua:
++ hệ thống ống khí
+- mang
+- phổi
+- da duy nhất
+= Ống khí phân nhánh.
+?3 Khi quang hợp mạnh, khí khổng của lá thải ra chủ yếu khí:
++ oxygen
+- carbon dioxide
+- nitrogen
+- hơi nước duy nhất
+= Sản phẩm quang hợp.
+?3 Ếch có thể trao đổi khí qua:
++ phổi và da
+- mang và vảy
+- chỉ phổi
+- ống khí
+= Da ếch ẩm, mỏng.
+?4 Vì sao không nên đốt than sưởi trong phòng ngủ kín?
++ than cháy tiêu thụ oxygen và sinh khí CO độc
+- than tỏa quá nhiều oxygen
+- than làm phòng lạnh
+- không ảnh hưởng
+= Nguy cơ ngạt khí.
+
+## Bài 29. Vai trò của nước và các chất dinh dưỡng đối với sinh vật
+?1 Nước chiếm khoảng bao nhiêu phần trăm khối lượng cơ thể người?
++ khoảng 70%
+- khoảng 10%
+- khoảng 30%
+- khoảng 95%
+= Nước chiếm phần lớn.
+?1 Vai trò của nước đối với sinh vật là:
++ dung môi hòa tan, vận chuyển chất, điều hòa nhiệt
+- không có vai trò
+- chỉ để tắm
+- chỉ để uống
+= Nhiều vai trò quan trọng.
+?1 Chất dinh dưỡng cung cấp năng lượng chính cho cơ thể là:
++ carbohydrate
+- vitamin
+- chất khoáng
+- nước
+= Tinh bột, đường.
+?2 Protein có vai trò:
++ cấu tạo tế bào, xây dựng cơ thể
+- chỉ cung cấp nước
+- không cần thiết
+- chỉ tạo màu
+= Chất xây dựng.
+?2 Thực vật cần nguyên tố khoáng nào nhiều nhất?
++ nitrogen, phosphorus, potassium
+- vàng, bạc
+- sắt, chì
+- thủy ngân
+= Nguyên tố đa lượng N, P, K.
+?3 Thiếu nước, cơ thể người có thể bị:
++ mệt mỏi, đau đầu, rối loạn chức năng
+- khỏe hơn
+- tăng cân
+- không ảnh hưởng
+= Mất nước nguy hiểm.
+?3 Lá cây bị vàng úa thường do thiếu:
++ nitrogen
+- nước biển
+- oxygen
+- ánh trăng
+= Thiếu đạm.
+?4 Một người cần khoảng 2 lít nước/ngày. Đã uống 3 cốc 250 ml. Cần uống thêm:
++ 1,25 lít
+- 1,75 lít
+- 0,75 lít
+- 2 lít
+= 2 − 0,75.
+
+## Bài 30. Trao đổi nước và các chất dinh dưỡng ở thực vật
+?1 Rễ cây hút nước và chất khoáng chủ yếu nhờ:
++ lông hút
+- lá
+- hoa
+- vỏ thân
+= Lông hút tăng diện tích tiếp xúc.
+?1 Nước được vận chuyển từ rễ lên lá qua:
++ mạch gỗ
+- mạch rây
+- vỏ cây
+- hoa
+= Mạch gỗ dẫn nước.
+?1 Chất hữu cơ do lá tổng hợp được vận chuyển qua:
++ mạch rây
+- mạch gỗ
+- lông hút
+- khí khổng
+= Mạch rây dẫn chất hữu cơ.
+?2 Thoát hơi nước ở lá có vai trò:
++ tạo lực kéo nước lên, làm mát lá
+- làm cây khô héo
+- không có vai trò
+- giảm quang hợp
+= Động lực vận chuyển nước.
+?2 Khi tưới cây, nên tưới vào thời điểm:
++ sáng sớm hoặc chiều mát
+- giữa trưa nắng gắt
+- nửa đêm
+- bất kì lúc nào
+= Tránh nước bốc hơi nhanh, cây sốc nhiệt.
+?3 Cây bị héo khi:
++ lượng nước thoát ra nhiều hơn lượng nước hút vào
+- hút nhiều nước
+- trời mát
+- đất ẩm
+= Mất cân bằng nước.
+?3 Cắt bớt lá khi trồng cây non nhằm:
++ giảm thoát hơi nước, giúp cây không héo
+- tăng quang hợp
+- tăng thoát hơi nước
+- trang trí
+= Rễ chưa phát triển.
+?4 Vì sao không nên bón phân quá nhiều cho cây?
++ đất quá đặc, cây khó hút nước, có thể bị héo chết
+- cây lớn quá nhanh
+- tốn ít tiền
+- tốt cho cây
+= Nồng độ cao ngăn hút nước.
+
+## Bài 31. Trao đổi nước và các chất dinh dưỡng ở động vật
+?1 Thức ăn được tiêu hóa chủ yếu và hấp thụ ở:
++ ruột non
+- dạ dày
+- thực quản
+- ruột già
+= Ruột non có nhiều lông ruột.
+?1 Chất dinh dưỡng sau khi hấp thụ được vận chuyển đến tế bào nhờ:
++ hệ tuần hoàn (máu)
+- hệ hô hấp
+- hệ thần kinh
+- da
+= Máu vận chuyển.
+?1 Ở người, nước được hấp thụ chủ yếu ở:
++ ruột non và ruột già
+- miệng
+- dạ dày
+- thực quản
+= Hấp thụ nước.
+?2 Người trưởng thành cần uống khoảng:
++ 2–2,5 lít nước mỗi ngày
+- 0,5 lít
+- 10 lít
+- không cần uống
+= Nhu cầu nước.
+?2 Chất thải sau tiêu hóa được thải ra ngoài qua:
++ hậu môn
+- miệng
+- da duy nhất
+- phổi
+= Phân.
+?3 Chế độ ăn hợp lí cần:
++ đủ chất, cân đối, phù hợp lứa tuổi
+- chỉ ăn thịt
+- nhịn ăn sáng
+- ăn nhiều đồ chiên
+= Dinh dưỡng hợp lí.
+?3 Khi trời nóng hoặc vận động nhiều, cần uống nhiều nước vì:
++ cơ thể mất nhiều nước qua mồ hôi
+- cơ thể thừa nước
+- dạ dày rỗng
+- da khô
+= Bù lại lượng nước mất.
+?4 Vì sao trẻ bị tiêu chảy cần bổ sung nước và oresol?
++ để bù nước và chất điện giải bị mất
+- để no bụng
+- để ngủ ngon
+- để tăng cân
+= Phòng mất nước nguy hiểm.
+
+# Chương VIII. Cảm ứng ở sinh vật
+
+## Bài 33. Cảm ứng ở sinh vật và tập tính ở động vật
+?1 Cảm ứng là:
++ khả năng tiếp nhận và phản ứng với kích thích từ môi trường
+- sự sinh sản
+- sự lớn lên
+- sự hô hấp
+= Đặc trưng của sự sống.
+?1 Cây trinh nữ cụp lá khi chạm vào là hiện tượng:
++ cảm ứng
+- quang hợp
+- hô hấp
+- sinh sản
+= Phản ứng với kích thích cơ học.
+?1 Tập tính là:
++ chuỗi phản ứng của động vật trả lời kích thích
+- hình dạng cơ thể
+- màu lông
+- kích thước
+= Ví dụ: chim di cư.
+?2 Ngọn cây mọc hướng về phía ánh sáng gọi là:
++ hướng sáng
+- hướng nước
+- hướng tiếp xúc
+- hướng hóa
+= Hướng động.
+?2 Tập tính bẩm sinh là:
++ tập tính sinh ra đã có, không cần học
+- tập tính học được
+- do huấn luyện
+- thay đổi liên tục
+= Ví dụ: nhện giăng tơ.
+?3 Chó chạy đến khi nghe tiếng gọi tên là tập tính:
++ học được
+- bẩm sinh
+- không phải tập tính
+- di truyền
+= Hình thành qua học tập.
+?3 Rễ cây mọc hướng về phía nguồn nước là:
++ hướng nước
+- hướng sáng
+- hướng tiếp xúc
+- hướng trọng lực ngược
+= Thích nghi tìm nước.
+?4 Chim di cư về phương Nam vào mùa đông là tập tính giúp chúng:
++ tránh rét, tìm nguồn thức ăn
+- tìm bạn
+- xây tổ
+- chơi đùa
+= Ý nghĩa thích nghi.
+
+## Bài 34. Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn
+?1 Làm giàn cho cây mướp là vận dụng:
++ tính hướng tiếp xúc của thân leo
+- hướng nước
+- hướng sáng của rễ
+- tập tính động vật
+= Thân leo quấn vào giàn.
+?1 Huấn luyện chó nghiệp vụ là vận dụng:
++ tập tính học được
+- tập tính bẩm sinh
+- hướng động
+- quang hợp
+= Hình thành phản xạ có điều kiện.
+?1 Dùng bẫy đèn bắt côn trùng là vận dụng:
++ tập tính hướng về ánh sáng của côn trùng
+- tập tính sợ ánh sáng
+- hướng nước
+- hô hấp
+= Côn trùng bay vào đèn.
+?2 Trồng cây ở nơi đủ ánh sáng là vận dụng:
++ hướng sáng của cây
+- hướng nước
+- hướng tiếp xúc
+- tập tính
+= Cây cần ánh sáng.
+?2 Tưới nước xa gốc cây non nhằm:
++ kích thích rễ mọc dài, lan rộng
+- làm cây chết
+- tiết kiệm nước tuyệt đối
+- giảm quang hợp
+= Hướng nước của rễ.
+?3 Dạy trẻ thói quen đánh răng sau ăn là hình thành:
++ tập tính học được
+- tập tính bẩm sinh
+- hướng động
+- cảm ứng ở thực vật
+= Thói quen qua rèn luyện.
+?3 Thả cá vào ao, gõ kẻng trước khi cho ăn nhiều lần, về sau cá tập trung khi nghe kẻng. Đây là:
++ tập tính học được
+- tập tính bẩm sinh
+- hướng sáng
+- phản xạ không điều kiện
+= Liên kết âm thanh với thức ăn.
+?4 Người nông dân trồng hoa cúc và chiếu đèn ban đêm để:
++ điều khiển thời gian ra hoa theo ý muốn
+- diệt sâu bệnh
+- làm cây cao hơn
+- tiết kiệm điện
+= Vận dụng cảm ứng với ánh sáng.
+
+# Chương IX. Sinh trưởng và phát triển ở sinh vật
+
+## Bài 36. Khái quát về sinh trưởng và phát triển ở sinh vật
+?1 Sinh trưởng là:
++ sự tăng kích thước và khối lượng cơ thể
+- sự thay đổi hình thái
+- sự sinh sản
+- sự chết đi
+= Định nghĩa.
+?1 Phát triển gồm:
++ sinh trưởng, phân hóa tế bào và phát sinh hình thái
+- chỉ tăng chiều cao
+- chỉ tăng cân
+- chỉ sinh sản
+= Định nghĩa phát triển.
+?1 Mô phân sinh ở thực vật có chức năng:
++ phân chia tạo tế bào mới giúp cây lớn lên
+- quang hợp
+- dự trữ
+- bảo vệ
+= Mô phân sinh đỉnh, bên.
+?2 Mô phân sinh đỉnh giúp cây:
++ tăng chiều dài (cao lên)
+- tăng đường kính
+- ra hoa
+- rụng lá
+= Ở đỉnh thân, đỉnh rễ.
+?2 Mô phân sinh bên giúp cây:
++ tăng đường kính thân
+- cao lên
+- ra rễ
+- tạo hoa
+= Có ở cây hai lá mầm.
+?3 Biến thái ở ếch là:
++ sự thay đổi đột ngột hình thái từ nòng nọc thành ếch
+- sự lớn lên đều đặn
+- sự đẻ trứng
+- sự hô hấp
+= Phát triển qua biến thái.
+?3 Vòng đời của bướm gồm:
++ trứng → sâu → nhộng → bướm
+- trứng → bướm
+- sâu → trứng → bướm
+- nhộng → trứng → sâu
+= Biến thái hoàn toàn.
+?4 Đếm vòng gỗ trên mặt cắt thân cây có thể biết:
++ tuổi của cây
+- chiều cao
+- loài cây
+- số lá
+= Mỗi năm thêm một vòng.
+
+## Bài 37. Ứng dụng sinh trưởng và phát triển ở sinh vật vào thực tiễn
+?1 Các yếu tố ảnh hưởng đến sinh trưởng ở thực vật là:
++ nhiệt độ, ánh sáng, nước, chất dinh dưỡng
+- màu chậu
+- âm thanh
+- tên cây
+= Yếu tố môi trường.
+?1 Để vật nuôi lớn nhanh, cần:
++ cho ăn đủ chất, chuồng trại hợp vệ sinh
+- nhốt trong tối
+- cho ăn ít
+- không cho uống nước
+= Điều kiện sống tốt.
+?1 Bấm ngọn cây giúp:
++ cây ra nhiều cành nhánh
+- cây cao nhanh hơn
+- cây chết
+- cây ra rễ
+= Ứng dụng trong trồng trọt.
+?2 Thời vụ gieo trồng phù hợp giúp cây:
++ có điều kiện thời tiết thuận lợi để sinh trưởng
+- chết nhanh
+- không ra hoa
+- bị sâu nhiều
+= Lợi dụng khí hậu.
+?2 Chiều cao của con người phát triển mạnh nhất ở giai đoạn:
++ dậy thì
+- sơ sinh
+- tuổi già
+- trung niên
+= Giai đoạn tăng trưởng nhanh.
+?3 Để tăng chiều cao, học sinh nên:
++ ăn uống đủ chất, ngủ đủ giấc, tập thể dục
+- thức khuya
+- ăn nhiều đồ ngọt
+- ít vận động
+= Lối sống lành mạnh.
+?3 Diệt muỗi ở giai đoạn bọ gậy (ấu trùng) hiệu quả vì:
++ bọ gậy sống tập trung dưới nước, dễ diệt
+- bọ gậy bay được
+- muỗi trưởng thành không đốt
+- không cần thiết
+= Ứng dụng vòng đời.
+?4 Vì sao không nên lạm dụng chất kích thích sinh trưởng trong trồng rau?
++ có thể tồn dư gây hại cho sức khỏe người dùng
+- rau sẽ không lớn
+- tốn ít tiền
+- rau ngon hơn
+= An toàn thực phẩm.
+
+# Chương X. Sinh sản ở sinh vật
+
+## Bài 39. Sinh sản vô tính ở sinh vật
+?1 Sinh sản vô tính là hình thức sinh sản:
++ không có sự kết hợp giao tử đực và cái
+- có sự thụ tinh
+- cần hai cá thể
+- chỉ có ở động vật
+= Định nghĩa.
+?1 Trồng cây bằng cành (giâm cành) là hình thức:
++ sinh sản sinh dưỡng nhân tạo
+- sinh sản hữu tính
+- thụ phấn
+- nảy mầm từ hạt
+= Sinh sản vô tính.
+?1 Củ khoai tây có thể mọc thành cây mới. Đây là sinh sản:
++ sinh dưỡng bằng thân củ
+- bằng hạt
+- hữu tính
+- bằng bào tử
+= Thân củ.
+?2 Thủy tức sinh sản vô tính bằng hình thức:
++ nảy chồi
+- phân đôi
+- trinh sản
+- bào tử
+= Chồi tách ra thành cá thể mới.
+?2 Ưu điểm của sinh sản vô tính là:
++ tạo nhanh nhiều cá thể giống mẹ
+- tạo nhiều biến dị
+- cần hai bố mẹ
+- thích nghi tốt khi môi trường thay đổi
+= Giữ nguyên đặc điểm.
+?3 Nuôi cấy mô tế bào thực vật giúp:
++ tạo số lượng lớn cây giống sạch bệnh trong thời gian ngắn
+- tạo cây khác loài
+- giảm số cây giống
+- làm cây chết
+= Công nghệ sinh học.
+?3 Ghép cành là:
++ gắn cành hoặc mắt của cây này lên gốc cây khác
+- gieo hạt
+- giâm lá
+- trồng củ
+= Ví dụ ghép bưởi.
+?4 Nhược điểm của sinh sản vô tính là:
++ con cháu giống hệt nhau, kém thích nghi khi môi trường thay đổi
+- tạo ít cá thể
+- chậm
+- cần hai cá thể
+= Ít đa dạng di truyền.
+
+## Bài 40. Sinh sản hữu tính ở sinh vật
+?1 Sinh sản hữu tính có sự kết hợp:
++ giao tử đực và giao tử cái tạo thành hợp tử
+- hai tế bào sinh dưỡng
+- chỉ giao tử cái
+- chỉ giao tử đực
+= Thụ tinh.
+?1 Hoa là cơ quan sinh sản:
++ hữu tính của thực vật có hoa
+- vô tính
+- hô hấp
+- quang hợp
+= Hoa tạo hạt và quả.
+?1 Thụ phấn là:
++ hạt phấn tiếp xúc với đầu nhụy
+- hạt nảy mầm
+- quả chín
+- lá rụng
+= Bước trước thụ tinh.
+?2 Sau khi thụ tinh, bầu nhụy phát triển thành:
++ quả
+- hạt
+- hoa
+- lá
+= Noãn thành hạt, bầu thành quả.
+?2 Hoa thụ phấn nhờ sâu bọ thường có đặc điểm:
++ màu sắc sặc sỡ, có hương thơm, mật ngọt
+- nhỏ, không màu
+- không có mùi
+- hạt phấn nhẹ, nhiều
+= Thu hút côn trùng.
+?3 Ưu điểm của sinh sản hữu tính là:
++ tạo đời con đa dạng, thích nghi tốt với môi trường thay đổi
+- tạo con giống hệt mẹ
+- không cần giao tử
+- nhanh hơn sinh sản vô tính
+= Đa dạng di truyền.
+?3 Gà đẻ trứng, trứng được thụ tinh nở thành gà con. Đây là sinh sản:
++ hữu tính
+- vô tính
+- sinh dưỡng
+- nảy chồi
+= Có thụ tinh.
+?4 Thụ phấn bổ sung cho cây ngô nhằm:
++ tăng tỉ lệ đậu hạt, tăng năng suất
+- giảm năng suất
+- làm cây cao hơn
+- tránh sâu bệnh
+= Ứng dụng trong trồng trọt.
+
+## Bài 41. Một số yếu tố ảnh hưởng và điều hòa, điều khiển sinh sản ở sinh vật
+?1 Yếu tố môi trường ảnh hưởng đến sinh sản ở thực vật là:
++ ánh sáng, nhiệt độ, độ ẩm, chất dinh dưỡng
+- màu chậu
+- âm nhạc
+- tên giống
+= Yếu tố bên ngoài.
+?1 Hormone sinh dục ảnh hưởng đến:
++ sự sinh sản ở động vật
+- quang hợp
+- hô hấp của lá
+- màu hoa
+= Yếu tố bên trong.
+?1 Thắp đèn ban đêm cho gà giúp:
++ tăng sản lượng trứng
+- gà ngủ nhiều hơn
+- gà lớn chậm
+- gà ngừng đẻ
+= Điều khiển sinh sản.
+?2 Thụ tinh nhân tạo ở vật nuôi nhằm:
++ chủ động tạo giống tốt, tăng hiệu quả sinh sản
+- giảm số con
+- làm vật nuôi chết
+- không có lợi ích
+= Ứng dụng.
+?2 Kế hoạch hóa gia đình ở người nhằm:
++ chủ động số con và khoảng cách sinh con hợp lí
+- tăng dân số nhanh
+- không sinh con
+- không có ý nghĩa
+= Chăm sóc sức khỏe sinh sản.
+?3 Nhiệt độ quá cao vào thời kì cây lúa trổ bông làm:
++ giảm tỉ lệ đậu hạt
+- tăng năng suất
+- cây ra nhiều hoa hơn
+- không ảnh hưởng
+= Ảnh hưởng thụ phấn.
+?3 Dùng chất kích thích cho cây ra hoa trái vụ là:
++ điều khiển sinh sản ở thực vật
+- tiêu diệt cây
+- quang hợp
+- hô hấp
+= Ứng dụng thực tiễn.
+?4 Vì sao người nuôi cá thường tiêm hormone cho cá bố mẹ?
++ để cá đẻ đồng loạt, chủ động con giống
+- để cá lớn nhanh
+- để cá đổi màu
+- để cá không đẻ
+= Kích thích sinh sản.
+
+## Bài 42. Cơ thể sinh vật là một thể thống nhất
+?1 Các hoạt động sống của cơ thể như trao đổi chất, sinh trưởng, sinh sản có mối quan hệ:
++ mật thiết, thống nhất với nhau
+- độc lập hoàn toàn
+- đối nghịch
+- không liên quan
+= Cơ thể là thể thống nhất.
+?1 Trao đổi chất cung cấp nguyên liệu và năng lượng cho:
++ sinh trưởng, phát triển, sinh sản
+- chỉ hô hấp
+- chỉ cảm ứng
+- không hoạt động nào
+= Nền tảng các hoạt động sống.
+?1 Ở thực vật, quá trình tạo chất hữu cơ là:
++ quang hợp
+- hô hấp
+- thoát hơi nước
+- hút khoáng
+= Cung cấp vật chất.
+?2 Ở người, khi hệ tiêu hóa bị bệnh sẽ ảnh hưởng đến:
++ các hệ cơ quan khác do thiếu chất dinh dưỡng
+- chỉ hệ tiêu hóa
+- không hệ nào
+- chỉ tóc
+= Tính thống nhất.
+?2 Cảm ứng giúp sinh vật:
++ thích nghi với môi trường, tồn tại và phát triển
+- không phản ứng
+- chết nhanh
+- ngừng sinh trưởng
+= Vai trò của cảm ứng.
+?3 Cây thiếu nước kéo dài sẽ:
++ giảm quang hợp, sinh trưởng chậm, ra hoa kém
+- tăng quang hợp
+- lớn nhanh
+- ra nhiều quả
+= Các quá trình liên quan.
+?3 Khi trời lạnh, cơ thể run lên giúp:
++ sinh nhiệt, giữ thân nhiệt ổn định
+- giảm nhiệt
+- ngủ ngon
+- tiêu hóa nhanh
+= Điều hòa thân nhiệt.
+?4 Ví dụ nào thể hiện rõ nhất cơ thể là một thể thống nhất?
++ khi chạy, tim đập nhanh, thở gấp, ra mồ hôi
+- tóc mọc dài
+- móng tay dài ra
+- mắt chớp
+= Nhiều hệ cơ quan phối hợp.
