@@ -1,0 +1,117 @@
+rules_version = '2';
+
+// Luật bảo mật Firestore cho Học Vui.
+// Dán toàn bộ file này vào Firebase Console → Firestore Database → Rules → Publish.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() { return request.auth != null; }
+    function uid() { return request.auth.uid; }
+    function userDoc(id) { return /databases/$(database)/documents/users/$(id); }
+
+    function isAdmin() {
+      return signedIn() && exists(userDoc(uid())) && get(userDoc(uid())).data.role == 'admin';
+    }
+
+    // Phụ huynh đang đăng nhập đã được con này liên kết (và đã xác nhận).
+    function isParentOf(kid) {
+      let path = /databases/$(database)/documents/linkRequests/$(kid + '_' + uid());
+      return signedIn() && exists(path) && get(path).data.status == 'accepted';
+    }
+
+    // ---------- Hồ sơ ----------
+    match /users/{userId} {
+      allow read: if signedIn();
+      allow create, delete: if isAdmin();
+      // Học sinh tự cập nhật xu, chuỗi, chuyên cần... nhưng không được đổi vai trò, tên đăng nhập, lớp.
+      allow update: if isAdmin() || (
+        uid() == userId &&
+        !request.resource.data.diff(resource.data).affectedKeys()
+          .hasAny(['role', 'username', 'grade', 'parentCode', 'active'])
+      );
+
+      // Đề, ngày học, sổ lỗi sai của học sinh.
+      match /{sub}/{docId} {
+        allow read: if signedIn() && (uid() == userId || isParentOf(userId) || isAdmin());
+        allow write: if signedIn() && (uid() == userId || isAdmin());
+      }
+    }
+
+    // ---------- Mã phụ huynh ----------
+    match /parentCodes/{code} {
+      allow read: if signedIn();
+      allow write: if isAdmin();
+    }
+
+    // ---------- Liên kết con – phụ huynh ----------
+    match /linkRequests/{id} {
+      allow read: if signedIn() && (
+        resource.data.kidUid == uid() || resource.data.parentUid == uid() || isAdmin()
+      );
+      // Con gửi yêu cầu (hoặc gửi lại).
+      allow create: if signedIn() &&
+        request.resource.data.kidUid == uid() &&
+        request.resource.data.status == 'pending' &&
+        id == request.resource.data.kidUid + '_' + request.resource.data.parentUid;
+      allow update: if signedIn() && (
+        // Phụ huynh xác nhận hoặc từ chối.
+        (resource.data.parentUid == uid() &&
+          request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status'])) ||
+        // Con gửi lại yêu cầu.
+        (resource.data.kidUid == uid() && request.resource.data.status == 'pending' &&
+          request.resource.data.parentUid == resource.data.parentUid)
+      );
+      allow delete: if signedIn() && (
+        resource.data.kidUid == uid() || resource.data.parentUid == uid() || isAdmin()
+      );
+    }
+
+    // ---------- Mục lục và ngân hàng câu hỏi ----------
+    match /curriculum/{id} {
+      allow read: if signedIn();
+      allow write: if isAdmin();
+    }
+    match /questions/{id} {
+      allow read: if signedIn();
+      allow write: if isAdmin();
+    }
+
+    // ---------- Xếp hạng tuần ----------
+    match /leaderboard/{week}/scores/{userId} {
+      allow read: if signedIn();
+      allow write: if signedIn() && uid() == userId;
+    }
+
+    // ---------- Phần thưởng ----------
+    match /rewards/{id} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.parentUid == uid();
+      allow update, delete: if signedIn() && resource.data.parentUid == uid() &&
+        request.resource.data.parentUid == uid();
+    }
+
+    match /redemptions/{id} {
+      allow read: if signedIn() && (resource.data.kidUid == uid() || uid() in resource.data.parentUids);
+      allow create: if signedIn() &&
+        request.resource.data.kidUid == uid() &&
+        request.resource.data.status == 'pending';
+      allow update: if signedIn() && (
+        // Phụ huynh duyệt / từ chối.
+        (uid() in resource.data.parentUids &&
+          request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'decidedAt'])) ||
+        // Con đánh dấu đã nhận lại xu.
+        (resource.data.kidUid == uid() &&
+          request.resource.data.diff(resource.data).affectedKeys().hasOnly(['refunded']))
+      );
+    }
+
+    // ---------- Thông báo cho phụ huynh ----------
+    match /notifications/{id} {
+      allow read: if signedIn() && resource.data.toUid == uid();
+      allow create: if signedIn() && request.resource.data.fromUid == uid();
+      allow update: if signedIn() && resource.data.toUid == uid() &&
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['read']);
+      allow delete: if signedIn() && resource.data.toUid == uid();
+    }
+  }
+}

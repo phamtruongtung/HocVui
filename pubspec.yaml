@@ -1,0 +1,38 @@
+name: hoc_vui
+description: "Học Vui - ôn bài mỗi ngày cho học sinh lớp 6–9 theo kiểu game."
+publish_to: 'none'
+# Đổi phiên bản: sửa dòng này VÀ kAppVersion trong lib/version.dart (test kiểm tra
+# hai chỗ khớp nhau). Số sau dấu + (mã bản dựng) phải tăng mỗi lần build bản mới.
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  http: ^1.2.2
+  google_fonts: ^6.2.1
+  flutter_local_notifications: ^17.2.4
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  # Thư viện đề soạn sẵn (xem lib/logic/bank_parser.dart để biết định dạng).
+  assets:
+    - assets/bank/g6/
+    - assets/bank/g7/
+    - assets/bank/g8/
+    - assets/bank/g9/

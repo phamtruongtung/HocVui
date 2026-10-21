@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Học Vui – ôn bài mỗi ngày cho học sinh lớp 6–9.">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Học Vui">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <meta name="theme-color" content="#2FAE6B">
+  <title>Học Vui</title>
+  <link rel="manifest" href="manifest.json">
+  <style>
+    body { margin: 0; background: #E9F3F7; min-height: 100vh;
+      font-family: -apple-system, system-ui, "Segoe UI", Roboto, sans-serif; color: #22314A; }
+    #loader { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center;
+      justify-content: center; text-align: center; padding: 24px; gap: 12px; }
+    #loader img { width: 112px; height: 112px; border-radius: 26px; animation: bob .7s ease-in-out infinite alternate; }
+    #loader h1 { margin: 0; color: #2FAE6B; font-size: 34px; font-weight: 900; }
+    #loader p { margin: 0; font-size: 17px; font-weight: 600; }
+    #help { display: none; max-width: 340px; background: #fff; border-radius: 18px; padding: 14px 16px;
+      font-size: 15px; line-height: 1.5; text-align: left; }
+    @keyframes bob { to { transform: translateY(-14px); } }
+    @media (prefers-reduced-motion: reduce) { #loader img { animation: none; } }
+  </style>
+</head>
+<body>
+  <div id="loader">
+    <img src="icons/Icon-192.png" alt="">
+    <h1>Học Vui</h1>
+    <p id="status">Đang tải…</p>
+    <div id="help">
+      <b>Tải lâu quá?</b><br>
+      • Nếu bạn mở link từ Zalo, Messenger hay Facebook: bấm <b>•••</b> → <b>Mở bằng trình duyệt</b>.<br>
+      • Kiểm tra kết nối mạng rồi tải lại trang.
+    </div>
+  </div>
+  <script>
+    function hideLoader() {
+      var l = document.getElementById('loader');
+      if (l) l.remove();
+    }
+    window.addEventListener('flutter-first-frame', hideLoader);
+    setTimeout(function () {
+      var h = document.getElementById('help');
+      if (h && document.getElementById('loader')) h.style.display = 'block';
+    }, 25000);
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
