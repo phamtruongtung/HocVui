@@ -6,12 +6,12 @@ import 'package:firebase_core/firebase_core.dart';
 ///
 /// Còn để 'REPLACE' thì bản web báo "chưa cấu hình Firebase".
 const webFirebaseOptions = FirebaseOptions(
-  apiKey: 'REPLACE',
-  appId: 'REPLACE',
-  messagingSenderId: 'REPLACE',
-  projectId: 'REPLACE',
-  authDomain: 'REPLACE',
-  storageBucket: 'REPLACE',
+  apiKey: 'AIzaSyDT-IxkllClyhKG5SoK6OnHDhjJAgEuw_U',
+  appId: '1:424453700433:web:a855dce8438e97c6513170',
+  messagingSenderId: '424453700433',
+  projectId: 'hocvui-645b7',
+  authDomain: 'hocvui-645b7.firebaseapp.com',
+  storageBucket: 'hocvui-645b7.firebasestorage.app',
 );
 
 bool get webFirebaseConfigured => webFirebaseOptions.apiKey != 'REPLACE';
