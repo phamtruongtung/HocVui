@@ -1,0 +1,64 @@
+name: Deploy Web
+
+# Bản web chạy trên Cloudflare Pages (miễn phí).
+#
+# Cần 2 secret: CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID (dùng lại được của Math Jump).
+# Tùy chọn biến (Settings → Secrets and variables → Actions → Variables):
+#   CF_PROJECT   tên dự án Cloudflare Pages (mặc định: hocvui) → https://hocvui.pages.dev
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: web
+  cancel-in-progress: true
+
+env:
+  CF_PROJECT: ${{ vars.CF_PROJECT || 'hocvui' }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Create web platform files
+        run: flutter create --org com.hocvui --project-name hoc_vui --platforms web .
+
+      - run: flutter pub get
+
+      - name: Build
+        run: flutter build web --release --no-web-resources-cdn --base-href "/"
+
+      - name: Check Cloudflare secrets
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::error::Thiếu secret CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID"
+            exit 1
+          fi
+
+      - name: Create Cloudflare Pages project (first run only)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@3 pages project create "$CF_PROJECT" --production-branch=main || echo "Project already exists"
+
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npx --yes wrangler@3 pages deploy build/web --project-name="$CF_PROJECT" --branch=main --commit-dirty=true
+          echo "Web: https://$CF_PROJECT.pages.dev"
