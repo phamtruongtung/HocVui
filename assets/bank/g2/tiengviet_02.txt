@@ -1,0 +1,514 @@
+// Tiếng Việt 2 – Kết nối tri thức với cuộc sống – Tập 2
+// Bài đọc do Học Vui tự viết.
+#! HK2
+# Học kì 2
+
+## Chủ điểm Vẻ đẹp quanh em (1): Đọc hiểu
+> Mùa xuân đến, cây gạo đầu làng nở hoa đỏ rực. Từng đàn chim sáo, chim chào mào bay về ríu rít. Dưới gốc gạo, các bạn nhỏ nhặt hoa rơi để chơi trò bán hàng.
+?1 Mùa nào cây gạo nở hoa?
++ mùa xuân
+- mùa hè
+- mùa thu
+- mùa đông
+= Câu đầu.
+?1 Hoa gạo có màu gì?
++ đỏ rực
+- trắng tinh
+- vàng tươi
+- tím biếc
+= Câu đầu.
+?2 Những loài chim nào bay về cây gạo?
++ chim sáo, chim chào mào
+- chim đại bàng, chim cánh cụt
+- chim cú, chim công
+- chim én, chim hải âu
+= Câu thứ hai.
+?2 Các bạn nhỏ nhặt hoa rơi để làm gì?
++ chơi trò bán hàng
+- bán lấy tiền thật
+- làm thuốc
+- nấu ăn
+= Câu cuối.
+?3 Từ "ríu rít" gợi tả:
++ tiếng chim kêu vui, liên tiếp
+- tiếng mưa rơi
+- tiếng trống
+- tiếng gió lạnh
+= Từ gợi tả âm thanh.
+>-
+?3 Từ nào chỉ đặc điểm của cảnh vật?
++ tươi đẹp
+- trồng cây
+- cái cây
+- tưới nước
+= Từ chỉ đặc điểm.
+?3 Câu "Hoa gạo đỏ rực." là kiểu câu:
++ câu nêu đặc điểm
+- câu giới thiệu
+- câu nêu hoạt động
+- câu hỏi
+= Ai (cái gì) thế nào?
+?4 Câu nào có hình ảnh so sánh?
++ Hoa gạo đỏ như những ngọn lửa.
+- Hoa gạo nở vào mùa xuân.
+- Cây gạo đứng ở đầu làng.
+- Chim bay về cây gạo.
+= Từ so sánh "như".
+
+## Chủ điểm Vẻ đẹp quanh em (2): Từ ngữ về cảnh vật; dấu phẩy
+?1 Từ nào chỉ cảnh vật thiên nhiên?
++ dòng sông
+- cái bút
+- quyển vở
+- chiếc ghế
+= Cảnh vật.
+?1 Từ nào tả bầu trời?
++ xanh trong
+- chạy nhảy
+- ngọt ngào
+- chua chát
+= Từ chỉ đặc điểm.
+?2 Từ trái nghĩa với "sạch sẽ" là:
++ bẩn thỉu
+- gọn gàng
+- ngăn nắp
+- tinh tươm
+= Trái nghĩa.
+?2 Đặt dấu phẩy đúng: "Vườn nhà em có cam bưởi xoài."
++ Vườn nhà em có cam, bưởi, xoài.
+- Vườn, nhà em có cam bưởi xoài.
+- Vườn nhà em, có cam bưởi, xoài.
+- Vườn nhà, em có cam, bưởi xoài.
+= Ngăn cách các sự vật.
+?2 Từ nào viết đúng chính tả?
++ rực rỡ
+- dực rỡ
+- rực giỡ
+- giực dỡ
+= rực rỡ.
+?3 Chọn từ thích hợp: "Dòng sông … chảy quanh làng."
++ hiền hòa
+- hiền hậu nói
+- chạy nhảy
+- ầm ĩ khóc
+= Từ chỉ đặc điểm của dòng sông.
+?3 Từ nào chỉ hoạt động của con người giữ gìn cảnh đẹp?
++ trồng cây
+- xả rác
+- bẻ cành
+- hái trộm hoa
+= Bảo vệ cảnh quan.
+?4 Câu nào viết đúng?
++ Buổi sáng, sương phủ trắng cánh đồng.
+- buổi sáng sương phủ trắng cánh đồng
+- Buổi sáng sương, phủ trắng cánh đồng.
+- Buổi sáng, xương phủ trắng cánh đồng.
+= Viết hoa đầu câu, dấu phẩy sau trạng ngữ, "sương" viết s.
+
+## Chủ điểm Hành tinh xanh của em (1): Đọc hiểu
+> Cả lớp 2A cùng nhau trồng cây ở góc sân trường. Bạn đào hố, bạn đặt cây, bạn tưới nước. Cô giáo nói: "Mỗi cây xanh là một lá phổi nhỏ giúp không khí trong lành." Các bạn hứa sẽ chăm sóc cây mỗi ngày.
+?1 Lớp 2A cùng nhau làm gì?
++ trồng cây
+- quét lớp
+- vẽ tranh
+- đá bóng
+= Câu đầu.
+?1 Các bạn trồng cây ở đâu?
++ góc sân trường
+- trong lớp học
+- trên mái nhà
+- bên bờ biển
+= Câu đầu.
+?2 Cô giáo nói cây xanh giống như:
++ một lá phổi nhỏ
+- một ngôi nhà
+- một con chim
+- một dòng sông
+= Lời cô giáo.
+?2 Các bạn hứa điều gì?
++ chăm sóc cây mỗi ngày
+- không bao giờ tưới cây
+- chặt cây
+- mang cây về nhà
+= Câu cuối.
+?3 Cây xanh giúp:
++ không khí trong lành
+- không khí ô nhiễm
+- trời nóng hơn
+- đất bị khô
+= Lợi ích cây xanh.
+>-
+?3 Việc làm nào bảo vệ môi trường?
++ bỏ rác vào thùng, tiết kiệm nước
+- xả rác xuống sông
+- đốt rác bừa bãi
+- bẻ cành cây
+= Hành động đúng.
+?3 Từ nào chỉ hoạt động chăm sóc cây?
++ tưới nước
+- chặt cây
+- giẫm lên cây
+- bứt lá
+= Từ chỉ hoạt động.
+?4 Câu nào là câu khuyên bảo?
++ Các em hãy bỏ rác đúng nơi quy định nhé!
+- Thùng rác màu xanh.
+- Em bỏ rác vào thùng.
+- Rác ở đâu?
+= Câu khuyến khích, đề nghị.
+
+## Chủ điểm Hành tinh xanh của em (2): Từ ngữ về loài vật; câu hỏi "Vì sao?"
+?1 Con vật nào sống dưới nước?
++ cá heo
+- sư tử
+- hươu cao cổ
+- chim sẻ
+= Loài vật.
+?1 Con vật nào được gọi là "chúa sơn lâm"?
++ hổ
+- mèo
+- thỏ
+- gà
+= Tên gọi khác.
+?2 Từ chỉ đặc điểm của con thỏ là:
++ nhanh nhẹn
+- chậm chạp như rùa
+- khổng lồ
+- có vòi dài
+= Đặc điểm loài vật.
+?2 Bộ phận trả lời câu hỏi "Vì sao?" trong câu "Vì trời mưa, đàn kiến tha mồi về tổ." là:
++ Vì trời mưa
+- đàn kiến
+- tha mồi
+- về tổ
+= Chỉ nguyên nhân.
+?2 Thành ngữ "Khỏe như voi" dùng để nói người:
++ rất khỏe
+- rất yếu
+- rất chậm
+- rất nhỏ
+= Thành ngữ so sánh.
+?3 Chọn từ hợp: "Con công … đuôi rất đẹp."
++ xòe
+- bơi
+- đào
+- gặm
+= Hoạt động của con công.
+?3 Con vật nào được nuôi để lấy sữa?
++ con bò sữa
+- con mèo
+- con gà
+- con cá vàng
+= Lợi ích của vật nuôi.
+?4 Câu hỏi nào dùng để hỏi nguyên nhân?
++ Vì sao lá cây chuyển màu vàng?
+- Lá cây màu gì?
+- Lá cây ở đâu?
+- Khi nào lá rụng?
+= Từ hỏi "Vì sao".
+
+## Chủ điểm Giao tiếp và kết nối (1): Đọc hiểu
+> Bố Nam đi công tác xa. Tối nào Nam cũng gọi điện cho bố. Nam kể chuyện ở lớp, chuyện con mèo mới đẻ. Bố dặn Nam chăm học và nghe lời mẹ. Nghe giọng bố, Nam thấy bố như đang ở rất gần.
+?1 Vì sao Nam gọi điện cho bố?
++ vì bố đi công tác xa
+- vì bố bị ốm
+- vì bố ở trường
+- vì bố đi chợ
+= Câu đầu.
+?1 Nam gọi điện cho bố vào lúc nào?
++ tối nào cũng gọi
+- sáng sớm
+- trưa
+- chỉ ngày Chủ nhật
+= Câu thứ hai.
+?2 Nam kể với bố chuyện gì?
++ chuyện ở lớp, chuyện con mèo mới đẻ
+- chuyện đi du lịch
+- chuyện xem phim
+- chuyện mua xe
+= Câu thứ ba.
+?2 Bố dặn Nam điều gì?
++ chăm học và nghe lời mẹ
+- đi chơi nhiều
+- xem ti vi cả ngày
+- không cần học
+= Câu thứ tư.
+?3 Câu cuối cho thấy điện thoại giúp:
++ người thân ở xa vẫn gần gũi nhau
+- người thân xa nhau hơn
+- Nam không muốn gặp bố
+- bố quên Nam
+= Ý nghĩa.
+>-
+?3 Khi nghe điện thoại, em nên nói:
++ A lô, cháu chào bác ạ. Cháu là Lan.
+- A lô, ai đấy?
+- Gì thế?
+- Không nói gì cả.
+= Lịch sự khi nghe điện thoại.
+?3 Phương tiện nào dùng để liên lạc?
++ điện thoại
+- xe đạp
+- cái quạt
+- cái bàn
+= Phương tiện giao tiếp.
+?4 Câu nào là lời cảm ơn phù hợp khi bạn cho em mượn sách?
++ Cảm ơn bạn nhé, mình sẽ giữ sách cẩn thận.
+- Đưa đây!
+- Sách cũ quá.
+- Mình không cần.
+= Đáp lời cảm ơn lịch sự.
+
+## Chủ điểm Giao tiếp và kết nối (2): Lời chào, lời mời, lời đề nghị
+?1 Câu nào là lời chào?
++ Em chào cô ạ!
+- Cô ơi, cho em hỏi.
+- Em cảm ơn cô.
+- Em xin lỗi cô.
+= Lời chào.
+?1 Câu nào là lời mời?
++ Mời bà uống nước ạ!
+- Bà uống nước chưa?
+- Nước ở trên bàn.
+- Bà khát nước.
+= Lời mời.
+?2 Câu nào là lời đề nghị lịch sự?
++ Bạn cho mình mượn cái thước nhé!
+- Đưa thước đây!
+- Thước của bạn đẹp không?
+- Mình có thước.
+= Lời đề nghị lịch sự.
+?2 Khi được bạn tặng quà, em nói:
++ Mình cảm ơn bạn nhiều!
+- Quà nhỏ thế!
+- Mình không thích.
+- Để đấy.
+= Lời cảm ơn.
+?2 Khi lỡ va vào bạn, em nói:
++ Xin lỗi bạn, mình vô ý quá!
+- Tại bạn đứng đó!
+- Tránh ra!
+- Không nói gì.
+= Lời xin lỗi.
+?3 Bưu thiếp chúc mừng sinh nhật thường viết:
++ Chúc bạn sinh nhật vui vẻ, học giỏi!
+- Bạn tên là gì?
+- Mai mình đi học.
+- Hôm nay trời mưa.
+= Lời chúc.
+?3 Dấu câu phù hợp cuối lời mời "Mời các bạn vào nhà chơi" là:
++ !
+- ?
+- ,
+- :
+= Lời mời, đề nghị thường dùng dấu chấm than.
+?4 Câu nào nói đúng cách gọi điện thoại lịch sự?
++ Chào hỏi, tự giới thiệu, nói ngắn gọn rõ ràng và chào khi kết thúc
+- Gọi xong không chào
+- Nói thật to, thật dài
+- Gọi vào giờ ngủ trưa của người khác
+= Kĩ năng giao tiếp.
+
+## Chủ điểm Con người Việt Nam (1): Đọc hiểu
+> Bác Hồ rất yêu thiếu nhi. Có lần Bác đến thăm một trại nhi đồng. Bác chia kẹo cho các cháu và hỏi: "Các cháu chơi có vui không? Các cháu ăn có no không?". Các em nhỏ vây quanh Bác, ríu rít trả lời.
+?1 Bác Hồ rất yêu ai?
++ thiếu nhi
+- chỉ người già
+- chỉ bộ đội
+- không ai
+= Câu đầu.
+?1 Bác đến thăm nơi nào?
++ trại nhi đồng
+- nhà máy
+- cánh đồng
+- bệnh viện
+= Câu thứ hai.
+?2 Bác chia gì cho các cháu?
++ kẹo
+- sách
+- quần áo
+- tiền
+= Câu thứ ba.
+?2 Bác hỏi các cháu điều gì?
++ chơi có vui không, ăn có no không
+- học có giỏi không
+- nhà ở đâu
+- tên là gì
+= Lời Bác.
+?3 Câu chuyện cho thấy Bác Hồ:
++ rất quan tâm, yêu thương các cháu thiếu nhi
+- không thích trẻ em
+- rất nghiêm khắc
+- chỉ thích ăn kẹo
+= Ý nghĩa.
+>-
+?3 Từ nào chỉ phẩm chất tốt của người Việt Nam?
++ cần cù
+- lười biếng
+- ích kỉ
+- gian dối
+= Phẩm chất.
+?3 Người làm ra hạt gạo là:
++ người nông dân
+- người lính
+- bác sĩ
+- thợ may
+= Nghề nghiệp.
+?4 Câu nào dùng đúng dấu ngoặc kép để ghi lời nói?
++ Bác hỏi: "Các cháu có vui không?"
+- Bác hỏi "Các cháu có vui không?".
+- Bác "hỏi": Các cháu có vui không?
+- "Bác hỏi" các cháu có vui không?
+= Lời nói trực tiếp đặt sau dấu hai chấm, trong ngoặc kép.
+
+## Chủ điểm Con người Việt Nam (2): Từ ngữ về nghề nghiệp
+?1 Người dạy học là:
++ giáo viên
+- bác sĩ
+- kĩ sư
+- nông dân
+= Nghề nghiệp.
+?1 Người chữa bệnh là:
++ bác sĩ
+- thợ xây
+- phi công
+- đầu bếp
+= Nghề nghiệp.
+?2 Người lái máy bay là:
++ phi công
+- thủy thủ
+- tài xế xe buýt
+- thợ điện
+= Nghề nghiệp.
+?2 Người nấu ăn ở nhà hàng là:
++ đầu bếp
+- bưu tá
+- thợ mộc
+- dược sĩ
+= Nghề nghiệp.
+?2 Người đưa thư là:
++ bưu tá
+- công an
+- thợ may
+- lính cứu hỏa
+= Nghề nghiệp.
+?3 Từ nào chỉ đặc điểm của người lính cứu hỏa?
++ dũng cảm
+- nhút nhát
+- lười biếng
+- hay khóc
+= Phẩm chất nghề nghiệp.
+?3 Câu "Mẹ em là y tá." là câu:
++ câu giới thiệu
+- câu nêu hoạt động
+- câu nêu đặc điểm
+- câu cảm
+= Ai là gì?
+?4 Câu nào nói về hoạt động của người nông dân?
++ Bác nông dân cày ruộng, cấy lúa.
+- Bác nông dân rất chăm chỉ.
+- Bác nông dân là người làm ra lúa gạo.
+- Bác nông dân ở quê em.
+= Câu nêu hoạt động: Ai làm gì?
+
+## Chủ điểm Việt Nam quê hương em (1): Đọc hiểu
+> Quê em ở vùng biển. Sáng sớm, những con thuyền đánh cá cập bến, đầy ắp tôm cá. Bãi cát trắng phau trải dài. Em yêu biển quê em, yêu những con sóng vỗ rì rào suốt ngày đêm.
+?1 Quê bạn nhỏ ở đâu?
++ vùng biển
+- vùng núi
+- thành phố lớn
+- sa mạc
+= Câu đầu.
+?1 Sáng sớm, thuyền đánh cá chở về:
++ đầy ắp tôm cá
+- lúa gạo
+- hoa quả
+- gỗ
+= Câu thứ hai.
+?2 Bãi cát có màu gì?
++ trắng phau
+- đỏ
+- đen
+- tím
+= Câu thứ ba.
+?2 Sóng biển vỗ như thế nào?
++ rì rào
+- ầm ầm như sấm
+- tích tắc
+- lách cách
+= Câu cuối.
+?3 Tình cảm của bạn nhỏ với quê hương là:
++ rất yêu biển quê mình
+- không thích biển
+- sợ biển
+- muốn rời xa quê
+= Câu cuối.
+>-
+?3 Thủ đô của nước Việt Nam là:
++ Hà Nội
+- Huế
+- Đà Nẵng
+- Cần Thơ
+= Kiến thức chung.
+?3 Tên riêng nào viết hoa đúng?
++ Vịnh Hạ Long
+- vịnh hạ long
+- Vịnh hạ Long
+- vịnh Hạ long
+= Viết hoa tên riêng địa danh.
+?4 Câu nào có hình ảnh so sánh?
++ Bãi cát trắng như tấm thảm khổng lồ.
+- Bãi cát rất rộng.
+- Em ra bãi cát chơi.
+- Bãi cát ở gần nhà em.
+= Từ so sánh "như".
+
+## Chủ điểm Việt Nam quê hương em (2): Từ ngữ về quê hương
+?1 Từ nào chỉ cảnh vật ở làng quê?
++ cánh đồng lúa
+- nhà chọc trời
+- thang máy
+- sân bay
+= Cảnh làng quê.
+?1 Từ nào chỉ cảnh vật ở thành phố?
++ đường phố đông vui
+- bờ tre
+- lũy tre làng
+- con trâu
+= Cảnh thành phố.
+?2 Từ cùng nghĩa với "quê hương" là:
++ quê nhà
+- thành phố
+- nước ngoài
+- trường học
+= Đồng nghĩa.
+?2 Chọn từ phù hợp: "Cánh đồng lúa chín … như tấm thảm."
++ vàng óng
+- xanh lè
+- đen sì
+- tím ngắt
+= Lúa chín màu vàng.
+?2 Cây nào thường gắn với làng quê Việt Nam?
++ cây tre
+- cây thông tuyết
+- cây xương rồng sa mạc
+- cây ô liu
+= Hình ảnh quê hương.
+?3 Câu "Làng em có lũy tre xanh mát." trả lời câu hỏi:
++ Làng em có gì?
+- Làng em là gì?
+- Làng em làm gì?
+- Làng em ở đâu?
+= Đọc hiểu câu.
+?3 Dấu câu phù hợp: "Quê hương em đẹp quá…"
++ !
+- ?
+- ,
+- :
+= Câu cảm dùng dấu chấm than.
+?4 Câu nào giới thiệu đúng về quê hương?
++ Quê em là một làng nhỏ bên dòng sông Hồng.
+- Quê em làm gì?
+- Ôi, quê em!
+- Em về quê lúc nào?
+= Câu giới thiệu.

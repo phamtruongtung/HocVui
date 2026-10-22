@@ -1,0 +1,559 @@
+// Toán 5 – Kết nối tri thức với cuộc sống – Tập 1
+#! HK1
+# Ôn tập và bổ sung
+
+## Bài 1. Ôn tập số tự nhiên, phân số và các phép tính
+?1 Phân số 18/24 rút gọn thành phân số tối giản là:
++ 3/4
+- 9/12
+- 6/8
+- 2/3
+= Chia cả tử và mẫu cho 6.
+?1 2/5 + 1/5 = ?
++ 3/5
+- 3/10
+- 2/25
+- 1/5
+= Cùng mẫu số.
+?2 3/4 − 2/3 = ?
++ 1/12
+- 1/1
+- 5/12
+- 1/7
+= 9/12 − 8/12.
+?2 5/6 × 3/10 = ?
++ 1/4
+- 15/16
+- 8/60
+- 3/8
+= 15/60 = 1/4.
+?2 4/9 : 2/3 = ?
++ 2/3
+- 8/27
+- 6/9
+- 3/2
+= 4/9 × 3/2 = 12/18 = 2/3.
+?3 Số tự nhiên lớn nhất có 6 chữ số chia hết cho 5 là:
++ 999 995
+- 999 999
+- 999 990
+- 100 000
+= Tận cùng là 0 hoặc 5.
+?3 Một lớp có 35 học sinh, 2/5 số học sinh là nữ. Lớp có bao nhiêu học sinh nam?
++ 21
+- 14
+- 25
+- 7
+= Nữ: 35 × 2/5 = 14; nam: 35 − 14.
+?4 Một bể nước đang chứa 2/3 bể. Dùng hết 1/4 bể thì bể còn lại bao nhiêu phần?
++ 5/12 bể
+- 1/12 bể
+- 3/7 bể
+- 11/12 bể
+= 8/12 − 3/12.
+
+## Bài 2. Hỗn số
+?1 Hỗn số 2 1/3 đọc là:
++ hai và một phần ba
+- hai một phần ba trăm
+- hai phần một ba
+- một phần ba hai
+= Đọc hỗn số.
+?1 Hỗn số 3 2/5 gồm phần nguyên là:
++ 3
+- 2
+- 5
+- 2/5
+= Phần nguyên đứng trước.
+?2 Chuyển hỗn số 2 3/4 thành phân số:
++ 11/4
+- 6/4
+- 9/4
+- 23/4
+= 2 × 4 + 3 = 11.
+?2 Chuyển phân số 17/5 thành hỗn số:
++ 3 2/5
+- 2 3/5
+- 3 1/5
+- 5 2/3
+= 17 : 5 = 3 dư 2.
+?2 Hỗn số 1 1/2 bằng số thập phân:
++ 1,5
+- 1,2
+- 1,1
+- 1,05
+= 1/2 = 0,5.
+?3 1 1/2 + 2 1/4 = ?
++ 3 3/4
+- 3 2/6
+- 3 1/2
+- 4 1/4
+= 3 + 1/2 + 1/4.
+?3 So sánh 2 3/4 và 2 2/3:
++ 2 3/4 > 2 2/3
+- 2 3/4 < 2 2/3
+- 2 3/4 = 2 2/3
+- không so sánh được
+= 3/4 = 9/12 > 8/12 = 2/3.
+?4 Một sợi dây dài 3 1/2 m, cắt đi 1 3/4 m. Sợi dây còn lại:
++ 1 3/4 m
+- 2 1/4 m
+- 1 1/4 m
+- 2 3/4 m
+= 14/4 − 7/4 = 7/4.
+
+# Số thập phân
+
+## Bài 3. Khái niệm số thập phân. Hàng của số thập phân
+?1 Phân số 3/10 viết thành số thập phân là:
++ 0,3
+- 3,0
+- 0,03
+- 30
+= 3 phần mười.
+?1 Số thập phân 4,75 có phần nguyên là:
++ 4
+- 75
+- 7
+- 5
+= Phần đứng trước dấu phẩy.
+?2 Chữ số 6 trong số 12,068 thuộc hàng:
++ phần trăm
+- phần mười
+- phần nghìn
+- đơn vị
+= 0 phần mười, 6 phần trăm, 8 phần nghìn.
+?2 Số 25/100 viết thành số thập phân là:
++ 0,25
+- 2,5
+- 25,0
+- 0,025
+= 25 phần trăm.
+?2 Số "năm phẩy không tám" viết là:
++ 5,08
+- 5,8
+- 5,008
+- 50,8
+= Đọc số thập phân.
+?3 Số thập phân 3,7 viết thành phân số thập phân là:
++ 37/10
+- 37/100
+- 3/7
+- 7/3
+= 3,7 = 37 phần mười.
+?3 0,5 bằng phân số:
++ 1/2
+- 1/5
+- 5/100
+- 2/5
+= 5/10 = 1/2.
+?4 Số thập phân gồm 3 đơn vị, 4 phần trăm và 7 phần nghìn là:
++ 3,047
+- 3,47
+- 3,407
+- 3,0047
+= Phần mười bằng 0.
+
+## Bài 4. So sánh, làm tròn số thập phân
+?1 Dấu cần điền: 2,35 … 2,4
++ <
+- >
+- =
+- +
+= Phần mười: 3 < 4.
+?1 Số lớn nhất trong các số 0,8; 0,75; 0,79; 0,705 là:
++ 0,8
+- 0,79
+- 0,75
+- 0,705
+= 0,80 > 0,79.
+?2 Dấu cần điền: 5,70 … 5,7
++ =
+- >
+- <
+- +
+= Thêm chữ số 0 ở tận cùng phần thập phân, giá trị không đổi.
+?2 Làm tròn 6,48 đến hàng đơn vị được:
++ 6
+- 7
+- 6,5
+- 6,4
+= Phần mười là 4 < 5.
+?2 Làm tròn 3,762 đến hàng phần mười được:
++ 3,8
+- 3,7
+- 3,76
+- 4
+= Phần trăm là 6 ≥ 5.
+?3 Xếp 4,5; 4,05; 4,505; 4,55 theo thứ tự từ bé đến lớn:
++ 4,05; 4,5; 4,505; 4,55
+- 4,5; 4,05; 4,55; 4,505
+- 4,55; 4,505; 4,5; 4,05
+- 4,05; 4,505; 4,5; 4,55
+= So sánh từng hàng.
+?3 Số thập phân lớn hơn 1,2 và bé hơn 1,3 là:
++ 1,25
+- 1,35
+- 1,19
+- 1,3
+= 1,2 < 1,25 < 1,3.
+?4 Chiều cao ba bạn: An 1,42 m, Bình 1,4 m, Chi 1,38 m. Bạn cao nhất là:
++ An
+- Bình
+- Chi
+- bằng nhau
+= 1,42 > 1,40 > 1,38.
+
+## Bài 5. Viết số đo đại lượng dưới dạng số thập phân
+?1 5 m 25 cm = … m
++ 5,25 m
+- 5,025 m
+- 52,5 m
+- 525 m
+= 25 cm = 0,25 m.
+?1 3 kg 500 g = … kg
++ 3,5 kg
+- 3,05 kg
+- 35 kg
+- 3,005 kg
+= 500 g = 0,5 kg.
+?2 2 tấn 75 kg = … tấn
++ 2,075 tấn
+- 2,75 tấn
+- 2,0075 tấn
+- 275 tấn
+= 75 kg = 0,075 tấn.
+?2 4 m² 8 dm² = … m²
++ 4,08 m²
+- 4,8 m²
+- 4,008 m²
+- 48 m²
+= 8 dm² = 0,08 m².
+?2 1,2 km = … m
++ 1200 m
+- 120 m
+- 12 m
+- 12 000 m
+= 1 km = 1000 m.
+?3 350 g = … kg
++ 0,35 kg
+- 3,5 kg
+- 0,035 kg
+- 35 kg
+= 350 : 1000.
+?3 7 cm = … m
++ 0,07 m
+- 0,7 m
+- 7 m
+- 0,007 m
+= 7 : 100.
+?4 Sắp xếp các số đo 1,5 kg; 1 kg 250 g; 1600 g theo thứ tự từ bé đến lớn:
++ 1 kg 250 g; 1,5 kg; 1600 g
+- 1600 g; 1,5 kg; 1 kg 250 g
+- 1,5 kg; 1 kg 250 g; 1600 g
+- 1 kg 250 g; 1600 g; 1,5 kg
+= Đổi ra gam: 1250, 1500, 1600.
+
+# Các phép tính với số thập phân
+
+## Bài 6. Cộng, trừ số thập phân
+?1 3,45 + 2,3 = ?
++ 5,75
+- 5,48
+- 6,75
+- 3,68
+= Đặt thẳng dấu phẩy.
+?1 8,6 − 3,25 = ?
++ 5,35
+- 5,45
+- 5,25
+- 11,85
+= 8,60 − 3,25.
+?2 12,5 + 7,85 = ?
++ 20,35
+- 19,35
+- 20,3
+- 13,35
+= Cộng có nhớ.
+?2 10 − 4,36 = ?
++ 5,64
+- 6,64
+- 5,74
+- 14,36
+= 10,00 − 4,36.
+?2 Tính nhanh: 2,8 + 4,5 + 7,2 = ?
++ 14,5
+- 14
+- 15,5
+- 13,5
+= (2,8 + 7,2) + 4,5 = 10 + 4,5.
+?3 x + 3,7 = 10,2. Giá trị x là:
++ 6,5
+- 13,9
+- 7,5
+- 6,4
+= 10,2 − 3,7.
+?3 Một bao gạo nặng 45,5 kg, lấy ra 12,75 kg. Bao còn lại:
++ 32,75 kg
+- 33,75 kg
+- 58,25 kg
+- 32,25 kg
+= 45,50 − 12,75.
+?4 Ba đoạn dây dài 1,25 m; 2,4 m và 0,85 m. Tổng độ dài ba đoạn là:
++ 4,5 m
+- 4,4 m
+- 3,5 m
+- 4,05 m
+= 1,25 + 2,40 + 0,85.
+
+## Bài 7. Nhân số thập phân
+?1 2,5 × 4 = ?
++ 10
+- 1
+- 8,5
+- 100
+= 25 × 4 = 100, rồi tách 1 chữ số thập phân.
+?1 3,14 × 10 = ?
++ 31,4
+- 314
+- 0,314
+- 3,140
+= Dời dấu phẩy sang phải 1 chữ số.
+?2 1,2 × 1,5 = ?
++ 1,8
+- 18
+- 0,18
+- 2,7
+= 12 × 15 = 180; tách 2 chữ số: 1,80.
+?2 0,25 × 100 = ?
++ 25
+- 2,5
+- 250
+- 0,0025
+= Dời dấu phẩy sang phải 2 chữ số.
+?2 4,6 × 0,1 = ?
++ 0,46
+- 46
+- 4,6
+- 0,046
+= Nhân với 0,1 dời dấu phẩy sang trái 1 chữ số.
+?3 Tính nhanh: 0,25 × 7,3 × 4 = ?
++ 7,3
+- 73
+- 0,73
+- 29,2
+= (0,25 × 4) × 7,3.
+?3 Mỗi mét vải giá 45 000 đồng. Mua 2,5 m vải hết:
++ 112 500 đồng
+- 90 000 đồng
+- 102 500 đồng
+- 135 000 đồng
+= 45 000 × 2,5.
+?4 Một hình chữ nhật dài 6,5 m, rộng 4,2 m. Diện tích là:
++ 27,3 m²
+- 21,4 m²
+- 10,7 m²
+- 273 m²
+= 6,5 × 4,2.
+
+## Bài 8. Chia số thập phân
+?1 8,4 : 4 = ?
++ 2,1
+- 21
+- 0,21
+- 2,4
+= Chia như số tự nhiên, đặt dấu phẩy ở thương.
+?1 45,6 : 10 = ?
++ 4,56
+- 456
+- 0,456
+- 45,6
+= Dời dấu phẩy sang trái 1 chữ số.
+?2 9 : 4 = ?
++ 2,25
+- 2,5
+- 2,2
+- 22,5
+= 9 : 4 = 2 dư 1; 10 : 4 = 2 dư 2; 20 : 4 = 5.
+?2 7,2 : 0,9 = ?
++ 8
+- 0,8
+- 80
+- 6,3
+= 72 : 9.
+?2 1,5 : 0,5 = ?
++ 3
+- 0,3
+- 30
+- 1
+= 15 : 5.
+?3 Một can 12,5 lít dầu chia đều vào 5 chai. Mỗi chai có:
++ 2,5 lít
+- 25 lít
+- 0,25 lít
+- 7,5 lít
+= 12,5 : 5.
+?3 x × 2,4 = 9,6. Giá trị x là:
++ 4
+- 0,4
+- 23,04
+- 7,2
+= 9,6 : 2,4.
+?4 Một ô tô đi 135 km hết 9 lít xăng. Đi 60 km thì hết bao nhiêu lít xăng?
++ 4 lít
+- 6 lít
+- 5 lít
+- 3 lít
+= 135 : 9 = 15 km/lít; 60 : 15.
+
+# Hình tam giác, hình thang, hình tròn
+
+## Bài 9. Diện tích hình tam giác
+?1 Diện tích hình tam giác bằng:
++ đáy nhân chiều cao rồi chia 2 (cùng đơn vị)
+- đáy nhân chiều cao
+- đáy cộng chiều cao
+- (đáy + chiều cao) × 2
+= Công thức.
+?1 Diện tích tam giác có đáy 8 cm, chiều cao 5 cm là:
++ 20 cm²
+- 40 cm²
+- 13 cm²
+- 26 cm²
+= 8 × 5 : 2.
+?2 Diện tích tam giác có đáy 12 m, chiều cao 7 m là:
++ 42 m²
+- 84 m²
+- 19 m²
+- 38 m²
+= 12 × 7 : 2.
+?2 Tam giác vuông có hai cạnh góc vuông 6 cm và 8 cm. Diện tích là:
++ 24 cm²
+- 48 cm²
+- 14 cm²
+- 28 cm²
+= 6 × 8 : 2.
+?2 Diện tích tam giác có đáy 4,5 dm, chiều cao 2 dm là:
++ 4,5 dm²
+- 9 dm²
+- 6,5 dm²
+- 2,25 dm²
+= 4,5 × 2 : 2.
+?3 Tam giác có diện tích 30 cm², đáy 10 cm. Chiều cao là:
++ 6 cm
+- 3 cm
+- 20 cm
+- 300 cm
+= 30 × 2 : 10.
+?3 Hình tam giác có mấy đường cao?
++ 3
+- 1
+- 2
+- 4
+= Mỗi đỉnh có một đường cao.
+?4 Một mảnh đất hình chữ nhật dài 20 m, rộng 12 m, người ta chia theo đường chéo thành hai phần bằng nhau. Diện tích mỗi phần là:
++ 120 m²
+- 240 m²
+- 64 m²
+- 32 m²
+= 20 × 12 : 2.
+
+## Bài 10. Diện tích hình thang
+?1 Diện tích hình thang bằng:
++ tổng độ dài hai đáy nhân chiều cao rồi chia 2
+- đáy lớn nhân chiều cao
+- tổng hai đáy nhân 2
+- đáy bé nhân đáy lớn
+= Công thức.
+?1 Hình thang có hai đáy 6 cm và 4 cm, chiều cao 5 cm. Diện tích là:
++ 25 cm²
+- 50 cm²
+- 120 cm²
+- 15 cm²
+= (6 + 4) × 5 : 2.
+?2 Hình thang có hai đáy 12 m và 8 m, chiều cao 6 m. Diện tích là:
++ 60 m²
+- 120 m²
+- 26 m²
+- 576 m²
+= (12 + 8) × 6 : 2.
+?2 Hình thang vuông có:
++ một cạnh bên vuông góc với hai đáy
+- hai cạnh bên bằng nhau
+- bốn góc vuông
+- không có góc vuông
+= Khái niệm.
+?2 Hình thang có:
++ một cặp cạnh đối diện song song
+- hai cặp cạnh đối song song
+- không có cạnh song song
+- bốn cạnh bằng nhau
+= Khái niệm.
+?3 Hình thang có diện tích 40 cm², chiều cao 5 cm. Tổng hai đáy là:
++ 16 cm
+- 8 cm
+- 200 cm
+- 4 cm
+= 40 × 2 : 5.
+?3 Hình thang có đáy lớn 9 dm, đáy bé 5 dm, chiều cao 4 dm. Diện tích là:
++ 28 dm²
+- 56 dm²
+- 18 dm²
+- 180 dm²
+= (9 + 5) × 4 : 2.
+?4 Một thửa ruộng hình thang có hai đáy 30 m và 20 m, chiều cao 16 m. Mỗi mét vuông thu được 0,6 kg thóc. Thửa ruộng thu được:
++ 240 kg thóc
+- 400 kg thóc
+- 480 kg thóc
+- 30 kg thóc
+= Diện tích (30 + 20) × 16 : 2 = 400 m²; 400 × 0,6.
+
+## Bài 11. Chu vi và diện tích hình tròn
+?1 Chu vi hình tròn bằng:
++ đường kính nhân 3,14
+- bán kính nhân 3,14
+- bán kính nhân bán kính
+- đường kính nhân 2
+= C = d × 3,14.
+?1 Diện tích hình tròn bằng:
++ bán kính nhân bán kính nhân 3,14
+- đường kính nhân 3,14
+- bán kính nhân 2
+- đường kính nhân đường kính
+= S = r × r × 3,14.
+?2 Chu vi hình tròn đường kính 10 cm là:
++ 31,4 cm
+- 314 cm
+- 62,8 cm
+- 78,5 cm
+= 10 × 3,14.
+?2 Diện tích hình tròn bán kính 2 cm là:
++ 12,56 cm²
+- 6,28 cm²
+- 25,12 cm²
+- 4 cm²
+= 2 × 2 × 3,14.
+?2 Chu vi hình tròn bán kính 5 m là:
++ 31,4 m
+- 15,7 m
+- 78,5 m
+- 25 m
+= 5 × 2 × 3,14.
+?3 Diện tích hình tròn bán kính 10 dm là:
++ 314 dm²
+- 31,4 dm²
+- 62,8 dm²
+- 100 dm²
+= 10 × 10 × 3,14.
+?3 Hình tròn có chu vi 18,84 cm. Đường kính là:
++ 6 cm
+- 3 cm
+- 9 cm
+- 12 cm
+= 18,84 : 3,14.
+?4 Bánh xe đạp có đường kính 0,6 m. Bánh xe lăn 100 vòng thì xe đi được:
++ 188,4 m
+- 60 m
+- 94,2 m
+- 376,8 m
+= 0,6 × 3,14 × 100.

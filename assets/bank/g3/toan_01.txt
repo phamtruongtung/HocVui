@@ -1,0 +1,811 @@
+// Toán 3 – Kết nối tri thức với cuộc sống – Tập 1
+#! HK1
+# Ôn tập và bổ sung
+
+## Bài 1. Ôn tập các số đến 1000; phép cộng, phép trừ
+?1 Số "bảy trăm linh năm" viết là:
++ 705
+- 750
+- 7005
+- 715
+= 7 trăm, 0 chục, 5 đơn vị.
+?1 456 + 123 = ?
++ 579
+- 569
+- 333
+- 589
+= Cộng từng hàng.
+?2 732 − 258 = ?
++ 474
+- 484
+- 526
+- 990
+= Trừ có nhớ.
+?2 Số liền sau của 999 là:
++ 1000
+- 998
+- 990
+- 9999
+= 999 + 1.
+?2 Số lớn nhất trong các số 689, 698, 869, 896 là:
++ 896
+- 869
+- 698
+- 689
+= So sánh hàng trăm trước.
+?3 Tổng của số bé nhất có ba chữ số và số lớn nhất có hai chữ số là:
++ 199
+- 109
+- 200
+- 1099
+= 100 + 99.
+?3 Bao gạo thứ nhất 245 kg, bao thứ hai nặng hơn bao thứ nhất 38 kg. Bao thứ hai nặng:
++ 283 kg
+- 207 kg
+- 273 kg
+- 383 kg
+= 245 + 38.
+?4 Một trường có 468 học sinh, trong đó có 235 học sinh nữ. Số học sinh nam nhiều hơn hay ít hơn học sinh nữ bao nhiêu em?
++ ít hơn 2 em
+- nhiều hơn 2 em
+- ít hơn 233 em
+- bằng nhau
+= Nam: 468 − 235 = 233; 235 − 233 = 2.
+
+## Bài 2. Tìm thành phần chưa biết của phép tính
+?1 x + 25 = 60. Giá trị của x là:
++ 35
+- 85
+- 45
+- 25
+= Số hạng = tổng − số hạng kia.
+?1 x − 17 = 40. Giá trị của x là:
++ 57
+- 23
+- 47
+- 63
+= Số bị trừ = hiệu + số trừ.
+?2 72 − x = 45. Giá trị của x là:
++ 27
+- 117
+- 37
+- 33
+= Số trừ = số bị trừ − hiệu.
+?2 x × 5 = 35. Giá trị của x là:
++ 7
+- 30
+- 40
+- 6
+= Thừa số = tích : thừa số kia.
+?2 x : 2 = 9. Giá trị của x là:
++ 18
+- 11
+- 7
+- 4
+= Số bị chia = thương × số chia.
+?3 40 : x = 5. Giá trị của x là:
++ 8
+- 35
+- 45
+- 200
+= Số chia = số bị chia : thương.
+?3 x + 150 = 500 − 100. Giá trị của x là:
++ 250
+- 350
+- 550
+- 450
+= x + 150 = 400.
+?4 Tìm một số, biết lấy số đó trừ đi 125 rồi cộng 60 thì được 300.
++ 365
+- 115
+- 485
+- 235
+= x − 125 = 240, x = 365.
+
+# Bảng nhân, bảng chia
+
+## Bài 3. Bảng nhân 3, bảng chia 3
+?1 3 × 6 = ?
++ 18
+- 9
+- 15
+- 21
+= Bảng nhân 3.
+?1 27 : 3 = ?
++ 9
+- 8
+- 24
+- 30
+= 3 × 9 = 27.
+?2 3 × 8 = ?
++ 24
+- 21
+- 11
+- 27
+= Bảng nhân 3.
+?2 21 : 3 = ?
++ 7
+- 6
+- 18
+- 8
+= 3 × 7 = 21.
+?2 3 × … = 15. Số cần điền là:
++ 5
+- 12
+- 4
+- 6
+= 3 × 5 = 15.
+?3 Mỗi túi có 3 kg táo. 9 túi có bao nhiêu ki-lô-gam táo?
++ 27 kg
+- 12 kg
+- 24 kg
+- 30 kg
+= 3 × 9.
+?3 Có 24 bạn chia đều thành 3 đội. Mỗi đội có:
++ 8 bạn
+- 21 bạn
+- 7 bạn
+- 9 bạn
+= 24 : 3.
+?4 3 × 7 + 3 × 3 = ?
++ 30
+- 21
+- 24
+- 33
+= 21 + 9 = 30.
+
+## Bài 4. Bảng nhân 4, bảng chia 4
+?1 4 × 5 = ?
++ 20
+- 9
+- 24
+- 16
+= Bảng nhân 4.
+?1 32 : 4 = ?
++ 8
+- 7
+- 28
+- 9
+= 4 × 8 = 32.
+?2 4 × 9 = ?
++ 36
+- 32
+- 13
+- 40
+= Bảng nhân 4.
+?2 28 : 4 = ?
++ 7
+- 6
+- 24
+- 8
+= 4 × 7 = 28.
+?2 Mỗi xe ô tô có 4 bánh. 6 xe có bao nhiêu bánh?
++ 24
+- 10
+- 20
+- 28
+= 4 × 6.
+?3 Có 36 quyển vở xếp đều vào 4 ngăn. Mỗi ngăn có:
++ 9 quyển
+- 32 quyển
+- 8 quyển
+- 40 quyển
+= 36 : 4.
+?3 4 × 8 − 12 = ?
++ 20
+- 32
+- 44
+- 24
+= 32 − 12.
+?4 Mỗi bàn có 4 chân. Có 40 cái chân bàn thì có mấy cái bàn?
++ 10
+- 36
+- 44
+- 160
+= 40 : 4.
+
+## Bài 5. Bảng nhân 6, bảng chia 6
+?1 6 × 4 = ?
++ 24
+- 10
+- 18
+- 30
+= Bảng nhân 6.
+?1 42 : 6 = ?
++ 7
+- 6
+- 36
+- 8
+= 6 × 7 = 42.
+?2 6 × 9 = ?
++ 54
+- 48
+- 15
+- 56
+= Bảng nhân 6.
+?2 48 : 6 = ?
++ 8
+- 7
+- 42
+- 9
+= 6 × 8 = 48.
+?2 6 × … = 36. Số cần điền là:
++ 6
+- 5
+- 7
+- 30
+= 6 × 6 = 36.
+?3 Mỗi hộp có 6 cái bánh. 7 hộp có bao nhiêu cái bánh?
++ 42
+- 13
+- 36
+- 48
+= 6 × 7.
+?3 Có 54 lít dầu chia đều vào 6 can. Mỗi can có:
++ 9 lít
+- 48 lít
+- 8 lít
+- 60 lít
+= 54 : 6.
+?4 6 × 5 + 6 = ?
++ 36
+- 30
+- 66
+- 41
+= 30 + 6 = 36.
+
+## Bài 6. Bảng nhân 7, bảng chia 7
+?1 7 × 3 = ?
++ 21
+- 10
+- 24
+- 28
+= Bảng nhân 7.
+?1 56 : 7 = ?
++ 8
+- 7
+- 49
+- 9
+= 7 × 8 = 56.
+?2 7 × 7 = ?
++ 49
+- 42
+- 14
+- 56
+= Bảng nhân 7.
+?2 63 : 7 = ?
++ 9
+- 8
+- 56
+- 7
+= 7 × 9 = 63.
+?2 Một tuần có 7 ngày. 4 tuần có bao nhiêu ngày?
++ 28
+- 11
+- 21
+- 35
+= 7 × 4.
+?3 35 ngày là mấy tuần?
++ 5 tuần
+- 4 tuần
+- 6 tuần
+- 28 tuần
+= 35 : 7.
+?3 7 × 6 … 6 × 7. Dấu cần điền là:
++ =
+- >
+- <
+- ×
+= Đổi chỗ thừa số.
+?4 Có 70 bông hoa cắm đều vào 7 lọ, rồi lấy ra mỗi lọ 2 bông. Mỗi lọ còn:
++ 8 bông
+- 10 bông
+- 68 bông
+- 5 bông
+= 70 : 7 = 10; 10 − 2 = 8.
+
+## Bài 7. Bảng nhân 8, bảng chia 8
+?1 8 × 5 = ?
++ 40
+- 13
+- 35
+- 45
+= Bảng nhân 8.
+?1 64 : 8 = ?
++ 8
+- 7
+- 56
+- 9
+= 8 × 8 = 64.
+?2 8 × 7 = ?
++ 56
+- 54
+- 15
+- 64
+= Bảng nhân 8.
+?2 72 : 8 = ?
++ 9
+- 8
+- 64
+- 7
+= 8 × 9 = 72.
+?2 Mỗi con nhện có 8 chân. 3 con nhện có bao nhiêu chân?
++ 24
+- 11
+- 32
+- 16
+= 8 × 3.
+?3 Có 48 quả trứng xếp vào các khay, mỗi khay 8 quả. Cần mấy khay?
++ 6
+- 40
+- 7
+- 56
+= 48 : 8.
+?3 8 × 4 + 8 = ?
++ 40
+- 32
+- 48
+- 96
+= 32 + 8.
+?4 Bạn Lan đọc mỗi ngày 8 trang sách. Quyển sách có 80 trang. Lan đọc hết trong mấy ngày?
++ 10 ngày
+- 8 ngày
+- 72 ngày
+- 88 ngày
+= 80 : 8.
+
+## Bài 8. Bảng nhân 9, bảng chia 9; một phần mấy
+?1 9 × 6 = ?
++ 54
+- 15
+- 45
+- 63
+= Bảng nhân 9.
+?1 81 : 9 = ?
++ 9
+- 8
+- 72
+- 90
+= 9 × 9 = 81.
+?2 1/3 của 12 là:
++ 4
+- 3
+- 9
+- 36
+= 12 : 3.
+?2 1/5 của 30 kg là:
++ 6 kg
+- 5 kg
+- 25 kg
+- 150 kg
+= 30 : 5.
+?2 9 × 8 = ?
++ 72
+- 63
+- 17
+- 81
+= Bảng nhân 9.
+?3 Lớp có 36 học sinh, 1/4 số học sinh là học sinh giỏi. Lớp có bao nhiêu học sinh giỏi?
++ 9
+- 32
+- 40
+- 6
+= 36 : 4.
+?3 Hình được chia thành 6 phần bằng nhau, tô màu 1 phần. Đã tô màu:
++ 1/6 hình
+- 1/5 hình
+- 6 hình
+- 1/2 hình
+= Một phần sáu.
+?4 Mẹ có 45 quả cam, mẹ biếu bà 1/9 số cam. Mẹ còn lại bao nhiêu quả cam?
++ 40
+- 5
+- 36
+- 9
+= 45 : 9 = 5; 45 − 5 = 40.
+
+# Hình phẳng, hình khối
+
+## Bài 9. Điểm ở giữa, trung điểm. Hình tròn
+?1 M là trung điểm của đoạn AB khi:
++ M nằm giữa A, B và MA = MB
+- M nằm ngoài AB
+- MA dài gấp đôi MB
+- M trùng với A
+= Khái niệm trung điểm.
+?1 Đoạn thẳng nối tâm với một điểm trên đường tròn gọi là:
++ bán kính
+- đường kính
+- dây cung
+- tâm
+= Khái niệm.
+?2 Đường kính dài gấp mấy lần bán kính?
++ 2 lần
+- 3 lần
+- 1 lần
+- 4 lần
+= Đường kính = 2 × bán kính.
+?2 Hình tròn có bán kính 4 cm thì đường kính là:
++ 8 cm
+- 2 cm
+- 4 cm
+- 16 cm
+= 4 × 2.
+?2 Đoạn AB dài 10 cm, M là trung điểm AB. MA dài:
++ 5 cm
+- 10 cm
+- 20 cm
+- 2 cm
+= 10 : 2.
+?3 Hình tròn có đường kính 12 cm thì bán kính là:
++ 6 cm
+- 24 cm
+- 12 cm
+- 3 cm
+= 12 : 2.
+?3 Dụng cụ dùng để vẽ hình tròn là:
++ com-pa
+- ê-ke
+- thước đo độ
+- cái cân
+= Dụng cụ học tập.
+?4 Hai hình tròn có cùng tâm O. Hình nhỏ có bán kính 3 cm, hình lớn có bán kính gấp đôi. Đường kính hình lớn là:
++ 12 cm
+- 6 cm
+- 9 cm
+- 3 cm
+= Bán kính lớn 6 cm, đường kính 12 cm.
+
+## Bài 10. Góc vuông, góc không vuông. Hình tam giác, tứ giác, chữ nhật, vuông
+?1 Dụng cụ dùng để kiểm tra góc vuông là:
++ ê-ke
+- com-pa
+- cái cân
+- bình chia độ
+= Dụng cụ.
+?1 Hình chữ nhật có mấy góc vuông?
++ 4
+- 2
+- 3
+- 0
+= Đặc điểm.
+?2 Hình vuông có đặc điểm:
++ 4 góc vuông và 4 cạnh bằng nhau
+- 3 cạnh bằng nhau
+- không có góc vuông
+- 2 cạnh dài, 2 cạnh ngắn, không có góc vuông
+= Đặc điểm hình vuông.
+?2 Hình chữ nhật có:
++ 2 cạnh dài bằng nhau, 2 cạnh ngắn bằng nhau, 4 góc vuông
+- 4 cạnh đều khác nhau
+- 3 cạnh
+- 5 góc vuông
+= Đặc điểm hình chữ nhật.
+?2 Hình tam giác có mấy góc?
++ 3
+- 4
+- 2
+- 5
+= Tam giác: 3 cạnh, 3 góc.
+?3 Kim giờ và kim phút lúc 3 giờ đúng tạo thành:
++ góc vuông
+- góc không vuông nhọn
+- đường thẳng
+- không tạo góc
+= Lúc 3 giờ, hai kim vuông góc.
+?3 Mặt bàn hình chữ nhật có mấy cạnh?
++ 4
+- 3
+- 5
+- 6
+= Hình chữ nhật có 4 cạnh.
+?4 Ghép 2 hình vuông giống nhau cạnh 3 cm sát nhau ta được:
++ hình chữ nhật dài 6 cm, rộng 3 cm
+- hình vuông cạnh 6 cm
+- hình tam giác
+- hình tròn
+= Hai hình vuông ghép cạnh.
+
+# Phép nhân, phép chia trong phạm vi 100 và 1000
+
+## Bài 11. Nhân số có hai, ba chữ số với số có một chữ số
+?1 12 × 3 = ?
++ 36
+- 15
+- 33
+- 39
+= 12 × 3.
+?1 21 × 4 = ?
++ 84
+- 25
+- 81
+- 64
+= 21 × 4.
+?2 25 × 3 = ?
++ 75
+- 65
+- 28
+- 85
+= 5 × 3 = 15 viết 5 nhớ 1; 2 × 3 + 1 = 7.
+?2 123 × 2 = ?
++ 246
+- 125
+- 236
+- 226
+= Nhân từng hàng.
+?2 47 × 2 = ?
++ 94
+- 84
+- 49
+- 92
+= 7 × 2 = 14 nhớ 1; 4 × 2 + 1 = 9.
+?3 Mỗi thùng có 115 quyển sách. 4 thùng có bao nhiêu quyển?
++ 460
+- 119
+- 440
+- 450
+= 115 × 4.
+?3 208 × 3 = ?
++ 624
+- 604
+- 211
+- 6024
+= 8 × 3 = 24 viết 4 nhớ 2; 0 × 3 + 2 = 2; 2 × 3 = 6.
+?4 Một tuần lễ có 7 ngày. 15 tuần lễ có bao nhiêu ngày?
++ 105
+- 22
+- 75
+- 115
+= 15 × 7.
+
+## Bài 12. Phép chia hết, phép chia có dư
+?1 17 : 5 = ?
++ 3 (dư 2)
+- 3
+- 4 (dư 3)
+- 2 (dư 7)
+= 5 × 3 = 15; 17 − 15 = 2.
+?1 Trong phép chia có dư, số dư luôn:
++ bé hơn số chia
+- lớn hơn số chia
+- bằng số chia
+- bằng 0
+= Quy tắc số dư.
+?2 29 : 4 = ?
++ 7 (dư 1)
+- 7
+- 6 (dư 5)
+- 8 (dư 3)
+= 4 × 7 = 28.
+?2 Phép chia nào là phép chia hết?
++ 36 : 6
+- 37 : 6
+- 25 : 4
+- 19 : 3
+= 36 : 6 = 6.
+?2 48 : 4 = ?
++ 12
+- 11
+- 44
+- 13
+= Chia số có hai chữ số.
+?3 Có 31 học sinh, mỗi bàn ngồi 2 bạn. Cần ít nhất bao nhiêu bàn?
++ 16 bàn
+- 15 bàn
+- 17 bàn
+- 29 bàn
+= 31 : 2 = 15 dư 1, cần thêm 1 bàn.
+?3 96 : 3 = ?
++ 32
+- 31
+- 93
+- 33
+= 9 : 3 = 3; 6 : 3 = 2.
+?4 Một phép chia có số chia là 5, thương là 8, số dư là 3. Số bị chia là:
++ 43
+- 40
+- 37
+- 16
+= 8 × 5 + 3.
+
+## Bài 13. Chia số có ba chữ số cho số có một chữ số
+?1 639 : 3 = ?
++ 213
+- 203
+- 313
+- 636
+= Chia từng hàng.
+?1 484 : 4 = ?
++ 121
+- 111
+- 122
+- 480
+= Chia từng hàng.
+?2 156 : 6 = ?
++ 26
+- 25
+- 150
+- 36
+= 15 : 6 = 2 dư 3; 36 : 6 = 6.
+?2 735 : 7 = ?
++ 105
+- 15
+- 150
+- 728
+= 7 : 7 = 1; 3 : 7 = 0; 35 : 7 = 5.
+?2 248 : 8 = ?
++ 31
+- 30
+- 240
+- 41
+= 24 : 8 = 3; 8 : 8 = 1.
+?3 Có 168 quyển vở chia đều cho 4 lớp. Mỗi lớp được:
++ 42 quyển
+- 164 quyển
+- 41 quyển
+- 172 quyển
+= 168 : 4.
+?3 x × 5 = 455. Giá trị của x là:
++ 91
+- 450
+- 460
+- 81
+= 455 : 5.
+?4 Một cuộn dây dài 345 m, cắt thành các đoạn 5 m. Cắt được bao nhiêu đoạn?
++ 69
+- 340
+- 350
+- 68
+= 345 : 5.
+
+## Bài 14. Gấp một số lên nhiều lần, giảm một số đi nhiều lần
+?1 Gấp 6 lên 3 lần được:
++ 18
+- 9
+- 2
+- 3
+= 6 × 3.
+?1 Giảm 20 đi 4 lần được:
++ 5
+- 16
+- 24
+- 80
+= 20 : 4.
+?2 Mẹ 32 tuổi, con 8 tuổi. Tuổi mẹ gấp mấy lần tuổi con?
++ 4 lần
+- 24 lần
+- 3 lần
+- 5 lần
+= 32 : 8.
+?2 Lan có 7 bông hoa, Hà có gấp 3 lần số hoa của Lan. Hà có:
++ 21 bông
+- 10 bông
+- 4 bông
+- 24 bông
+= 7 × 3.
+?2 Giảm 45 kg đi 5 lần được:
++ 9 kg
+- 40 kg
+- 50 kg
+- 225 kg
+= 45 : 5.
+?3 Số lớn là 42, số bé là 6. Số bé bằng một phần mấy số lớn?
++ 1/7
+- 1/6
+- 1/36
+- 1/8
+= 42 : 6 = 7.
+?3 Bao gạo nặng 50 kg, bao ngô nhẹ hơn bao gạo 5 lần. Bao ngô nặng:
++ 10 kg
+- 45 kg
+- 55 kg
+- 250 kg
+= 50 : 5.
+?4 Đoạn dây thứ nhất dài 8 dm, đoạn thứ hai dài gấp 3 lần đoạn thứ nhất. Cả hai đoạn dài:
++ 32 dm
+- 24 dm
+- 11 dm
+- 16 dm
+= 8 + 8 × 3 = 32.
+
+# Đơn vị đo và biểu thức số
+
+## Bài 15. Mi-li-mét, gam, mi-li-lít, nhiệt độ
+?1 1 cm bằng bao nhiêu mi-li-mét?
++ 10 mm
+- 100 mm
+- 1000 mm
+- 1 mm
+= 1 cm = 10 mm.
+?1 1 kg bằng bao nhiêu gam?
++ 1000 g
+- 100 g
+- 10 g
+- 10000 g
+= 1 kg = 1000 g.
+?2 1 l bằng bao nhiêu mi-li-lít?
++ 1000 ml
+- 100 ml
+- 10 ml
+- 10000 ml
+= 1 l = 1000 ml.
+?2 Đơn vị đo nhiệt độ thường dùng là:
++ độ C (°C)
+- ki-lô-gam
+- mét
+- lít
+= Nhiệt độ.
+?2 Gói kẹo nặng 250 g, gói bánh nặng 400 g. Cả hai gói nặng:
++ 650 g
+- 150 g
+- 6 kg 50 g
+- 1 kg
+= 250 + 400.
+?3 Một chai nước 500 ml. 2 chai như thế có:
++ 1 l
+- 2 l
+- 500 ml
+- 10 l
+= 500 × 2 = 1000 ml = 1 l.
+?3 Nhiệt độ cơ thể người khỏe mạnh khoảng:
++ 37 °C
+- 20 °C
+- 50 °C
+- 100 °C
+= Thân nhiệt bình thường.
+?4 Bút chì dài 15 cm, cục tẩy dài 30 mm. Bút chì dài gấp mấy lần cục tẩy?
++ 5 lần
+- 2 lần
+- 15 lần
+- 3 lần
+= 15 cm = 150 mm; 150 : 30 = 5.
+
+## Bài 16. Biểu thức số. Tính giá trị biểu thức
+?1 Giá trị của biểu thức 125 + 30 − 5 là:
++ 150
+- 160
+- 100
+- 140
+= Tính từ trái sang phải.
+?1 Giá trị của biểu thức 4 × 6 : 3 là:
++ 8
+- 2
+- 72
+- 18
+= 24 : 3.
+?2 Giá trị của biểu thức 50 + 4 × 5 là:
++ 70
+- 270
+- 59
+- 54
+= Nhân trước, cộng sau.
+?2 Giá trị của biểu thức 90 − 36 : 6 là:
++ 84
+- 9
+- 54
+- 96
+= Chia trước, trừ sau.
+?2 Giá trị của biểu thức (12 + 8) × 3 là:
++ 60
+- 36
+- 23
+- 44
+= Trong ngoặc trước.
+?3 Giá trị của biểu thức 100 − (40 − 15) là:
++ 75
+- 45
+- 125
+- 55
+= 40 − 15 = 25.
+?3 Biểu thức nào có giá trị lớn nhất?
++ (5 + 3) × 4
+- 5 + 3 × 4
+- 5 × 3 + 4
+- 5 × 4 − 3
+= 32 > 19 > 17 > 17.
+?4 Mỗi gói bánh giá 8 nghìn đồng. Mẹ mua 5 gói bánh và 1 hộp sữa giá 12 nghìn đồng. Mẹ phải trả:
++ 52 nghìn đồng
+- 100 nghìn đồng
+- 25 nghìn đồng
+- 20 nghìn đồng
+= 8 × 5 + 12 = 52.

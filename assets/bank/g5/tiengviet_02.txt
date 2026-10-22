@@ -1,0 +1,412 @@
+// Tiếng Việt 5 – Kết nối tri thức với cuộc sống – Tập 2
+// Bài đọc do Học Vui tự viết.
+#! HK2
+# Học kì 2
+
+## Chủ điểm Vẻ đẹp cuộc sống (1): Đọc hiểu
+> Bác Ba là thợ sửa xe đầu ngõ. Đã mấy chục năm, bác vẫn ngồi bên chiếc hòm đồ nghề cũ. Ai xe hỏng giữa đường, bác sửa giúp mà chẳng lấy tiền của học sinh. Bác bảo: "Thấy các cháu đến trường đúng giờ là bác vui rồi."
+?1 Bác Ba làm nghề gì?
++ thợ sửa xe
+- bán hàng
+- lái xe
+- giáo viên
+= Câu đầu.
+?1 Bác Ba ngồi ở đâu?
++ đầu ngõ, bên chiếc hòm đồ nghề cũ
+- trong nhà máy
+- ở chợ
+- ở trường học
+= Câu đầu, câu hai.
+?2 Bác không lấy tiền của ai?
++ học sinh
+- người lớn
+- khách du lịch
+- người bán hàng
+= Câu thứ ba.
+?2 Điều gì làm bác Ba vui?
++ thấy các cháu đến trường đúng giờ
+- được trả nhiều tiền
+- được nghỉ làm
+- có xe mới
+= Lời bác Ba.
+?3 Bài đọc ca ngợi:
++ tấm lòng tốt bụng, giản dị của người lao động
+- sự giàu có
+- tài năng âm nhạc
+- sức mạnh cơ bắp
+= Ý nghĩa.
+>-
+?3 Từ nào đồng nghĩa với "tốt bụng"?
++ nhân hậu
+- độc ác
+- keo kiệt
+- ích kỉ
+= Đồng nghĩa.
+?3 Câu tục ngữ phù hợp với việc làm của bác Ba là:
++ Thương người như thể thương thân.
+- Ăn cây nào rào cây ấy.
+- Có công mài sắt có ngày nên kim.
+- Tiên học lễ, hậu học văn.
+= Lòng nhân ái.
+?4 Câu "Bác Ba là thợ sửa xe đầu ngõ." là:
++ câu đơn
+- câu ghép
+- câu cảm
+- câu khiến
+= Chỉ có một cụm chủ ngữ – vị ngữ.
+
+## Chủ điểm Vẻ đẹp cuộc sống (2): Câu đơn, câu ghép
+?1 Câu ghép là câu:
++ có từ hai cụm chủ ngữ – vị ngữ trở lên, mỗi cụm là một vế câu
+- chỉ có một cụm chủ ngữ – vị ngữ
+- không có chủ ngữ
+- chỉ có một từ
+= Khái niệm.
+?1 Câu nào là câu ghép?
++ Mặt trời mọc, sương tan dần.
+- Mặt trời mọc ở đằng đông.
+- Sáng sớm, sương phủ cánh đồng.
+- Những giọt sương long lanh.
+= Hai vế: Mặt trời / mọc; sương / tan dần.
+?2 Các vế của câu ghép có thể nối bằng:
++ kết từ, cặp kết từ, cặp từ hô ứng hoặc dấu câu
+- chỉ dấu chấm
+- chỉ dấu hỏi
+- không cần nối
+= Cách nối vế câu ghép.
+?2 Câu "Vì trời mưa to nên đường ngập nước." có quan hệ giữa các vế là:
++ nguyên nhân – kết quả
+- tương phản
+- tăng tiến
+- lựa chọn
+= Cặp kết từ vì – nên.
+?2 Câu "Trời càng mưa, đường càng trơn." các vế được nối bằng:
++ cặp từ hô ứng "càng … càng"
+- kết từ "và"
+- dấu chấm phẩy
+- dấu hai chấm
+= Từ hô ứng.
+?3 Câu "Không những Lan học giỏi mà Lan còn hát hay." có quan hệ:
++ tăng tiến
+- tương phản
+- nguyên nhân – kết quả
+- giả thiết – kết quả
+= Cặp "không những … mà còn".
+?3 Câu nào là câu đơn?
++ Những bông hoa mười giờ nở rộ trong nắng sớm.
+- Hoa nở, chim hót.
+- Gió thổi mạnh nên cây đổ.
+- Tuy trời lạnh nhưng em vẫn dậy sớm.
+= Một cụm chủ ngữ – vị ngữ.
+?4 Nối hai câu "Bố đi làm. Mẹ đi chợ." thành câu ghép đúng:
++ Bố đi làm, còn mẹ đi chợ.
+- Bố đi làm mẹ.
+- Bố, mẹ đi làm đi chợ còn.
+- Vì bố đi làm nên mẹ.
+= Nối bằng dấu phẩy và kết từ "còn".
+
+## Chủ điểm Hương sắc trăm miền (1): Đọc hiểu
+> Phiên chợ vùng cao họp vào sáng Chủ nhật. Từ tờ mờ sáng, người các bản đã gùi hàng xuống núi. Váy áo sặc sỡ của các cô gái Mông, Dao như những bông hoa rực rỡ giữa sương sớm. Tiếng khèn, tiếng cười nói làm phiên chợ thêm rộn ràng.
+?1 Phiên chợ vùng cao họp vào lúc nào?
++ sáng Chủ nhật
+- tối thứ Bảy
+- trưa thứ Hai
+- hằng ngày
+= Câu đầu.
+?1 Người các bản mang hàng xuống chợ bằng cách nào?
++ gùi hàng xuống núi
+- chở bằng ô tô
+- đi thuyền
+- đi tàu hỏa
+= Câu thứ hai.
+?2 Váy áo của các cô gái được so sánh với:
++ những bông hoa rực rỡ
+- những đám mây
+- những ngọn núi
+- những dòng suối
+= Biện pháp so sánh.
+?2 Âm thanh nào làm phiên chợ thêm rộn ràng?
++ tiếng khèn, tiếng cười nói
+- tiếng còi xe
+- tiếng máy móc
+- tiếng sấm
+= Câu cuối.
+?3 Bài đọc giới thiệu nét văn hóa của vùng:
++ miền núi phía Bắc
+- miền Tây Nam Bộ
+- Tây Nguyên
+- đồng bằng ven biển
+= Dân tộc Mông, Dao.
+>-
+?3 Từ "sặc sỡ" thuộc từ loại:
++ tính từ
+- danh từ
+- động từ
+- kết từ
+= Chỉ màu sắc.
+?3 Từ "rộn ràng" là:
++ từ láy
+- từ ghép tổng hợp
+- danh từ riêng
+- đại từ
+= Từ láy.
+?4 Biện pháp liên kết câu bằng cách dùng từ ngữ nối như "Vì vậy, Tuy nhiên, Ngoài ra" gọi là:
++ phép nối
+- phép lặp
+- phép thế
+- phép so sánh
+= Liên kết câu.
+
+## Chủ điểm Hương sắc trăm miền (2): Liên kết câu
+?1 Phép lặp là:
++ lặp lại từ ngữ ở câu trước để liên kết câu
+- thay từ ngữ bằng đại từ
+- dùng từ nối
+- dùng từ trái nghĩa
+= Liên kết câu.
+?1 Phép thế là:
++ dùng từ ngữ khác (thường là đại từ) thay cho từ ngữ ở câu trước
+- lặp lại từ ngữ
+- dùng kết từ
+- đảo trật tự từ
+= Liên kết câu.
+?2 "Hội An là phố cổ nổi tiếng. Hội An thu hút nhiều du khách." Hai câu liên kết bằng phép:
++ lặp
+- thế
+- nối
+- so sánh
+= Lặp từ "Hội An".
+?2 "Bà em năm nay đã tám mươi tuổi. Bà vẫn còn rất minh mẫn." Hai câu liên kết bằng:
++ phép lặp từ "bà"
+- phép nối
+- phép so sánh
+- không liên kết
+= Lặp từ.
+?2 "Huế có nhiều lăng tẩm. Nơi đây còn nổi tiếng với nhã nhạc." Từ "nơi đây" thay cho:
++ Huế
+- lăng tẩm
+- nhã nhạc
+- nổi tiếng
+= Phép thế.
+?3 "Trời mưa rất to. Tuy vậy, các bạn vẫn đến lớp đúng giờ." Từ nối là:
++ Tuy vậy
+- trời
+- các bạn
+- đúng giờ
+= Phép nối.
+?3 Từ ngữ nối nào biểu thị quan hệ kết quả?
++ Vì vậy
+- Tuy nhiên
+- Nhưng
+- Trái lại
+= Quan hệ nhân – quả.
+?4 Chọn từ ngữ nối thích hợp: "Cánh đồng lúa đã chín vàng. …, bà con nô nức đi gặt."
++ Vì vậy
+- Tuy nhiên
+- Ngược lại
+- Nhưng mà
+= Quan hệ nguyên nhân – kết quả.
+
+## Chủ điểm Tiếp bước cha ông (1): Đọc hiểu
+> Mùa xuân năm 1789, vua Quang Trung chỉ huy quân sĩ tiến ra Bắc. Ông cho quân ăn Tết trước. Đêm mùng 5 Tết, quân Tây Sơn bất ngờ đánh tan quân Thanh ở Ngọc Hồi – Đống Đa. Trưa mùng 5, nhà vua tiến vào Thăng Long trong tiếng reo hò của nhân dân.
+?1 Vua Quang Trung tiến quân ra Bắc vào năm:
++ 1789
+- 1010
+- 1428
+- 1945
+= Câu đầu.
+?1 Quân Tây Sơn đánh tan quân nào?
++ quân Thanh
+- quân Nguyên
+- quân Minh
+- quân Pháp
+= Câu thứ ba.
+?2 Vì sao Quang Trung cho quân ăn Tết trước?
++ để quân sĩ phấn khởi, bất ngờ tấn công khi giặc lơ là
+- vì không thích ăn Tết
+- vì thiếu lương thực
+- vì muốn nghỉ ngơi lâu
+= Mưu lược.
+?2 Trận đánh lớn diễn ra ở:
++ Ngọc Hồi – Đống Đa
+- Bạch Đằng
+- Chi Lăng
+- Điện Biên Phủ
+= Câu thứ ba.
+?3 Câu chuyện thể hiện:
++ tài cầm quân, mưu lược của vua Quang Trung
+- sự hèn nhát
+- sự giàu có của triều đình
+- cảnh lễ hội
+= Ý nghĩa.
+>-
+?3 Hằng năm, lễ hội Gò Đống Đa diễn ra vào:
++ mùng 5 Tết
+- rằm tháng Giêng
+- mùng 10 tháng 3 âm lịch
+- 2 tháng 9
+= Tưởng nhớ chiến thắng.
+?3 Từ đồng nghĩa với "anh hùng" là:
++ anh dũng
+- hèn nhát
+- nhút nhát
+- yếu đuối
+= Gần nghĩa.
+?4 Câu "Trưa mùng 5, nhà vua tiến vào Thăng Long." có trạng ngữ chỉ:
++ thời gian
+- nơi chốn
+- nguyên nhân
+- mục đích
+= "Trưa mùng 5".
+
+## Chủ điểm Tiếp bước cha ông (2): Dấu gạch ngang; điệp từ, điệp ngữ
+?1 Dấu gạch ngang dùng để:
++ đánh dấu lời đối thoại, chú thích, liệt kê, nối các từ trong liên danh
+- kết thúc câu
+- hỏi
+- cảm thán
+= Công dụng.
+?1 Điệp từ, điệp ngữ là:
++ lặp lại từ ngữ để nhấn mạnh, gây ấn tượng
+- dùng từ trái nghĩa
+- dùng từ đồng nghĩa
+- so sánh sự vật
+= Biện pháp tu từ.
+?2 Câu nào dùng dấu gạch ngang để nối các từ trong liên danh?
++ Tuyến đường sắt Hà Nội – Hải Phòng rất đông khách.
+- Em – học sinh lớp 5 – rất chăm.
+- Mẹ hỏi: – Con đi đâu?
+- Hôm nay – trời đẹp.
+= Nối địa danh.
+?2 Trong câu "Việt Nam đất nước ta ơi / Mênh mông biển lúa đâu trời đẹp hơn", từ ngữ gợi tình yêu đất nước là:
++ Việt Nam đất nước ta ơi
+- biển lúa
+- đâu trời
+- đẹp hơn
+= Lời gọi tha thiết.
+?2 Câu "Học, học nữa, học mãi." dùng điệp từ:
++ học
+- nữa
+- mãi
+- không có điệp từ
+= Lặp từ "học".
+?3 Tác dụng của điệp từ "học" trong câu trên là:
++ nhấn mạnh việc học tập phải liên tục, suốt đời
+- làm câu dài hơn
+- làm câu khó hiểu
+- không có tác dụng
+= Tác dụng.
+?3 Câu "Tre giữ làng, giữ nước, giữ mái nhà tranh, giữ đồng lúa chín." dùng điệp từ:
++ giữ
+- tre
+- làng
+- lúa
+= Lặp từ "giữ".
+?4 Câu nào dùng dấu gạch ngang để chú thích?
++ Trần Hưng Đạo – vị tướng tài ba – đã ba lần đánh thắng quân Nguyên.
+- Trần Hưng Đạo đánh thắng quân Nguyên.
+- Trần Hưng Đạo: vị tướng tài ba.
+- "Trần Hưng Đạo" đánh thắng quân Nguyên.
+= Phần chú thích đặt giữa hai dấu gạch ngang.
+
+## Chủ điểm Thế giới của chúng ta (1): Đọc hiểu
+> Trái Đất là ngôi nhà chung của hơn tám tỉ người. Mỗi ngày, rừng bị chặt phá, biển bị rác thải nhựa bủa vây. Nếu mỗi người tắt bớt một bóng đèn, trồng thêm một cây xanh, Trái Đất sẽ khỏe hơn. Hãy hành động ngay hôm nay, vì tương lai của chính chúng ta!
+?1 Trái Đất là ngôi nhà chung của khoảng:
++ hơn tám tỉ người
+- một triệu người
+- một trăm người
+- hai tỉ người
+= Câu đầu.
+?1 Mỗi ngày, rừng đang bị:
++ chặt phá
+- trồng thêm
+- bảo vệ hoàn toàn
+- mở rộng
+= Câu thứ hai.
+?2 Biển đang bị đe dọa bởi:
++ rác thải nhựa
+- cát trắng
+- cá voi
+- rong biển
+= Câu thứ hai.
+?2 Theo bài, mỗi người có thể làm gì để Trái Đất khỏe hơn?
++ tắt bớt bóng đèn, trồng thêm cây xanh
+- dùng nhiều đồ nhựa
+- chặt cây
+- bật điện cả ngày
+= Câu thứ ba.
+?3 Câu cuối bài là kiểu câu:
++ câu khiến
+- câu hỏi
+- câu kể
+- câu ghép
+= Có "Hãy", dấu chấm than.
+>-
+?3 "Ngôi nhà chung" là cách nói chỉ:
++ Trái Đất
+- một ngôi nhà cụ thể
+- trường học
+- thành phố
+= Ẩn dụ.
+?3 Câu "Nếu mỗi người tắt bớt một bóng đèn, Trái Đất sẽ khỏe hơn." có quan hệ:
++ giả thiết – kết quả
+- tương phản
+- tăng tiến
+- lựa chọn
+= Cặp "nếu … (thì)".
+?4 Mục đích chính của đoạn văn là:
++ kêu gọi mọi người bảo vệ môi trường
+- kể một câu chuyện cổ tích
+- giới thiệu một nhà khoa học
+- miêu tả một khu rừng
+= Văn bản kêu gọi.
+
+## Chủ điểm Thế giới của chúng ta (2): Ôn tập từ và câu
+?1 Từ nào là danh từ?
++ hòa bình
+- bảo vệ
+- xanh tươi
+- và
+= Danh từ chỉ khái niệm.
+?1 Từ nào là kết từ?
++ nhưng
+- Trái Đất
+- trồng
+- sạch
+= Kết từ.
+?2 Câu "Chúng ta cần chung tay bảo vệ môi trường." có chủ ngữ là:
++ Chúng ta
+- cần chung tay
+- môi trường
+- bảo vệ
+= Chủ ngữ.
+?2 Cặp từ trái nghĩa trong câu "Rừng xanh thì sống, rừng trụi thì chết." là:
++ sống – chết; xanh – trụi
+- rừng – rừng
+- thì – thì
+- xanh – sống
+= Trái nghĩa.
+?2 Câu nào dùng đúng kết từ?
++ Tuy rừng bị phá nhiều nhưng vẫn còn những người tâm huyết trồng rừng.
+- Tuy rừng bị phá nhiều nên vẫn còn người trồng rừng.
+- Vì rừng bị phá nhiều nhưng vẫn còn người trồng rừng.
+- Nếu rừng bị phá nhiều nhưng vẫn còn người trồng rừng.
+= Cặp "tuy – nhưng".
+?3 Từ "xanh" trong "tương lai xanh" mang nghĩa:
++ nghĩa chuyển (tốt đẹp, trong lành)
+- nghĩa gốc (màu xanh)
+- trái nghĩa
+- nghĩa là chưa chín
+= Từ đa nghĩa.
+?3 Câu ghép nào có quan hệ nguyên nhân – kết quả?
++ Vì con người xả rác bừa bãi nên biển bị ô nhiễm.
+- Biển xanh và cát trắng.
+- Tuy biển ô nhiễm nhưng vẫn đẹp.
+- Biển vừa rộng vừa sâu.
+= Cặp "vì – nên".
+?4 Đoạn văn kêu gọi bảo vệ môi trường nên có:
++ nêu vấn đề, lí do và lời kêu gọi hành động cụ thể
+- chỉ một câu cảm thán
+- chỉ liệt kê tên các loài cây
+- kể chuyện cổ tích
+= Cấu trúc bài văn nghị luận đơn giản.

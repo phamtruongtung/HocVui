@@ -1,0 +1,559 @@
+// Khoa học 5 – Kết nối tri thức với cuộc sống (học kì 2)
+#! HK2
+# Chủ đề 3. Thực vật và động vật
+
+## Bài 11. Sự sinh sản của thực vật có hoa
+?1 Cơ quan sinh sản của thực vật có hoa là:
++ hoa
+- rễ
+- thân
+- lá
+= Hoa.
+?1 Nhị là cơ quan sinh dục:
++ đực của hoa
+- cái của hoa
+- của rễ
+- của lá
+= Cấu tạo hoa.
+?2 Nhụy là cơ quan sinh dục:
++ cái của hoa
+- đực của hoa
+- của thân
+- của quả
+= Cấu tạo hoa.
+?2 Hiện tượng hạt phấn rơi vào đầu nhụy gọi là:
++ sự thụ phấn
+- sự nảy mầm
+- sự quang hợp
+- sự hô hấp
+= Khái niệm.
+?2 Hoa thụ phấn nhờ côn trùng thường có:
++ màu sắc sặc sỡ, hương thơm, mật ngọt
+- không có màu
+- không có mùi
+- rất nhỏ, không có cánh hoa
+= Đặc điểm.
+?3 Sau khi thụ tinh, bầu nhụy phát triển thành:
++ quả, noãn phát triển thành hạt
+- lá
+- rễ
+- thân
+= Sự tạo quả.
+?3 Hoa ngô thụ phấn chủ yếu nhờ:
++ gió
+- ong bướm
+- nước
+- con người là duy nhất
+= Thụ phấn nhờ gió.
+?4 Người trồng bí thường thụ phấn nhân tạo cho hoa vì:
++ để tăng tỉ lệ đậu quả khi ít côn trùng
+- để hoa đẹp hơn
+- để cây cao hơn
+- để lá xanh hơn
+= Ứng dụng.
+
+## Bài 12. Sự lớn lên và phát triển của thực vật
+?1 Hạt nảy mầm cần:
++ nước, không khí, nhiệt độ thích hợp
+- bóng tối và lạnh giá
+- chỉ đất khô
+- chỉ ánh sáng
+= Điều kiện nảy mầm.
+?1 Cây có thể mọc lên từ:
++ hạt, thân, rễ hoặc lá
+- chỉ từ hạt
+- chỉ từ hoa
+- không thể mọc
+= Sinh sản của cây.
+?2 Cây khoai lang có thể trồng bằng:
++ ngọn (thân) hoặc củ
+- lá khô
+- hoa
+- hạt duy nhất
+= Sinh sản sinh dưỡng.
+?2 Cây mía được trồng bằng:
++ đoạn thân
+- hạt
+- lá
+- hoa
+= Sinh sản bằng thân.
+?2 Cây lá bỏng có thể mọc cây con từ:
++ lá
+- hoa
+- quả
+- hạt
+= Sinh sản bằng lá.
+?3 Vòng đời của cây đậu là:
++ hạt → cây con → cây trưởng thành → ra hoa → quả và hạt
+- hoa → rễ → hạt
+- quả → lá → rễ
+- cây trưởng thành → hạt → hoa
+= Vòng đời.
+?3 Trồng cây bằng cách giâm cành giúp:
++ cây con nhanh có quả, giữ được đặc điểm của cây mẹ
+- cây chết nhanh
+- cây không ra hoa
+- cây không có rễ
+= Lợi ích.
+?4 Gieo hạt đậu vào bông ẩm, để nơi có ánh sáng. Sau vài ngày, hiện tượng quan sát được là:
++ hạt nứt vỏ, mọc rễ và mầm
+- hạt tan biến
+- hạt biến thành quả
+- không có thay đổi dù đủ điều kiện
+= Thí nghiệm nảy mầm.
+
+## Bài 13. Sự sinh sản và phát triển của động vật
+?1 Động vật đẻ con là:
++ chó, mèo, bò
+- gà, vịt
+- cá chép
+- ếch
+= Phân loại.
+?1 Động vật đẻ trứng là:
++ gà, vịt, rùa
+- chó
+- bò
+- mèo
+= Phân loại.
+?2 Vòng đời của ếch là:
++ trứng → nòng nọc → ếch con → ếch trưởng thành
+- trứng → bướm
+- ếch → nòng nọc → trứng
+- nòng nọc → trứng → ếch
+= Vòng đời.
+?2 Vòng đời của bướm là:
++ trứng → sâu → nhộng → bướm
+- trứng → bướm → sâu
+- sâu → trứng → bướm
+- nhộng → sâu → trứng
+= Vòng đời.
+?2 Gà con nở ra từ:
++ trứng
+- hạt
+- con gà mẹ đẻ con
+- nhộng
+= Sinh sản.
+?3 Giai đoạn sâu của bướm thường gây hại cho:
++ cây trồng vì ăn lá
+- con người vì cắn
+- nhà cửa
+- không gây hại
+= Ứng dụng.
+?3 Cá heo là động vật:
++ đẻ con, nuôi con bằng sữa
+- đẻ trứng
+- không sinh sản
+- sinh sản bằng hạt
+= Thú sống dưới nước.
+?4 Để diệt muỗi hiệu quả, nên tác động vào giai đoạn nào?
++ giai đoạn bọ gậy (ấu trùng) trong nước đọng
+- chỉ muỗi trưởng thành
+- không tác động được
+- giai đoạn muỗi đã bay đi xa
+= Vòng đời muỗi.
+
+# Chủ đề 4. Vi khuẩn
+
+## Bài 14. Vi khuẩn xung quanh chúng ta
+?1 Vi khuẩn có kích thước:
++ rất nhỏ, chỉ nhìn thấy bằng kính hiển vi
+- to bằng con kiến
+- to bằng quả cam
+- nhìn thấy bằng mắt thường
+= Đặc điểm.
+?1 Vi khuẩn có ở:
++ khắp nơi: đất, nước, không khí, cơ thể sinh vật
+- chỉ trong phòng thí nghiệm
+- chỉ trên Mặt Trăng
+- không ở đâu
+= Nơi sống.
+?2 Dụng cụ dùng để quan sát vi khuẩn là:
++ kính hiển vi
+- kính lúp đơn giản
+- ống nhòm
+- kính râm
+= Dụng cụ.
+?2 Vi khuẩn có ích trong đường ruột giúp:
++ tiêu hóa thức ăn
+- gây đau bụng
+- làm hỏng răng
+- gây sốt
+= Vai trò.
+?2 Vi khuẩn phân hủy xác động vật, thực vật giúp:
++ làm sạch môi trường, tạo mùn cho đất
+- gây ô nhiễm
+- làm đất cằn
+- không có tác dụng
+= Vai trò.
+?3 Rửa tay bằng xà phòng giúp:
++ loại bỏ vi khuẩn gây bệnh
+- tăng vi khuẩn
+- làm tay khô
+- không có tác dụng
+= Phòng bệnh.
+?3 Vi khuẩn có hại có thể gây:
++ bệnh tả, lao, uốn ván
+- giúp tiêu hóa
+- làm sữa chua
+- làm phân bón
+= Tác hại.
+?4 Vì sao thức ăn để ngoài lâu ngày bị ôi thiu?
++ vì vi khuẩn phát triển làm hỏng thức ăn
+- vì thức ăn bị lạnh
+- vì thức ăn khô
+- vì thức ăn được nấu chín
+= Nguyên nhân.
+
+## Bài 15. Vi khuẩn có ích trong chế biến thực phẩm
+?1 Sữa chua được làm nhờ:
++ vi khuẩn có ích lên men sữa
+- vi khuẩn gây bệnh
+- nấm độc
+- muối
+= Ứng dụng.
+?1 Dưa cải muối chua nhờ:
++ vi khuẩn lên men
+- đường
+- dầu ăn
+- đun sôi
+= Ứng dụng.
+?2 Khi muối dưa, cần:
++ rửa sạch rau, dụng cụ; nén chặt và đậy kín
+- để dưa hở, nhiều ruồi
+- dùng nước bẩn
+- không cần vệ sinh
+= Kĩ thuật muối dưa.
+?2 Ăn sữa chua có lợi vì:
++ bổ sung vi khuẩn có ích cho đường ruột
+- gây đau bụng
+- làm sâu răng là chính
+- không có lợi
+= Lợi ích.
+?2 Nước mắm được làm từ cá nhờ quá trình:
++ lên men, có vai trò của vi khuẩn
+- đông lạnh
+- phơi khô
+- nướng
+= Chế biến.
+?3 Dưa muối bị khú, có mùi lạ thì:
++ không nên ăn vì có thể có vi khuẩn có hại
+- vẫn ăn bình thường
+- ăn nhiều hơn
+- cho trẻ em ăn
+= An toàn thực phẩm.
+?3 Để làm sữa chua, cần ủ sữa ở nhiệt độ:
++ ấm vừa phải
+- rất lạnh
+- sôi sùng sục
+- không quan trọng
+= Điều kiện lên men.
+?4 Bạn Hà để hũ sữa chua ngoài trời nắng nhiều ngày. Sữa chua sẽ:
++ bị hỏng, chua gắt, không nên ăn
+- ngon hơn
+- biến thành sữa tươi
+- không thay đổi
+= Bảo quản.
+
+## Bài 16. Vi khuẩn gây bệnh và cách phòng tránh
+?1 Bệnh tả lây qua:
++ thức ăn, nước uống bị nhiễm khuẩn
+- ánh nắng
+- tiếng ồn
+- đọc sách
+= Đường lây.
+?1 Để phòng bệnh do vi khuẩn, cần:
++ ăn chín, uống sôi, rửa tay sạch
+- ăn đồ sống
+- uống nước lã
+- không rửa tay
+= Phòng bệnh.
+?2 Bệnh uốn ván có thể xảy ra khi:
++ vết thương bị nhiễm bẩn
+- ăn nhiều rau
+- ngủ đủ giấc
+- tập thể dục
+= Nguyên nhân.
+?2 Tiêm vắc xin giúp:
++ phòng một số bệnh do vi khuẩn, vi rút
+- gây bệnh
+- làm cơ thể yếu đi
+- không có tác dụng
+= Phòng bệnh.
+?2 Bệnh lao chủ yếu lây qua:
++ đường hô hấp (ho, hắt hơi)
+- ánh nắng
+- đọc sách chung
+- đi bộ
+= Đường lây.
+?3 Khi ho, hắt hơi, em nên:
++ che miệng bằng khăn giấy hoặc khuỷu tay
+- hắt hơi vào người khác
+- không che
+- ho vào thức ăn
+= Văn minh, phòng lây bệnh.
+?3 Khi bị thương chảy máu, cần:
++ rửa sạch và băng lại để tránh nhiễm khuẩn
+- bôi đất vào
+- để hở
+- không làm gì
+= Sơ cứu.
+?4 Vì sao không nên dùng chung khăn mặt, bàn chải đánh răng?
++ vì dễ lây vi khuẩn gây bệnh
+- vì tốn tiền
+- vì khăn không đẹp
+- không có lí do
+= Vệ sinh cá nhân.
+
+# Chủ đề 5. Con người và sức khỏe
+
+## Bài 17. Sự hình thành cơ thể người và các giai đoạn phát triển
+?1 Cơ thể người được hình thành từ:
++ sự kết hợp giữa trứng của mẹ và tinh trùng của bố
+- hạt giống
+- trứng gà
+- không khí
+= Sự hình thành.
+?1 Em bé phát triển trong bụng mẹ khoảng:
++ 9 tháng
+- 3 tháng
+- 1 năm rưỡi
+- 1 tháng
+= Thời gian mang thai.
+?2 Các giai đoạn phát triển của con người là:
++ tuổi ấu thơ, tuổi vị thành niên, tuổi trưởng thành, tuổi già
+- chỉ trẻ em và người già
+- chỉ người lớn
+- không có giai đoạn
+= Các giai đoạn.
+?2 Trẻ em dưới 1 tuổi chủ yếu được nuôi bằng:
++ sữa mẹ
+- cơm
+- thịt
+- bánh kẹo
+= Dinh dưỡng trẻ nhỏ.
+?2 Phụ nữ mang thai cần:
++ ăn uống đủ chất, khám thai định kì, nghỉ ngơi hợp lí
+- làm việc nặng
+- hút thuốc
+- thức khuya
+= Chăm sóc.
+?3 Mọi người trong gia đình cần làm gì để giúp phụ nữ mang thai?
++ quan tâm, chia sẻ việc nặng, động viên
+- giao nhiều việc nặng
+- làm ồn
+- không quan tâm
+= Trách nhiệm gia đình.
+?3 Tuổi già cần được:
++ chăm sóc, quan tâm, tôn trọng
+- bỏ mặc
+- làm việc nặng
+- không ai giúp
+= Quan tâm người già.
+?4 Bé Na mới 6 tháng tuổi. Đây là giai đoạn:
++ tuổi ấu thơ
+- tuổi vị thành niên
+- tuổi trưởng thành
+- tuổi già
+= Giai đoạn phát triển.
+
+## Bài 18. Tuổi dậy thì và chăm sóc sức khỏe tuổi dậy thì
+?1 Tuổi dậy thì ở nữ thường bắt đầu khoảng:
++ 10 – 15 tuổi
+- 1 – 3 tuổi
+- 20 – 25 tuổi
+- 40 tuổi
+= Tuổi dậy thì.
+?1 Tuổi dậy thì ở nam thường bắt đầu khoảng:
++ 13 – 17 tuổi
+- 3 – 5 tuổi
+- 25 tuổi
+- 50 tuổi
+= Tuổi dậy thì.
+?2 Ở tuổi dậy thì, cơ thể có sự thay đổi về:
++ thể chất, tinh thần và tình cảm
+- không thay đổi gì
+- chỉ chiều cao
+- chỉ giọng nói
+= Đặc điểm.
+?2 Để chăm sóc sức khỏe tuổi dậy thì, cần:
++ ăn uống đủ chất, tập thể dục, giữ vệ sinh cơ thể
+- ăn ít đi
+- không tắm rửa
+- thức khuya
+= Chăm sóc.
+?2 Ở tuổi dậy thì, mụn trứng cá thường xuất hiện do:
++ tuyến dầu hoạt động mạnh
+- ăn rau
+- uống nước
+- ngủ đủ giấc
+= Đặc điểm.
+?3 Khi có thắc mắc về sự thay đổi cơ thể tuổi dậy thì, em nên:
++ hỏi bố mẹ, thầy cô, nhân viên y tế
+- giữ kín, lo lắng một mình
+- hỏi người lạ trên mạng
+- không quan tâm
+= Tìm hỗ trợ đúng.
+?3 Tuổi dậy thì nên tránh:
++ rượu bia, thuốc lá và các chất gây nghiện
+- ăn rau quả
+- tập thể dục
+- ngủ đủ giấc
+= Lối sống lành mạnh.
+?4 Bạn của em lo lắng vì cao nhanh hơn các bạn khác. Em nên nói:
++ Mỗi người dậy thì ở thời điểm khác nhau, đó là điều bình thường.
+- Bạn bị bệnh rồi.
+- Bạn kì lạ quá.
+- Đừng chơi với mình nữa.
+= Cảm thông, hiểu biết.
+
+## Bài 19. Phòng tránh bị xâm hại
+?1 Xâm hại trẻ em là:
++ hành vi gây tổn hại thể chất, tinh thần, tình dục đối với trẻ em
+- việc dạy học
+- việc chăm sóc
+- việc khen thưởng
+= Khái niệm.
+?1 Nếu có người chạm vào vùng riêng tư của em, em cần:
++ nói "Không!", tránh xa và kể ngay với người tin cậy
+- giữ bí mật
+- im lặng
+- đồng ý
+= Kĩ năng tự bảo vệ.
+?2 Không nên:
++ đi một mình nơi vắng vẻ, nhận quà của người lạ
+- đi cùng bạn bè
+- về nhà đúng giờ
+- báo bố mẹ khi đi đâu
+= Phòng tránh.
+?2 Số điện thoại Tổng đài quốc gia bảo vệ trẻ em là:
++ 111
+- 113
+- 114
+- 115
+= Đường dây nóng.
+?2 Khi bị đe dọa trên mạng, em nên:
++ không trả lời, chụp lại và báo bố mẹ, thầy cô
+- gửi ảnh riêng tư theo yêu cầu
+- gặp người đó một mình
+- giấu kín
+= An toàn trên mạng.
+?3 Người tin cậy em có thể chia sẻ khi gặp nguy hiểm là:
++ bố mẹ, thầy cô, người thân đáng tin
+- người lạ mới quen trên mạng
+- người đe dọa em
+- không ai cả
+= Danh sách người tin cậy.
+?3 Không được tiết lộ thông tin nào cho người lạ trên mạng?
++ địa chỉ nhà, số điện thoại, ảnh riêng tư
+- tên bài hát yêu thích
+- môn thể thao yêu thích
+- màu sắc yêu thích
+= Bảo vệ thông tin cá nhân.
+?4 Bạn của em bị một người lớn đe dọa và bắt giữ bí mật. Em nên:
++ khuyên bạn kể với bố mẹ, thầy cô hoặc gọi 111
+- giữ bí mật giúp bạn
+- bảo bạn chịu đựng
+- không quan tâm
+= Giúp bạn tìm sự hỗ trợ.
+
+# Chủ đề 6. Sinh vật và môi trường
+
+## Bài 20. Vai trò của môi trường đối với sinh vật
+?1 Môi trường cung cấp cho sinh vật:
++ thức ăn, nước, không khí, nơi ở
+- chỉ ánh sáng
+- không cung cấp gì
+- chỉ đất đá
+= Vai trò.
+?1 Môi trường sống của cá là:
++ nước
+- đất khô
+- không khí trên cao
+- sa mạc
+= Môi trường.
+?2 Rừng là nơi sống của:
++ nhiều loài động vật, thực vật
+- chỉ con người
+- chỉ cá
+- không loài nào
+= Vai trò rừng.
+?2 Khi môi trường sống bị phá hủy, sinh vật:
++ có thể chết hoặc phải di cư
+- phát triển mạnh hơn
+- không bị ảnh hưởng
+- tăng số lượng
+= Tác động.
+?2 Biển và đại dương cung cấp cho con người:
++ hải sản, muối, đường giao thông
+- chỉ cát
+- không có gì
+- than đá là chủ yếu
+= Tài nguyên biển.
+?3 Vì sao cá chết hàng loạt ở sông bị ô nhiễm?
++ vì nước bẩn thiếu ô-xi và có chất độc
+- vì nước quá sạch
+- vì cá ăn quá no
+- vì trời quá đẹp
+= Giải thích.
+?3 Đất, nước, không khí sạch giúp:
++ sinh vật và con người khỏe mạnh
+- gây bệnh
+- giảm sự sống
+- không có ý nghĩa
+= Ý nghĩa.
+?4 Nếu rừng ngập mặn bị chặt phá, điều gì có thể xảy ra?
++ bờ biển bị xói lở, nhiều loài thủy sản mất nơi sinh sản
+- bờ biển vững chắc hơn
+- thủy sản tăng mạnh
+- không có ảnh hưởng
+= Tác động.
+
+## Bài 21. Tác động của con người đến môi trường và bảo vệ môi trường
+?1 Hoạt động gây ô nhiễm môi trường là:
++ xả rác, khói bụi, nước thải chưa xử lí
+- trồng cây
+- tái chế rác
+- tiết kiệm điện
+= Tác động tiêu cực.
+?1 Hoạt động bảo vệ môi trường là:
++ trồng cây, phân loại rác, tiết kiệm năng lượng
+- chặt phá rừng
+- săn bắt động vật hoang dã
+- đốt rác nhựa
+= Tác động tích cực.
+?2 Biến đổi khí hậu gây ra:
++ nhiệt độ tăng, thời tiết cực đoan, nước biển dâng
+- khí hậu ổn định hơn
+- giảm thiên tai
+- không ảnh hưởng gì
+= Hậu quả.
+?2 Nguyên tắc 3R gồm:
++ giảm thiểu, tái sử dụng, tái chế
+- mua thêm, dùng một lần, vứt bỏ
+- đốt, chôn, đổ ra sông
+- không có
+= Bảo vệ môi trường.
+?2 Dùng túi vải thay túi ni-lông giúp:
++ giảm rác thải nhựa
+- tăng rác thải nhựa
+- tốn tài nguyên hơn
+- không có tác dụng
+= Hành động xanh.
+?3 Một chai nhựa đã dùng có thể tái sử dụng làm:
++ chậu trồng cây nhỏ, ống đựng bút
+- vứt xuống sông
+- đốt đi
+- chôn xuống đất
+= Tái sử dụng.
+?3 Đi xe đạp thay xe máy giúp:
++ giảm khí thải, bảo vệ không khí
+- tăng khói bụi
+- tốn xăng hơn
+- không có lợi
+= Hành động xanh.
+?4 Lớp em thu gom được 12 kg giấy vụn mỗi tháng. Sau 9 tháng (một năm học) thu được:
++ 108 kg
+- 21 kg
+- 96 kg
+- 120 kg
+= 12 × 9.

@@ -1,0 +1,609 @@
+// Khoa học 4 – Kết nối tri thức với cuộc sống (học kì 2)
+#! HK2
+# Chủ đề 3. Thực vật và động vật
+
+## Bài 13. Nhu cầu sống của thực vật
+?1 Thực vật cần gì để sống và phát triển?
++ ánh sáng, nước, không khí, chất khoáng, nhiệt độ thích hợp
+- chỉ cần nước
+- chỉ cần bóng tối
+- chỉ cần đất
+= Nhu cầu sống của cây.
+?1 Cây hấp thụ khí gì để quang hợp?
++ khí các-bô-níc
+- khí ô-xi
+- khí ni-tơ
+- hơi nước
+= Quang hợp.
+?2 Trong quá trình quang hợp, cây thải ra khí:
++ ô-xi
+- các-bô-níc
+- ni-tơ
+- khí độc
+= Quang hợp.
+?2 Cây lấy nước và chất khoáng chủ yếu qua:
++ rễ
+- lá
+- hoa
+- quả
+= Chức năng của rễ.
+?2 Cây trồng thiếu nước sẽ:
++ héo, có thể chết
+- xanh tốt hơn
+- ra nhiều quả
+- lớn nhanh
+= Vai trò của nước.
+?3 Cây lúa cần nhiều nước, cây xương rồng cần ít nước. Điều này cho thấy:
++ mỗi loài cây có nhu cầu nước khác nhau
+- mọi cây cần nước như nhau
+- cây không cần nước
+- cây xương rồng cần nhiều nước nhất
+= Nhu cầu khác nhau.
+?3 Bón phân cho cây nhằm cung cấp:
++ chất khoáng
+- ánh sáng
+- khí ô-xi
+- nhiệt độ
+= Vai trò của phân bón.
+?4 Để chậu cây trong nhà tối lâu ngày, cây sẽ:
++ yếu, lá vàng do thiếu ánh sáng
+- xanh tốt hơn
+- ra nhiều hoa
+- không thay đổi
+= Cây cần ánh sáng để quang hợp.
+
+## Bài 14. Trồng và chăm sóc cây trồng
+?1 Công việc chăm sóc cây gồm:
++ tưới nước, bón phân, làm cỏ, bắt sâu
+- bẻ cành
+- để cây tự sống
+- chặt cây
+= Chăm sóc cây.
+?1 Nên tưới cây vào lúc:
++ sáng sớm hoặc chiều mát
+- giữa trưa nắng gắt
+- nửa đêm
+- không bao giờ
+= Thời điểm tưới cây.
+?2 Làm cỏ cho cây để:
++ cây không bị cỏ tranh chất dinh dưỡng
+- cây đẹp hơn
+- cây ít lá
+- đất cứng lại
+= Mục đích làm cỏ.
+?2 Xới đất quanh gốc cây giúp:
++ đất tơi xốp, rễ dễ hô hấp và hút nước
+- đất cứng lại
+- cây chết
+- cây mất nước
+= Mục đích xới đất.
+?2 Khi gieo hạt, cần chọn hạt:
++ chắc, mẩy, không sâu mọt
+- lép, hỏng
+- bị mốc
+- bị vỡ
+= Chọn hạt giống.
+?3 Tưới quá nhiều nước có thể làm:
++ rễ cây bị úng, thối
+- cây lớn nhanh hơn
+- cây ra nhiều hoa
+- không ảnh hưởng gì
+= Tưới hợp lí.
+?3 Dùng thiên địch như ong mắt đỏ để diệt sâu có lợi vì:
++ giảm dùng thuốc trừ sâu, bảo vệ môi trường
+- làm cây chết
+- tăng sâu bệnh
+- không có tác dụng
+= Biện pháp sinh học.
+?4 Bạn Hà trồng cây đậu trong cốc nhỏ, tuần đầu cây xanh tốt, tuần sau lá vàng dù vẫn tưới nước. Nguyên nhân có thể là:
++ thiếu chất khoáng hoặc thiếu ánh sáng
+- tưới quá ít không khí
+- cốc quá đẹp
+- trời quá mát
+= Nhu cầu sống của cây.
+
+## Bài 15. Nhu cầu sống của động vật
+?1 Động vật cần gì để sống?
++ thức ăn, nước, không khí, ánh sáng, nhiệt độ phù hợp
+- chỉ thức ăn
+- chỉ nước
+- chỉ ánh sáng
+= Nhu cầu sống.
+?1 Động vật hô hấp lấy vào khí:
++ ô-xi
+- các-bô-níc
+- ni-tơ
+- khí độc
+= Hô hấp.
+?2 Con bò ăn thức ăn chủ yếu là:
++ cỏ
+- thịt
+- cá
+- sâu bọ
+= Thức ăn của động vật.
+?2 Con hổ là động vật ăn:
++ thịt
+- cỏ
+- hạt
+- lá cây
+= Thức ăn của động vật.
+?2 Con gà ăn:
++ thóc, ngô, sâu bọ (ăn tạp)
+- chỉ thịt
+- chỉ cỏ
+- chỉ lá cây
+= Động vật ăn tạp.
+?3 Nhốt chim trong lồng kín không có nước, chim sẽ:
++ yếu và có thể chết
+- khỏe hơn
+- hót hay hơn
+- không thay đổi
+= Nhu cầu nước.
+?3 Động vật nào ăn cả thực vật và động vật?
++ con lợn
+- con hổ
+- con trâu
+- con hươu
+= Ăn tạp.
+?4 Vì sao mùa đông cần che chắn chuồng trại cho vật nuôi?
++ để giữ ấm, vật nuôi không bị rét
+- để vật nuôi không thấy ánh sáng
+- để vật nuôi đói
+- để trang trí
+= Nhiệt độ phù hợp.
+
+## Bài 16. Chăm sóc vật nuôi
+?1 Chăm sóc vật nuôi cần:
++ cho ăn, uống đủ; giữ chuồng sạch; tiêm phòng
+- bỏ đói
+- nhốt nơi bẩn
+- đánh đập
+= Chăm sóc vật nuôi.
+?1 Vật nuôi trong nhà thường là:
++ chó, mèo, gà, lợn
+- hổ, sư tử
+- cá mập
+- đại bàng
+= Vật nuôi.
+?2 Tiêm phòng cho chó mèo nhằm:
++ phòng bệnh dại cho vật nuôi và con người
+- làm chúng béo
+- làm lông đẹp
+- làm chúng chạy nhanh
+= Phòng bệnh.
+?2 Thức ăn của mèo thường là:
++ cá, thịt, thức ăn hạt cho mèo
+- cỏ khô
+- rơm
+- lá chuối
+= Thức ăn phù hợp.
+?2 Chuồng gà cần:
++ thoáng mát mùa hè, ấm mùa đông, sạch sẽ
+- luôn ẩm ướt
+- kín hoàn toàn không có không khí
+- để đầy phân
+= Chuồng trại.
+?3 Sau khi chăm sóc vật nuôi, em cần:
++ rửa tay sạch bằng xà phòng
+- ăn ngay không rửa tay
+- dụi mắt
+- không cần làm gì
+= Vệ sinh cá nhân.
+?3 Vì sao không nên cho chó mèo ăn đồ ôi thiu?
++ vì có thể làm chúng bị bệnh
+- vì chúng không thích
+- vì đồ ôi thiu đắt
+- không có lí do
+= Thức ăn an toàn.
+?4 Nhà em nuôi chó. Để chó khỏe mạnh và an toàn cho mọi người, cần:
++ tiêm phòng dại, cho ăn uống đủ, xích hoặc rọ mõm khi ra đường
+- thả rông ra đường
+- không cho ăn
+- không cần tiêm phòng
+= Nuôi chó có trách nhiệm.
+
+# Chủ đề 4. Nấm
+
+## Bài 17. Đặc điểm chung của nấm
+?1 Nấm sống ở nơi:
++ ẩm ướt, có chất hữu cơ
+- khô hạn, nắng gắt
+- trong nước biển sâu
+- trên tuyết
+= Nơi sống của nấm.
+?1 Nấm có phải là thực vật không?
++ không, nấm là một nhóm sinh vật riêng
+- có, nấm là cây xanh
+- nấm là động vật
+- nấm là khoáng vật
+= Phân loại.
+?2 Nấm khác thực vật ở chỗ:
++ không có chất diệp lục, không tự quang hợp được
+- có lá xanh
+- có hoa đẹp
+- có hạt
+= Đặc điểm của nấm.
+?2 Nấm mốc thường xuất hiện trên:
++ bánh mì, cơm để lâu
+- kim loại
+- đá
+- thủy tinh khô
+= Nấm mốc.
+?2 Nấm sinh sản chủ yếu bằng:
++ bào tử
+- hạt
+- hoa
+- quả
+= Sinh sản của nấm.
+?3 Nấm men được dùng để:
++ làm bánh mì, làm sữa chua
+- làm thuốc nhuộm
+- làm phân hóa học
+- làm xi măng
+= Ứng dụng.
+?3 Để bảo quản bánh mì lâu bị mốc, nên:
++ để nơi khô ráo, thoáng mát hoặc trong tủ lạnh
+- để nơi ẩm ướt
+- ngâm vào nước
+- để ngoài mưa
+= Bảo quản thực phẩm.
+?4 Vì sao nấm thường mọc nhiều sau những ngày mưa?
++ vì nấm cần nơi ẩm ướt để phát triển
+- vì nấm thích nắng
+- vì mưa mang hạt nấm từ trời xuống
+- vì nấm sợ khô hạn nên trốn
+= Điều kiện sống của nấm.
+
+## Bài 18. Nấm ăn và nấm có hại
+?1 Nấm nào là nấm ăn?
++ nấm rơm, nấm hương, nấm kim châm
+- nấm mốc trên bánh mì
+- nấm độc
+- nấm lạ trong rừng
+= Nấm ăn.
+?1 Nấm độc có thể gây:
++ ngộ độc, nguy hiểm tính mạng
+- khỏe mạnh
+- cao lớn
+- không sao cả
+= Tác hại.
+?2 Không nên ăn nấm lạ mọc trong rừng vì:
++ có thể là nấm độc
+- nấm không ngon
+- nấm quá đắt
+- nấm quá to
+= Phòng ngộ độc.
+?2 Thức ăn bị nấm mốc cần:
++ bỏ đi, không ăn
+- gạt phần mốc rồi ăn
+- nấu kĩ rồi ăn
+- cho trẻ em ăn
+= An toàn thực phẩm.
+?2 Nấm gây bệnh ở người như:
++ hắc lào, nấm da
+- cảm cúm do vi rút
+- gãy xương
+- cận thị
+= Nấm có hại.
+?3 Lợi ích của nấm ăn là:
++ cung cấp chất dinh dưỡng, vị ngon
+- gây bệnh
+- làm hỏng thức ăn
+- không có lợi
+= Vai trò.
+?3 Để phòng bệnh nấm da, cần:
++ giữ cơ thể sạch sẽ, khô ráo, mặc quần áo thoáng
+- mặc quần áo ẩm
+- không tắm
+- dùng chung khăn
+= Phòng bệnh.
+?4 Bạn Nam thấy cây nấm đẹp mọc trong vườn và định hái nấu ăn. Em khuyên:
++ không ăn vì có thể là nấm độc; chỉ ăn nấm mua ở nơi tin cậy
+- nấu thật kĩ rồi ăn
+- ăn sống cho ngon
+- cho chó ăn thử
+= Phòng ngộ độc nấm.
+
+# Chủ đề 5. Con người và sức khỏe
+
+## Bài 19. Các nhóm chất dinh dưỡng
+?1 Có mấy nhóm chất dinh dưỡng chính?
++ 4 nhóm: chất bột đường, chất đạm, chất béo, vi-ta-min và chất khoáng
+- 1 nhóm
+- 2 nhóm
+- 10 nhóm
+= Các nhóm chất.
+?1 Thức ăn chứa nhiều chất bột đường là:
++ cơm, bánh mì, khoai
+- thịt, cá
+- dầu ăn
+- rau xanh
+= Nhóm bột đường.
+?2 Thức ăn chứa nhiều chất đạm là:
++ thịt, cá, trứng, đậu
+- cơm, ngô
+- mỡ, bơ
+- kẹo
+= Nhóm chất đạm.
+?2 Thức ăn chứa nhiều chất béo là:
++ dầu ăn, mỡ, lạc, vừng
+- gạo
+- rau cải
+- nước lọc
+= Nhóm chất béo.
+?2 Vi-ta-min và chất khoáng có nhiều trong:
++ rau xanh, hoa quả
+- mỡ lợn
+- đường
+- muối nhiều
+= Nhóm vi-ta-min, chất khoáng.
+?3 Chất đạm có vai trò:
++ xây dựng và đổi mới cơ thể
+- chỉ cung cấp năng lượng
+- không cần thiết
+- làm cơ thể mệt
+= Vai trò chất đạm.
+?3 Chất bột đường có vai trò chính là:
++ cung cấp năng lượng cho cơ thể
+- làm xương chắc
+- chống táo bón
+- làm da đẹp
+= Vai trò.
+?4 Bữa sáng của Minh chỉ có bánh mì và nước ngọt. Bữa ăn này còn thiếu nhóm chất nào?
++ chất đạm, vi-ta-min và chất khoáng
+- chất bột đường
+- không thiếu gì
+- chỉ thiếu đường
+= Bữa ăn cần đủ nhóm chất.
+
+## Bài 20. Chế độ ăn uống cân bằng và thực phẩm an toàn
+?1 Ăn uống cân bằng là:
++ ăn đủ các nhóm chất với lượng hợp lí
+- chỉ ăn thịt
+- chỉ ăn rau
+- ăn thật nhiều đồ ngọt
+= Khái niệm.
+?1 Nên hạn chế ăn:
++ muối, đường, đồ chiên rán nhiều dầu mỡ
+- rau xanh
+- hoa quả
+- nước lọc
+= Tháp dinh dưỡng.
+?2 Thực phẩm an toàn là thực phẩm:
++ tươi, sạch, rõ nguồn gốc, còn hạn sử dụng
+- ôi thiu
+- hết hạn
+- không rõ nguồn gốc
+= Thực phẩm an toàn.
+?2 Để thức ăn không bị ôi thiu, cần:
++ bảo quản trong tủ lạnh, đậy kín
+- để ngoài trời nắng
+- để ruồi đậu
+- để qua nhiều ngày
+= Bảo quản thực phẩm.
+?2 Mỗi ngày nên uống khoảng:
++ đủ nước theo nhu cầu cơ thể (khoảng 1,5 – 2 lít)
+- 10 lít
+- không uống
+- chỉ uống nước ngọt
+= Uống đủ nước.
+?3 Vì sao nên ăn nhiều loại thức ăn khác nhau?
++ vì mỗi loại cung cấp chất dinh dưỡng khác nhau
+- vì cho vui
+- vì đắt tiền
+- không cần thiết
+= Ăn đa dạng.
+?3 Rau, quả nên được:
++ rửa sạch, ngâm nước muối loãng trước khi ăn
+- ăn ngay không rửa
+- để héo rồi ăn
+- ngâm xà phòng
+= Vệ sinh thực phẩm.
+?4 Hộp sữa ghi hạn sử dụng đến ngày 10/5. Hôm nay là 15/5. Em nên:
++ không uống vì đã hết hạn
+- uống ngay
+- cho em bé uống
+- trộn với sữa mới
+= Kiểm tra hạn sử dụng.
+
+## Bài 21. Một số bệnh liên quan đến dinh dưỡng
+?1 Ăn quá nhiều đồ béo, ngọt và ít vận động dễ bị:
++ béo phì
+- suy dinh dưỡng
+- cận thị
+- gãy xương
+= Bệnh do dinh dưỡng.
+?1 Ăn thiếu chất dinh dưỡng lâu ngày có thể bị:
++ suy dinh dưỡng, còi xương
+- béo phì
+- cao quá mức
+- không sao
+= Bệnh do thiếu dinh dưỡng.
+?2 Thiếu i-ốt có thể gây bệnh:
++ bướu cổ
+- sâu răng
+- cận thị
+- tiêu chảy
+= Bệnh do thiếu chất khoáng.
+?2 Thiếu vi-ta-min A có thể gây:
++ bệnh về mắt (quáng gà)
+- béo phì
+- sâu răng
+- bướu cổ
+= Vai trò vi-ta-min A.
+?2 Để phòng bệnh béo phì, cần:
++ ăn uống hợp lí, tăng cường vận động
+- ăn nhiều đồ chiên rán
+- uống nhiều nước ngọt
+- ngồi xem ti vi cả ngày
+= Phòng bệnh.
+?3 Thiếu chất sắt có thể gây:
++ thiếu máu
+- béo phì
+- sâu răng
+- cận thị
+= Vai trò chất sắt.
+?3 Dùng muối i-ốt trong nấu ăn giúp phòng bệnh:
++ bướu cổ
+- tiểu đường
+- cận thị
+- sâu răng
+= Phòng bệnh.
+?4 Bạn An gầy yếu, hay mệt, bác sĩ nói thiếu chất. An nên:
++ ăn đủ bữa, đa dạng thức ăn, tập thể dục vừa sức
+- bỏ bữa sáng
+- chỉ ăn bánh kẹo
+- thức khuya
+= Phòng suy dinh dưỡng.
+
+## Bài 22. Phòng tránh đuối nước
+?1 Để phòng tránh đuối nước, em cần:
++ học bơi, không chơi gần ao hồ, sông suối một mình
+- tắm sông một mình
+- đùa nghịch gần giếng
+- bơi nơi có biển cấm
+= Phòng tránh đuối nước.
+?1 Khi đi thuyền, em phải:
++ mặc áo phao
+- ngồi ở mép thuyền
+- đứng nhảy trên thuyền
+- thò tay xuống nước
+= An toàn đường thủy.
+?2 Khi thấy bạn bị đuối nước, em nên:
++ gọi to người lớn đến giúp, ném phao hoặc vật nổi cho bạn
+- nhảy xuống cứu khi không biết bơi
+- bỏ chạy
+- đứng xem
+= Ứng xử đúng.
+?2 Không nên bơi khi:
++ vừa ăn no hoặc đang mệt
+- đã khởi động kĩ
+- có người lớn trông
+- ở bể bơi an toàn
+= Nguy cơ đuối nước.
+?2 Trước khi xuống nước bơi, cần:
++ khởi động kĩ
+- ăn thật no
+- uống nước lạnh nhiều
+- nhảy ngay xuống
+= An toàn khi bơi.
+?3 Giếng nước, chum vại chứa nước cần:
++ có nắp đậy chắc chắn
+- để mở
+- để trẻ nhỏ chơi gần
+- không cần quan tâm
+= Phòng đuối nước cho trẻ nhỏ.
+?3 Vật nào có thể dùng làm phao cứu hộ tạm thời?
++ can nhựa rỗng có nắp
+- cục gạch
+- túi cát
+- thanh sắt
+= Vật nổi.
+?4 Nhóm bạn rủ em tắm sông vào buổi trưa không có người lớn. Em sẽ:
++ từ chối, khuyên các bạn không đi và báo người lớn
+- đi theo các bạn
+- bơi ra xa nhất
+- thách các bạn bơi thi
+= Kĩ năng từ chối.
+
+# Chủ đề 6. Sinh vật và môi trường
+
+## Bài 23. Chuỗi thức ăn trong tự nhiên
+?1 Chuỗi thức ăn là:
++ mối quan hệ thức ăn giữa các sinh vật, sinh vật này là thức ăn của sinh vật kia
+- danh sách món ăn
+- chuỗi hạt
+- một loại cây
+= Khái niệm.
+?1 Trong chuỗi thức ăn, mắt xích đầu tiên thường là:
++ thực vật
+- động vật ăn thịt
+- con người
+- nấm độc
+= Thực vật tự tạo chất dinh dưỡng.
+?2 Chuỗi thức ăn nào đúng?
++ Cỏ → Thỏ → Cáo
+- Cáo → Cỏ → Thỏ
+- Thỏ → Cỏ → Cáo
+- Cáo → Thỏ → Cỏ
+= Mũi tên chỉ "bị ăn bởi".
+?2 Trong chuỗi "Lúa → Chuột → Rắn", rắn ăn:
++ chuột
+- lúa
+- rắn khác
+- cỏ
+= Đọc chuỗi thức ăn.
+?2 Trong chuỗi "Rau → Sâu → Chim sâu", nếu chim sâu bị bắt hết thì:
++ sâu tăng nhiều, rau bị hại
+- sâu giảm
+- rau tốt hơn
+- không ảnh hưởng
+= Mất cân bằng.
+?3 Chuỗi thức ăn "Cỏ → Châu chấu → Ếch → Rắn" có mấy mắt xích?
++ 4
+- 3
+- 5
+- 2
+= Đếm sinh vật.
+?3 Con vật nào ăn thực vật?
++ con thỏ
+- con hổ
+- con cá mập
+- con đại bàng
+= Động vật ăn thực vật.
+?4 Vì sao nói thực vật đóng vai trò quan trọng nhất trong chuỗi thức ăn?
++ vì thực vật tự tạo chất dinh dưỡng, là thức ăn khởi đầu cho các sinh vật khác
+- vì thực vật ăn động vật
+- vì thực vật đẹp
+- vì thực vật biết di chuyển
+= Vai trò thực vật.
+
+## Bài 24. Vai trò của thực vật và bảo vệ môi trường
+?1 Thực vật cung cấp cho động vật và con người:
++ thức ăn, khí ô-xi, nơi ở
+- khói bụi
+- khí độc
+- rác thải
+= Vai trò thực vật.
+?1 Rừng bị chặt phá làm:
++ động vật mất nơi sống và thức ăn
+- động vật có thêm thức ăn
+- không khí trong lành hơn
+- không ảnh hưởng
+= Tác hại phá rừng.
+?2 Trồng rừng giúp:
++ chống xói mòn, lũ lụt, điều hòa khí hậu
+- tăng lũ lụt
+- làm đất bạc màu
+- gây ô nhiễm
+= Lợi ích.
+?2 Việc làm bảo vệ môi trường sống của sinh vật là:
++ không săn bắt động vật hoang dã, không phá rừng
+- đốt rừng làm rẫy
+- xả rác xuống sông
+- dùng thuốc trừ sâu bừa bãi
+= Bảo vệ môi trường.
+?2 Khu bảo tồn thiên nhiên có tác dụng:
++ bảo vệ các loài động thực vật quý hiếm
+- săn bắn
+- khai thác gỗ
+- xây nhà máy
+= Bảo tồn.
+?3 Nếu một loài trong chuỗi thức ăn bị tuyệt chủng thì:
++ các loài khác trong chuỗi bị ảnh hưởng
+- không loài nào bị ảnh hưởng
+- các loài khác phát triển mạnh hơn hết
+- chuỗi thức ăn dài hơn
+= Mối liên hệ.
+?3 Học sinh góp phần bảo vệ thực vật bằng cách:
++ trồng và chăm sóc cây, không bẻ cành, hái hoa nơi công cộng
+- bẻ cành cây
+- giẫm lên cỏ
+- khắc tên lên thân cây
+= Hành động đúng.
+?4 Lớp em trồng 12 cây, mỗi cây cần tưới 2 lít nước một ngày. Mỗi ngày cần bao nhiêu lít nước?
++ 24 lít
+- 14 lít
+- 10 lít
+- 6 lít
+= 12 × 2.

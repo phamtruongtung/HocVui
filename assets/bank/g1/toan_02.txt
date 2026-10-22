@@ -1,0 +1,609 @@
+// Toán 1 – Kết nối tri thức với cuộc sống – Tập 2
+#! HK2
+# Chủ đề 6. Các số đến 100
+
+## Bài 21. Số có hai chữ số
+?1 Số "mười lăm" được viết là:
++ 15
+- 51
+- 105
+- 5
+= 1 chục và 5 đơn vị.
+?1 Số 24 gồm mấy chục và mấy đơn vị?
++ 2 chục và 4 đơn vị
+- 4 chục và 2 đơn vị
+- 24 chục
+- 2 đơn vị và 4 chục đơn vị
+= Chữ số 2 ở hàng chục.
+?1 Số 37 được đọc là:
++ ba mươi bảy
+- bảy mươi ba
+- ba bảy
+- ba mươi bẩy mươi
+= Đọc số có hai chữ số.
+?2 Số gồm 6 chục và 0 đơn vị là:
++ 60
+- 6
+- 06
+- 600
+= 6 chục = 60.
+?2 Số 55 được đọc là:
++ năm mươi lăm
+- năm mươi năm
+- năm lăm
+- lăm mươi năm
+= Chữ số 5 ở hàng đơn vị đọc là "lăm".
+?3 Số gồm 8 chục và 1 đơn vị là:
++ 81
+- 18
+- 9
+- 801
+= 80 + 1.
+?3 Số 44 được đọc là:
++ bốn mươi tư
+- bốn bốn
+- bốn mươi bốn mươi
+- tư mươi bốn
+= Chữ số 4 ở hàng đơn vị thường đọc là "tư".
+?4 Có 3 bó que tính, mỗi bó 10 que, và 7 que rời. Có tất cả bao nhiêu que tính?
++ 37
+- 10
+- 73
+- 30
+= 3 chục và 7 đơn vị.
+
+## Bài 22. So sánh số có hai chữ số
+?1 Dấu cần điền: 45 … 54
++ <
+- >
+- =
+- +
+= 4 chục bé hơn 5 chục.
+?1 Dấu cần điền: 72 … 70
++ >
+- <
+- =
+- −
+= Cùng 7 chục, 2 > 0.
+?2 Số lớn nhất trong các số 38, 83, 58, 80 là:
++ 83
+- 80
+- 58
+- 38
+= So sánh hàng chục rồi hàng đơn vị.
+?2 Số bé nhất trong các số 91, 19, 29, 90 là:
++ 19
+- 29
+- 90
+- 91
+= 1 chục là bé nhất.
+?2 Dấu cần điền: 66 … 66
++ =
+- <
+- >
+- +
+= Hai số bằng nhau.
+?3 Xếp các số 47, 74, 40 theo thứ tự từ bé đến lớn:
++ 40, 47, 74
+- 74, 47, 40
+- 47, 40, 74
+- 40, 74, 47
+= So sánh từng cặp.
+?3 Số tròn chục lớn hơn 65 và bé hơn 75 là:
++ 70
+- 60
+- 80
+- 65
+= 65 < 70 < 75.
+?4 Lan hái được 28 bông hoa, Mai hái được 32 bông hoa. Bạn nào hái được nhiều hoa hơn?
++ Mai
+- Lan
+- bằng nhau
+- không biết
+= 32 > 28.
+
+## Bài 23. Bảng các số từ 1 đến 100
+?1 Số liền sau của 49 là:
++ 50
+- 48
+- 40
+- 59
+= 49 thêm 1 là 50.
+?1 Số liền trước của 30 là:
++ 29
+- 31
+- 20
+- 40
+= 30 bớt 1 là 29.
+?1 Số lớn nhất có hai chữ số là:
++ 99
+- 90
+- 100
+- 98
+= Số có hai chữ số lớn nhất.
+?2 Số bé nhất có hai chữ số là:
++ 10
+- 11
+- 1
+- 0
+= Số có hai chữ số bé nhất.
+?2 Điền số còn thiếu: 76, 77, …, 79
++ 78
+- 80
+- 75
+- 87
+= Đếm thêm 1.
+?3 Số 100 được đọc là:
++ một trăm
+- mười không
+- một không không
+- mười mươi
+= Số có ba chữ số đầu tiên.
+?3 Điền số còn thiếu: 10, 20, 30, …, 50
++ 40
+- 35
+- 31
+- 60
+= Đếm thêm 10.
+?4 Số nằm giữa 58 và 60 là:
++ 59
+- 57
+- 61
+- 50
+= 58, 59, 60.
+
+# Chủ đề 7. Độ dài và đo độ dài
+
+## Bài 26. Dài hơn, ngắn hơn
+?1 Thước kẻ dài 20 cm, bút chì dài 15 cm. Vật nào dài hơn?
++ thước kẻ
+- bút chì
+- bằng nhau
+- không biết
+= 20 cm > 15 cm.
+?1 Cây cao hơn hay bạn nhỏ cao hơn? Cây cao 5 mét, bạn nhỏ cao 1 mét.
++ cây cao hơn
+- bạn nhỏ cao hơn
+- bằng nhau
+- không so được
+= 5 mét cao hơn 1 mét.
+?2 Bút xanh dài 12 cm, bút đỏ dài 14 cm, bút đen dài 10 cm. Bút nào ngắn nhất?
++ bút đen
+- bút xanh
+- bút đỏ
+- bằng nhau
+= 10 cm ngắn nhất.
+?2 Sợi dây A dài hơn sợi dây B, sợi dây B dài hơn sợi dây C. Sợi dây nào dài nhất?
++ sợi dây A
+- sợi dây B
+- sợi dây C
+- bằng nhau
+= A > B > C.
+?2 Con hươu cao cổ và con mèo, con nào thấp hơn?
++ con mèo
+- con hươu cao cổ
+- bằng nhau
+- không biết
+= So sánh chiều cao.
+?3 Bạn Nam cao hơn bạn Hà, bạn Hà cao hơn bạn Minh. Bạn nào thấp nhất?
++ Minh
+- Nam
+- Hà
+- bằng nhau
+= Nam > Hà > Minh.
+?3 Dùng gang tay đo cái bàn được 5 gang, đo cái ghế được 3 gang (cùng một người đo). Vật nào dài hơn?
++ cái bàn
+- cái ghế
+- bằng nhau
+- không so được
+= 5 gang dài hơn 3 gang.
+?4 Hai bạn cùng đo cái bảng bằng gang tay: An đo được 8 gang, Bình đo được 10 gang. Vì sao kết quả khác nhau?
++ vì gang tay hai bạn dài ngắn khác nhau
+- vì cái bảng thay đổi
+- vì An đo sai chắc chắn
+- vì Bình đếm nhầm chắc chắn
+= Đơn vị đo không giống nhau.
+
+## Bài 27. Đơn vị đo độ dài xăng-ti-mét
+?1 Xăng-ti-mét được viết tắt là:
++ cm
+- m
+- kg
+- l
+= Đơn vị đo độ dài.
+?1 Dụng cụ dùng để đo độ dài là:
++ thước kẻ có vạch chia xăng-ti-mét
+- cái cân
+- đồng hồ
+- cái cốc
+= Đo bằng thước.
+?2 10 cm + 5 cm = ?
++ 15 cm
+- 15
+- 5 cm
+- 105 cm
+= Cộng rồi ghi đơn vị.
+?2 18 cm − 6 cm = ?
++ 12 cm
+- 24 cm
+- 12
+- 14 cm
+= Trừ rồi ghi đơn vị.
+?2 Khi đo bằng thước, đầu của vật phải đặt thẳng với vạch số:
++ 0
+- 1
+- 5
+- 10
+= Cách đo đúng.
+?3 Cây bút chì dài 16 cm, gọt đi 3 cm. Bút chì còn dài:
++ 13 cm
+- 19 cm
+- 12 cm
+- 3 cm
+= 16 − 3 = 13.
+?3 Đoạn thẳng AB dài 7 cm, đoạn CD dài 9 cm. Đoạn CD dài hơn đoạn AB mấy xăng-ti-mét?
++ 2 cm
+- 16 cm
+- 9 cm
+- 7 cm
+= 9 − 7 = 2.
+?4 Nối một đoạn dây 20 cm với một đoạn dây 5 cm (không tính phần thắt nút). Sợi dây dài:
++ 25 cm
+- 15 cm
+- 20 cm
+- 205 cm
+= 20 + 5 = 25.
+
+# Chủ đề 8. Phép cộng, phép trừ (không nhớ) trong phạm vi 100
+
+## Bài 29. Phép cộng số có hai chữ số với số có một chữ số
+?1 23 + 4 = ?
++ 27
+- 63
+- 24
+- 19
+= Cộng đơn vị: 3 + 4 = 7.
+?1 41 + 5 = ?
++ 46
+- 91
+- 45
+- 36
+= 1 + 5 = 6.
+?2 52 + 7 = ?
++ 59
+- 58
+- 122
+- 45
+= 2 + 7 = 9.
+?2 70 + 6 = ?
++ 76
+- 13
+- 67
+- 77
+= 7 chục và 6 đơn vị.
+?2 34 + 3 = ?
++ 37
+- 64
+- 31
+- 38
+= 4 + 3 = 7.
+?3 … + 2 = 48. Số cần điền là:
++ 46
+- 50
+- 28
+- 44
+= 46 + 2 = 48.
+?3 Kết quả của phép tính nào bằng 65?
++ 61 + 4
+- 60 + 4
+- 62 + 2
+- 63 + 3
+= 61 + 4 = 65.
+?4 Lớp 1A có 32 bạn, thêm 3 bạn mới chuyển đến. Lớp 1A có bao nhiêu bạn?
++ 35
+- 29
+- 62
+- 33
+= 32 + 3 = 35.
+
+## Bài 30. Phép cộng số có hai chữ số với số có hai chữ số
+?1 20 + 30 = ?
++ 50
+- 5
+- 23
+- 40
+= 2 chục + 3 chục = 5 chục.
+?1 12 + 15 = ?
++ 27
+- 37
+- 26
+- 3
+= Chục cộng chục, đơn vị cộng đơn vị.
+?2 43 + 25 = ?
++ 68
+- 58
+- 69
+- 18
+= 3 + 5 = 8; 4 + 2 = 6.
+?2 31 + 47 = ?
++ 78
+- 77
+- 16
+- 87
+= 1 + 7 = 8; 3 + 4 = 7.
+?2 60 + 24 = ?
++ 84
+- 30
+- 64
+- 86
+= 0 + 4 = 4; 6 + 2 = 8.
+?3 Dấu cần điền: 22 + 33 … 54
++ >
+- <
+- =
+- +
+= 22 + 33 = 55 > 54.
+?3 50 + … = 80. Số cần điền là:
++ 30
+- 20
+- 40
+- 130
+= 50 + 30 = 80.
+?4 Mẹ mua 25 quả trứng gà và 13 quả trứng vịt. Mẹ mua tất cả bao nhiêu quả trứng?
++ 38
+- 12
+- 28
+- 39
+= 25 + 13 = 38.
+
+## Bài 31. Phép trừ số có hai chữ số cho số có một chữ số
+?1 28 − 5 = ?
++ 23
+- 33
+- 22
+- 3
+= 8 − 5 = 3.
+?1 46 − 4 = ?
++ 42
+- 50
+- 6
+- 40
+= 6 − 4 = 2.
+?2 59 − 7 = ?
++ 52
+- 66
+- 51
+- 2
+= 9 − 7 = 2.
+?2 37 − 6 = ?
++ 31
+- 43
+- 30
+- 1
+= 7 − 6 = 1.
+?2 65 − 5 = ?
++ 60
+- 70
+- 61
+- 15
+= 5 − 5 = 0.
+?3 … − 3 = 74. Số cần điền là:
++ 77
+- 71
+- 44
+- 76
+= 77 − 3 = 74.
+?3 Phép tính nào có kết quả lớn nhất?
++ 98 − 2
+- 89 − 3
+- 79 − 1
+- 95 − 4
+= 96 > 91 > 86 > 78.
+?4 Bác An có 49 con vịt, đã bán 6 con. Bác An còn lại bao nhiêu con vịt?
++ 43
+- 55
+- 42
+- 46
+= 49 − 6 = 43.
+
+## Bài 32. Phép trừ số có hai chữ số cho số có hai chữ số
+?1 50 − 20 = ?
++ 30
+- 70
+- 3
+- 20
+= 5 chục − 2 chục = 3 chục.
+?1 38 − 15 = ?
++ 23
+- 53
+- 13
+- 22
+= 8 − 5 = 3; 3 − 1 = 2.
+?2 67 − 34 = ?
++ 33
+- 31
+- 101
+- 43
+= 7 − 4 = 3; 6 − 3 = 3.
+?2 89 − 50 = ?
++ 39
+- 34
+- 139
+- 49
+= 9 − 0 = 9; 8 − 5 = 3.
+?2 76 − 76 = ?
++ 0
+- 76
+- 1
+- 152
+= Số trừ đi chính nó bằng 0.
+?3 Dấu cần điền: 95 − 41 … 45
++ >
+- <
+- =
+- +
+= 95 − 41 = 54 > 45.
+?3 … − 22 = 13. Số cần điền là:
++ 35
+- 9
+- 31
+- 25
+= 13 + 22 = 35.
+?4 Một cửa hàng có 58 quả bóng, đã bán 25 quả. Cửa hàng còn lại bao nhiêu quả bóng?
++ 33
+- 83
+- 32
+- 23
+= 58 − 25 = 33.
+
+# Chủ đề 9. Thời gian, giờ và lịch
+
+## Bài 34. Xem giờ đúng trên đồng hồ
+?1 Đồng hồ có kim ngắn chỉ số 3, kim dài chỉ số 12. Đồng hồ chỉ:
++ 3 giờ
+- 12 giờ
+- 9 giờ
+- 6 giờ
+= Kim ngắn chỉ giờ, kim dài chỉ số 12 là giờ đúng.
+?1 Kim chỉ giờ trên đồng hồ là:
++ kim ngắn
+- kim dài
+- cả hai kim
+- không có kim nào
+= Kim ngắn chỉ giờ.
+?2 Đồng hồ có kim ngắn chỉ số 7, kim dài chỉ số 12. Đồng hồ chỉ:
++ 7 giờ
+- 12 giờ
+- 5 giờ
+- 2 giờ
+= Giờ đúng.
+?2 Em thức dậy lúc 6 giờ sáng. Lúc đó kim ngắn chỉ số:
++ 6
+- 12
+- 3
+- 9
+= Kim ngắn chỉ số giờ.
+?2 Lúc 12 giờ đúng, hai kim đồng hồ:
++ cùng chỉ vào số 12
+- kim ngắn chỉ 6, kim dài chỉ 12
+- kim ngắn chỉ 12, kim dài chỉ 6
+- cùng chỉ vào số 6
+= Hai kim trùng nhau.
+?3 Em vào học lúc 7 giờ, học 1 giờ thì ra chơi. Em ra chơi lúc mấy giờ?
++ 8 giờ
+- 6 giờ
+- 9 giờ
+- 7 giờ
+= 7 + 1 = 8.
+?3 Bạn Hà ngủ trưa lúc 12 giờ, ngủ dậy lúc 2 giờ chiều. Bạn Hà ngủ mấy giờ?
++ 2 giờ
+- 1 giờ
+- 3 giờ
+- 12 giờ
+= Từ 12 giờ đến 2 giờ là 2 giờ.
+?4 Bây giờ là 9 giờ. Sau 3 giờ nữa đồng hồ sẽ chỉ:
++ 12 giờ
+- 6 giờ
+- 11 giờ
+- 10 giờ
+= 9 + 3 = 12.
+
+## Bài 35. Các ngày trong tuần lễ
+?1 Một tuần lễ có mấy ngày?
++ 7
+- 5
+- 6
+- 10
+= Thứ Hai đến Chủ nhật.
+?1 Ngày liền sau thứ Hai là:
++ thứ Ba
+- Chủ nhật
+- thứ Tư
+- thứ Bảy
+= Thứ Hai, thứ Ba…
+?2 Ngày liền trước thứ Sáu là:
++ thứ Năm
+- thứ Bảy
+- thứ Tư
+- Chủ nhật
+= …, thứ Năm, thứ Sáu.
+?2 Ngày cuối cùng của tuần lễ là:
++ Chủ nhật
+- thứ Bảy
+- thứ Hai
+- thứ Sáu
+= Thứ tự các ngày trong tuần.
+?2 Hôm nay là thứ Tư thì ngày mai là:
++ thứ Năm
+- thứ Ba
+- thứ Sáu
+- Chủ nhật
+= Ngày liền sau.
+?3 Hôm nay là thứ Bảy thì hôm qua là:
++ thứ Sáu
+- Chủ nhật
+- thứ Năm
+- thứ Hai
+= Ngày liền trước.
+?3 Em đi học từ thứ Hai đến thứ Sáu. Mỗi tuần em đi học mấy ngày?
++ 5
+- 7
+- 6
+- 4
+= Hai, Ba, Tư, Năm, Sáu.
+?4 Hôm nay là thứ Hai. Sau 2 ngày nữa là thứ mấy?
++ thứ Tư
+- thứ Ba
+- thứ Năm
+- Chủ nhật
+= Thứ Ba rồi thứ Tư.
+
+## Bài 36. Thực hành xem lịch và giờ
+?1 Tờ lịch ghi "Thứ Năm, ngày 12". Hôm đó là ngày bao nhiêu?
++ ngày 12
+- ngày 5
+- ngày 21
+- ngày 2
+= Đọc lịch.
+?1 Đồng hồ chỉ 10 giờ. Kim dài chỉ vào số:
++ 12
+- 10
+- 1
+- 6
+= Giờ đúng: kim dài chỉ 12.
+?2 Hôm nay là ngày 15. Ngày mai là ngày:
++ 16
+- 14
+- 17
+- 25
+= Thêm 1 ngày.
+?2 Hôm nay là ngày 20. Hôm qua là ngày:
++ 19
+- 21
+- 10
+- 18
+= Bớt 1 ngày.
+?2 Buổi tối em đi ngủ lúc 9 giờ. Đó là:
++ 9 giờ tối
+- 9 giờ sáng
+- 9 giờ trưa
+- 12 giờ trưa
+= Buổi tối.
+?3 Hôm nay là thứ Ba, ngày 8. Thứ Năm tuần này là ngày:
++ 10
+- 9
+- 11
+- 15
+= Thứ Tư ngày 9, thứ Năm ngày 10.
+?3 Phim hoạt hình bắt đầu lúc 5 giờ chiều và kéo dài 1 giờ. Phim kết thúc lúc:
++ 6 giờ chiều
+- 4 giờ chiều
+- 5 giờ chiều
+- 7 giờ tối
+= 5 + 1 = 6.
+?4 Hôm nay là Chủ nhật, ngày 3. Chủ nhật tuần sau là ngày:
++ 10
+- 4
+- 9
+- 11
+= Một tuần có 7 ngày: 3 + 7 = 10.

@@ -1,0 +1,412 @@
+// Tiếng Việt 5 – Kết nối tri thức với cuộc sống – Tập 1
+// Bài đọc do Học Vui tự viết.
+#! HK1
+# Học kì 1
+
+## Chủ điểm Thế giới tuổi thơ (1): Đọc hiểu
+> Hồi nhỏ, tôi và thằng Tí thường trốn ngủ trưa ra bờ sông bắt cá cờ. Nắng chang chang mà chẳng đứa nào thấy nóng. Những con cá cờ vây xanh đỏ được thả vào chai thủy tinh, đặt bên cửa sổ. Bây giờ lớn rồi, mỗi lần nhìn dòng sông, tôi lại thấy tuổi thơ mình lấp lánh trong đó.
+?1 Hồi nhỏ, nhân vật "tôi" và Tí thường làm gì?
++ trốn ngủ trưa ra bờ sông bắt cá cờ
+- đi học thêm
+- chăn trâu trên đồi
+- thả diều trên đê
+= Câu đầu.
+?1 Những con cá cờ được thả vào đâu?
++ chai thủy tinh đặt bên cửa sổ
+- ao cá sau nhà
+- bể kính lớn
+- lại xuống sông
+= Câu thứ ba.
+?2 Câu "Nắng chang chang mà chẳng đứa nào thấy nóng." cho thấy:
++ các bạn mải chơi, say mê đến quên cả nắng
+- trời hôm đó rất mát
+- các bạn bị ốm
+- các bạn ở trong nhà
+= Ý nghĩa câu văn.
+?2 Bài đọc được kể theo ngôi:
++ ngôi thứ nhất
+- ngôi thứ hai
+- ngôi thứ ba
+- không có ngôi kể
+= Người kể xưng "tôi".
+?3 Hình ảnh "tuổi thơ mình lấp lánh trong đó" thể hiện:
++ kỉ niệm tuổi thơ đẹp đẽ, đáng nhớ
+- dòng sông bị ô nhiễm
+- sự buồn chán
+- nỗi sợ hãi dòng sông
+= Biện pháp nghệ thuật gợi cảm xúc.
+>-
+?3 Từ "chang chang" là:
++ từ láy gợi tả nắng gay gắt
+- từ ghép chỉ thời gian
+- danh từ
+- đại từ
+= Từ láy.
+?3 Từ đồng nghĩa với "tuổi thơ" là:
++ thời thơ ấu
+- tuổi già
+- tuổi trung niên
+- tương lai
+= Từ đồng nghĩa.
+?4 Câu nào thể hiện rõ nhất tình cảm của tác giả với tuổi thơ?
++ Mỗi lần nhìn dòng sông, tôi lại thấy tuổi thơ mình lấp lánh trong đó.
+- Hồi nhỏ, tôi và Tí ra bờ sông.
+- Cá cờ có vây xanh đỏ.
+- Nắng chang chang.
+= Câu bộc lộ cảm xúc.
+
+## Chủ điểm Thế giới tuổi thơ (2): Từ đồng nghĩa
+?1 Từ đồng nghĩa là:
++ những từ có nghĩa giống nhau hoặc gần giống nhau
+- những từ có nghĩa trái ngược
+- những từ phát âm giống nhau nhưng nghĩa khác
+- những từ có nhiều nghĩa
+= Khái niệm.
+?1 Từ đồng nghĩa với "xinh đẹp" là:
++ xinh xắn
+- xấu xí
+- cao lớn
+- chăm chỉ
+= Đồng nghĩa.
+?2 Nhóm từ nào đồng nghĩa?
++ siêng năng, chăm chỉ, cần cù
+- to, nhỏ, vừa
+- nóng, lạnh, ấm
+- nhanh, chậm, vội
+= Cùng chỉ đức tính chịu khó.
+?2 Từ đồng nghĩa với "Tổ quốc" là:
++ đất nước
+- quê nhà
+- làng xóm
+- gia đình
+= Đồng nghĩa.
+?2 Chọn từ thích hợp nhất: "Mẹ … em một chiếc cặp mới."
++ mua cho
+- xin cho
+- vay cho
+- bắt cho
+= Lựa chọn từ phù hợp.
+?3 Trong các từ "ăn, xơi, chén", từ dùng để mời người lớn tuổi một cách lịch sự là:
++ xơi
+- ăn
+- chén
+- đớp
+= Sắc thái nghĩa.
+?3 Từ đồng nghĩa hoàn toàn có thể:
++ thay thế cho nhau trong mọi trường hợp
+- không bao giờ thay thế
+- chỉ dùng trong thơ
+- chỉ dùng với người
+= Phân loại từ đồng nghĩa.
+?4 Câu nào dùng từ "hi sinh" đúng?
++ Các chiến sĩ đã anh dũng hi sinh vì Tổ quốc.
+- Con mèo hi sinh vì bị ốm.
+- Chiếc lá hi sinh khi mùa thu đến.
+- Cái bút hi sinh vì hết mực.
+= "Hi sinh" dùng cho người chết vì lí tưởng cao đẹp.
+
+## Chủ điểm Thiên nhiên kì thú (1): Đọc hiểu
+> Vịnh Hạ Long có gần hai nghìn hòn đảo lớn nhỏ. Có hòn trông như đôi gà chọi nhau, có hòn như ông lão ngồi câu cá. Mặt nước xanh biếc, lặng như tờ. Mỗi mùa, Hạ Long lại khoác lên mình một vẻ đẹp riêng khiến du khách say mê.
+?1 Vịnh Hạ Long có khoảng bao nhiêu hòn đảo?
++ gần hai nghìn
+- vài chục
+- một trăm
+- mười nghìn
+= Câu đầu.
+?1 Có hòn đảo trông giống:
++ đôi gà chọi nhau
+- con voi
+- con rồng bay
+- ngôi nhà
+= Câu thứ hai.
+?2 Mặt nước vịnh được tả thế nào?
++ xanh biếc, lặng như tờ
+- đỏ ngầu, sóng lớn
+- đen đặc
+- đục ngầu
+= Câu thứ ba.
+?2 "Hạ Long lại khoác lên mình một vẻ đẹp riêng" sử dụng biện pháp:
++ nhân hóa
+- so sánh
+- điệp ngữ
+- liệt kê
+= Hạ Long "khoác" như người.
+?3 Biện pháp so sánh có trong câu:
++ Có hòn như ông lão ngồi câu cá.
+- Mặt nước xanh biếc.
+- Vịnh có nhiều đảo.
+- Du khách say mê.
+= Từ so sánh "như".
+>-
+?3 Từ trái nghĩa với "lặng" (trong "lặng như tờ") là:
++ động
+- yên
+- im
+- êm
+= Trái nghĩa.
+?3 Vịnh Hạ Long được UNESCO công nhận là:
++ di sản thiên nhiên thế giới
+- di sản văn hóa phi vật thể
+- di sản tư liệu
+- công viên quốc gia
+= Hiểu biết chung.
+?4 Mục đích chính của bài đọc là:
++ giới thiệu và ca ngợi vẻ đẹp của vịnh Hạ Long
+- kể chuyện cổ tích
+- hướng dẫn đánh cá
+- giải thích cách tạo đảo
+= Ý chính.
+
+## Chủ điểm Thiên nhiên kì thú (2): Từ trái nghĩa
+?1 Từ trái nghĩa là:
++ những từ có nghĩa trái ngược nhau
+- những từ có nghĩa giống nhau
+- những từ đọc giống nhau
+- những từ có nhiều nghĩa
+= Khái niệm.
+?1 Từ trái nghĩa với "cao" là:
++ thấp
+- lớn
+- to
+- dài
+= Trái nghĩa.
+?2 Cặp từ trái nghĩa trong câu "Lên thác xuống ghềnh" là:
++ lên – xuống
+- thác – ghềnh
+- lên – thác
+- xuống – ghềnh
+= Thành ngữ.
+?2 Từ trái nghĩa với "hòa bình" là:
++ chiến tranh
+- thanh bình
+- yên ổn
+- bình yên
+= Trái nghĩa.
+?2 Thành ngữ nào có cặp từ trái nghĩa?
++ Gần nhà xa ngõ
+- Nước chảy đá mòn
+- Chân cứng đá mềm
+- Học ăn học nói
+= gần – xa.
+?3 Chọn cặp từ trái nghĩa điền vào câu: "Mùa hè trời …, mùa đông trời …"
++ nóng – lạnh
+- nóng – nực
+- lạnh – rét
+- ấm – áp
+= Trái nghĩa.
+?3 Tác dụng của việc dùng cặp từ trái nghĩa là:
++ làm nổi bật sự đối lập, tăng sức biểu cảm
+- làm câu văn dài
+- làm câu khó hiểu
+- không có tác dụng
+= Tác dụng.
+?4 Câu tục ngữ "Ăn ít ngon nhiều" dùng cặp từ trái nghĩa để khuyên:
++ ăn vừa đủ, thưởng thức món ngon
+- ăn thật nhiều
+- không nên ăn
+- ăn thật nhanh
+= Ý nghĩa tục ngữ.
+
+## Chủ điểm Trên con đường học tập (1): Đọc hiểu
+> Lương Thế Vinh nổi tiếng thông minh từ nhỏ. Có lần, bạn bè đánh rơi quả bưởi xuống hố sâu. Cả bọn loay hoay không lấy lên được. Cậu bé Vinh bảo các bạn đổ nước vào hố. Nước dâng lên, quả bưởi nổi theo. Mọi người reo lên thán phục.
+?1 Lương Thế Vinh nổi tiếng là người:
++ thông minh từ nhỏ
+- giàu có
+- khỏe mạnh nhất làng
+- lười học
+= Câu đầu.
+?1 Các bạn đánh rơi vật gì xuống hố?
++ quả bưởi
+- quả bóng
+- quyển sách
+- cái mũ
+= Câu thứ hai.
+?2 Vinh đã nghĩ ra cách gì?
++ đổ nước vào hố
+- trèo xuống hố
+- lấy gậy khều
+- đào hố sâu hơn
+= Câu thứ tư.
+?2 Vì sao quả bưởi nổi lên?
++ vì bưởi nhẹ, nổi trên mặt nước khi nước dâng lên
+- vì bưởi bay lên
+- vì có người nhặt
+- vì hố bị lấp
+= Giải thích.
+?3 Câu chuyện ca ngợi:
++ trí thông minh, sáng tạo
+- sự chăm chỉ lao động chân tay
+- lòng dũng cảm chiến đấu
+- sự giàu có
+= Ý nghĩa.
+>-
+?3 Từ nào đồng nghĩa với "thông minh"?
++ sáng dạ
+- chậm chạp
+- ngốc nghếch
+- vụng về
+= Đồng nghĩa.
+?3 Câu tục ngữ khuyên chăm học là:
++ Học, học nữa, học mãi.
+- Ăn quả nhớ kẻ trồng cây.
+- Nhất cận thị, nhì cận giang.
+- Gần mực thì đen.
+= Tinh thần học tập.
+?4 Từ "loay hoay" diễn tả:
++ sự lúng túng, tìm cách mãi chưa được
+- sự vui vẻ
+- sự thành công nhanh chóng
+- sự bỏ cuộc ngay
+= Nghĩa của từ.
+
+## Chủ điểm Trên con đường học tập (2): Từ đa nghĩa, đại từ
+?1 Từ đa nghĩa là từ:
++ có một nghĩa gốc và một hay nhiều nghĩa chuyển
+- chỉ có một nghĩa
+- có nghĩa trái ngược nhau
+- đọc giống nhau nhưng nghĩa khác hẳn
+= Khái niệm.
+?1 Đại từ là từ:
++ dùng để xưng hô, để hỏi hoặc thay thế danh từ, động từ, tính từ
+- chỉ hoạt động
+- chỉ đặc điểm
+- nối các từ
+= Khái niệm.
+?2 Từ "chân" trong câu nào dùng với nghĩa gốc?
++ Bé bị đau chân.
+- Chân bàn bị gãy.
+- Mây trôi dưới chân núi.
+- Anh ấy có chân trong đội bóng.
+= Nghĩa gốc chỉ bộ phận cơ thể.
+?2 Từ "chạy" trong "Đồng hồ chạy đúng giờ." mang nghĩa:
++ nghĩa chuyển (hoạt động, vận hành)
+- nghĩa gốc (di chuyển bằng chân)
+- trái nghĩa
+- không có nghĩa
+= Từ đa nghĩa.
+?2 Đại từ xưng hô là:
++ tôi, chúng tôi, bạn, họ
+- đẹp, xấu
+- chạy, nhảy
+- và, với
+= Đại từ.
+?3 Trong câu "Lan học giỏi, bạn ấy còn hát hay.", từ "bạn ấy" thay thế cho:
++ Lan
+- học giỏi
+- hát hay
+- giỏi
+= Đại từ thay thế.
+?3 Từ "ăn" trong câu nào là nghĩa chuyển?
++ Tàu ăn hàng ở cảng.
+- Em ăn cơm.
+- Mèo ăn cá.
+- Bé ăn bánh.
+= Nghĩa chuyển: nhận hàng.
+?4 Câu nào có đại từ dùng để hỏi?
++ Ai là người phát minh ra bóng đèn?
+- Tôi là học sinh.
+- Họ đang chơi.
+- Chúng ta cùng đi.
+= "Ai" là đại từ nghi vấn.
+
+## Chủ điểm Nghệ thuật muôn màu (1): Đọc hiểu
+> Tiếng đàn bầu ngân lên trong đêm trăng. Chỉ một dây đàn mà khi trầm như lời ru của mẹ, khi bổng như tiếng chim gọi bầy. Người nghệ sĩ khẽ rung cần đàn, âm thanh như thấm vào lòng người, gợi nhớ quê hương da diết.
+?1 Đàn bầu có mấy dây?
++ một dây
+- hai dây
+- ba dây
+- sáu dây
+= Câu thứ hai.
+?1 Tiếng đàn khi trầm được so sánh với:
++ lời ru của mẹ
+- tiếng sấm
+- tiếng trống
+- tiếng còi xe
+= Biện pháp so sánh.
+?2 Tiếng đàn khi bổng được so sánh với:
++ tiếng chim gọi bầy
+- tiếng gió bão
+- tiếng sóng biển
+- tiếng mưa rào
+= Biện pháp so sánh.
+?2 Tiếng đàn gợi cho người nghe cảm xúc gì?
++ nhớ quê hương da diết
+- sợ hãi
+- tức giận
+- buồn ngủ
+= Câu cuối.
+?3 Cặp từ trái nghĩa trong bài là:
++ trầm – bổng
+- trăng – đêm
+- đàn – dây
+- mẹ – chim
+= Trái nghĩa.
+>-
+?3 Đàn bầu là nhạc cụ:
++ truyền thống của dân tộc Việt Nam
+- của phương Tây
+- điện tử hiện đại
+- chỉ có ở châu Phi
+= Hiểu biết chung.
+?3 Từ "da diết" có nghĩa là:
++ thấm thía, dai dẳng, không nguôi
+- nhẹ nhàng thoáng qua
+- vui sướng
+- nhanh chóng
+= Nghĩa của từ.
+?4 Hiệu quả của việc dùng nhiều hình ảnh so sánh trong đoạn văn là:
++ giúp người đọc hình dung rõ và cảm nhận âm thanh của tiếng đàn
+- làm đoạn văn khó hiểu
+- làm đoạn văn ngắn hơn
+- không có tác dụng
+= Tác dụng của so sánh.
+
+## Chủ điểm Nghệ thuật muôn màu (2): Kết từ
+?1 Kết từ là từ:
++ dùng để nối các từ ngữ hoặc các câu
+- chỉ sự vật
+- chỉ hoạt động
+- chỉ đặc điểm
+= Khái niệm.
+?1 Từ nào là kết từ?
++ và
+- đẹp
+- chạy
+- bàn
+= Kết từ.
+?2 Cặp kết từ "vì … nên …" biểu thị quan hệ:
++ nguyên nhân – kết quả
+- tương phản
+- điều kiện – kết quả
+- tăng tiến
+= Quan hệ từ.
+?2 Cặp kết từ "tuy … nhưng …" biểu thị quan hệ:
++ tương phản
+- nguyên nhân – kết quả
+- giả thiết – kết quả
+- lựa chọn
+= Quan hệ từ.
+?2 Chọn kết từ thích hợp: "Em thích vẽ … em vẽ rất đẹp."
++ và
+- nhưng
+- hoặc
+- tuy
+= Quan hệ bổ sung.
+?3 Chọn kết từ: "… trời mưa to … trận đấu vẫn diễn ra."
++ Tuy … nhưng
+- Vì … nên
+- Nếu … thì
+- Không những … mà còn
+= Tương phản.
+?3 Chọn kết từ: "… em chăm học … em sẽ tiến bộ."
++ Nếu … thì
+- Tuy … nhưng
+- Vì … mà
+- Hoặc … hoặc
+= Giả thiết – kết quả.
+?4 Câu nào dùng sai kết từ?
++ Vì trời mưa nhưng em vẫn đi học.
+- Vì trời mưa nên đường trơn.
+- Tuy trời mưa nhưng em vẫn đi học.
+- Nếu trời mưa thì em mang áo mưa.
+= "Vì" phải đi với "nên".

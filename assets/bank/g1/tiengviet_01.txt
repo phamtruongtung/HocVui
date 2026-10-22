@@ -1,0 +1,604 @@
+// Tiếng Việt 1 – Kết nối tri thức với cuộc sống – Tập 1 (âm, chữ, vần)
+// Câu hỏi rất ngắn; học kì 1 bố mẹ nên đọc cùng con.
+#! HK1
+# Học kì 1
+
+## Bài 1–6. Âm a, b, c, o, ô, ơ và dấu thanh
+?1 Tiếng "bà" có dấu thanh gì?
++ dấu huyền
+- dấu sắc
+- dấu hỏi
+- dấu nặng
+= bà: dấu huyền ( ` ).
+?1 Tiếng "cá" có dấu thanh gì?
++ dấu sắc
+- dấu huyền
+- dấu ngã
+- dấu nặng
+= cá: dấu sắc ( ´ ).
+?1 Tiếng nào bắt đầu bằng chữ b?
++ bò
+- cò
+- cỏ
+- ô
+= bò: b + o + dấu huyền.
+?1 Tiếng nào có chữ ô?
++ cô
+- co
+- cơ
+- ca
+= cô có ô.
+?2 Tiếng "cỏ" có dấu thanh gì?
++ dấu hỏi
+- dấu ngã
+- dấu sắc
+- dấu nặng
+= cỏ: dấu hỏi.
+?2 Chữ nào còn thiếu: "con …ò" (con vật kéo cày)?
++ b
+- c
+- o
+- ô
+= con bò.
+?3 Tiếng nào có dấu nặng?
++ bọ
+- bỏ
+- bõ
+- bó
+= Dấu nặng ở dưới chữ o.
+?4 Ghép b + a + dấu ngã được tiếng:
++ bã
+- bà
+- bả
+- bá
+= Dấu ngã ( ~ ).
+
+## Bài 7–10. Âm d, đ, e, ê, i, k, h, l
+?1 Tiếng nào bắt đầu bằng chữ đ?
++ đi
+- di
+- li
+- hi
+= đ có nét gạch ngang.
+?1 Tiếng nào có chữ ê?
++ lê
+- le
+- li
+- la
+= quả lê.
+?1 Tiếng "hè" bắt đầu bằng chữ:
++ h
+- l
+- k
+- đ
+= h + e + dấu huyền.
+?2 Chọn chữ đúng: "…ẻ" (cái thước để kẻ dòng)
++ k
+- c
+- h
+- l
+= Đứng trước e, ê, i viết là k.
+?2 Chọn cách viết đúng:
++ kê
+- cê
+- quê ê
+- kơ ê
+= k đứng trước ê.
+?3 Chọn cách viết đúng:
++ cá
+- ká
+- kả
+- kà
+= Đứng trước a viết là c.
+?3 Tiếng nào có âm d?
++ dê
+- đê
+- lê
+- kê
+= con dê.
+?4 Câu "Bé đi bộ." có mấy tiếng?
++ 3
+- 2
+- 4
+- 5
+= Bé / đi / bộ.
+
+## Bài 11–15. Âm m, n, g, gh, gi, ng, ngh
+?1 Tiếng nào bắt đầu bằng chữ m?
++ mẹ
+- nẹ
+- bẹ
+- dẹ
+= m + e + dấu nặng.
+?1 Tiếng "nơ" bắt đầu bằng chữ:
++ n
+- m
+- g
+- h
+= cái nơ.
+?2 Chọn chữ đúng: "…à mái" (con vật đẻ trứng)
++ g
+- gh
+- ng
+- ngh
+= Đứng trước a viết g: gà.
+?2 Chọn chữ đúng: "…ế gỗ" (để ngồi)
++ gh
+- g
+- ng
+- gi
+= Đứng trước e, ê, i viết gh: ghế.
+?2 Chọn chữ đúng: "…ỉ hè" (được nghỉ học)
++ ngh
+- ng
+- gh
+- g
+= Đứng trước e, ê, i viết ngh: nghỉ.
+?3 Chọn cách viết đúng:
++ ngõ nhỏ
+- nghõ nhỏ
+- gõ nhỏ ng
+- ngh õ nhỏ
+= Đứng trước o viết ng.
+?3 Tiếng nào bắt đầu bằng gi?
++ giỏ
+- dỏ
+- ghỏ
+- gỏ
+= cái giỏ.
+?4 Chọn câu viết đúng chính tả:
++ Bé ghi nhớ bài.
+- Bé gi nhớ bài.
+- Bé gh nhớ bài.
+- Bé ngi nhớ bài.
+= ghi: gh đứng trước i.
+
+## Bài 16–20. Âm nh, p, ph, qu, r, s, t, th, tr
+?1 Tiếng "nhà" bắt đầu bằng:
++ nh
+- n
+- ng
+- h
+= nh + a + dấu huyền.
+?1 Tiếng nào bắt đầu bằng ph?
++ phố
+- bố
+- tố
+- số
+= phố: ph.
+?1 Chữ q luôn đi cùng chữ nào?
++ u (thành qu)
+- a
+- e
+- o
+= qu: quê, quà.
+?2 Tiếng nào bắt đầu bằng tr?
++ tre
+- che
+- te
+- the
+= cây tre.
+?2 Tiếng nào bắt đầu bằng th?
++ thỏ
+- tỏ
+- trỏ
+- phỏ
+= con thỏ.
+?3 Chọn chữ đúng: "…ả cam" (để ăn)
++ qu
+- q
+- c
+- k
+= quả cam.
+?3 Tiếng nào có âm r?
++ rổ
+- số
+- tổ
+- phổ
+= cái rổ.
+?4 Câu "Nhà bà có lũ gà." có mấy tiếng?
++ 5
+- 4
+- 6
+- 3
+= Nhà / bà / có / lũ / gà.
+
+## Bài 21–25. Âm u, ư, v, x, y, ch, kh
+?1 Tiếng nào có chữ ư?
++ thư
+- thu
+- tha
+- thi
+= lá thư.
+?1 Tiếng nào bắt đầu bằng ch?
++ chó
+- tró
+- khó
+- nhó
+= con chó.
+?1 Tiếng nào bắt đầu bằng kh?
++ khế
+- chế
+- thế
+- nhế
+= quả khế.
+?2 Tiếng nào bắt đầu bằng v?
++ vở
+- bở
+- dở
+- xở
+= quyển vở.
+?2 Tiếng nào bắt đầu bằng x?
++ xe
+- se
+- che
+- ve
+= xe đạp.
+?3 Chọn chữ đúng: "…ú ý" (cô giáo dặn: … ý nghe giảng)
++ ch
+- tr
+- kh
+- th
+= chú ý.
+?3 Từ nào có chữ y?
++ y tá
+- ô tô
+- xe ca
+- bi ve
+= y tá: chữ y dài.
+?4 Chọn câu viết đúng:
++ Bé vẽ xe ô tô.
+- Bé vẻ xe ô tô.
+- Bé vẽ se ô tô.
+- Bé dẽ xe ô tô.
+= vẽ (dấu ngã), xe.
+
+## Bài 26–30. Vần an, ăn, ân, on, ôn, ơn, en, ên, in, un
+?1 Tiếng "bàn" có vần gì?
++ an
+- ăn
+- ân
+- on
+= b + an + dấu huyền.
+?1 Tiếng "con" có vần gì?
++ on
+- ôn
+- ơn
+- an
+= c + on.
+?1 Tiếng nào có vần ăn?
++ khăn
+- khan
+- khân
+- khôn
+= cái khăn.
+?2 Tiếng nào có vần ên?
++ nến
+- nén
+- nín
+- nắn
+= cây nến.
+?2 Tiếng nào có vần un?
++ giun
+- gian
+- gin
+- giăn
+= con giun.
+?3 Chọn vần đúng: "con l…" (con vật kêu ủn ỉn)
++ ợn
+- ạn
+- ặn
+- ịn
+= con lợn: vần ơn.
+?3 Tiếng "sân" có vần gì?
++ ân
+- an
+- ăn
+- ơn
+= s + ân.
+?4 Câu "Mẹ mua bàn ghế mới." có mấy tiếng có vần an?
++ 1
+- 2
+- 0
+- 3
+= Chỉ có "bàn".
+
+## Bài 31–35. Vần am, ăm, âm, om, ôm, ơm, em, êm, im, um
+?1 Tiếng "cam" có vần gì?
++ am
+- ăm
+- an
+- om
+= quả cam.
+?1 Tiếng nào có vần ôm?
++ tôm
+- tơm
+- tom
+- tâm
+= con tôm.
+?2 Tiếng nào có vần ăm?
++ tắm
+- tám
+- tấm
+- tím
+= tắm: vần ăm.
+?2 Tiếng nào có vần im?
++ chim
+- chem
+- chum
+- châm
+= con chim.
+?2 Tiếng "đêm" có vần gì?
++ êm
+- em
+- im
+- âm
+= ban đêm.
+?3 Chọn tiếng đúng: "Bé … mẹ thật chặt."
++ ôm
+- om
+- âm
+- ơm
+= Bé ôm mẹ: vần ôm.
+?3 Tiếng nào khác vần với ba tiếng còn lại: cơm, thơm, sớm, cam?
++ cam
+- cơm
+- thơm
+- sớm
+= cam có vần am; các tiếng kia vần ơm.
+?4 Câu "Bé ăn cơm thơm." có mấy tiếng có vần ơm?
++ 2
+- 1
+- 3
+- 0
+= cơm, thơm.
+
+## Bài 36–40. Vần ai, ay, ây, oi, ôi, ơi, ui, ưi
+?1 Tiếng "tai" có vần gì?
++ ai
+- ay
+- ây
+- oi
+= cái tai.
+?1 Tiếng nào có vần ay?
++ tay
+- tai
+- tây
+- tôi
+= bàn tay.
+?2 Tiếng nào có vần ây?
++ mây
+- may
+- mai
+- môi
+= đám mây.
+?2 Tiếng nào có vần ôi?
++ đôi
+- đơi
+- đoi
+- đai
+= đôi dép.
+?2 Tiếng "gửi" có vần gì?
++ ưi
+- ui
+- ơi
+- ôi
+= gửi thư.
+?3 Chọn tiếng đúng để điền: "Bé … cầu trượt."
++ chơi
+- chôi
+- choi
+- chai
+= Bé chơi cầu trượt: vần ơi.
+?3 Tiếng nào khác vần với ba tiếng còn lại: núi, túi, mũi, gửi?
++ gửi
+- núi
+- túi
+- mũi
+= gửi có vần ưi; các tiếng kia vần ui.
+?4 Chọn câu viết đúng:
++ Gió thổi mây bay.
+- Gió thổi mai bay.
+- Gió thổi mây bai.
+- Gió thổi may bây.
+= mây (ây), bay (ay).
+
+## Bài 41–45. Vần ao, eo, au, âu, iu, ưu, êu, iêu, yêu
+?1 Tiếng "sao" có vần gì?
++ ao
+- au
+- eo
+- âu
+= ngôi sao.
+?1 Tiếng nào có vần eo?
++ mèo
+- màu
+- mào
+- mầu
+= con mèo.
+?2 Tiếng nào có vần âu?
++ cầu
+- càu
+- cào
+- kều
+= cây cầu.
+?2 Tiếng nào có vần au?
++ rau
+- râu
+- rao
+- reo
+= rau xanh.
+?2 Tiếng "rìu" có vần gì?
++ iu
+- ưu
+- êu
+- ui
+= cái rìu.
+?3 Tiếng nào có vần iêu?
++ diều
+- dều
+- dìu
+- dâu
+= cánh diều.
+?3 Tiếng nào khác vần với ba tiếng còn lại: chào, báo, cáo, kéo?
++ kéo
+- chào
+- báo
+- cáo
+= kéo có vần eo; các tiếng kia vần ao.
+?4 Câu "Bé yêu mẹ nhiều." có mấy tiếng có vần iêu hoặc yêu?
++ 2
+- 1
+- 3
+- 0
+= yêu, nhiều.
+
+## Bài 46–50. Vần ang, ăng, âng, ong, ông, ung, ưng, anh, ênh, inh
+?1 Tiếng "trăng" có vần gì?
++ ăng
+- ang
+- âng
+- ong
+= ông trăng.
+?1 Tiếng nào có vần ong?
++ bóng
+- báng
+- bống
+- bứng
+= quả bóng.
+?2 Tiếng nào có vần anh?
++ chanh
+- chăng
+- chinh
+- chênh
+= quả chanh.
+?2 Tiếng nào có vần ông?
++ sông
+- sung
+- sang
+- sưng
+= dòng sông.
+?2 Tiếng "kính" có vần gì?
++ inh
+- ênh
+- anh
+- ing
+= đeo kính.
+?3 Chọn tiếng đúng để điền: "Em … ông bà." (chúc Tết, đi thăm)
++ thăm
+- thâm
+- tham
+- thơm
+= thăm ông bà.
+?3 Tiếng nào khác vần với ba tiếng còn lại: lưng, mừng, chứng, bông?
++ bông
+- lưng
+- mừng
+- chứng
+= bông có vần ông; các tiếng kia vần ưng.
+?4 Chọn câu viết đúng:
++ Bé đi xem trăng sáng.
+- Bé đi xem trăn sáng.
+- Bé đi xem chăng sáng.
+- Bé đi xem trăng xáng.
+= trăng, sáng.
+
+## Bài 51–55. Vần có c, ch, t, p (ac, oc, uc, ach, ich, at, ot, ut, ap, op, ep…)
+?1 Tiếng "hạc" có vần gì?
++ ac
+- at
+- ap
+- ach
+= con hạc.
+?1 Tiếng nào có vần ot?
++ hót
+- hát
+- hớt
+- hốt
+= chim hót.
+?2 Tiếng nào có vần ach?
++ sách
+- séch
+- sích
+- sắc
+= quyển sách.
+?2 Tiếng nào có vần ep?
++ dép
+- dấp
+- dóp
+- díp
+= đôi dép.
+?2 Tiếng "lịch" có vần gì?
++ ich
+- êch
+- ach
+- it
+= tờ lịch.
+?3 Chọn tiếng đúng để điền: "Em … múa."
++ tập
+- tậc
+- tật
+- tạch
+= tập múa: vần âp.
+?3 Tiếng nào khác vần với ba tiếng còn lại: bút, mút, phút, hát?
++ hát
+- bút
+- mút
+- phút
+= hát vần at; các tiếng kia vần ut.
+?4 Chọn câu viết đúng:
++ Bé đọc sách rất chăm chú.
+- Bé đọt sách rất chăm chú.
+- Bé đọc sát rất chăm chú.
+- Bé đọc xách rất chăm chú.
+= đọc (oc), sách (ach).
+
+## Bài 56–60. Vần iên, iêt, uôn, uôt, ươn, ươt, ia, ua, ưa
+?1 Tiếng "tiên" có vần gì?
++ iên
+- iêt
+- in
+- ên
+= cô tiên.
+?1 Tiếng nào có vần uôn?
++ chuồn
+- chuộn
+- chơn
+- chân
+= chuồn chuồn.
+?2 Tiếng nào có vần ươn?
++ vườn
+- vuồn
+- vờn
+- vươt
+= khu vườn.
+?2 Tiếng nào có vần ưa?
++ mưa
+- mua
+- mia
+- mơ
+= trời mưa.
+?2 Tiếng "chuột" có vần gì?
++ uôt
+- uôn
+- ươt
+- ut
+= con chuột.
+?3 Chọn tiếng đúng: "Mẹ đi chợ … rau." (để ăn)
++ mua
+- mưa
+- mia
+- muồn
+= mua rau: vần ua.
+?3 Tiếng nào khác vần với ba tiếng còn lại: biển, điện, kiến, thuyền?
++ thuyền
+- biển
+- điện
+- kiến
+= thuyền vần uyên; các tiếng kia vần iên.
+?4 Chọn câu viết đúng:
++ Trời mưa, em mặc áo mưa.
+- Trời mua, em mặc áo mưa.
+- Trời mưa, em mặc áo mua.
+- Trời mư, em mặc áo mưa.
+= mưa (ưa); mua là mua bán.

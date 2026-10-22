@@ -1,0 +1,505 @@
+// Khoa học 5 – Kết nối tri thức với cuộc sống
+#! HK1
+# Chủ đề 1. Chất
+
+## Bài 1. Thành phần và vai trò của đất đối với cây trồng
+?1 Đất có thành phần gồm:
++ chất khoáng, mùn, nước, không khí và sinh vật
+- chỉ có cát
+- chỉ có nước
+- chỉ có đá
+= Thành phần của đất.
+?1 Đất có vai trò đối với cây trồng là:
++ giữ cho cây đứng vững, cung cấp nước và chất dinh dưỡng
+- làm cây chết
+- không có vai trò gì
+- chỉ để trang trí
+= Vai trò của đất.
+?2 Mùn trong đất được tạo thành từ:
++ xác động vật, thực vật bị phân hủy
+- đá vụn
+- nhựa
+- kim loại
+= Nguồn gốc mùn.
+?2 Giun đất có ích cho đất vì:
++ làm đất tơi xốp, thoáng khí
+- làm đất cứng lại
+- ăn hết rễ cây
+- làm đất bạc màu
+= Sinh vật trong đất.
+?2 Loại đất thường màu mỡ, thích hợp trồng lúa là:
++ đất phù sa
+- đất cát khô
+- đất sỏi đá
+- đất nhiễm mặn
+= Loại đất.
+?3 Đất có nhiều mùn thường có màu:
++ sẫm (nâu đen)
+- trắng
+- xanh lá
+- tím
+= Nhận biết đất tốt.
+?3 Cho đất vào nước khuấy đều, thấy có bọt khí nổi lên, chứng tỏ trong đất có:
++ không khí
+- đường
+- dầu
+- muối
+= Thí nghiệm.
+?4 Vì sao người nông dân thường bón phân hữu cơ cho đất?
++ để tăng chất dinh dưỡng, giúp đất tơi xốp, màu mỡ
+- để đất cứng hơn
+- để diệt hết giun đất
+- để đất bạc màu
+= Cải tạo đất.
+
+## Bài 2. Ô nhiễm, xói mòn đất và bảo vệ môi trường đất
+?1 Nguyên nhân gây ô nhiễm đất là:
++ rác thải, thuốc trừ sâu, phân bón hóa học dùng quá mức
+- trồng cây xanh
+- bón phân hữu cơ hợp lí
+- làm ruộng bậc thang
+= Nguyên nhân.
+?1 Xói mòn đất thường xảy ra ở:
++ đồi núi trọc, đất dốc không có cây che phủ
+- đồng bằng có rừng
+- ruộng lúa nước
+- vườn cây xanh tốt
+= Nơi dễ xói mòn.
+?2 Biện pháp chống xói mòn đất là:
++ trồng rừng, làm ruộng bậc thang
+- chặt phá rừng
+- đốt nương làm rẫy
+- để đất trống
+= Bảo vệ đất.
+?2 Đất bị ô nhiễm ảnh hưởng tới:
++ cây trồng và sức khỏe con người
+- chỉ con giun
+- không ai
+- chỉ đá
+= Tác hại.
+?2 Rác thải nhựa chôn trong đất:
++ rất lâu phân hủy, gây ô nhiễm đất
+- phân hủy ngay trong một ngày
+- làm đất tốt hơn
+- thành phân bón
+= Tác hại rác nhựa.
+?3 Vì sao cần phân loại rác trước khi xử lí?
++ để tái chế, giảm lượng rác chôn lấp và ô nhiễm đất
+- để rác nhiều hơn
+- để tốn thời gian
+- không cần thiết
+= Ý nghĩa.
+?3 Trồng cây trên đất dốc giúp chống xói mòn vì:
++ rễ cây giữ đất, lá cây giảm sức nước mưa
+- cây hút hết đất
+- cây làm đất trơn
+- không có tác dụng
+= Giải thích.
+?4 Em có thể làm gì để bảo vệ môi trường đất?
++ bỏ rác đúng nơi, ủ rác hữu cơ làm phân, trồng cây
+- vứt pin cũ xuống đất
+- đốt rác nhựa
+- chặt cây
+= Hành động thiết thực.
+
+## Bài 3. Hỗn hợp và dung dịch
+?1 Hỗn hợp là:
++ hai hay nhiều chất trộn lẫn mà mỗi chất vẫn giữ nguyên tính chất
+- một chất nguyên chất
+- chỉ có nước
+- một chất mới hoàn toàn
+= Khái niệm.
+?1 Dung dịch là:
++ hỗn hợp chất lỏng với chất hòa tan, đồng nhất
+- cát trộn với sỏi
+- gạo lẫn thóc
+- dầu nổi trên nước
+= Khái niệm.
+?2 Ví dụ về dung dịch là:
++ nước muối
+- cát trộn sỏi
+- gạo lẫn trấu
+- dầu với nước
+= Dung dịch.
+?2 Để tách cát ra khỏi nước, ta dùng cách:
++ lọc
+- khuấy đều
+- đun sôi rồi khuấy
+- thêm muối
+= Tách chất.
+?2 Để tách muối khỏi nước muối, ta làm:
++ đun cho nước bay hơi hết
+- lọc qua giấy
+- để lắng
+- khuấy mạnh
+= Tách chất.
+?3 Gạo lẫn sạn, muốn tách sạn người ta thường:
++ đãi gạo trong nước
+- đun sôi
+- cho vào tủ lạnh
+- trộn thêm cát
+= Tách hỗn hợp.
+?3 Dầu ăn và nước trộn lẫn tạo thành:
++ hỗn hợp, dầu nổi lên trên
+- dung dịch đồng nhất
+- một chất mới
+- muối
+= Không hòa tan.
+?4 Người làm muối thu được muối từ nước biển bằng cách:
++ để nước biển bay hơi dưới nắng
+- lọc nước biển qua cát
+- đun nước biển bằng điện là duy nhất
+- khuấy nước biển
+= Ứng dụng tách chất.
+
+## Bài 4. Sự biến đổi trạng thái của chất
+?1 Chất có thể tồn tại ở các thể:
++ rắn, lỏng, khí
+- chỉ rắn
+- chỉ lỏng
+- chỉ khí
+= Ba thể.
+?1 Nước đá tan thành nước lỏng là sự:
++ nóng chảy
+- đông đặc
+- bay hơi
+- ngưng tụ
+= Chuyển thể.
+?2 Nước lỏng chuyển thành nước đá khi:
++ nhiệt độ hạ thấp (khoảng 0 °C)
+- đun nóng
+- để ngoài nắng
+- khuấy mạnh
+= Đông đặc.
+?2 Sáp nến khi đốt nóng chảy thành lỏng, để nguội lại đông đặc. Đây là sự biến đổi:
++ lí học (trạng thái)
+- hóa học
+- sinh học
+- không biến đổi
+= Biến đổi trạng thái.
+?2 Hơi nước gặp lạnh thành giọt nước là sự:
++ ngưng tụ
+- bay hơi
+- nóng chảy
+- đông đặc
+= Chuyển thể.
+?3 Khi biến đổi trạng thái, chất:
++ vẫn giữ nguyên là chất đó
+- biến thành chất khác
+- biến mất
+- tăng gấp đôi
+= Biến đổi lí học.
+?3 Mùa đông, hơi thở có "khói" trắng vì:
++ hơi nước trong hơi thở gặp lạnh ngưng tụ thành hạt nước nhỏ
+- trong người có lửa
+- không khí bị đốt cháy
+- do bụi
+= Giải thích.
+?4 Đun chảy thiếc rồi đổ vào khuôn để nguội tạo thành vật. Quá trình gồm:
++ nóng chảy rồi đông đặc
+- bay hơi rồi ngưng tụ
+- đông đặc rồi nóng chảy
+- chỉ bay hơi
+= Ứng dụng.
+
+## Bài 5. Sự biến đổi hóa học
+?1 Biến đổi hóa học là:
++ sự biến đổi tạo thành chất mới
+- chỉ thay đổi hình dạng
+- chỉ thay đổi trạng thái
+- không thay đổi gì
+= Khái niệm.
+?1 Ví dụ về biến đổi hóa học là:
++ đốt tờ giấy thành tro
+- xé nhỏ tờ giấy
+- nước đá tan
+- bẻ gãy que tính
+= Tạo chất mới.
+?2 Đinh sắt để lâu ngoài không khí ẩm bị gỉ là:
++ biến đổi hóa học
+- biến đổi trạng thái
+- không biến đổi
+- biến đổi hình dạng
+= Tạo chất mới (gỉ sắt).
+?2 Hòa tan đường vào nước là:
++ biến đổi lí học
+- biến đổi hóa học
+- tạo chất mới
+- không có biến đổi
+= Đường vẫn là đường.
+?2 Nấu cơm từ gạo là:
++ biến đổi hóa học
+- biến đổi lí học
+- chỉ thay đổi trạng thái
+- không biến đổi
+= Gạo thành cơm, không trở lại như cũ.
+?3 Dấu hiệu nhận biết biến đổi hóa học là:
++ có chất mới tạo thành: đổi màu, có khí, tỏa nhiệt…
+- vật bị cắt nhỏ
+- vật bị uốn cong
+- nước bị đông lạnh
+= Dấu hiệu.
+?3 Để đinh sắt không bị gỉ, người ta thường:
++ sơn hoặc bôi dầu mỡ
+- ngâm trong nước
+- để nơi ẩm ướt
+- rắc muối
+= Chống gỉ.
+?4 Quả chuối chín từ xanh sang vàng, mềm và ngọt hơn là ví dụ về:
++ biến đổi hóa học
+- biến đổi lí học đơn thuần
+- biến đổi trạng thái
+- không có biến đổi
+= Tạo chất mới trong quả.
+
+# Chủ đề 2. Năng lượng
+
+## Bài 6. Vai trò của năng lượng
+?1 Năng lượng cần cho:
++ mọi hoạt động của con người, máy móc, sinh vật
+- chỉ máy móc
+- chỉ con người
+- không cần thiết
+= Vai trò.
+?1 Con người lấy năng lượng để hoạt động từ:
++ thức ăn
+- không khí là duy nhất
+- ánh trăng
+- nước lã là duy nhất
+= Năng lượng cho cơ thể.
+?2 Ô tô chạy được nhờ năng lượng từ:
++ xăng, dầu hoặc điện
+- gió thổi
+- ánh trăng
+- nước mưa
+= Nguồn năng lượng.
+?2 Cây xanh lấy năng lượng từ:
++ ánh sáng Mặt Trời
+- bóng tối
+- tiếng động
+- gió lạnh
+= Quang hợp.
+?2 Các dạng năng lượng thường gặp là:
++ năng lượng điện, nhiệt, ánh sáng, gió, nước chảy
+- chỉ năng lượng điện
+- chỉ năng lượng gió
+- không có dạng nào
+= Các dạng năng lượng.
+?3 Thiết bị biến điện năng thành nhiệt năng là:
++ bàn là, nồi cơm điện
+- quạt điện
+- bóng đèn LED chủ yếu
+- loa
+= Chuyển hóa năng lượng.
+?3 Quạt điện biến điện năng chủ yếu thành:
++ năng lượng chuyển động (làm cánh quay)
+- ánh sáng
+- âm thanh là chính
+- nhiệt là chính
+= Chuyển hóa năng lượng.
+?4 Vì sao cần sử dụng năng lượng tiết kiệm?
++ vì nhiều nguồn năng lượng có hạn và việc sử dụng gây ô nhiễm môi trường
+- vì năng lượng vô tận
+- vì năng lượng không có ích
+- không cần tiết kiệm
+= Ý nghĩa.
+
+## Bài 7. Năng lượng điện. Mạch điện đơn giản
+?1 Mạch điện đơn giản gồm:
++ nguồn điện (pin), dây dẫn, bóng đèn, công tắc
+- chỉ có bóng đèn
+- chỉ có pin
+- chỉ có dây
+= Thành phần mạch điện.
+?1 Vật dẫn điện là:
++ đồng, nhôm, sắt
+- nhựa
+- cao su
+- gỗ khô
+= Kim loại dẫn điện.
+?2 Vật cách điện là:
++ nhựa, cao su, sứ, gỗ khô
+- đồng
+- nhôm
+- sắt
+= Vật cách điện.
+?2 Bóng đèn sáng khi mạch điện:
++ kín (được nối liền)
+- hở
+- bị đứt dây
+- không có pin
+= Điều kiện đèn sáng.
+?2 Công tắc trong mạch điện dùng để:
++ đóng, ngắt dòng điện
+- tạo ra điện
+- tăng điện
+- làm đèn sáng hơn
+= Chức năng công tắc.
+?3 Vỏ dây điện thường làm bằng nhựa vì:
++ nhựa cách điện, an toàn khi sử dụng
+- nhựa dẫn điện tốt
+- nhựa rẻ nhất
+- để trang trí
+= Ứng dụng.
+?3 Lõi dây điện thường làm bằng đồng vì:
++ đồng dẫn điện tốt
+- đồng cách điện
+- đồng nhẹ nhất
+- đồng có màu đẹp
+= Ứng dụng.
+?4 Mắc mạch điện mà bóng đèn không sáng. Nguyên nhân có thể là:
++ pin hết điện, dây bị hở hoặc bóng đèn bị hỏng
+- mạch quá kín
+- bóng đèn quá mới
+- công tắc đã đóng đúng
+= Kiểm tra mạch.
+
+## Bài 8. Sử dụng năng lượng điện an toàn và tiết kiệm
+?1 Để an toàn khi dùng điện, em không được:
++ chạm tay ướt vào ổ điện, cắm vật kim loại vào ổ điện
+- tắt đèn khi ra khỏi phòng
+- nhờ người lớn sửa đồ điện
+- dùng đồ điện đúng cách
+= An toàn điện.
+?1 Tiết kiệm điện bằng cách:
++ tắt các thiết bị khi không dùng
+- bật đèn cả ngày
+- mở tủ lạnh liên tục
+- bật điều hòa khi đi vắng
+= Tiết kiệm điện.
+?2 Khi thấy người bị điện giật, em cần:
++ ngắt nguồn điện hoặc dùng vật cách điện tách người đó ra, gọi người lớn
+- dùng tay kéo người đó ra ngay
+- dội nước vào
+- bỏ chạy
+= Sơ cứu.
+?2 Không nên chơi thả diều gần:
++ đường dây điện
+- bãi cỏ rộng
+- sân vận động
+- bờ đê trống
+= An toàn điện.
+?2 Bóng đèn tiết kiệm điện là:
++ đèn LED
+- đèn dây tóc
+- đèn dầu
+- nến
+= Thiết bị tiết kiệm.
+?3 Vì sao không nên sạc điện thoại qua đêm cạnh gối?
++ có thể gây cháy nổ nguy hiểm
+- vì tốn sạc
+- vì điện thoại buồn
+- không có lí do
+= An toàn.
+?3 Dùng ánh sáng tự nhiên ban ngày thay cho đèn điện giúp:
++ tiết kiệm điện
+- tốn điện
+- hại mắt
+- không có lợi
+= Tiết kiệm.
+?4 Nhà em dùng bóng đèn 40 W, mỗi ngày 5 giờ. Điện năng tiêu thụ mỗi ngày là:
++ 200 W.h (0,2 kWh)
+- 45 W.h
+- 8 W.h
+- 2000 W.h
+= 40 × 5.
+
+## Bài 9. Năng lượng chất đốt
+?1 Chất đốt gồm:
++ than, củi, xăng, dầu, khí ga
+- nước
+- cát
+- đá vôi
+= Các loại chất đốt.
+?1 Chất đốt ở thể khí là:
++ khí ga, khí sinh học (biogas)
+- than đá
+- củi
+- dầu hỏa
+= Phân loại.
+?2 Đốt chất đốt tạo ra:
++ nhiệt và ánh sáng, đồng thời thải khí, khói
+- chỉ nước
+- chỉ gió
+- không tạo ra gì
+= Năng lượng chất đốt.
+?2 Khí sinh học (biogas) được tạo ra từ:
++ phân, rác thải hữu cơ ủ kín
+- nước biển
+- cát
+- kim loại
+= Nguồn gốc biogas.
+?2 Chất đốt như than đá, dầu mỏ là nguồn năng lượng:
++ có hạn, sẽ cạn kiệt
+- vô tận
+- tái tạo nhanh
+- không gây ô nhiễm
+= Tài nguyên.
+?3 Đun bếp than trong phòng kín có thể gây:
++ ngộ độc khí độc, nguy hiểm tính mạng
+- ấm áp an toàn tuyệt đối
+- không ảnh hưởng
+- làm sạch không khí
+= An toàn khi dùng chất đốt.
+?3 Khi phát hiện rò rỉ khí ga, cần:
++ khóa van ga, mở cửa thông gió, không bật lửa hay công tắc điện
+- bật đèn để xem
+- bật bếp thử
+- đóng kín cửa
+= An toàn khí ga.
+?4 Vì sao nên dùng bếp đun cải tiến, tiết kiệm chất đốt?
++ để tiết kiệm tài nguyên, giảm khói bụi ô nhiễm
+- để tốn thêm củi
+- để nấu lâu hơn
+- không có tác dụng
+= Sử dụng hợp lí.
+
+## Bài 10. Năng lượng mặt trời, gió và nước chảy
+?1 Năng lượng mặt trời có thể dùng để:
++ phơi khô, làm nóng nước, phát điện (pin mặt trời)
+- tạo ra gió lạnh
+- làm tuyết
+- tạo ra bóng tối
+= Ứng dụng.
+?1 Năng lượng gió có thể dùng để:
++ phát điện, đẩy thuyền buồm, quay cối xay gió
+- nấu ăn trực tiếp
+- chiếu sáng trực tiếp
+- làm đông nước
+= Ứng dụng.
+?2 Nhà máy thủy điện sử dụng năng lượng:
++ nước chảy
+- gió
+- mặt trời
+- than đá
+= Thủy điện.
+?2 Năng lượng mặt trời, gió, nước chảy là năng lượng:
++ sạch, tái tạo
+- gây ô nhiễm nặng
+- sẽ cạn kiệt nhanh
+- không dùng được
+= Năng lượng tái tạo.
+?2 Pin mặt trời biến năng lượng ánh sáng thành:
++ điện năng
+- nhiệt năng duy nhất
+- âm thanh
+- nước
+= Chuyển hóa năng lượng.
+?3 Nhược điểm của năng lượng mặt trời là:
++ phụ thuộc thời tiết, ban đêm không có nắng
+- gây ô nhiễm nặng
+- sẽ cạn kiệt ngay
+- rất độc hại
+= Hạn chế.
+?3 Guồng nước (cọn nước) ở miền núi dùng năng lượng:
++ nước chảy
+- gió
+- mặt trời
+- điện
+= Ứng dụng truyền thống.
+?4 Vì sao nên phát triển năng lượng mặt trời, gió?
++ vì sạch, không cạn kiệt, giảm ô nhiễm so với than đá, dầu mỏ
+- vì đắt tiền
+- vì gây ô nhiễm
+- vì dùng mãi sẽ hết
+= Ý nghĩa.

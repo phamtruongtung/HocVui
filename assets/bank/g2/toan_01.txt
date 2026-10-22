@@ -1,0 +1,763 @@
+// Toán 2 – Kết nối tri thức với cuộc sống – Tập 1
+#! HK1
+# Ôn tập và bổ sung
+
+## Bài 1. Ôn tập các số đến 100
+?1 Số "sáu mươi tám" viết là:
++ 68
+- 86
+- 608
+- 618
+= 6 chục và 8 đơn vị.
+?1 Số 90 gồm:
++ 9 chục và 0 đơn vị
+- 0 chục và 9 đơn vị
+- 90 chục
+- 9 đơn vị
+= Số tròn chục.
+?1 Số lớn nhất có hai chữ số khác nhau là:
++ 98
+- 99
+- 89
+- 90
+= Hai chữ số khác nhau: 9 và 8.
+?2 Viết 47 thành tổng chục và đơn vị:
++ 40 + 7
+- 4 + 7
+- 47 + 0
+- 70 + 4
+= 47 = 40 + 7.
+?2 Số bé nhất có hai chữ số giống nhau là:
++ 11
+- 10
+- 22
+- 99
+= 11.
+?3 Xếp các số 56, 65, 59, 60 từ lớn đến bé:
++ 65, 60, 59, 56
+- 56, 59, 60, 65
+- 65, 59, 60, 56
+- 60, 65, 59, 56
+= So sánh chục rồi đơn vị.
+?3 Có bao nhiêu số tròn chục bé hơn 50 (không kể số 0)?
++ 4
+- 5
+- 3
+- 6
+= 10, 20, 30, 40.
+?4 Số có hai chữ số, chữ số hàng chục là 7, chữ số hàng đơn vị kém chữ số hàng chục 3. Số đó là:
++ 74
+- 47
+- 710
+- 73
+= Đơn vị: 7 − 3 = 4.
+
+## Bài 2. Tia số. Số liền trước, số liền sau
+?1 Số liền sau của 79 là:
++ 80
+- 78
+- 70
+- 89
+= 79 + 1.
+?1 Số liền trước của 60 là:
++ 59
+- 61
+- 50
+- 69
+= 60 − 1.
+?2 Số liền trước của số bé nhất có hai chữ số là:
++ 9
+- 11
+- 10
+- 0
+= 10 − 1 = 9.
+?2 Trên tia số, số đứng giữa 34 và 36 là:
++ 35
+- 33
+- 37
+- 30
+= 34, 35, 36.
+?2 Số liền sau của 99 là:
++ 100
+- 98
+- 90
+- 101
+= 99 + 1.
+?3 Trên tia số mỗi vạch cách nhau 5 đơn vị: 0, 5, 10, …, 20. Số còn thiếu là:
++ 15
+- 11
+- 12
+- 25
+= Đếm thêm 5.
+?3 Tổng của số liền trước và số liền sau của 50 là:
++ 100
+- 99
+- 101
+- 50
+= 49 + 51 = 100.
+?4 Số liền sau của số lớn nhất có một chữ số là:
++ 10
+- 9
+- 8
+- 11
+= 9 + 1 = 10.
+
+## Bài 3. Các thành phần của phép cộng, phép trừ
+?1 Trong phép cộng 32 + 15 = 47, số 47 gọi là:
++ tổng
+- số hạng
+- hiệu
+- số bị trừ
+= Kết quả phép cộng là tổng.
+?1 Trong phép trừ 68 − 23 = 45, số 68 gọi là:
++ số bị trừ
+- số trừ
+- hiệu
+- tổng
+= Thành phần phép trừ.
+?1 Trong phép trừ 68 − 23 = 45, số 45 gọi là:
++ hiệu
+- tổng
+- số trừ
+- số hạng
+= Kết quả phép trừ là hiệu.
+?2 Tổng của 41 và 36 là:
++ 77
+- 5
+- 76
+- 87
+= 41 + 36.
+?2 Hiệu của 89 và 52 là:
++ 37
+- 141
+- 27
+- 31
+= 89 − 52.
+?3 Số hạng thứ nhất là 24, tổng là 59. Số hạng thứ hai là:
++ 35
+- 83
+- 25
+- 45
+= 59 − 24.
+?3 Số bị trừ là 76, hiệu là 30. Số trừ là:
++ 46
+- 106
+- 36
+- 56
+= 76 − 30.
+?4 Hiệu của số lớn nhất có hai chữ số và số bé nhất có hai chữ số là:
++ 89
+- 99
+- 90
+- 109
+= 99 − 10.
+
+## Bài 4. Hơn, kém nhau bao nhiêu
+?1 18 hơn 10 bao nhiêu đơn vị?
++ 8
+- 28
+- 10
+- 18
+= 18 − 10.
+?1 7 kém 15 bao nhiêu đơn vị?
++ 8
+- 22
+- 7
+- 9
+= 15 − 7.
+?2 An có 25 viên bi, Bình có 32 viên bi. Bình nhiều hơn An mấy viên bi?
++ 7
+- 57
+- 17
+- 13
+= 32 − 25.
+?2 Cây cam có 46 quả, cây bưởi có 23 quả. Cây bưởi ít hơn cây cam mấy quả?
++ 23
+- 69
+- 13
+- 26
+= 46 − 23.
+?2 Lớp 2A có 34 học sinh, lớp 2B có 31 học sinh. Lớp nào đông hơn và đông hơn mấy bạn?
++ 2A, 3 bạn
+- 2B, 3 bạn
+- 2A, 5 bạn
+- bằng nhau
+= 34 − 31 = 3.
+?3 Số nào hơn 40 là 15?
++ 55
+- 25
+- 45
+- 54
+= 40 + 15.
+?3 Số nào kém 70 là 20?
++ 50
+- 90
+- 30
+- 60
+= 70 − 20.
+?4 Mai cao 120 cm, Hoa cao 112 cm. Mai cao hơn Hoa bao nhiêu xăng-ti-mét?
++ 8 cm
+- 12 cm
+- 232 cm
+- 18 cm
+= 120 − 112.
+
+# Phép cộng, phép trừ trong phạm vi 20
+
+## Bài 6. Bảng cộng (qua 10)
+?1 9 + 4 = ?
++ 13
+- 12
+- 14
+- 5
+= 9 + 1 + 3.
+?1 8 + 5 = ?
++ 13
+- 12
+- 14
+- 3
+= 8 + 2 + 3.
+?1 7 + 7 = ?
++ 14
+- 13
+- 15
+- 0
+= Bảng cộng.
+?2 6 + 8 = ?
++ 14
+- 12
+- 13
+- 15
+= 8 + 2 + 4.
+?2 9 + 9 = ?
++ 18
+- 17
+- 19
+- 16
+= Bảng cộng.
+?3 … + 7 = 15. Số cần điền là:
++ 8
+- 7
+- 22
+- 9
+= 15 − 7.
+?3 Phép tính nào có kết quả lớn nhất?
++ 9 + 8
+- 7 + 9
+- 8 + 8
+- 9 + 6
+= 17 > 16 > 15.
+?4 Lan có 8 bông hoa, Mai có nhiều hơn Lan 5 bông. Mai có bao nhiêu bông hoa?
++ 13
+- 3
+- 12
+- 14
+= 8 + 5.
+
+## Bài 7. Bảng trừ (qua 10)
+?1 12 − 5 = ?
++ 7
+- 6
+- 8
+- 17
+= 12 − 2 − 3.
+?1 14 − 6 = ?
++ 8
+- 7
+- 9
+- 20
+= Bảng trừ.
+?1 11 − 9 = ?
++ 2
+- 3
+- 1
+- 20
+= 9 + 2 = 11.
+?2 16 − 8 = ?
++ 8
+- 7
+- 9
+- 24
+= Bảng trừ.
+?2 13 − 7 = ?
++ 6
+- 5
+- 7
+- 20
+= 7 + 6 = 13.
+?3 15 − … = 9. Số cần điền là:
++ 6
+- 5
+- 24
+- 7
+= 15 − 6 = 9.
+?3 Dấu cần điền: 17 − 8 … 18 − 9
++ =
+- >
+- <
+- +
+= Cả hai bằng 9.
+?4 Trên cành có 14 con chim, 6 con bay đi. Hỏi trên cành còn mấy con chim?
++ 8
+- 20
+- 7
+- 9
+= 14 − 6.
+
+## Bài 8. Bài toán về thêm, bớt một số đơn vị
+?1 Có 9 quả trứng, mẹ mua thêm 6 quả. Có tất cả bao nhiêu quả trứng?
++ 15
+- 3
+- 14
+- 16
+= 9 + 6.
+?1 Có 13 cái bánh, đã ăn 5 cái. Còn lại bao nhiêu cái bánh?
++ 8
+- 18
+- 7
+- 9
+= 13 − 5.
+?2 Thùng có 18 lít nước, đã dùng hết 9 lít. Thùng còn lại bao nhiêu lít nước?
++ 9 lít
+- 27 lít
+- 8 lít
+- 10 lít
+= 18 − 9.
+?2 Đàn gà có 7 con trống và 8 con mái. Đàn gà có bao nhiêu con?
++ 15
+- 1
+- 14
+- 16
+= 7 + 8.
+?2 Tổ em có 11 bạn, 3 bạn đi tập văn nghệ. Còn lại bao nhiêu bạn ở lớp?
++ 8
+- 14
+- 7
+- 9
+= 11 − 3.
+?3 Lúc đầu xe có 12 người. Đến bến, 4 người xuống và 6 người lên. Trên xe có bao nhiêu người?
++ 14
+- 10
+- 22
+- 2
+= 12 − 4 + 6.
+?3 Nam có một số viên bi, cho bạn 5 viên thì còn 9 viên. Lúc đầu Nam có bao nhiêu viên bi?
++ 14
+- 4
+- 13
+- 15
+= 9 + 5.
+?4 Bể có 16 con cá. Bố thả thêm 3 con, rồi vớt ra 7 con để sang bể khác. Bể còn bao nhiêu con cá?
++ 12
+- 26
+- 6
+- 10
+= 16 + 3 − 7.
+
+# Làm quen với khối lượng, dung tích
+
+## Bài 10. Ki-lô-gam
+?1 Ki-lô-gam viết tắt là:
++ kg
+- km
+- l
+- cm
+= Đơn vị đo khối lượng.
+?1 Dụng cụ để đo khối lượng là:
++ cái cân
+- thước kẻ
+- đồng hồ
+- cái ca
+= Cân để biết nặng nhẹ.
+?2 5 kg + 7 kg = ?
++ 12 kg
+- 2 kg
+- 12
+- 57 kg
+= Cộng số rồi ghi đơn vị.
+?2 Bao gạo nặng 25 kg, bao đường nặng 10 kg. Bao nào nặng hơn?
++ bao gạo
+- bao đường
+- bằng nhau
+- không so được
+= 25 kg > 10 kg.
+?2 15 kg − 8 kg = ?
++ 7 kg
+- 23 kg
+- 7
+- 8 kg
+= Trừ số rồi ghi đơn vị.
+?3 Quả dưa nặng 3 kg, quả bí nặng hơn quả dưa 2 kg. Quả bí nặng:
++ 5 kg
+- 1 kg
+- 6 kg
+- 32 kg
+= 3 + 2.
+?3 Bao thóc 30 kg, đã xay 12 kg. Còn lại bao nhiêu ki-lô-gam thóc?
++ 18 kg
+- 42 kg
+- 22 kg
+- 12 kg
+= 30 − 12.
+?4 Cân thăng bằng: đĩa bên trái có quả dưa, đĩa bên phải có quả cân 2 kg và quả cân 1 kg. Quả dưa nặng:
++ 3 kg
+- 2 kg
+- 1 kg
+- 21 kg
+= 2 + 1.
+
+## Bài 11. Lít
+?1 Lít viết tắt là:
++ l
+- kg
+- m
+- cm
+= Đơn vị đo dung tích.
+?1 Vật nào thường dùng để đong chất lỏng?
++ ca 1 lít
+- cái cân
+- thước mét
+- cái kéo
+= Dụng cụ đong.
+?2 3 l + 6 l = ?
++ 9 l
+- 3 l
+- 9
+- 36 l
+= Cộng số rồi ghi đơn vị.
+?2 Can có 20 l dầu, đã rót ra 5 l. Can còn bao nhiêu lít dầu?
++ 15 l
+- 25 l
+- 5 l
+- 14 l
+= 20 − 5.
+?2 Bình A chứa 4 l nước, bình B chứa 7 l nước. Bình nào chứa nhiều hơn?
++ bình B
+- bình A
+- bằng nhau
+- không biết
+= 7 l > 4 l.
+?3 Một xô chứa 10 l nước, mẹ đổ thêm 6 l, rồi dùng hết 8 l. Xô còn:
++ 8 l
+- 24 l
+- 4 l
+- 12 l
+= 10 + 6 − 8.
+?3 Có 2 can, mỗi can 5 l nước mắm. Có tất cả:
++ 10 l
+- 7 l
+- 5 l
+- 25 l
+= 5 + 5.
+?4 Bình có 12 l nước. Rót đầy các chai 2 l thì được mấy chai?
++ 6
+- 10
+- 14
+- 24
+= 2 + 2 + 2 + 2 + 2 + 2 = 12, tức 6 chai.
+
+# Phép cộng, phép trừ có nhớ trong phạm vi 100
+
+## Bài 13. Phép cộng có nhớ trong phạm vi 100
+?1 38 + 5 = ?
++ 43
+- 33
+- 42
+- 88
+= 8 + 5 = 13, viết 3 nhớ 1.
+?1 27 + 16 = ?
++ 43
+- 33
+- 42
+- 44
+= 7 + 6 = 13 nhớ 1; 2 + 1 + 1 = 4.
+?2 49 + 37 = ?
++ 86
+- 76
+- 85
+- 96
+= 9 + 7 = 16 nhớ 1; 4 + 3 + 1 = 8.
+?2 56 + 28 = ?
++ 84
+- 74
+- 85
+- 83
+= 6 + 8 = 14 nhớ 1; 5 + 2 + 1 = 8.
+?2 65 + 35 = ?
++ 100
+- 90
+- 99
+- 110
+= 5 + 5 = 10 nhớ 1; 6 + 3 + 1 = 10.
+?3 … + 18 = 45. Số cần điền là:
++ 27
+- 63
+- 37
+- 33
+= 45 − 18.
+?3 Dấu cần điền: 29 + 46 … 74
++ >
+- <
+- =
+- +
+= 29 + 46 = 75 > 74.
+?4 Thư viện có 48 quyển truyện tranh và 37 quyển truyện cổ tích. Thư viện có tất cả bao nhiêu quyển truyện?
++ 85
+- 75
+- 11
+- 84
+= 48 + 37.
+
+## Bài 14. Phép trừ có nhớ trong phạm vi 100
+?1 42 − 7 = ?
++ 35
+- 45
+- 49
+- 36
+= 12 − 7 = 5, nhớ 1 sang hàng chục.
+?1 50 − 18 = ?
++ 32
+- 42
+- 38
+- 68
+= 10 − 8 = 2 nhớ 1; 5 − 1 − 1 = 3.
+?2 73 − 46 = ?
++ 27
+- 33
+- 37
+- 119
+= 13 − 6 = 7 nhớ 1; 7 − 4 − 1 = 2.
+?2 91 − 55 = ?
++ 36
+- 46
+- 44
+- 34
+= 11 − 5 = 6 nhớ 1; 9 − 5 − 1 = 3.
+?2 100 − 25 = ?
++ 75
+- 85
+- 125
+- 70
+= 100 − 25.
+?3 … − 29 = 34. Số cần điền là:
++ 63
+- 5
+- 53
+- 64
+= 34 + 29.
+?3 82 − … = 47. Số cần điền là:
++ 35
+- 45
+- 129
+- 25
+= 82 − 47.
+?4 Cửa hàng có 64 kg đường, buổi sáng bán 28 kg. Cửa hàng còn lại bao nhiêu ki-lô-gam đường?
++ 36 kg
+- 46 kg
+- 92 kg
+- 44 kg
+= 64 − 28.
+
+# Hình phẳng
+
+## Bài 16. Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng
+?1 Đường được kẻ bằng thước thẳng, có hai đầu là hai điểm gọi là:
++ đoạn thẳng
+- đường cong
+- đường gấp khúc
+- hình tròn
+= Đoạn thẳng AB.
+?1 Đường cong là đường:
++ không thẳng, uốn lượn
+- kẻ bằng thước thẳng
+- có hai điểm thẳng hàng
+- luôn là hình vuông
+= Phân biệt đường thẳng, đường cong.
+?2 Ba điểm thẳng hàng là ba điểm:
++ cùng nằm trên một đường thẳng
+- tạo thành hình tam giác
+- nằm trên đường cong
+- cách xa nhau
+= Khái niệm.
+?2 Có 3 điểm A, B, C không thẳng hàng. Nối mỗi cặp điểm được mấy đoạn thẳng?
++ 3
+- 2
+- 4
+- 6
+= AB, BC, CA.
+?2 Có 4 điểm, nối điểm thứ nhất với 3 điểm còn lại được mấy đoạn thẳng?
++ 3
+- 4
+- 2
+- 6
+= Mỗi điểm còn lại một đoạn.
+?3 Đoạn thẳng AB dài 6 cm, đoạn thẳng CD dài hơn AB 3 cm. CD dài:
++ 9 cm
+- 3 cm
+- 63 cm
+- 8 cm
+= 6 + 3.
+?3 Đường nào không phải là đường thẳng?
++ đường viền miệng cốc tròn
+- mép thước kẻ
+- mép bàn thẳng
+- cạnh viên gạch
+= Đường cong.
+?4 Có 4 điểm, không có 3 điểm nào thẳng hàng. Nối mỗi cặp điểm được tất cả bao nhiêu đoạn thẳng?
++ 6
+- 4
+- 8
+- 3
+= 3 + 2 + 1 = 6.
+
+## Bài 17. Đường gấp khúc. Hình tứ giác
+?1 Hình tứ giác có mấy cạnh?
++ 4
+- 3
+- 5
+- 6
+= Tứ giác: 4 cạnh, 4 đỉnh.
+?1 Đường gấp khúc ABC gồm mấy đoạn thẳng?
++ 2
+- 3
+- 1
+- 4
+= AB và BC.
+?2 Đường gấp khúc ABCD gồm các đoạn AB = 3 cm, BC = 4 cm, CD = 5 cm. Độ dài đường gấp khúc là:
++ 12 cm
+- 9 cm
+- 7 cm
+- 345 cm
+= 3 + 4 + 5.
+?2 Hình nào là hình tứ giác?
++ hình chữ nhật
+- hình tròn
+- hình tam giác
+- đường cong
+= Hình có 4 cạnh.
+?2 Đường gấp khúc gồm 3 đoạn, mỗi đoạn 5 cm. Độ dài đường gấp khúc là:
++ 15 cm
+- 8 cm
+- 10 cm
+- 53 cm
+= 5 + 5 + 5.
+?3 Đường gấp khúc MNP dài 20 cm, đoạn MN dài 8 cm. Đoạn NP dài:
++ 12 cm
+- 28 cm
+- 8 cm
+- 10 cm
+= 20 − 8.
+?3 Hình tứ giác có mấy đỉnh?
++ 4
+- 3
+- 5
+- 8
+= Mỗi góc là một đỉnh.
+?4 Con kiến bò theo đường gấp khúc gồm các đoạn 6 cm, 9 cm và 7 cm. Con kiến bò được bao nhiêu xăng-ti-mét?
++ 22 cm
+- 15 cm
+- 21 cm
+- 23 cm
+= 6 + 9 + 7.
+
+# Ngày – giờ, giờ – phút, ngày – tháng
+
+## Bài 19. Ngày – giờ, giờ – phút
+?1 Một ngày có bao nhiêu giờ?
++ 24 giờ
+- 12 giờ
+- 60 giờ
+- 7 giờ
+= Một ngày có 24 giờ.
+?1 Một giờ có bao nhiêu phút?
++ 60 phút
+- 24 phút
+- 100 phút
+- 30 phút
+= 1 giờ = 60 phút.
+?2 15 giờ còn gọi là:
++ 3 giờ chiều
+- 5 giờ chiều
+- 3 giờ sáng
+- 1 giờ chiều
+= 15 − 12 = 3.
+?2 Đồng hồ có kim ngắn chỉ số 8, kim dài chỉ số 6. Đồng hồ chỉ:
++ 8 giờ 30 phút
+- 6 giờ 40 phút
+- 8 giờ 6 phút
+- 6 giờ 8 phút
+= Kim dài chỉ số 6 là 30 phút.
+?2 Đồng hồ có kim ngắn chỉ số 4, kim dài chỉ số 3. Đồng hồ chỉ:
++ 4 giờ 15 phút
+- 3 giờ 20 phút
+- 4 giờ 3 phút
+- 3 giờ 4 phút
+= Kim dài chỉ số 3 là 15 phút.
+?3 Em đi học lúc 6 giờ 45 phút, đến trường lúc 7 giờ. Em đi hết bao nhiêu phút?
++ 15 phút
+- 45 phút
+- 30 phút
+- 60 phút
+= Từ 6 giờ 45 đến 7 giờ là 15 phút.
+?3 20 giờ còn gọi là:
++ 8 giờ tối
+- 10 giờ tối
+- 8 giờ sáng
+- 2 giờ chiều
+= 20 − 12 = 8.
+?4 Bộ phim bắt đầu lúc 19 giờ và kéo dài 2 giờ. Phim kết thúc lúc:
++ 21 giờ (9 giờ tối)
+- 17 giờ
+- 20 giờ
+- 9 giờ sáng
+= 19 + 2 = 21.
+
+## Bài 20. Ngày – tháng
+?1 Tháng 1 có bao nhiêu ngày?
++ 31 ngày
+- 30 ngày
+- 28 ngày
+- 29 ngày
+= Tháng 1 có 31 ngày.
+?1 Một năm có bao nhiêu tháng?
++ 12 tháng
+- 10 tháng
+- 24 tháng
+- 30 tháng
+= 12 tháng.
+?2 Tháng 4 có bao nhiêu ngày?
++ 30 ngày
+- 31 ngày
+- 28 ngày
+- 29 ngày
+= Tháng 4, 6, 9, 11 có 30 ngày.
+?2 Ngày Quốc khánh nước ta là ngày:
++ 2 tháng 9
+- 1 tháng 6
+- 20 tháng 11
+- 1 tháng 1
+= Ngày 2/9.
+?2 Ngày Nhà giáo Việt Nam là ngày:
++ 20 tháng 11
+- 2 tháng 9
+- 8 tháng 3
+- 1 tháng 6
+= Ngày 20/11.
+?3 Thứ Hai là ngày 5. Thứ Hai tuần sau là ngày:
++ 12
+- 6
+- 11
+- 13
+= 5 + 7.
+?3 Hôm nay là ngày 28 tháng 10. Ba ngày nữa là ngày:
++ 31 tháng 10
+- 30 tháng 10
+- 1 tháng 11
+- 2 tháng 11
+= Tháng 10 có 31 ngày.
+?4 Hôm nay là ngày 30 tháng 4. Ngày mai là ngày:
++ 1 tháng 5
+- 31 tháng 4
+- 30 tháng 5
+- 1 tháng 4
+= Tháng 4 chỉ có 30 ngày.

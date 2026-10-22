@@ -1,0 +1,412 @@
+// Tiếng Việt 3 – Kết nối tri thức với cuộc sống – Tập 1
+// Bài đọc do Học Vui tự viết.
+#! HK1
+# Học kì 1
+
+## Chủ điểm Những trải nghiệm thú vị (1): Đọc hiểu
+> Hè này, Minh được bố cho về quê ngoại. Lần đầu tiên Minh được ra đồng bắt cào cào, được ngồi trên lưng trâu. Buổi tối, Minh nằm võng nghe ông kể chuyện, ngắm bầu trời đầy sao. Minh thấy mùa hè ở quê thật đáng nhớ.
+?1 Hè này, Minh được về đâu?
++ quê ngoại
+- quê nội
+- thành phố
+- bãi biển
+= Câu đầu.
+?1 Ở quê, Minh được làm những gì?
++ bắt cào cào, ngồi trên lưng trâu
+- bơi ở bể bơi
+- chơi điện tử
+- đi siêu thị
+= Câu thứ hai.
+?2 Buổi tối, Minh làm gì?
++ nằm võng nghe ông kể chuyện, ngắm sao
+- xem phim
+- làm bài tập
+- đi ngủ sớm
+= Câu thứ ba.
+?2 Cảm nghĩ của Minh về mùa hè ở quê là:
++ thật đáng nhớ
+- rất buồn chán
+- đáng sợ
+- không có gì vui
+= Câu cuối.
+?3 Từ nào chỉ hoạt động trong bài?
++ bắt
+- bầu trời
+- đáng nhớ
+- trâu
+= Từ chỉ hoạt động.
+>-
+?3 Từ nào chỉ đặc điểm?
++ thú vị
+- cánh đồng
+- con trâu
+- kể chuyện
+= Từ chỉ đặc điểm.
+?3 Câu "Bầu trời đầy sao lấp lánh." thuộc kiểu câu:
++ câu kể
+- câu hỏi
+- câu khiến
+- câu cảm
+= Câu kể dùng để kể, tả.
+?4 Câu nào là câu cảm?
++ Ôi, bầu trời đêm ở quê đẹp quá!
+- Bầu trời có nhiều sao.
+- Bạn đã về quê chưa?
+- Hãy ngắm sao đi.
+= Câu cảm bộc lộ cảm xúc, có dấu chấm than.
+
+## Chủ điểm Những trải nghiệm thú vị (2): Câu kể, câu hỏi; chính tả l/n
+?1 Câu hỏi dùng để:
++ hỏi về điều mình chưa biết
+- kể lại sự việc
+- ra lệnh
+- bộc lộ cảm xúc
+= Công dụng câu hỏi.
+?1 Câu hỏi kết thúc bằng dấu:
++ dấu chấm hỏi
+- dấu chấm
+- dấu phẩy
+- dấu hai chấm
+= Dấu câu.
+?2 Chọn chữ đúng: "…ăm học mới"
++ n
+- l
+- nh
+- ng
+= năm học.
+?2 Chọn chữ đúng: "…o lắng"
++ l
+- n
+- nh
+- d
+= lo lắng.
+?2 Câu nào là câu hỏi?
++ Bạn đi tham quan ở đâu?
+- Mình đi tham quan bảo tàng.
+- Bảo tàng rất rộng.
+- Hãy đi cùng mình.
+= Câu hỏi.
+?3 Từ nào viết đúng chính tả?
++ nắng nóng
+- lắng lóng
+- nắng lóng
+- lắng nóng
+= nắng nóng.
+?3 Câu khiến dùng để:
++ đề nghị, yêu cầu, khuyên bảo
+- kể sự việc
+- hỏi điều chưa biết
+- tả cảnh vật
+= Công dụng câu khiến.
+?4 Câu nào là câu khiến?
++ Các em hãy giữ trật tự khi tham quan!
+- Các em đang tham quan.
+- Tham quan có vui không?
+- Ôi, vui quá!
+= Câu khiến thường có "hãy, đừng, chớ…".
+
+## Chủ điểm Cổng trường rộng mở (1): Đọc hiểu
+> Cô giáo mới của lớp 3B có giọng nói ấm áp. Ngày đầu, cô hỏi tên từng bạn và nhớ ngay. Bạn Tú nhút nhát, cô khẽ khích lệ: "Em đọc hay lắm, đọc to hơn chút nữa nhé!". Từ hôm đó, Tú hăng hái phát biểu hơn.
+?1 Giọng nói của cô giáo mới thế nào?
++ ấm áp
+- khàn khàn
+- the thé
+- nghiêm khắc
+= Câu đầu.
+?1 Ngày đầu, cô giáo làm gì?
++ hỏi tên từng bạn và nhớ ngay
+- kiểm tra bài
+- phạt cả lớp
+- đi về sớm
+= Câu thứ hai.
+?2 Bạn Tú có tính cách thế nào lúc đầu?
++ nhút nhát
+- nghịch ngợm
+- kiêu ngạo
+- lười biếng
+= Câu thứ ba.
+?2 Cô giáo đã làm gì giúp Tú?
++ khích lệ, khen Tú đọc hay
+- mắng Tú
+- bắt Tú đứng phạt
+- không để ý Tú
+= Lời cô giáo.
+?3 Sau lời động viên của cô, Tú:
++ hăng hái phát biểu hơn
+- sợ hãi hơn
+- nghỉ học
+- không thay đổi
+= Câu cuối.
+>-
+?3 Từ nào cùng nghĩa với "hăng hái"?
++ hăm hở
+- uể oải
+- chán nản
+- lười nhác
+= Từ có nghĩa giống nhau.
+?3 Từ trái nghĩa với "nhút nhát" là:
++ mạnh dạn
+- rụt rè
+- e thẹn
+- sợ sệt
+= Từ có nghĩa trái ngược.
+?4 Câu chuyện cho thấy:
++ lời động viên đúng lúc giúp học sinh tự tin hơn
+- cô giáo rất nghiêm
+- Tú không thích đi học
+- lớp 3B rất ồn
+= Ý nghĩa.
+
+## Chủ điểm Cổng trường rộng mở (2): So sánh; dấu hai chấm
+?1 Câu nào có hình ảnh so sánh?
++ Sân trường rộng như một cánh đồng.
+- Sân trường rất rộng.
+- Em chơi ở sân trường.
+- Sân trường có cây bàng.
+= Từ so sánh "như".
+?1 Từ dùng để so sánh là:
++ như, giống như, tựa như
+- và, với, cùng
+- nhưng, mà
+- vì, nên
+= Từ so sánh.
+?2 Trong câu "Mắt bé tròn như hạt nhãn.", sự vật được so sánh là:
++ mắt bé
+- hạt nhãn
+- tròn
+- như
+= Sự vật A được so sánh với sự vật B.
+?2 Câu "Tiếng trống trường giục giã như gọi em vào lớp." là so sánh:
++ âm thanh với âm thanh/hoạt động
+- con người với con vật
+- đồ vật với màu sắc
+- không có so sánh
+= Kiểu so sánh.
+?2 Dấu hai chấm dùng để:
++ báo hiệu phần giải thích hoặc lời nói của nhân vật
+- kết thúc câu
+- hỏi
+- ngăn cách các từ cùng loại
+= Công dụng dấu hai chấm.
+?3 Đặt dấu hai chấm đúng: "Trong cặp em có sách, vở, bút, thước."
++ Trong cặp em có: sách, vở, bút, thước.
+- Trong cặp: em có sách, vở, bút, thước.
+- Trong: cặp em có sách, vở, bút, thước.
+- Trong cặp em có sách: vở, bút, thước.
+= Dấu hai chấm trước phần liệt kê.
+?3 Câu so sánh hơn kém là:
++ Em cao hơn bạn Nam.
+- Em cao như bạn Nam.
+- Em và Nam cao bằng nhau.
+- Em rất cao.
+= So sánh hơn kém dùng "hơn, kém".
+?4 Chọn từ so sánh thích hợp: "Mặt trời đỏ … quả cầu lửa."
++ như
+- và
+- nhưng
+- vì
+= Từ so sánh.
+
+## Chủ điểm Mái nhà yêu thương (1): Đọc hiểu
+> Mỗi sáng, mẹ dậy thật sớm nấu bữa sáng cho cả nhà. Bố tưới cây, quét sân. Chị Mai giúp em buộc tóc. Còn bé Na thì cho mèo ăn. Ngôi nhà nhỏ lúc nào cũng rộn tiếng cười.
+?1 Mỗi sáng, mẹ làm gì?
++ nấu bữa sáng cho cả nhà
+- đi chợ
+- tưới cây
+- cho mèo ăn
+= Câu đầu.
+?1 Bố làm những việc gì?
++ tưới cây, quét sân
+- nấu ăn
+- buộc tóc cho em
+- cho mèo ăn
+= Câu thứ hai.
+?2 Ai giúp em buộc tóc?
++ chị Mai
+- mẹ
+- bố
+- bà
+= Câu thứ ba.
+?2 Bé Na làm việc gì?
++ cho mèo ăn
+- quét nhà
+- nấu cơm
+- tưới cây
+= Câu thứ tư.
+?3 Câu "Ngôi nhà nhỏ lúc nào cũng rộn tiếng cười." cho thấy:
++ gia đình hạnh phúc, vui vẻ
+- gia đình hay cãi nhau
+- ngôi nhà rất ồn ào khó chịu
+- mọi người không quan tâm nhau
+= Ý nghĩa câu kết.
+>-
+?3 Từ nào chỉ tình cảm gia đình?
++ đầm ấm
+- lạnh nhạt
+- ích kỉ
+- xa cách
+= Từ ngữ về gia đình.
+?3 Thành ngữ "Chị ngã em nâng" nói về:
++ tình cảm anh chị em yêu thương, giúp đỡ nhau
+- việc té ngã
+- sức khỏe
+- thời tiết
+= Thành ngữ.
+?4 Câu nào nói về việc em có thể làm giúp bố mẹ?
++ Em tự dọn bàn học và rửa bát sau bữa ăn.
+- Em đòi bố mẹ mua đồ chơi.
+- Em xem ti vi cả buổi tối.
+- Em ngủ dậy muộn.
+= Việc làm vừa sức.
+
+## Chủ điểm Mái nhà yêu thương (2): Từ có nghĩa giống nhau, trái ngược; chính tả r/d/gi
+?1 Từ cùng nghĩa với "bố" là:
++ ba, cha
+- mẹ, má
+- ông, bà
+- cô, chú
+= Từ có nghĩa giống nhau.
+?1 Từ trái nghĩa với "vui" là:
++ buồn
+- mừng
+- phấn khởi
+- hạnh phúc
+= Từ có nghĩa trái ngược.
+?2 Chọn chữ đúng: "…a đình"
++ gi
+- d
+- r
+- ch
+= gia đình.
+?2 Chọn chữ đúng: "…ộn ràng"
++ r
+- d
+- gi
+- l
+= rộn ràng.
+?2 Cặp từ nào có nghĩa trái ngược?
++ già – trẻ
+- to – lớn
+- đẹp – xinh
+- chăm – siêng
+= Trái nghĩa.
+?3 Từ nào viết đúng chính tả?
++ dỗ dành
+- giỗ giành
+- rỗ rành
+- dỗ giành
+= dỗ dành.
+?3 Chọn từ phù hợp: "Bà em tuy … nhưng vẫn rất minh mẫn."
++ già
+- trẻ
+- nhỏ
+- non
+= Từ chỉ đặc điểm.
+?4 Câu nào dùng đúng cặp từ trái nghĩa?
++ Anh em hòa thuận thì nhà vui, bất hòa thì nhà buồn.
+- Anh em hòa thuận thì nhà vui, hòa thuận thì nhà buồn.
+- Anh em vui thì nhà vui.
+- Nhà vui và vui.
+= hòa thuận – bất hòa; vui – buồn.
+
+## Chủ điểm Cộng đồng gắn bó (1): Đọc hiểu
+> Trận lũ làm nhà bác Tư bị ngập. Sáng hôm sau, cả xóm kéo đến giúp. Người dọn bùn, người khiêng đồ, các bạn nhỏ thì lau bàn ghế. Chỉ đến trưa, nhà bác Tư đã sạch sẽ. Bác cảm động nói: "Bà con mình thật tình nghĩa!"
+?1 Chuyện gì xảy ra với nhà bác Tư?
++ bị ngập do lũ
+- bị cháy
+- bị mất trộm
+- được xây mới
+= Câu đầu.
+?1 Ai đến giúp bác Tư?
++ cả xóm
+- chỉ một người
+- không ai
+- người lạ ở xa
+= Câu thứ hai.
+?2 Các bạn nhỏ làm việc gì?
++ lau bàn ghế
+- dọn bùn
+- khiêng đồ nặng
+- nấu cơm
+= Câu thứ ba.
+?2 Đến trưa, nhà bác Tư thế nào?
++ đã sạch sẽ
+- vẫn ngập bùn
+- bị đổ
+- không ai dọn
+= Câu thứ tư.
+?3 Câu nói của bác Tư thể hiện:
++ sự cảm động, biết ơn bà con
+- sự tức giận
+- sự buồn bã
+- sự thờ ơ
+= Lời nhân vật.
+>-
+?3 Câu tục ngữ nào nói về tình làng nghĩa xóm?
++ Bán anh em xa, mua láng giềng gần.
+- Ăn quả nhớ kẻ trồng cây.
+- Có công mài sắt có ngày nên kim.
+- Học ăn, học nói, học gói, học mở.
+= Tục ngữ về cộng đồng.
+?3 Từ nào chỉ hoạt động giúp đỡ cộng đồng?
++ quyên góp
+- tranh giành
+- phá hoại
+- chê bai
+= Từ ngữ chủ điểm.
+?4 Câu "Bà con mình thật tình nghĩa!" là kiểu câu:
++ câu cảm
+- câu hỏi
+- câu khiến
+- câu kể bình thường không cảm xúc
+= Có dấu chấm than, bộc lộ cảm xúc.
+
+## Chủ điểm Cộng đồng gắn bó (2): Từ ngữ về cộng đồng; dấu gạch ngang
+?1 Từ nào chỉ những người sống cùng nơi với mình?
++ hàng xóm
+- khách du lịch
+- người nước ngoài
+- người lạ
+= Từ ngữ cộng đồng.
+?1 Từ nào chỉ thái độ tốt với cộng đồng?
++ đoàn kết
+- ích kỉ
+- thờ ơ
+- ganh tị
+= Từ ngữ chủ điểm.
+?2 Dấu gạch ngang có thể dùng để:
++ đánh dấu lời nói của nhân vật khi đối thoại
+- kết thúc câu hỏi
+- thay dấu chấm cuối câu
+- viết hoa
+= Công dụng dấu gạch ngang.
+?2 Hoạt động thể hiện tinh thần tương thân tương ái là:
++ quyên góp sách vở cho bạn vùng lũ
+- tranh giành đồ của bạn
+- chê cười người gặp khó khăn
+- làm ngơ khi thấy người cần giúp
+= Hành động đẹp.
+?2 Chọn chữ đúng: "…ung tay góp sức"
++ ch
+- tr
+- s
+- x
+= chung tay.
+?3 Câu nào viết đúng?
++ Bà con trong xóm sống rất đoàn kết.
+- bà con trong xóm sống rất đoàn kết
+- Bà con trong xóm sống rất đoàn kết?
+- Bà con trong xóm, sống, rất đoàn kết.
+= Viết hoa đầu câu, dấu chấm cuối câu kể.
+?3 Từ trái nghĩa với "đoàn kết" là:
++ chia rẽ
+- gắn bó
+- thân thiết
+- đùm bọc
+= Từ có nghĩa trái ngược.
+?4 Câu tục ngữ "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao" khuyên chúng ta:
++ đoàn kết sẽ tạo nên sức mạnh
+- nên trồng nhiều cây
+- leo núi cao
+- làm việc một mình
+= Ý nghĩa tục ngữ.

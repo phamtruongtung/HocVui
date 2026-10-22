@@ -1,0 +1,557 @@
+// Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (học kì 2)
+#! HK2
+# Chủ đề 4. Thực vật và động vật
+
+## Bài 11. Cây xung quanh em
+?1 Cây nào cho quả để ăn?
++ cây cam
+- cây thông
+- cây bàng
+- cây xương rồng
+= Cây ăn quả.
+?1 Cây nào được trồng để lấy bóng mát?
++ cây bàng
+- cây rau muống
+- cây lúa
+- cây cải
+= Cây bóng mát.
+?2 Rau muống, rau cải là cây:
++ rau
+- hoa
+- ăn quả
+- lấy gỗ
+= Phân loại cây.
+?2 Cây hoa hồng được trồng để:
++ làm cảnh, lấy hoa
+- lấy gỗ
+- lấy lương thực
+- lấy dầu
+= Lợi ích của cây.
+?2 Cây lúa cho em:
++ hạt gạo
+- quả cam
+- gỗ làm bàn
+- hoa để cắm
+= Cây lương thực.
+?3 Cây sống được cần có:
++ nước, ánh sáng, không khí, đất
+- chỉ bóng tối
+- chỉ đá sỏi
+- không cần gì
+= Điều kiện sống của cây.
+?3 Cây nào sống được ở nơi khô hạn, ít nước?
++ cây xương rồng
+- cây lúa
+- cây rau muống
+- cây sen
+= Thích nghi của cây.
+?4 Bạn Nam để chậu cây trong phòng tối nhiều ngày. Lá cây sẽ:
++ vàng úa, cây yếu dần
+- xanh tốt hơn
+- ra nhiều hoa hơn
+- không thay đổi
+= Cây cần ánh sáng.
+
+## Bài 12. Các bộ phận của cây
+?1 Bộ phận nào của cây nằm dưới đất?
++ rễ
+- lá
+- hoa
+- quả
+= Rễ hút nước.
+?1 Bộ phận nào của cây thường có màu xanh?
++ lá
+- rễ
+- hạt
+- quả chín
+= Lá cây.
+?2 Rễ cây có nhiệm vụ:
++ hút nước và giữ cho cây đứng vững
+- làm cây đẹp
+- tạo ra quả
+- tạo ra hoa
+= Chức năng của rễ.
+?2 Thân cây có nhiệm vụ:
++ nâng đỡ lá, hoa, quả
+- hút nước từ đất
+- tỏa hương
+- tạo hạt
+= Chức năng của thân.
+?2 Củ cà rốt là bộ phận nào của cây?
++ rễ
+- lá
+- hoa
+- thân
+= Rễ củ.
+?3 Ta ăn bộ phận nào của cây rau cải?
++ lá
+- rễ
+- hoa
+- hạt
+= Rau ăn lá.
+?3 Hạt gạo là bộ phận nào của cây lúa?
++ hạt
+- lá
+- rễ
+- thân
+= Cây lương thực.
+?4 Cây có những bộ phận chính nào?
++ rễ, thân, lá (nhiều cây có hoa, quả)
+- chỉ có lá
+- chỉ có hoa
+- tay, chân, đầu
+= Các bộ phận của cây.
+
+## Bài 13. Các con vật xung quanh em
+?1 Con vật nào sống dưới nước?
++ con cá
+- con gà
+- con mèo
+- con chó
+= Nơi sống của con vật.
+?1 Con vật nào biết bay?
++ con chim
+- con lợn
+- con trâu
+- con cá
+= Cách di chuyển.
+?2 Con vật nào được nuôi để lấy trứng?
++ con gà
+- con mèo
+- con chó
+- con trâu
+= Lợi ích của vật nuôi.
+?2 Con vật nào được nuôi để bắt chuột?
++ con mèo
+- con gà
+- con vịt
+- con bò
+= Lợi ích của vật nuôi.
+?2 Con vật nào là con vật hoang dã sống trong rừng?
++ con hổ
+- con gà
+- con mèo nhà
+- con vịt
+= Động vật hoang dã.
+?3 Con vật nào có thể gây nguy hiểm, em không được trêu chọc?
++ con chó lạ
+- con cá cảnh trong bể
+- con bướm
+- con giun đất
+= An toàn với động vật.
+?3 Con vật nào vừa sống được trên cạn vừa bơi được dưới nước?
++ con vịt
+- con mèo
+- con chim sẻ
+- con bướm
+= Cách di chuyển.
+?4 Vì sao không nên săn bắt chim?
++ chim có ích, bắt sâu bảo vệ cây và làm cuộc sống thêm vui
+- vì chim hay hót
+- vì chim không có ích
+- vì chim to
+= Bảo vệ động vật.
+
+## Bài 14. Các bộ phận của con vật
+?1 Con cá bơi được nhờ có:
++ vây và đuôi
+- chân
+- cánh
+- sừng
+= Bộ phận di chuyển.
+?1 Con chim bay được nhờ có:
++ cánh
+- vây
+- sừng
+- vòi
+= Bộ phận di chuyển.
+?2 Con gà có mấy chân?
++ 2
+- 4
+- 6
+- 8
+= Gà có hai chân.
+?2 Con chó có mấy chân?
++ 4
+- 2
+- 6
+- 8
+= Chó có bốn chân.
+?2 Bộ phận giúp con voi lấy thức ăn là:
++ vòi
+- đuôi
+- tai
+- ngà
+= Đặc điểm con voi.
+?3 Cơ thể con vật thường gồm:
++ đầu, mình và cơ quan di chuyển
+- chỉ có đầu
+- rễ, thân, lá
+- chỉ có đuôi
+= Các bộ phận của con vật.
+?3 Con vật nào có mai cứng bảo vệ cơ thể?
++ con rùa
+- con mèo
+- con gà
+- con thỏ
+= Đặc điểm con vật.
+?4 Có 3 con gà và 2 con chó. Có tất cả bao nhiêu cái chân?
++ 14
+- 10
+- 12
+- 5
+= Gà: 2 + 2 + 2 = 6 chân; chó: 4 + 4 = 8 chân; 6 + 8 = 14.
+
+## Bài 15. Chăm sóc, bảo vệ cây trồng và vật nuôi
+?1 Để cây tươi tốt, em cần:
++ tưới nước, nhổ cỏ cho cây
+- bẻ cành cây
+- giẫm lên cây
+- ngắt hết lá
+= Chăm sóc cây.
+?1 Để vật nuôi khỏe mạnh, em cần:
++ cho ăn, cho uống, giữ chuồng sạch sẽ
+- đánh đập vật nuôi
+- bỏ đói vật nuôi
+- nhốt trong chỗ bẩn
+= Chăm sóc vật nuôi.
+?2 Sau khi chơi với chó mèo, em cần:
++ rửa tay bằng xà phòng
+- ăn ngay không rửa tay
+- dụi mắt
+- không cần làm gì
+= Giữ vệ sinh.
+?2 Hành động nào là bảo vệ cây xanh?
++ trồng thêm cây, không bẻ cành
+- khắc tên lên thân cây
+- leo trèo làm gãy cành
+- nhổ cây con
+= Bảo vệ cây.
+?2 Thức ăn thường dùng cho gà là:
++ thóc, ngô
+- xương
+- cỏ khô
+- cá biển
+= Thức ăn của vật nuôi.
+?3 Tiêm phòng cho chó mèo nhằm:
++ phòng bệnh cho vật nuôi và con người
+- làm chó mèo béo hơn
+- làm lông đẹp hơn
+- không có tác dụng
+= Phòng bệnh dại.
+?3 Thời điểm tốt để tưới cây là:
++ sáng sớm hoặc chiều mát
+- giữa trưa nắng gắt
+- nửa đêm
+- không bao giờ tưới
+= Chăm sóc cây đúng cách.
+?4 Bạn Mai thấy em bé ném đá vào chú chó. Mai nên:
++ khuyên em bé không làm vậy vì chó đau và có thể cắn lại
+- ném cùng em bé
+- cổ vũ em bé
+- đứng xem
+= Ứng xử với động vật.
+
+# Chủ đề 5. Con người và sức khỏe
+
+## Bài 16. Cơ thể em
+?1 Cơ thể người gồm ba phần:
++ đầu, mình, tay và chân
+- rễ, thân, lá
+- vây, đuôi, mang
+- cánh, mỏ, lông
+= Các phần cơ thể.
+?1 Mỗi bàn tay có mấy ngón?
++ 5
+- 4
+- 6
+- 10
+= Năm ngón tay.
+?2 Bộ phận dùng để cầm nắm là:
++ tay
+- chân
+- tai
+- mũi
+= Chức năng tay.
+?2 Bộ phận giúp em đi lại là:
++ chân
+- tay
+- mắt
+- miệng
+= Chức năng chân.
+?2 Hằng ngày em nên tắm rửa để:
++ cơ thể sạch sẽ, khỏe mạnh
+- cơ thể bẩn hơn
+- cao nhanh mỗi ngày
+- không phải ăn
+= Vệ sinh thân thể.
+?3 Vùng nào trên cơ thể là vùng riêng tư, không ai được chạm vào?
++ vùng được che bởi đồ bơi
+- bàn tay
+- mái tóc
+- khuôn mặt
+= Bảo vệ bản thân.
+?3 Nếu có người chạm vào vùng riêng tư của em, em cần:
++ nói "Không!", chạy đi và kể ngay với bố mẹ, thầy cô
+- giữ bí mật
+- im lặng
+- cảm ơn người đó
+= Kĩ năng tự bảo vệ.
+?4 Hai bàn tay có tất cả mấy ngón và hai bàn chân có tất cả mấy ngón?
++ 10 ngón tay và 10 ngón chân
+- 5 ngón tay và 5 ngón chân
+- 10 ngón tay và 8 ngón chân
+- 8 ngón tay và 10 ngón chân
+= 5 + 5 = 10.
+
+## Bài 17. Các giác quan
+?1 Em nhìn thấy mọi vật nhờ:
++ mắt
+- tai
+- mũi
+- lưỡi
+= Thị giác.
+?1 Em nghe được âm thanh nhờ:
++ tai
+- mắt
+- da
+- lưỡi
+= Thính giác.
+?2 Em ngửi được mùi thơm của hoa nhờ:
++ mũi
+- tai
+- mắt
+- tay
+= Khứu giác.
+?2 Em biết vị ngọt của đường nhờ:
++ lưỡi
+- mũi
+- tai
+- mắt
+= Vị giác.
+?2 Em biết vật nóng hay lạnh khi chạm vào nhờ:
++ da
+- tai
+- mắt
+- tóc
+= Xúc giác.
+?3 Để bảo vệ mắt, em nên:
++ ngồi học đủ ánh sáng, không xem ti vi quá gần
+- dụi mắt bằng tay bẩn
+- xem điện thoại cả ngày
+- đọc sách trong bóng tối
+= Bảo vệ mắt.
+?3 Để bảo vệ tai, em không nên:
++ dùng vật nhọn ngoáy tai
+- rửa mặt
+- đội mũ khi trời lạnh
+- nghe nhạc nhỏ
+= Bảo vệ tai.
+?4 Người có bao nhiêu giác quan chính?
++ 5
+- 3
+- 4
+- 6
+= Thị giác, thính giác, khứu giác, vị giác, xúc giác.
+
+## Bài 18. Ăn uống hằng ngày
+?1 Mỗi ngày em nên ăn mấy bữa chính?
++ 3 bữa
+- 1 bữa
+- 6 bữa
+- không cần ăn
+= Sáng, trưa, tối.
+?1 Thức ăn tốt cho sức khỏe là:
++ rau xanh, hoa quả
+- kẹo ăn thay cơm
+- nước ngọt có ga uống thay nước
+- đồ ăn ôi thiu
+= Ăn uống lành mạnh.
+?2 Trước khi ăn, em cần:
++ rửa tay sạch
+- chơi đất cát
+- sờ vào chó mèo
+- không cần làm gì
+= Vệ sinh ăn uống.
+?2 Uống nước như thế nào là đúng?
++ uống nước đã đun sôi để nguội hoặc nước sạch
+- uống nước ao hồ
+- uống nước mưa đọng
+- uống nước chưa đun ở vòi bất kì
+= Nước uống an toàn.
+?2 Ăn quá nhiều đồ ngọt có thể làm em bị:
++ sâu răng, béo phì
+- cao lớn nhanh
+- học giỏi
+- khỏe mạnh hơn
+= Tác hại đồ ngọt.
+?3 Bữa ăn đủ chất nên có:
++ cơm, thịt hoặc cá, rau và hoa quả
+- chỉ có bánh kẹo
+- chỉ có nước ngọt
+- chỉ có rau
+= Ăn đủ nhóm chất.
+?3 Sau khi ăn, em nên:
++ đánh răng hoặc súc miệng
+- đi ngủ ngay mà không đánh răng
+- chạy nhảy thật mạnh
+- ăn thêm kẹo
+= Vệ sinh răng miệng.
+?4 Bạn Bin chỉ thích ăn thịt, không ăn rau. Em khuyên Bin:
++ nên ăn cả rau để cơ thể đủ chất, dễ tiêu hóa
+- chỉ ăn thịt là tốt nhất
+- không cần ăn gì
+- chỉ uống nước ngọt
+= Ăn đa dạng.
+
+## Bài 19. Vận động và nghỉ ngơi
+?1 Hoạt động nào giúp cơ thể khỏe mạnh?
++ tập thể dục, chơi thể thao
+- ngồi xem ti vi cả ngày
+- thức khuya
+- nằm cả ngày
+= Vận động.
+?1 Buổi tối, trẻ em nên đi ngủ:
++ sớm, ngủ đủ giấc
+- rất muộn
+- không cần ngủ
+- lúc nào cũng được
+= Nghỉ ngơi hợp lí.
+?2 Sau khi chạy nhảy nhiều, em cần:
++ nghỉ ngơi, uống nước
+- chạy tiếp không nghỉ
+- tắm nước lạnh ngay
+- ăn thật nhiều
+= Nghỉ ngơi sau vận động.
+?2 Ngồi học đúng tư thế là:
++ lưng thẳng, mắt cách vở khoảng một gang tay rưỡi
+- nằm bò ra bàn
+- cúi sát vào vở
+- ngồi vẹo người
+= Tư thế ngồi học.
+?2 Trò chơi vận động có lợi là:
++ nhảy dây, đá cầu
+- chơi điện tử cả ngày
+- xem điện thoại
+- ngồi một chỗ
+= Hoạt động có lợi.
+?3 Ngồi học sai tư thế lâu ngày có thể bị:
++ cong vẹo cột sống, cận thị
+- cao hơn
+- khỏe hơn
+- giỏi hơn
+= Tác hại.
+?3 Em nên xem ti vi, điện thoại:
++ ít thôi và có thời gian nghỉ cho mắt
+- cả ngày
+- cả đêm
+- thay cho việc ngủ
+= Sử dụng thiết bị hợp lí.
+?4 Vì sao cần vừa học vừa nghỉ, vừa chơi hợp lí?
++ để cơ thể và đầu óc khỏe mạnh, học tốt hơn
+- để không phải học
+- để được ăn nhiều
+- không cần thiết
+= Thời gian biểu hợp lí.
+
+# Chủ đề 6. Trái Đất và bầu trời
+
+## Bài 20. Bầu trời ban ngày và ban đêm
+?1 Ban ngày, trên bầu trời có:
++ Mặt Trời
+- nhiều ngôi sao sáng rõ
+- Mặt Trăng tròn sáng rực
+- bóng tối
+= Ban ngày.
+?1 Ban đêm, trên bầu trời có thể thấy:
++ Mặt Trăng và các vì sao
+- Mặt Trời chói chang
+- cầu vồng
+- ánh nắng
+= Ban đêm.
+?2 Mặt Trời mang lại cho chúng ta:
++ ánh sáng và sức nóng
+- bóng tối
+- tuyết
+- gió lạnh
+= Lợi ích của Mặt Trời.
+?2 Không được nhìn thẳng vào Mặt Trời vì:
++ hại mắt
+- Mặt Trời sẽ tắt
+- sẽ bị lạnh
+- sẽ bị ướt
+= Bảo vệ mắt.
+?2 Mặt Trời mọc ở hướng nào?
++ hướng đông
+- hướng tây
+- hướng bắc
+- hướng nam
+= Mọc đằng đông, lặn đằng tây.
+?3 Ban đêm trời tối vì:
++ nơi em ở không được Mặt Trời chiếu sáng
+- Mặt Trời bị tắt
+- mây che hết
+- Mặt Trăng che Mặt Trời mỗi đêm
+= Ngày và đêm.
+?3 Đi nắng, em nên:
++ đội mũ, nón
+- cởi áo ra
+- không đội gì
+- chạy thật nhanh
+= Bảo vệ sức khỏe.
+?4 Sáng sớm, em thấy Mặt Trời mọc ngay ngoài cửa sổ phòng mình. Cửa sổ đó nhìn về hướng:
++ đông
+- tây
+- nam
+- bắc
+= Mặt Trời mọc ở hướng đông.
+
+## Bài 21. Thời tiết
+?1 Trời có nhiều mây đen, sấm chớp thường sắp:
++ mưa
+- nắng to
+- có tuyết rơi chắc chắn
+- có cầu vồng ngay
+= Dấu hiệu trời mưa.
+?1 Khi trời mưa, em cần mang theo:
++ áo mưa hoặc ô
+- quạt điện
+- kem chống nắng
+- kính bơi
+= Chuẩn bị theo thời tiết.
+?2 Khi trời rét, em nên:
++ mặc áo ấm, đội mũ, quàng khăn
+- mặc áo cộc
+- tắm nước lạnh
+- đi chân đất
+= Giữ ấm cơ thể.
+?2 Khi trời nắng nóng, em nên:
++ mặc quần áo thoáng mát, uống nhiều nước
+- mặc áo bông dày
+- không uống nước
+- chơi ngoài nắng cả trưa
+= Thời tiết nóng.
+?2 Gió mạnh làm cho:
++ cây cối nghiêng ngả
+- trời nóng hơn hẳn
+- nước sông khô hết
+- trời tối hẳn
+= Dấu hiệu gió mạnh.
+?3 Khi có giông sét, em không nên:
++ trú dưới gốc cây to ngoài trời
+- ở trong nhà
+- tránh xa cửa sổ
+- tắt ti vi
+= Phòng tránh sét.
+?3 Muốn biết thời tiết ngày mai, em có thể:
++ nghe dự báo thời tiết
+- hỏi con mèo
+- nhìn đồng hồ
+- đếm ngón tay
+= Dự báo thời tiết.
+?4 Sáng nay trời nắng, chiều có mây đen kéo đến và gió mạnh. Khi đi học về, em nên chuẩn bị:
++ áo mưa
+- kính râm và kem chống nắng
+- quạt cầm tay
+- áo bông dày
+= Trời sắp mưa.

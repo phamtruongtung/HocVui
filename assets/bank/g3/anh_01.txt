@@ -1,0 +1,623 @@
+// Tiếng Anh 3 – Global Success (Kết nối tri thức) – Học kì 1
+#! HK1
+# Units 1–10
+
+## Unit 1. Hello
+?1 Chọn lời chào đúng: "___, I'm Mai."
++ Hello
+- Goodbye
+- Thank you
+- Sorry
+= Hello: xin chào.
+?1 "Goodbye" nghĩa là:
++ tạm biệt
+- xin chào
+- cảm ơn
+- xin lỗi
+= Lời chào tạm biệt.
+?1 "How are you?" – "I'm ___, thank you."
++ fine
+- five
+- name
+- bye
+= I'm fine: mình khỏe.
+?1 "Hi" nghĩa là:
++ chào
+- tạm biệt
+- vâng
+- không
+= Lời chào thân mật.
+?2 Chọn câu trả lời đúng: "Nice to meet you." – "___"
++ Nice to meet you, too.
+- I'm fine.
+- Goodbye.
+- My name's Nam.
+= Đáp lại lời chào làm quen.
+?2 "Bye, Nam." – "___, Mai."
++ Bye
+- Hello
+- Fine
+- Thanks
+= Đáp lời tạm biệt.
+?2 Sắp xếp: "are / How / you / ?"
++ How are you?
+- Are how you?
+- You how are?
+- How you are?
+= Câu hỏi thăm sức khỏe.
+?3 Điền chữ còn thiếu: "H _ llo"
++ e
+- a
+- o
+- i
+= Hello.
+?3 "I'm Ben." nghĩa là:
++ Mình là Ben.
+- Bạn là Ben.
+- Ben khỏe.
+- Tạm biệt Ben.
+= I'm = I am.
+?4 Bạn gặp cô giáo buổi sáng, em nói:
++ Good morning, teacher.
+- Good night, teacher.
+- Goodbye, teacher.
+- Thank you, teacher.
+= Good morning: chào buổi sáng.
+
+## Unit 2. Our names
+?1 "What's your name?" nghĩa là:
++ Bạn tên là gì?
+- Bạn bao nhiêu tuổi?
+- Bạn khỏe không?
+- Bạn ở đâu?
+= Hỏi tên.
+?1 "My name's Linh." nghĩa là:
++ Tên mình là Linh.
+- Mình 8 tuổi.
+- Đây là Linh.
+- Linh khỏe.
+= My name is…
+?1 "How old are you?" nghĩa là:
++ Bạn bao nhiêu tuổi?
+- Bạn tên là gì?
+- Bạn có khỏe không?
+- Bạn thích gì?
+= Hỏi tuổi.
+?1 Số "eight" là:
++ 8
+- 3
+- 5
+- 6
+= eight = tám.
+?2 "How old are you?" – "___"
++ I'm eight years old.
+- My name's Nam.
+- I'm fine.
+- Goodbye.
+= Trả lời tuổi.
+?2 "What's your name?" – "___"
++ My name's Hoa.
+- I'm nine.
+- Thank you.
+- Yes, I am.
+= Trả lời tên.
+?2 Số "nine" là:
++ 9
+- 5
+- 4
+- 1
+= nine = chín.
+?3 Điền: "My ___ is Mary."
++ name
+- old
+- fine
+- years
+= My name is Mary.
+?3 Đánh vần tên "BEN": B – E – ___
++ N
+- M
+- D
+- E
+= B, E, N.
+?4 Sắp xếp: "old / are / How / you / ?"
++ How old are you?
+- How are old you?
+- Old how are you?
+- Are you how old?
+= Câu hỏi tuổi.
+
+## Unit 3. Our friends
+?1 "This is Mary." nghĩa là:
++ Đây là Mary.
+- Kia là Mary.
+- Mary là bạn mình.
+- Mình là Mary.
+= This is…: đây là.
+?1 "friend" nghĩa là:
++ bạn
+- thầy giáo
+- mẹ
+- bố
+= Từ vựng.
+?1 "That is Nam." nghĩa là:
++ Kia là Nam.
+- Đây là Nam.
+- Nam khỏe.
+- Nam là mình.
+= That is…: kia là.
+?1 "Is this Linh?" – "Yes, ___ is."
++ it
+- I
+- you
+- am
+= Yes, it is.
+?2 "Is that Mai?" – "No, it ___."
++ isn't
+- is
+- am
+- are
+= No, it isn't.
+?2 "Who's that?" nghĩa là:
++ Kia là ai?
+- Cái gì kia?
+- Bạn bao nhiêu tuổi?
+- Bạn tên gì?
+= Hỏi người.
+?2 Chọn câu đúng:
++ This is my friend.
+- This my is friend.
+- Is this friend my.
+- My this is friend.
+= Trật tự câu.
+?3 "___ is Peter. He is my friend."
++ This
+- I
+- You
+- Am
+= This is…
+?3 Điền: "Mary is my ___."
++ friend
+- fine
+- name
+- nine
+= Từ vựng.
+?4 Bạn muốn giới thiệu bạn Nam với cô giáo, em nói:
++ Miss Hoa, this is my friend Nam.
+- Nam, goodbye.
+- How old are you, Nam?
+- I'm Nam.
+= Giới thiệu người khác.
+
+## Unit 4. Our bodies
+?1 "eye" nghĩa là:
++ mắt
+- tai
+- mũi
+- miệng
+= Bộ phận cơ thể.
+?1 "nose" nghĩa là:
++ mũi
+- mắt
+- tay
+- chân
+= Bộ phận cơ thể.
+?1 "hand" nghĩa là:
++ bàn tay
+- bàn chân
+- đầu
+- tóc
+= Bộ phận cơ thể.
+?1 "Touch your ___." (chạm vào tai)
++ ear
+- eye
+- face
+- hair
+= ear: tai.
+?2 "What's this?" – "It's my ___." (miệng)
++ mouth
+- mother
+- month
+- mouse
+= mouth: miệng.
+?2 "Open your ___." (mở mắt)
++ eyes
+- ears
+- nose
+- hair
+= Open your eyes.
+?2 Từ nào chỉ bộ phận cơ thể?
++ face
+- pen
+- book
+- desk
+= face: khuôn mặt.
+?3 Điền chữ còn thiếu: "h _ ad"
++ e
+- a
+- o
+- u
+= head: đầu.
+?3 "Touch your head" nghĩa là:
++ Chạm vào đầu của bạn.
+- Mở mắt ra.
+- Giơ tay lên.
+- Ngồi xuống.
+= Câu lệnh.
+?4 Em có hai mắt, hai tai, một mũi. Câu nào đúng?
++ I have two eyes, two ears and one nose.
+- I have one eyes, two ear and one noses.
+- I has two eyes.
+- I have two nose.
+= Danh từ số nhiều thêm -s.
+
+## Unit 5. My hobbies
+?1 "singing" nghĩa là:
++ hát
+- nhảy
+- vẽ
+- bơi
+= Sở thích.
+?1 "drawing" nghĩa là:
++ vẽ
+- đọc
+- nấu ăn
+- chạy
+= Sở thích.
+?1 "swimming" nghĩa là:
++ bơi
+- đi bộ
+- hát
+- múa
+= Sở thích.
+?1 "What's your hobby?" nghĩa là:
++ Sở thích của bạn là gì?
+- Bạn tên gì?
+- Bạn bao nhiêu tuổi?
+- Bạn ở đâu?
+= Hỏi sở thích.
+?2 "What's your hobby?" – "It's ___."
++ dancing
+- dance hobby
+- dances
+- danced
+= It's + V-ing.
+?2 "My hobby is ___." (nấu ăn)
++ cooking
+- cook
+- cooks
+- cooked
+= cooking.
+?2 Từ nào là sở thích?
++ reading
+- teacher
+- school
+- pencil
+= reading: đọc sách.
+?3 Điền: "My hobby is ___ ." (chạy)
++ running
+- runing
+- run
+- runs
+= running (gấp đôi n).
+?3 "I like swimming." nghĩa là:
++ Mình thích bơi.
+- Mình bơi giỏi.
+- Mình không thích bơi.
+- Mình đang bơi.
+= like + V-ing.
+?4 Bạn thích hát. Em trả lời "What's your hobby?" là:
++ It's singing.
+- It's sing.
+- It singing.
+- I'm singing hobby.
+= It's + V-ing.
+
+## Unit 6. Our school
+?1 "school" nghĩa là:
++ trường học
+- lớp học
+- thư viện
+- sân chơi
+= Từ vựng.
+?1 "library" nghĩa là:
++ thư viện
+- phòng máy tính
+- phòng thể dục
+- sân trường
+= Từ vựng.
+?1 "classroom" nghĩa là:
++ lớp học
+- nhà ăn
+- vườn
+- cổng
+= Từ vựng.
+?1 "playground" nghĩa là:
++ sân chơi
+- lớp học
+- thư viện
+- phòng nhạc
+= Từ vựng.
+?2 "Is this the library?" – "Yes, it ___."
++ is
+- isn't
+- are
+- am
+= Yes, it is.
+?2 "Let's go to the ___." (phòng máy tính)
++ computer room
+- music room
+- art room
+- gym
+= computer room.
+?2 Chọn câu đúng:
++ This is my school.
+- This my school is.
+- School this is my.
+- Is my school this.
+= Trật tự câu.
+?3 "Is that the gym?" – "No, it isn't. It's the ___." (phòng nhạc)
++ music room
+- library
+- classroom
+- playground
+= music room.
+?3 Điền: "This is my ___. It's big." (trường)
++ school
+- schol
+- skool
+- scool
+= Chính tả school.
+?4 Bạn muốn rủ bạn ra sân chơi, em nói:
++ Let's go to the playground.
+- This is the playground.
+- Is it the playground?
+- Goodbye, playground.
+= Let's + V: rủ rê.
+
+## Unit 7. Classroom instructions
+?1 "Stand up!" nghĩa là:
++ Đứng lên!
+- Ngồi xuống!
+- Mở sách ra!
+- Im lặng!
+= Câu lệnh.
+?1 "Sit down!" nghĩa là:
++ Ngồi xuống!
+- Đứng lên!
+- Giơ tay!
+- Đóng sách!
+= Câu lệnh.
+?1 "Open your book!" nghĩa là:
++ Mở sách ra!
+- Đóng sách lại!
+- Đọc sách!
+- Cất sách!
+= Câu lệnh.
+?1 "Close your book!" nghĩa là:
++ Đóng sách lại!
+- Mở sách ra!
+- Viết vào vở!
+- Ngồi xuống!
+= Câu lệnh.
+?2 "May I come in?" – "Yes, you ___."
++ can
+- can't
+- do
+- are
+= Xin phép vào lớp.
+?2 "May I go out?" nghĩa là:
++ Em có thể ra ngoài được không?
+- Em có thể vào lớp không?
+- Em ngồi được không?
+- Em hỏi được không?
+= Xin phép.
+?2 "Raise your hand!" nghĩa là:
++ Giơ tay lên!
+- Hạ tay xuống!
+- Rửa tay!
+- Vỗ tay!
+= Câu lệnh.
+?3 Thầy giáo muốn cả lớp im lặng, thầy nói:
++ Be quiet, please!
+- Stand up, please!
+- Open your book!
+- Come in!
+= Be quiet: giữ im lặng.
+?3 Điền: "Don't ___, please!" (đừng nói chuyện)
++ talk
+- talks
+- talking
+- talked
+= Don't + V.
+?4 Em đến lớp muộn và muốn xin vào, em nói:
++ May I come in?
+- May I go out?
+- Sit down, please.
+- Close the door.
+= Xin phép vào lớp.
+
+## Unit 8. My school things
+?1 "pen" nghĩa là:
++ bút mực
+- bút chì
+- thước
+- tẩy
+= Đồ dùng học tập.
+?1 "ruler" nghĩa là:
++ thước kẻ
+- cặp sách
+- tẩy
+- hộp bút
+= Đồ dùng học tập.
+?1 "eraser" nghĩa là:
++ cục tẩy
+- quyển vở
+- bút màu
+- cái kéo
+= Đồ dùng học tập.
+?1 "school bag" nghĩa là:
++ cặp sách
+- hộp bút
+- bàn học
+- quyển sách
+= Đồ dùng học tập.
+?2 "Do you have a pencil?" – "Yes, I ___."
++ do
+- don't
+- am
+- have do
+= Yes, I do.
+?2 "I have ___ notebook." (một quyển vở)
++ a
+- an
+- two
+- the two
+= a + danh từ bắt đầu bằng phụ âm.
+?2 "I have ___ eraser."
++ an
+- a
+- two
+- some a
+= an + danh từ bắt đầu bằng nguyên âm.
+?3 "Do you have a ruler?" – "No, I ___."
++ don't
+- do
+- isn't
+- am not
+= No, I don't.
+?3 "I have two ___." (hai cái bút)
++ pens
+- pen
+- a pen
+- penes
+= Số nhiều thêm -s.
+?4 Bạn hỏi em có cục tẩy không và em có, em trả lời:
++ Yes, I do. Here you are.
+- No, I don't.
+- Yes, it is.
+- Thank you.
+= Trả lời và đưa đồ cho bạn.
+
+## Unit 9. Colours
+?1 "red" nghĩa là:
++ màu đỏ
+- màu xanh lá
+- màu vàng
+- màu trắng
+= Màu sắc.
+?1 "blue" nghĩa là:
++ màu xanh dương
+- màu đen
+- màu hồng
+- màu tím
+= Màu sắc.
+?1 "yellow" nghĩa là:
++ màu vàng
+- màu nâu
+- màu cam
+- màu xám
+= Màu sắc.
+?1 "What colour is it?" nghĩa là:
++ Nó màu gì?
+- Nó là cái gì?
+- Nó ở đâu?
+- Nó bao nhiêu tuổi?
+= Hỏi màu sắc.
+?2 "What colour is your bag?" – "It's ___."
++ green
+- a green
+- greens
+- the greens
+= It's + màu.
+?2 Lá cây thường có màu:
++ green
+- pink
+- purple
+- black
+= Lá cây màu xanh lá.
+?2 "What colour are your pens?" – "They're ___."
++ black
+- a black
+- blacks
+- is black
+= They're + màu.
+?3 Màu của quả cam là:
++ orange
+- white
+- blue
+- grey
+= orange: màu cam.
+?3 Điền chữ còn thiếu: "wh _ te" (màu trắng)
++ i
+- a
+- e
+- o
+= white.
+?4 Trộn màu đỏ với màu trắng được màu:
++ pink
+- black
+- green
+- blue
+= Đỏ + trắng = hồng.
+
+## Unit 10. Break time activities
+?1 "play football" nghĩa là:
++ chơi bóng đá
+- chơi cờ
+- chơi bóng rổ
+- chơi cầu lông
+= Hoạt động giờ ra chơi.
+?1 "play chess" nghĩa là:
++ chơi cờ
+- chơi trốn tìm
+- nhảy dây
+- đá cầu
+= Hoạt động giờ ra chơi.
+?1 "skipping" nghĩa là:
++ nhảy dây
+- bơi lội
+- vẽ tranh
+- hát
+= Hoạt động giờ ra chơi.
+?1 "break time" nghĩa là:
++ giờ ra chơi
+- giờ học
+- giờ ăn trưa
+- giờ đi ngủ
+= Từ vựng.
+?2 "What do you do at break time?" – "I ___ basketball."
++ play
+- plays
+- playing
+- am play
+= I play…
+?2 "Do you like hide-and-seek?" – "Yes, I ___."
++ do
+- am
+- is
+- like do
+= Yes, I do.
+?2 "hide-and-seek" là trò:
++ trốn tìm
+- kéo co
+- nhảy dây
+- đá bóng
+= Trò chơi.
+?3 "Let's ___ badminton!"
++ play
+- plays
+- playing
+- to play
+= Let's + V.
+?3 "I don't like ___." (bóng chuyền)
++ volleyball
+- volley balls game
+- volleyballs play
+- ball volley
+= Tên môn thể thao.
+?4 Giờ ra chơi bạn rủ em chơi cờ, em đồng ý. Em nói:
++ OK. Let's play chess.
+- No, I don't like football.
+- Goodbye.
+- I'm fine.
+= Đồng ý lời rủ.

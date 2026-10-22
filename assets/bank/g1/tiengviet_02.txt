@@ -1,0 +1,518 @@
+// Tiếng Việt 1 – Kết nối tri thức với cuộc sống – Tập 2 (vần khó, đọc hiểu)
+// Bài đọc do Học Vui tự viết.
+#! HK2
+# Học kì 2
+
+## Vần oa, oe, uy, uê, oai, oay
+?1 Tiếng "hoa" có vần gì?
++ oa
+- oe
+- ua
+- uy
+= bông hoa.
+?1 Tiếng nào có vần oe?
++ xòe
+- xòa
+- xùy
+- xuê
+= xòe cánh.
+?2 Tiếng nào có vần uy?
++ thủy
+- thỏa
+- thuê
+- thoe
+= thủy thủ.
+?2 Tiếng nào có vần uê?
++ huệ
+- hoe
+- hoa
+- hủy
+= hoa huệ.
+?2 Tiếng "điện thoại" có tiếng nào chứa vần oai?
++ thoại
+- điện
+- cả hai tiếng
+- không tiếng nào
+= thoại: vần oai.
+?3 Chọn tiếng đúng: "Cây xanh tỏa bóng mát, chim … cánh bay."
++ xoay
+- xoai
+- xoa
+- xuy
+= xoay: vần oay.
+?3 Tiếng nào khác vần với ba tiếng còn lại: khoa, loa, tòa, xòe?
++ xòe
+- khoa
+- loa
+- tòa
+= xòe vần oe; các tiếng kia vần oa.
+?4 Chọn câu viết đúng:
++ Hoa huệ trắng tinh.
+- Hoa hụê trắng tinh.
+- Hoa huệ chắng tinh.
+- Hoa hoệ trắng tinh.
+= huệ, trắng.
+
+## Vần oan, oăn, oang, oăng, uân, uyên, uât, uyêt
+?1 Tiếng "toán" có vần gì?
++ oan
+- oăn
+- uân
+- an
+= môn Toán.
+?1 Tiếng nào có vần uân?
++ xuân
+- xoan
+- xuyên
+- xăn
+= mùa xuân.
+?2 Tiếng nào có vần uyên?
++ chuyện
+- chiện
+- chuện
+- choen
+= kể chuyện.
+?2 Tiếng nào có vần oang?
++ hoang
+- hoan
+- huâng
+- hong
+= hoang (bỏ hoang): vần oang.
+?2 Tiếng "tuyết" có vần gì?
++ uyêt
+- uât
+- iêt
+- uyên
+= bông tuyết.
+?3 Chọn tiếng đúng: "Tóc em … tít như lò xo."
++ xoăn
+- xoan
+- xuân
+- xăn
+= tóc xoăn: vần oăn.
+?3 Tiếng nào khác vần với ba tiếng còn lại: khuyên, chuyền, thuyền, xuân?
++ xuân
+- khuyên
+- chuyền
+- thuyền
+= xuân vần uân; các tiếng kia vần uyên.
+?4 Chọn câu viết đúng:
++ Mùa xuân, cây cối đâm chồi.
+- Mùa xoan, cây cối đâm chồi.
+- Mùa xuân, cây cối đâm trồi.
+- Mùa suân, cây cối đâm chồi.
+= xuân; chồi (ch).
+
+## Chủ đề: Tôi và các bạn
+> Nam và Bình là bạn thân. Sáng nào hai bạn cũng cùng đi học. Hôm qua, Bình bị ốm. Nam mang vở sang chép bài giúp bạn.
+?1 Nam và Bình là gì của nhau?
++ bạn thân
+- anh em
+- hàng xóm không quen
+- thầy và trò
+= Câu đầu.
+?1 Sáng nào hai bạn cũng làm gì?
++ cùng đi học
+- cùng đi chợ
+- cùng đá bóng
+- cùng ngủ
+= Câu thứ hai.
+?2 Hôm qua, Bình bị làm sao?
++ bị ốm
+- bị ngã
+- bị mất vở
+- đi chơi xa
+= Câu thứ ba.
+?2 Nam đã làm gì giúp Bình?
++ mang vở sang chép bài giúp bạn
+- mua đồ chơi cho bạn
+- làm bài kiểm tra thay bạn
+- đá bóng với bạn
+= Câu cuối.
+?3 Qua câu chuyện, em thấy Nam là bạn:
++ tốt bụng, biết giúp đỡ bạn
+- lười biếng
+- hay trêu bạn
+- ích kỉ
+= Đánh giá nhân vật.
+>-
+?3 Khi bạn bị ngã, em nên:
++ đỡ bạn dậy và hỏi han bạn
+- cười bạn
+- bỏ đi chỗ khác
+- mách cô là bạn hư
+= Cư xử với bạn.
+?3 Từ nào chỉ tình cảm bạn bè?
++ thân thiết
+- giận dữ
+- buồn ngủ
+- nóng nực
+= Từ ngữ về bạn bè.
+?4 Câu nào là lời cảm ơn?
++ Cảm ơn bạn đã cho mình mượn bút.
+- Bạn cho mình mượn bút nhé.
+- Bút của bạn màu gì?
+- Mình có bút mới.
+= Lời cảm ơn.
+
+## Chủ đề: Mái ấm gia đình
+> Tối nào cả nhà Hoa cũng quây quần bên mâm cơm. Bố kể chuyện vui. Mẹ gắp thức ăn cho bà. Hoa giúp mẹ dọn bát. Cả nhà ai cũng vui.
+?1 Tối nào cả nhà Hoa cũng làm gì?
++ quây quần bên mâm cơm
+- đi chơi công viên
+- xem phim ở rạp
+- đi ngủ sớm
+= Câu đầu.
+?1 Ai kể chuyện vui?
++ bố
+- mẹ
+- bà
+- Hoa
+= Câu thứ hai.
+?2 Mẹ gắp thức ăn cho ai?
++ bà
+- bố
+- Hoa
+- ông
+= Câu thứ ba.
+?2 Hoa đã giúp mẹ việc gì?
++ dọn bát
+- nấu cơm
+- đi chợ
+- quét nhà
+= Câu thứ tư.
+?3 Bài đọc nói về điều gì?
++ một bữa cơm gia đình đầm ấm
+- một chuyến đi xa
+- một buổi học ở trường
+- một trận bóng đá
+= Nội dung chính.
+>-
+?3 Từ nào chỉ người trong gia đình?
++ ông bà
+- cô giáo
+- bạn học
+- bác sĩ
+= Từ ngữ về gia đình.
+?3 Em nên làm gì để giúp đỡ bố mẹ?
++ tự gấp quần áo, dọn đồ chơi gọn gàng
+- bày bừa đồ chơi
+- đòi mua quà liên tục
+- xem ti vi cả ngày
+= Việc làm vừa sức.
+?4 Câu nào dùng đúng dấu chấm hỏi?
++ Mẹ đi làm về chưa?
+- Mẹ đi làm về rồi?.
+- Mẹ ơi? con yêu mẹ.
+- Con yêu mẹ?
+= Câu hỏi kết thúc bằng dấu chấm hỏi.
+
+## Chủ đề: Mái trường mến yêu
+> Trường em có sân rộng và nhiều cây bàng. Giờ ra chơi, các bạn nhảy dây, đá cầu. Tiếng trống vang lên, cả lớp lại xếp hàng vào học.
+?1 Sân trường có nhiều cây gì?
++ cây bàng
+- cây dừa
+- cây bưởi
+- cây chuối
+= Câu đầu.
+?1 Giờ ra chơi, các bạn chơi trò gì?
++ nhảy dây, đá cầu
+- đá bóng, bơi lội
+- chơi điện tử
+- thả diều
+= Câu thứ hai.
+?2 Khi tiếng trống vang lên, cả lớp làm gì?
++ xếp hàng vào học
+- chạy ra cổng
+- đi về nhà
+- tiếp tục chơi
+= Câu cuối.
+?2 Từ "rộng" trong câu "Trường em có sân rộng" trái nghĩa với:
++ hẹp
+- dài
+- to
+- cao
+= Rộng – hẹp.
+?3 Bài đọc nói về:
++ ngôi trường và giờ ra chơi của các bạn
+- một khu chợ
+- một khu vườn nhà bà
+- một chuyến du lịch
+= Nội dung chính.
+>-
+?3 Từ nào chỉ đồ dùng học tập?
++ bút chì
+- cái nồi
+- cái chổi
+- cái gối
+= Đồ dùng học tập.
+?3 Khi gặp thầy cô giáo, em nên:
++ khoanh tay chào lễ phép
+- đi lướt qua
+- chạy trốn
+- quay mặt đi
+= Lễ phép.
+?4 Câu nào viết hoa đúng?
++ Em học ở Trường Tiểu học Kim Đồng.
+- em học ở trường tiểu học kim đồng.
+- Em học ở trường tiểu học kim Đồng.
+- em Học ở Trường tiểu học Kim đồng.
+= Viết hoa đầu câu và tên riêng.
+
+## Chủ đề: Điều em cần biết
+?1 Khi đi qua đường, em cần:
++ đi trên vạch kẻ cho người đi bộ, có người lớn dắt
+- chạy thật nhanh qua đường
+- vừa đi vừa chơi
+- đi giữa lòng đường
+= An toàn giao thông.
+?1 Đèn giao thông màu đỏ có nghĩa là:
++ dừng lại
+- đi nhanh
+- được đi
+- đi chậm
+= Đèn đỏ dừng, đèn xanh đi.
+?1 Đèn giao thông màu xanh có nghĩa là:
++ được đi
+- dừng lại
+- đi lùi
+- chạy thật nhanh
+= Đèn xanh được đi.
+?2 Khi ngồi sau xe máy, em phải:
++ đội mũ bảo hiểm
+- đứng lên yên xe
+- buông tay
+- ngủ gật
+= Bảo vệ đầu.
+?2 Nếu người lạ cho kẹo và rủ đi chơi, em nên:
++ không đi theo và báo ngay cho bố mẹ, thầy cô
+- đi theo ngay
+- nhận kẹo rồi đi
+- nói địa chỉ nhà cho người đó
+= Phòng tránh nguy hiểm.
+?3 Em không được chơi gần:
++ ao hồ, sông suối khi không có người lớn
+- bàn học
+- giường ngủ
+- tủ sách
+= Phòng tránh đuối nước.
+?3 Ổ cắm điện rất nguy hiểm vì:
++ có thể bị điện giật
+- có thể bị lạnh
+- có thể bị ướt
+- có thể bị đói
+= An toàn điện.
+?4 Số điện thoại gọi cứu hỏa khi có cháy là:
++ 114
+- 113
+- 115
+- 111
+= 113 công an, 114 cứu hỏa, 115 cấp cứu.
+
+## Chủ đề: Bài học từ cuộc sống
+> Thỏ chạy rất nhanh nên coi thường Rùa. Hai bạn thi chạy. Thỏ nghĩ mình sẽ thắng nên nằm ngủ giữa đường. Rùa cứ chậm rãi bò mãi. Khi Thỏ tỉnh dậy thì Rùa đã về đích.
+?1 Thỏ thi chạy với ai?
++ Rùa
+- Mèo
+- Chó
+- Gà
+= Câu thứ hai.
+?1 Vì sao Thỏ coi thường Rùa?
++ vì Thỏ chạy rất nhanh
+- vì Rùa to hơn Thỏ
+- vì Rùa không biết chạy
+- vì Thỏ bị ốm
+= Câu đầu.
+?2 Giữa đường, Thỏ đã làm gì?
++ nằm ngủ
+- ăn cà rốt
+- chờ Rùa
+- chạy về đích
+= Câu thứ ba.
+?2 Ai về đích trước?
++ Rùa
+- Thỏ
+- cả hai cùng lúc
+- không ai
+= Câu cuối.
+?3 Câu chuyện khuyên em điều gì?
++ không nên chủ quan, coi thường người khác; kiên trì sẽ thành công
+- nên ngủ nhiều
+- nên chạy thật nhanh
+- không nên thi chạy
+= Bài học.
+>-
+?3 Từ nào trái nghĩa với "nhanh"?
++ chậm
+- vội
+- mạnh
+- cao
+= Nhanh – chậm.
+?3 Đức tính đáng học ở bạn Rùa là:
++ kiên trì
+- kiêu ngạo
+- lười biếng
+- hay khoe khoang
+= Rùa không bỏ cuộc.
+?4 Câu nào là câu kể đúng dấu câu?
++ Rùa về đích trước.
+- Rùa về đích trước?
+- rùa về đích trước
+- Rùa về, đích trước.
+= Câu kể kết thúc bằng dấu chấm, viết hoa chữ đầu câu.
+
+## Chủ đề: Thiên nhiên kì thú
+> Mùa hè, hoa phượng nở đỏ rực sân trường. Ve kêu râm ran trên cành. Trời nắng chói chang. Các bạn nhỏ được nghỉ hè, về quê thăm ông bà.
+?1 Bài đọc nói về mùa nào?
++ mùa hè
+- mùa xuân
+- mùa thu
+- mùa đông
+= Câu đầu.
+?1 Hoa phượng có màu gì?
++ đỏ
+- trắng
+- tím
+- vàng
+= "nở đỏ rực".
+?2 Con vật nào kêu râm ran trên cành?
++ con ve
+- con gà
+- con mèo
+- con cá
+= Câu thứ hai.
+?2 Nghỉ hè, các bạn nhỏ đi đâu?
++ về quê thăm ông bà
+- đi học thêm cả ngày
+- đi làm
+- đi trượt tuyết
+= Câu cuối.
+?3 Từ "chói chang" tả gì?
++ nắng rất gắt
+- mưa rất to
+- gió rất mạnh
+- trời rất lạnh
+= Từ gợi tả.
+>-
+?3 Mùa nào thường lạnh nhất ở miền Bắc?
++ mùa đông
+- mùa hè
+- mùa thu
+- mùa xuân
+= Bốn mùa.
+?3 Con vật nào sống dưới nước?
++ con cá
+- con chim
+- con gà
+- con mèo
+= Nơi sống của con vật.
+?4 Từ nào viết đúng chính tả?
++ rực rỡ
+- dực dỡ
+- rực dỡ
+- giực rỡ
+= rực rỡ.
+
+## Chủ đề: Thế giới trong mắt em
+> Bé Lan rất thích vẽ. Bé vẽ ông mặt trời đang cười, vẽ đàn cá bơi tung tăng và vẽ cả ngôi nhà có mái ngói đỏ. Mẹ khen tranh của Lan đẹp quá.
+?1 Bé Lan thích làm gì?
++ vẽ
+- hát
+- múa
+- đá bóng
+= Câu đầu.
+?1 Bé vẽ ông mặt trời đang làm gì?
++ đang cười
+- đang ngủ
+- đang khóc
+- đang chạy
+= Câu thứ hai.
+?2 Ngôi nhà trong tranh có mái ngói màu gì?
++ đỏ
+- xanh
+- vàng
+- tím
+= "mái ngói đỏ".
+?2 Ai khen tranh của Lan?
++ mẹ
+- bố
+- cô giáo
+- bạn
+= Câu cuối.
+?3 Từ "tung tăng" tả hoạt động của:
++ đàn cá
+- ông mặt trời
+- ngôi nhà
+- mẹ
+= "đàn cá bơi tung tăng".
+>-
+?3 Màu của lá cây non thường là:
++ xanh
+- đen
+- tím
+- trắng
+= Quan sát thiên nhiên.
+?3 Em dùng gì để tô màu bức tranh?
++ bút chì màu
+- cái kéo
+- cái thước
+- cục tẩy
+= Đồ dùng vẽ.
+?4 Câu nào nói về sở thích?
++ Em thích vẽ tranh phong cảnh.
+- Em vẽ tranh hôm qua.
+- Bức tranh treo trên tường.
+- Tranh có ông mặt trời.
+= Câu nói về điều em yêu thích.
+
+## Chủ đề: Đất nước và con người
+> Thủ đô của nước ta là Hà Nội. Ở Hà Nội có Hồ Gươm, có Lăng Bác. Em mong được đến Hà Nội để thăm Lăng Bác Hồ.
+?1 Thủ đô của nước ta là:
++ Hà Nội
+- Huế
+- Đà Nẵng
+- Cần Thơ
+= Câu đầu.
+?1 Hà Nội có hồ nào được nhắc đến trong bài?
++ Hồ Gươm
+- Hồ Tây
+- Hồ Ba Bể
+- Hồ Núi Cốc
+= Câu thứ hai.
+?2 Em mong được đến Hà Nội để làm gì?
++ thăm Lăng Bác Hồ
+- đi mua sắm
+- đi học bơi
+- đi ăn kem
+= Câu cuối.
+?2 Lá cờ Tổ quốc Việt Nam có màu:
++ nền đỏ, ngôi sao vàng
+- nền vàng, ngôi sao đỏ
+- nền xanh, ngôi sao trắng
+- nền trắng, ngôi sao đỏ
+= Cờ đỏ sao vàng.
+?3 Từ nào viết hoa đúng tên riêng?
++ Hà Nội
+- hà nội
+- Hà nội
+- hà Nội
+= Viết hoa chữ cái đầu mỗi tiếng trong tên riêng.
+>-
+?3 Bác Hồ rất yêu quý:
++ các cháu thiếu nhi
+- chỉ người lớn
+- chỉ các bác nông dân
+- không ai
+= Tình cảm của Bác.
+?3 Từ nào chỉ nghề nghiệp?
++ bác sĩ
+- cái bàn
+- quả cam
+- con mèo
+= Từ ngữ về nghề nghiệp.
+?4 Câu nào là lời chúc?
++ Chúc bà mạnh khỏe, sống lâu!
+- Bà đang ở nhà.
+- Bà có khỏe không?
+- Bà đi chợ rồi.
+= Lời chúc thường kết thúc bằng dấu chấm than.

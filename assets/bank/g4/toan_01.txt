@@ -1,0 +1,609 @@
+// Toán 4 – Kết nối tri thức với cuộc sống – Tập 1
+#! HK1
+# Ôn tập và số có nhiều chữ số
+
+## Bài 1. Ôn tập các số đến 100 000 và các phép tính
+?1 Số 45 307 đọc là:
++ bốn mươi lăm nghìn ba trăm linh bảy
+- bốn trăm năm mươi ba nghìn linh bảy
+- bốn mươi lăm nghìn ba trăm bảy mươi
+- bốn nghìn năm trăm ba mươi bảy
+= Đọc số theo lớp.
+?1 36 528 + 41 371 = ?
++ 77 899
+- 77 889
+- 78 899
+- 4843
+= Cộng từng hàng.
+?2 60 000 − 23 475 = ?
++ 36 525
+- 37 525
+- 36 535
+- 83 475
+= Trừ có nhớ.
+?2 12 405 × 4 = ?
++ 49 620
+- 48 620
+- 49 610
+- 12 409
+= Nhân có nhớ.
+?2 36 945 : 5 = ?
++ 7389
+- 7398
+- 7289
+- 36 940
+= Chia từng lượt.
+?3 Giá trị biểu thức 15 000 + 4 × 2500 là:
++ 25 000
+- 47 500
+- 19 004
+- 21 000
+= Nhân trước: 10 000 + 15 000.
+?3 Làm tròn số 68 450 đến hàng nghìn được:
++ 68 000
+- 69 000
+- 68 500
+- 70 000
+= Chữ số hàng trăm là 4 < 5.
+?4 Một xe tải chở 3 chuyến, mỗi chuyến 2450 kg gạo. Xe đã chở được bao nhiêu ki-lô-gam gạo?
++ 7350 kg
+- 2453 kg
+- 6350 kg
+- 7250 kg
+= 2450 × 3.
+
+## Bài 2. Số có sáu chữ số. Hàng và lớp
+?1 Số "ba trăm hai mươi nghìn bốn trăm" viết là:
++ 320 400
+- 32 400
+- 320 040
+- 3 200 400
+= 320 nghìn, 4 trăm.
+?1 Lớp nghìn gồm các hàng:
++ hàng nghìn, hàng chục nghìn, hàng trăm nghìn
+- hàng đơn vị, hàng chục, hàng trăm
+- hàng triệu, hàng chục triệu
+- hàng chục, hàng trăm, hàng nghìn
+= Hàng và lớp.
+?2 Chữ số 7 trong số 572 019 thuộc hàng:
++ chục nghìn
+- trăm nghìn
+- nghìn
+- trăm
+= 5 trăm nghìn, 7 chục nghìn.
+?2 Giá trị của chữ số 4 trong số 641 230 là:
++ 40 000
+- 4000
+- 400 000
+- 4
+= Hàng chục nghìn.
+?2 Số 908 006 đọc là:
++ chín trăm linh tám nghìn không trăm linh sáu
+- chín trăm tám mươi nghìn sáu
+- chín mươi tám nghìn không trăm sáu
+- chín trăm linh tám nghìn sáu mươi
+= Đọc từng lớp.
+?3 Số lớn nhất có sáu chữ số là:
++ 999 999
+- 999 990
+- 100 000
+- 900 000
+= Số có sáu chữ số.
+?3 Số 507 300 viết thành tổng là:
++ 500 000 + 7000 + 300
+- 500 000 + 70 000 + 300
+- 50 000 + 7000 + 300
+- 500 000 + 700 + 30
+= Phân tích cấu tạo.
+?4 Số bé nhất có sáu chữ số khác nhau là:
++ 102 345
+- 100 000
+- 123 456
+- 102 354
+= Chọn chữ số nhỏ nhất, khác nhau.
+
+## Bài 3. Triệu và lớp triệu. So sánh, làm tròn số
+?1 10 trăm nghìn bằng:
++ 1 triệu
+- 1 chục triệu
+- 100 nghìn
+- 1 nghìn
+= 1 000 000.
+?1 Số "hai mươi lăm triệu" viết là:
++ 25 000 000
+- 2 500 000
+- 250 000 000
+- 25 000
+= Lớp triệu.
+?2 Dấu cần điền: 3 456 789 … 3 465 789
++ <
+- >
+- =
+- +
+= Hàng chục nghìn: 5 < 6.
+?2 Số 12 004 500 đọc là:
++ mười hai triệu không trăm linh bốn nghìn năm trăm
+- một trăm hai mươi triệu bốn nghìn năm trăm
+- mười hai triệu bốn trăm năm mươi nghìn
+- mười hai nghìn không trăm linh bốn triệu năm trăm
+= Đọc từng lớp.
+?2 Làm tròn số 2 368 000 đến hàng trăm nghìn được:
++ 2 400 000
+- 2 300 000
+- 2 370 000
+- 3 000 000
+= Chữ số hàng chục nghìn là 6 ≥ 5.
+?3 Xếp các số 1 205 000; 1 250 000; 1 025 000 theo thứ tự từ lớn đến bé:
++ 1 250 000; 1 205 000; 1 025 000
+- 1 025 000; 1 205 000; 1 250 000
+- 1 205 000; 1 250 000; 1 025 000
+- 1 250 000; 1 025 000; 1 205 000
+= So sánh từng hàng.
+?3 Dân số một tỉnh là 1 847 352 người. Làm tròn đến hàng triệu là:
++ 2 000 000
+- 1 000 000
+- 1 800 000
+- 1 850 000
+= Chữ số hàng trăm nghìn là 8 ≥ 5.
+?4 Số tự nhiên liền sau số lớn nhất có bảy chữ số là:
++ 10 000 000
+- 9 999 999
+- 1 000 000
+- 9 999 998
+= 9 999 999 + 1.
+
+## Bài 4. Dãy số tự nhiên; số chẵn, số lẻ
+?1 Số nào là số chẵn?
++ 254
+- 173
+- 391
+- 5
+= Số chẵn có tận cùng 0, 2, 4, 6, 8.
+?1 Số tự nhiên bé nhất là:
++ 0
+- 1
+- 10
+- không có
+= Dãy số tự nhiên bắt đầu từ 0.
+?2 Hai số chẵn liên tiếp hơn kém nhau:
++ 2 đơn vị
+- 1 đơn vị
+- 3 đơn vị
+- 10 đơn vị
+= Ví dụ 4 và 6.
+?2 Số lẻ liền sau 99 là:
++ 101
+- 100
+- 98
+- 103
+= 99, 100, 101.
+?2 Từ 1 đến 10 có bao nhiêu số lẻ?
++ 5
+- 4
+- 6
+- 10
+= 1, 3, 5, 7, 9.
+?3 Có bao nhiêu số chẵn có hai chữ số?
++ 45
+- 50
+- 90
+- 44
+= 10, 12, …, 98: (98 − 10) : 2 + 1.
+?3 Số chẵn lớn nhất có ba chữ số khác nhau là:
++ 986
+- 998
+- 988
+- 987
+= Chữ số hàng đơn vị phải chẵn.
+?4 Tổng của 5 số lẻ đầu tiên (1, 3, 5, 7, 9) là:
++ 25
+- 20
+- 24
+- 30
+= 1 + 3 + 5 + 7 + 9.
+
+# Góc, đường thẳng và hình
+
+## Bài 5. Góc nhọn, góc tù, góc bẹt. Đo góc
+?1 Góc vuông có số đo là:
++ 90°
+- 60°
+- 180°
+- 45°
+= Góc vuông.
+?1 Góc bẹt có số đo là:
++ 180°
+- 90°
+- 360°
+- 120°
+= Góc bẹt.
+?2 Góc có số đo 120° là:
++ góc tù
+- góc nhọn
+- góc vuông
+- góc bẹt
+= 90° < 120° < 180°.
+?2 Góc có số đo 45° là:
++ góc nhọn
+- góc tù
+- góc vuông
+- góc bẹt
+= Nhỏ hơn 90°.
+?2 Dụng cụ để đo góc là:
++ thước đo góc
+- com-pa
+- thước dây
+- cân đĩa
+= Dụng cụ đo.
+?3 Lúc 6 giờ đúng, kim giờ và kim phút tạo thành góc:
++ góc bẹt
+- góc vuông
+- góc nhọn
+- góc tù
+= Hai kim thẳng hàng, ngược hướng.
+?3 Góc bẹt bằng mấy góc vuông?
++ 2
+- 1
+- 3
+- 4
+= 180° = 2 × 90°.
+?4 Lúc 2 giờ đúng, kim giờ và kim phút tạo thành góc:
++ góc nhọn (60°)
+- góc vuông
+- góc tù
+- góc bẹt
+= Mỗi khoảng giờ 30°; 2 × 30° = 60°.
+
+## Bài 6. Hai đường thẳng vuông góc, song song. Hình bình hành, hình thoi
+?1 Hai đường thẳng vuông góc tạo thành:
++ 4 góc vuông
+- 4 góc nhọn
+- 2 góc tù
+- 1 góc bẹt
+= Khái niệm.
+?1 Hai đường thẳng song song thì:
++ không bao giờ cắt nhau
+- cắt nhau tại một điểm
+- vuông góc với nhau
+- trùng nhau
+= Khái niệm.
+?2 Hình bình hành có:
++ hai cặp cạnh đối diện song song và bằng nhau
+- bốn góc vuông
+- ba cạnh
+- các cạnh không song song
+= Đặc điểm hình bình hành.
+?2 Hình thoi có:
++ bốn cạnh bằng nhau, hai cặp cạnh đối song song
+- bốn góc vuông bắt buộc
+- ba cạnh bằng nhau
+- không có cạnh song song
+= Đặc điểm hình thoi.
+?2 Hai cạnh đối diện của hình chữ nhật thì:
++ song song và bằng nhau
+- vuông góc
+- cắt nhau
+- không bằng nhau
+= Đặc điểm.
+?3 Hai cạnh kề nhau của hình chữ nhật thì:
++ vuông góc với nhau
+- song song
+- trùng nhau
+- không liên quan
+= Đặc điểm.
+?3 Hình thoi có chu vi 24 cm. Mỗi cạnh dài:
++ 6 cm
+- 12 cm
+- 8 cm
+- 4 cm
+= 24 : 4.
+?4 Hình bình hành ABCD có AB = 8 cm, BC = 5 cm. Chu vi hình bình hành là:
++ 26 cm
+- 13 cm
+- 40 cm
+- 21 cm
+= (8 + 5) × 2.
+
+# Phép cộng, phép trừ
+
+## Bài 7. Phép cộng, phép trừ các số có nhiều chữ số
+?1 245 678 + 134 210 = ?
++ 379 888
+- 379 878
+- 111 468
+- 389 888
+= Cộng từng hàng.
+?1 986 540 − 452 310 = ?
++ 534 230
+- 534 220
+- 1 438 850
+- 544 230
+= Trừ từng hàng.
+?2 507 835 + 286 487 = ?
++ 794 322
+- 793 322
+- 794 312
+- 784 322
+= Cộng có nhớ.
+?2 800 000 − 275 640 = ?
++ 524 360
+- 525 360
+- 524 460
+- 1 075 640
+= Trừ có nhớ.
+?2 x + 125 000 = 400 000. Giá trị x là:
++ 275 000
+- 525 000
+- 285 000
+- 375 000
+= 400 000 − 125 000.
+?3 Năm nay trường trồng được 1250 cây, năm ngoái trồng ít hơn 375 cây. Cả hai năm trồng được:
++ 2125 cây
+- 875 cây
+- 1625 cây
+- 2500 cây
+= Năm ngoái 875; 1250 + 875.
+?3 x − 64 250 = 135 750. Giá trị x là:
++ 200 000
+- 71 500
+- 190 000
+- 201 000
+= 135 750 + 64 250.
+?4 Một kho có 125 600 kg thóc. Ngày đầu xuất 38 450 kg, ngày sau xuất 42 750 kg. Kho còn lại:
++ 44 400 kg
+- 81 200 kg
+- 45 400 kg
+- 206 800 kg
+= 125 600 − 38 450 − 42 750.
+
+## Bài 8. Tính chất giao hoán, kết hợp của phép cộng
+?1 a + b = b + …
++ a
+- b
+- 0
+- a + b
+= Tính chất giao hoán.
+?1 (a + b) + c = a + (… + c)
++ b
+- a
+- c
+- 0
+= Tính chất kết hợp.
+?2 Tính thuận tiện: 125 + 378 + 875 = ?
++ 1378
+- 1278
+- 1388
+- 1478
+= (125 + 875) + 378 = 1000 + 378.
+?2 Tính thuận tiện: 46 + 37 + 54 + 63 = ?
++ 200
+- 190
+- 210
+- 100
+= (46 + 54) + (37 + 63).
+?2 2023 + 0 = ?
++ 2023
+- 0
+- 2024
+- 20230
+= Cộng với 0.
+?3 Tính thuận tiện: 999 + 1 + 2500 = ?
++ 3500
+- 3499
+- 3600
+- 3400
+= 1000 + 2500.
+?3 Biểu thức nào bằng 258 + 742?
++ 742 + 258
+- 742 − 258
+- 258 × 742
+- 258 − 742
+= Giao hoán.
+?4 Tổng của 1 + 2 + 3 + … + 9 + 10 là:
++ 55
+- 50
+- 45
+- 60
+= (1 + 10) + (2 + 9) + … = 11 × 5.
+
+# Đơn vị đo đại lượng; trung bình cộng; tổng và hiệu
+
+## Bài 9. Yến, tạ, tấn; giây, thế kỉ
+?1 1 tạ bằng bao nhiêu ki-lô-gam?
++ 100 kg
+- 10 kg
+- 1000 kg
+- 50 kg
+= 1 tạ = 100 kg.
+?1 1 tấn bằng bao nhiêu ki-lô-gam?
++ 1000 kg
+- 100 kg
+- 10 kg
+- 10 000 kg
+= 1 tấn = 1000 kg.
+?2 1 yến bằng:
++ 10 kg
+- 100 kg
+- 1000 kg
+- 1 kg
+= 1 yến = 10 kg.
+?2 1 phút bằng bao nhiêu giây?
++ 60 giây
+- 100 giây
+- 30 giây
+- 24 giây
+= 1 phút = 60 giây.
+?2 1 thế kỉ bằng bao nhiêu năm?
++ 100 năm
+- 10 năm
+- 1000 năm
+- 50 năm
+= 1 thế kỉ = 100 năm.
+?3 3 tấn 50 kg = … kg
++ 3050 kg
+- 350 kg
+- 3500 kg
+- 30 050 kg
+= 3000 + 50.
+?3 Năm 2026 thuộc thế kỉ:
++ XXI
+- XX
+- XIX
+- XXII
+= Từ năm 2001 đến 2100 là thế kỉ XXI.
+?4 Một xe chở 2 tấn 5 tạ gạo, đã dỡ xuống 1200 kg. Xe còn lại bao nhiêu ki-lô-gam gạo?
++ 1300 kg
+- 1250 kg
+- 3700 kg
+- 800 kg
+= 2500 − 1200.
+
+## Bài 10. Đề-xi-mét vuông, mét vuông, mi-li-mét vuông
+?1 1 m² bằng bao nhiêu dm²?
++ 100 dm²
+- 10 dm²
+- 1000 dm²
+- 10 000 dm²
+= 1 m² = 100 dm².
+?1 1 dm² bằng bao nhiêu cm²?
++ 100 cm²
+- 10 cm²
+- 1000 cm²
+- 1 cm²
+= 1 dm² = 100 cm².
+?2 5 m² = … dm²
++ 500 dm²
+- 50 dm²
+- 5000 dm²
+- 5 dm²
+= 5 × 100.
+?2 Diện tích hình chữ nhật dài 8 m, rộng 5 m là:
++ 40 m²
+- 26 m²
+- 13 m²
+- 40 m
+= 8 × 5.
+?2 Đơn vị phù hợp để đo diện tích phòng học là:
++ m²
+- mm²
+- cm²
+- km
+= Ước lượng.
+?3 300 cm² = … dm²
++ 3 dm²
+- 30 dm²
+- 300 dm²
+- 3000 dm²
+= 300 : 100.
+?3 Một nền nhà hình vuông cạnh 6 m. Diện tích nền nhà là:
++ 36 m²
+- 24 m²
+- 12 m²
+- 36 m
+= 6 × 6.
+?4 Lát nền phòng 20 m² bằng gạch vuông cạnh 5 dm. Cần bao nhiêu viên gạch?
++ 80 viên
+- 4 viên
+- 100 viên
+- 400 viên
+= Mỗi viên 25 dm²; 2000 dm² : 25 dm².
+
+## Bài 11. Tìm số trung bình cộng
+?1 Trung bình cộng của 4 và 8 là:
++ 6
+- 12
+- 4
+- 2
+= (4 + 8) : 2.
+?1 Trung bình cộng của 10, 20, 30 là:
++ 20
+- 60
+- 30
+- 15
+= 60 : 3.
+?2 Trung bình cộng của 35, 45, 55, 65 là:
++ 50
+- 200
+- 45
+- 55
+= 200 : 4.
+?2 Ba bạn cao 130 cm, 134 cm, 138 cm. Chiều cao trung bình là:
++ 134 cm
+- 402 cm
+- 130 cm
+- 136 cm
+= 402 : 3.
+?2 Muốn tìm trung bình cộng của nhiều số, ta:
++ tính tổng các số rồi chia cho số các số hạng
+- nhân các số với nhau
+- lấy số lớn nhất
+- lấy số lớn trừ số bé
+= Quy tắc.
+?3 Trung bình cộng của hai số là 25. Tổng hai số là:
++ 50
+- 25
+- 12
+- 75
+= 25 × 2.
+?3 Một ô tô giờ đầu đi 42 km, giờ thứ hai đi 48 km, giờ thứ ba đi 45 km. Trung bình mỗi giờ đi:
++ 45 km
+- 135 km
+- 48 km
+- 42 km
+= 135 : 3.
+?4 Trung bình cộng của ba số là 30. Số thứ nhất là 25, số thứ hai là 35. Số thứ ba là:
++ 30
+- 90
+- 60
+- 40
+= 90 − 25 − 35.
+
+## Bài 12. Bài toán tìm hai số khi biết tổng và hiệu
+?1 Tổng hai số là 20, hiệu là 4. Số lớn là:
++ 12
+- 8
+- 16
+- 24
+= (20 + 4) : 2.
+?1 Tổng hai số là 50, hiệu là 10. Số bé là:
++ 20
+- 30
+- 40
+- 25
+= (50 − 10) : 2.
+?2 Hai lớp có 68 học sinh, lớp 4A nhiều hơn lớp 4B 4 học sinh. Lớp 4A có:
++ 36 học sinh
+- 32 học sinh
+- 34 học sinh
+- 72 học sinh
+= (68 + 4) : 2.
+?2 Tuổi bố và tuổi con cộng lại là 48, bố hơn con 30 tuổi. Tuổi con là:
++ 9 tuổi
+- 39 tuổi
+- 18 tuổi
+- 24 tuổi
+= (48 − 30) : 2.
+?2 Hai thửa ruộng thu được 1500 kg thóc, thửa thứ nhất nhiều hơn thửa thứ hai 300 kg. Thửa thứ nhất thu được:
++ 900 kg
+- 600 kg
+- 1200 kg
+- 750 kg
+= (1500 + 300) : 2.
+?3 Hình chữ nhật có chu vi 40 cm, chiều dài hơn chiều rộng 4 cm. Chiều dài là:
++ 12 cm
+- 8 cm
+- 22 cm
+- 18 cm
+= Nửa chu vi 20; (20 + 4) : 2.
+?3 Tổng hai số là số lớn nhất có hai chữ số, hiệu là 9. Số bé là:
++ 45
+- 54
+- 49
+- 90
+= (99 − 9) : 2.
+?4 Hình chữ nhật có chu vi 56 m, chiều dài hơn chiều rộng 8 m. Diện tích hình chữ nhật là:
++ 180 m²
+- 112 m²
+- 56 m²
+- 192 m²
+= Nửa chu vi 28: dài 18 m, rộng 10 m; 18 × 10.

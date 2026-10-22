@@ -1,0 +1,412 @@
+// Tiếng Việt 4 – Kết nối tri thức với cuộc sống – Tập 1
+// Bài đọc do Học Vui tự viết.
+#! HK1
+# Học kì 1
+
+## Chủ điểm Mỗi người một vẻ (1): Đọc hiểu
+> Lớp em mỗi bạn một vẻ. Hùng khỏe mạnh, giỏi bóng đá. Thu dịu dàng, viết chữ rất đẹp. Còn Khoa ít nói nhưng hễ gặp bài toán khó là say sưa tìm lời giải. Cô giáo bảo: "Mỗi em là một bông hoa, cùng nhau làm nên vườn hoa lớp mình."
+?1 Bạn Hùng có điểm gì nổi bật?
++ khỏe mạnh, giỏi bóng đá
+- viết chữ đẹp
+- giỏi giải toán
+- hát hay
+= Câu thứ hai.
+?1 Bạn Thu có điểm gì nổi bật?
++ dịu dàng, viết chữ rất đẹp
+- giỏi bóng đá
+- ít nói
+- vẽ đẹp
+= Câu thứ ba.
+?2 Bạn Khoa say sưa khi nào?
++ khi gặp bài toán khó
+- khi đá bóng
+- khi đi chơi
+- khi xem phim
+= Câu thứ tư.
+?2 Cô giáo so sánh mỗi bạn với:
++ một bông hoa
+- một ngôi sao
+- một cái cây
+- một con chim
+= Lời cô giáo.
+?3 Ý nghĩa của bài đọc là:
++ mỗi người có một nét riêng đáng quý
+- ai cũng giống nhau
+- chỉ người giỏi toán mới đáng quý
+- không nên chơi với bạn khác mình
+= Ý nghĩa.
+>-
+?3 Từ nào là danh từ?
++ học sinh
+- chạy
+- xinh đẹp
+- vui vẻ
+= Danh từ chỉ người, vật, hiện tượng…
+?3 Từ nào là danh từ riêng?
++ Hà Nội
+- thành phố
+- dòng sông
+- ngọn núi
+= Tên riêng, viết hoa.
+?4 Câu nào dùng từ chỉ đặc điểm để nói về tính cách?
++ Bạn Lan rất chu đáo và tốt bụng.
+- Bạn Lan đang đọc sách.
+- Bạn Lan ở lớp 4A.
+- Bạn Lan có cái cặp mới.
+= Tính từ chỉ tính cách.
+
+## Chủ điểm Mỗi người một vẻ (2): Danh từ chung, danh từ riêng; viết hoa
+?1 Danh từ chung là:
++ tên gọi chung của một loại sự vật
+- tên riêng của một người, một nơi
+- từ chỉ hoạt động
+- từ chỉ đặc điểm
+= Khái niệm.
+?1 Danh từ riêng phải:
++ viết hoa
+- viết thường
+- viết in nghiêng
+- gạch chân
+= Quy tắc chính tả.
+?2 Từ nào là danh từ chung?
++ con sông
+- sông Hồng
+- Hà Nội
+- Trần Hưng Đạo
+= Tên gọi chung.
+?2 Tên người nào viết đúng?
++ Nguyễn Văn An
+- nguyễn văn an
+- Nguyễn văn An
+- nguyễn Văn An
+= Viết hoa chữ cái đầu mỗi tiếng.
+?2 Từ nào chỉ hiện tượng tự nhiên?
++ mưa
+- bàn
+- bác sĩ
+- con mèo
+= Danh từ chỉ hiện tượng.
+?3 Tên địa lí nào viết đúng?
++ sông Cửu Long
+- Sông cửu long
+- sông cửu Long
+- Sông Cửu long
+= Viết hoa tên riêng (sông là danh từ chung).
+?3 Trong câu "Bố em là kĩ sư ở Đà Nẵng.", danh từ riêng là:
++ Đà Nẵng
+- bố
+- kĩ sư
+- em
+= Tên riêng địa danh.
+?4 Câu nào viết đúng tên cơ quan, tổ chức?
++ Em là thành viên của Đội Thiếu niên Tiền phong Hồ Chí Minh.
+- Em là thành viên của đội thiếu niên tiền phong hồ chí minh.
+- Em là thành viên của Đội thiếu niên tiền phong Hồ Chí Minh.
+- Em là thành viên của đội Thiếu niên Tiền phong hồ Chí Minh.
+= Viết hoa chữ đầu mỗi bộ phận tạo thành tên.
+
+## Chủ điểm Trải nghiệm và khám phá (1): Đọc hiểu
+> Nhóm bạn của Minh làm thí nghiệm trồng đỗ. Hai cốc đỗ, một cốc để ngoài ánh sáng, một cốc để trong hộp tối. Sau năm ngày, cây đỗ ngoài sáng xanh tốt, còn cây trong hộp vàng úa, thân dài khẳng khiu. Các bạn reo lên: "À, cây cần ánh sáng để sống khỏe!"
+?1 Nhóm của Minh làm thí nghiệm gì?
++ trồng đỗ
+- nuôi cá
+- làm diều
+- nấu ăn
+= Câu đầu.
+?1 Hai cốc đỗ được đặt ở đâu?
++ một cốc ngoài ánh sáng, một cốc trong hộp tối
+- cả hai trong tủ lạnh
+- cả hai ngoài nắng
+- cả hai dưới nước
+= Câu thứ hai.
+?2 Sau năm ngày, cây đỗ ngoài sáng thế nào?
++ xanh tốt
+- vàng úa
+- chết khô
+- không mọc
+= Câu thứ ba.
+?2 Cây đỗ trong hộp tối thế nào?
++ vàng úa, thân dài khẳng khiu
+- xanh tốt
+- ra hoa
+- có quả
+= Câu thứ ba.
+?3 Các bạn rút ra điều gì?
++ cây cần ánh sáng để sống khỏe
+- cây không cần ánh sáng
+- cây cần bóng tối
+- cây chỉ cần nước
+= Kết luận.
+>-
+?3 Từ nào là động từ?
++ khám phá
+- thí nghiệm
+- xanh tốt
+- hộp tối
+= Động từ chỉ hoạt động.
+?3 Từ "khẳng khiu" là:
++ tính từ chỉ hình dáng gầy, mảnh
+- danh từ
+- động từ
+- quan hệ từ
+= Từ chỉ đặc điểm.
+?4 Câu "Các bạn reo lên: 'À, cây cần ánh sáng!'" dùng dấu hai chấm để:
++ báo hiệu lời nói của nhân vật
+- liệt kê sự vật
+- kết thúc câu
+- ngăn cách trạng ngữ
+= Công dụng dấu hai chấm.
+
+## Chủ điểm Trải nghiệm và khám phá (2): Động từ
+?1 Động từ là từ:
++ chỉ hoạt động, trạng thái của sự vật
+- chỉ tên sự vật
+- chỉ đặc điểm, tính chất
+- chỉ số lượng
+= Khái niệm.
+?1 Từ nào là động từ chỉ trạng thái?
++ ngủ
+- bàn ghế
+- đẹp
+- xanh
+= Trạng thái.
+?2 Trong câu "Em đọc sách và ghi chép.", các động từ là:
++ đọc, ghi chép
+- em, sách
+- sách, ghi chép
+- em, đọc
+= Từ chỉ hoạt động.
+?2 Từ "đã" trong "Em đã làm xong bài." cho biết hoạt động:
++ xảy ra trong quá khứ
+- sắp xảy ra
+- đang xảy ra
+- không xảy ra
+= Từ chỉ thời gian bổ sung cho động từ.
+?2 Từ "sẽ" trong "Mai em sẽ đi tham quan." cho biết hoạt động:
++ sắp xảy ra trong tương lai
+- đã xảy ra
+- đang xảy ra
+- không xảy ra
+= Từ chỉ thời gian.
+?3 Chọn động từ thích hợp: "Các nhà khoa học đang … đáy đại dương."
++ khám phá
+- xinh xắn
+- mặt nước
+- màu xanh
+= Động từ.
+?3 Từ nào không phải là động từ?
++ chăm chỉ
+- leo
+- bơi
+- quan sát
+= "chăm chỉ" là tính từ.
+?4 Câu nào có ba động từ?
++ Chúng em đi, ngắm và chụp ảnh cảnh đẹp.
+- Chúng em là học sinh.
+- Cảnh đẹp quá.
+- Chúng em ở lớp 4A.
+= đi, ngắm, chụp.
+
+## Chủ điểm Niềm vui sáng tạo (1): Đọc hiểu
+> Từ những vỏ hộp sữa cũ, Lan cắt, dán thành một chiếc xe buýt nhỏ xinh. Bạn tô màu vàng, vẽ thêm cửa sổ và các bánh xe. Chiếc xe được cô giáo chọn trưng bày ở góc sáng tạo của lớp. Lan vui lắm vì đồ cũ đã thành đồ chơi đẹp.
+?1 Lan làm chiếc xe buýt từ vật liệu gì?
++ vỏ hộp sữa cũ
+- gỗ mới
+- nhựa mới
+- sắt
+= Câu đầu.
+?1 Chiếc xe được tô màu gì?
++ vàng
+- đỏ
+- xanh
+- tím
+= Câu thứ hai.
+?2 Chiếc xe được trưng bày ở đâu?
++ góc sáng tạo của lớp
+- thư viện thành phố
+- nhà của Lan
+- sân trường
+= Câu thứ ba.
+?2 Vì sao Lan vui?
++ vì đồ cũ đã thành đồ chơi đẹp
+- vì được mua xe mới
+- vì được nghỉ học
+- vì được điểm 10 môn Toán
+= Câu cuối.
+?3 Việc làm của Lan có ý nghĩa:
++ sáng tạo và bảo vệ môi trường (tái chế)
+- lãng phí
+- làm bẩn lớp
+- không có ý nghĩa
+= Ý nghĩa.
+>-
+?3 Từ nào là tính từ?
++ xinh xắn
+- cắt
+- dán
+- vỏ hộp
+= Tính từ chỉ đặc điểm.
+?3 Từ cùng nghĩa với "sáng tạo" là:
++ sáng chế, phát minh
+- bắt chước
+- sao chép
+- lười biếng
+= Từ đồng nghĩa (gần nghĩa).
+?4 Câu nào có trạng ngữ chỉ phương tiện?
++ Bằng đôi bàn tay khéo léo, Lan đã làm nên chiếc xe.
+- Lan đã làm nên chiếc xe.
+- Chiếc xe rất đẹp.
+- Hôm qua, Lan làm chiếc xe.
+= Trạng ngữ "Bằng…" chỉ phương tiện.
+
+## Chủ điểm Niềm vui sáng tạo (2): Tính từ
+?1 Tính từ là từ:
++ chỉ đặc điểm của sự vật, hoạt động, trạng thái
+- chỉ tên sự vật
+- chỉ hoạt động
+- chỉ số đếm
+= Khái niệm.
+?1 Từ nào là tính từ chỉ màu sắc?
++ đỏ thắm
+- chạy
+- bàn
+- hát
+= Tính từ.
+?2 Trong câu "Bông hoa hồng rất thơm.", tính từ là:
++ thơm
+- bông hoa
+- hồng
+- rất
+= Từ chỉ đặc điểm (mùi).
+?2 Từ chỉ mức độ cao của tính từ "đẹp" là:
++ đẹp tuyệt
+- hơi đẹp
+- khá đẹp
+- đẹp đẹp
+= Mức độ.
+?2 Tính từ trái nghĩa với "cao" là:
++ thấp
+- dài
+- to
+- rộng
+= Trái nghĩa.
+?3 Chọn tính từ thích hợp: "Bức tranh có màu sắc …"
++ rực rỡ
+- vẽ
+- họa sĩ
+- treo
+= Tính từ.
+?3 Trong câu nào, từ đặt trong ngoặc đơn là tính từ?
++ Chiếc áo (mới) của em rất đẹp.
+- Em (mặc) áo mới.
+- (Chiếc áo) của em.
+- Em (mua) áo.
+= "mới" chỉ đặc điểm.
+?4 Câu nào dùng tính từ để so sánh hơn?
++ Bức tranh của Lan đẹp hơn bức tranh lần trước.
+- Bức tranh của Lan đẹp.
+- Lan vẽ tranh.
+- Lan có bức tranh.
+= Tính từ + "hơn".
+
+## Chủ điểm Chắp cánh ước mơ (1): Đọc hiểu
+> Hằng đêm, Nam ngồi bên cửa sổ ngắm sao. Cậu mơ một ngày được bay vào vũ trụ như phi hành gia. Bố mua cho Nam cuốn sách về các hành tinh. Nam đọc say mê và tự nhủ: "Mình phải học thật giỏi để ước mơ thành hiện thực."
+?1 Hằng đêm, Nam làm gì?
++ ngồi bên cửa sổ ngắm sao
+- xem ti vi
+- chơi điện tử
+- đọc truyện tranh
+= Câu đầu.
+?1 Ước mơ của Nam là:
++ bay vào vũ trụ như phi hành gia
+- làm bác sĩ
+- làm ca sĩ
+- làm đầu bếp
+= Câu thứ hai.
+?2 Bố mua cho Nam cuốn sách về:
++ các hành tinh
+- nấu ăn
+- động vật biển
+- âm nhạc
+= Câu thứ ba.
+?2 Nam tự nhủ điều gì?
++ phải học thật giỏi để ước mơ thành hiện thực
+- không cần học
+- ước mơ là vô ích
+- sẽ từ bỏ ước mơ
+= Lời Nam.
+?3 Bài đọc khuyên chúng ta:
++ nuôi dưỡng ước mơ và cố gắng học tập để đạt được
+- ước mơ không cần cố gắng
+- không nên mơ ước
+- chỉ cần ngắm sao
+= Ý nghĩa.
+>-
+?3 Từ nào cùng nghĩa với "ước mơ"?
++ mơ ước
+- thực tế
+- thất vọng
+- chán nản
+= Đồng nghĩa.
+?3 Câu "Nam ngồi bên cửa sổ." có chủ ngữ là:
++ Nam
+- ngồi
+- bên cửa sổ
+- cửa sổ
+= Chủ ngữ trả lời câu hỏi Ai?
+?4 Câu nào có trạng ngữ chỉ thời gian?
++ Hằng đêm, Nam ngồi ngắm sao.
+- Nam ngồi ngắm sao.
+- Bên cửa sổ, Nam ngồi ngắm sao.
+- Vì thích thiên văn, Nam ngắm sao.
+= "Hằng đêm" chỉ thời gian.
+
+## Chủ điểm Chắp cánh ước mơ (2): Câu, chủ ngữ, vị ngữ, trạng ngữ
+?1 Hai thành phần chính của câu là:
++ chủ ngữ và vị ngữ
+- trạng ngữ và chủ ngữ
+- danh từ và động từ
+- tính từ và trạng ngữ
+= Thành phần chính.
+?1 Vị ngữ trả lời cho câu hỏi:
++ Làm gì? Thế nào? Là gì?
+- Ai? Cái gì?
+- Khi nào? Ở đâu?
+- Vì sao?
+= Vị ngữ.
+?2 Trong câu "Những cánh diều bay lượn trên bầu trời.", vị ngữ là:
++ bay lượn trên bầu trời
+- những cánh diều
+- trên bầu trời
+- cánh diều
+= Bộ phận trả lời "làm gì?".
+?2 Trạng ngữ chỉ nơi chốn trong câu "Trên cành cây, chim hót líu lo." là:
++ Trên cành cây
+- chim
+- hót líu lo
+- líu lo
+= Trả lời câu hỏi "Ở đâu?".
+?2 Trạng ngữ thường được ngăn cách với chủ ngữ, vị ngữ bằng:
++ dấu phẩy
+- dấu chấm
+- dấu hỏi
+- dấu ngoặc kép
+= Dấu câu.
+?3 Câu nào có trạng ngữ chỉ nguyên nhân?
++ Nhờ chăm chỉ, Hoa học giỏi.
+- Hoa học giỏi.
+- Ở trường, Hoa học giỏi.
+- Năm nay, Hoa học giỏi.
+= "Nhờ chăm chỉ" chỉ nguyên nhân.
+?3 Câu nào có chủ ngữ là danh từ chỉ vật?
++ Chiếc máy bay lướt qua bầu trời.
+- Em bé đang ngủ.
+- Cô giáo giảng bài.
+- Bố đi làm.
+= "Chiếc máy bay" chỉ vật.
+?4 Thêm trạng ngữ chỉ mục đích cho câu "Em học tập chăm chỉ." được:
++ Để trở thành phi công, em học tập chăm chỉ.
+- Hôm qua, em học tập chăm chỉ.
+- Ở nhà, em học tập chăm chỉ.
+- Vì thế, em học tập chăm chỉ.
+= Trạng ngữ "Để…" chỉ mục đích.

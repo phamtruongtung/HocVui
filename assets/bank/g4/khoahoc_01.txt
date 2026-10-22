@@ -1,0 +1,605 @@
+// Khoa học 4 – Kết nối tri thức với cuộc sống
+#! HK1
+# Chủ đề 1. Chất
+
+## Bài 1. Tính chất của nước và nước với cuộc sống
+?1 Nước tinh khiết có tính chất:
++ không màu, không mùi, không vị
+- màu xanh, có mùi thơm
+- màu trắng đục
+- có vị ngọt
+= Tính chất của nước.
+?1 Nước chảy từ:
++ chỗ cao xuống chỗ thấp
+- chỗ thấp lên chỗ cao
+- mọi hướng như nhau
+- không chảy
+= Tính chất của nước.
+?2 Nước có thể hòa tan:
++ muối, đường
+- cát
+- sỏi
+- dầu ăn
+= Nước hòa tan một số chất.
+?2 Vải, giấy thấm nước; ni-lông thì:
++ không thấm nước
+- thấm nước rất tốt
+- tan trong nước
+- hút hết nước
+= Ứng dụng làm áo mưa.
+?2 Nước có vai trò:
++ cần cho sự sống của con người, động vật, thực vật
+- không cần thiết
+- chỉ để tắm
+- chỉ để bơi
+= Vai trò của nước.
+?3 Người ta lợp mái nhà dốc để:
++ nước mưa chảy xuống dễ dàng
+- nhà cao hơn
+- trang trí
+- giữ nước mưa trên mái
+= Nước chảy từ cao xuống thấp.
+?3 Khi cho đường vào nước rồi khuấy, ta thấy:
++ đường tan, nước có vị ngọt
+- đường nổi lên mặt nước
+- nước chuyển sang màu đỏ
+- đường chìm xuống, không tan
+= Nước hòa tan đường.
+?4 Vì sao áo mưa thường làm bằng ni-lông?
++ vì ni-lông không thấm nước
+- vì ni-lông rất nặng
+- vì ni-lông thấm nước tốt
+- vì ni-lông đắt tiền
+= Ứng dụng tính chất của vật liệu.
+
+## Bài 2. Sự chuyển thể của nước và vòng tuần hoàn của nước
+?1 Nước tồn tại ở mấy thể?
++ 3: rắn, lỏng, khí
+- 1
+- 2
+- 4
+= Các thể của nước.
+?1 Nước đá là nước ở thể:
++ rắn
+- lỏng
+- khí
+- dẻo
+= Thể rắn.
+?2 Nước chuyển từ thể lỏng sang thể khí gọi là:
++ bay hơi
+- ngưng tụ
+- đông đặc
+- nóng chảy
+= Sự chuyển thể.
+?2 Hơi nước gặp lạnh chuyển thành nước lỏng gọi là:
++ ngưng tụ
+- bay hơi
+- nóng chảy
+- đông đặc
+= Sự chuyển thể.
+?2 Nước đá để ngoài trời nắng sẽ:
++ nóng chảy thành nước lỏng
+- đông đặc hơn
+- bay thẳng thành mây
+- không thay đổi
+= Nóng chảy.
+?3 Mây được tạo thành từ:
++ hơi nước ngưng tụ thành những hạt nước rất nhỏ
+- khói bụi
+- tuyết từ mặt đất
+- khí ô-xi
+= Vòng tuần hoàn của nước.
+?3 Phơi quần áo ướt ngoài nắng, quần áo khô vì:
++ nước bay hơi
+- nước ngưng tụ
+- nước đông đặc
+- nước thấm vào nắng
+= Sự bay hơi.
+?4 Úp vung lên nồi canh đang sôi, mặt trong vung có giọt nước vì:
++ hơi nước gặp vung lạnh hơn nên ngưng tụ
+- nước từ ngoài thấm vào
+- vung tự tạo ra nước
+- nước bị đông đặc
+= Ngưng tụ.
+
+## Bài 3. Sự ô nhiễm và bảo vệ nguồn nước; làm sạch nước
+?1 Nước bị ô nhiễm thường có:
++ màu, mùi lạ, có chất bẩn hoặc vi khuẩn gây bệnh
+- không màu, không mùi
+- vị ngọt tự nhiên
+- rất trong
+= Dấu hiệu nước ô nhiễm.
+?1 Nguyên nhân gây ô nhiễm nguồn nước là:
++ xả rác, nước thải xuống sông hồ
+- trồng cây ven sông
+- xây bể lọc nước
+- tiết kiệm nước
+= Nguyên nhân.
+?2 Cách làm sạch nước đơn giản là:
++ lọc qua cát, sỏi, than rồi đun sôi
+- để ngoài nắng
+- cho thêm đường
+- khuấy mạnh
+= Làm sạch nước.
+?2 Đun sôi nước trước khi uống để:
++ diệt vi khuẩn gây bệnh
+- nước ngọt hơn
+- nước có màu đẹp
+- nước nhiều hơn
+= Diệt khuẩn.
+?2 Uống nước bị ô nhiễm có thể mắc bệnh:
++ tiêu chảy, tả, lị
+- cận thị
+- sâu răng do kẹo
+- cảm nắng
+= Bệnh do nước bẩn.
+?3 Việc làm bảo vệ nguồn nước là:
++ không xả rác, nước thải bẩn xuống ao hồ, sông suối
+- đổ dầu thải xuống cống
+- vứt xác động vật xuống sông
+- tắm rửa cho trâu bò ở giếng nước
+= Bảo vệ nguồn nước.
+?3 Trong bể lọc nước đơn giản, lớp than củi có tác dụng:
++ khử mùi và màu của nước
+- làm nước nóng lên
+- tạo vị ngọt
+- làm nước đục hơn
+= Tác dụng của than.
+?4 Gia đình em có thể tiết kiệm nước bằng cách:
++ tận dụng nước vo gạo để tưới cây, khóa vòi khi không dùng
+- để vòi chảy cả ngày
+- rửa xe hằng ngày bằng vòi xịt
+- tắm thật lâu
+= Tiết kiệm nước.
+
+## Bài 4. Không khí có ở đâu? Tính chất và thành phần của không khí
+?1 Không khí có ở:
++ xung quanh mọi vật và trong những chỗ rỗng của vật
+- chỉ trong phòng kín
+- chỉ ở trên cao
+- chỉ trong quả bóng
+= Không khí có ở khắp nơi.
+?1 Không khí có tính chất:
++ trong suốt, không màu, không mùi, không vị
+- màu xanh
+- có vị mặn
+- có mùi thơm
+= Tính chất.
+?2 Thành phần chính của không khí là:
++ khí ni-tơ và khí ô-xi
+- khí các-bô-níc và hơi nước
+- khói và bụi
+- chỉ có khí ô-xi
+= Thành phần không khí.
+?2 Khí cần cho sự thở của người và động vật là:
++ khí ô-xi
+- khí ni-tơ
+- khí các-bô-níc
+- khí ga
+= Vai trò của ô-xi.
+?2 Bơm không khí vào quả bóng, quả bóng căng lên chứng tỏ:
++ không khí có thể bị nén lại và giãn ra
+- không khí có màu
+- không khí có mùi
+- không khí là chất lỏng
+= Tính chất của không khí.
+?3 Úp cốc rỗng xuống chậu nước, nước không tràn vào đầy cốc vì:
++ trong cốc có không khí
+- cốc quá nặng
+- nước bị đông lại
+- cốc có nắp
+= Không khí chiếm chỗ.
+?3 Khí ô-xi cần cho sự cháy. Úp cốc thủy tinh lên ngọn nến đang cháy, một lúc sau nến tắt vì:
++ hết khí ô-xi trong cốc
+- cốc quá nóng
+- nến bị ướt
+- cốc quá nặng
+= Ô-xi duy trì sự cháy.
+?4 Vì sao khi nhóm bếp than, người ta thường quạt vào bếp?
++ để cung cấp thêm không khí (ô-xi) giúp than cháy mạnh
+- để bếp nguội đi
+- để thổi tắt lửa
+- để đuổi muỗi
+= Ô-xi duy trì sự cháy.
+
+## Bài 5. Sự chuyển động của không khí
+?1 Không khí chuyển động tạo thành:
++ gió
+- mưa
+- sấm
+- mây
+= Gió là không khí chuyển động.
+?1 Dụng cụ đo hướng gió là:
++ chong chóng gió (cột chỉ hướng gió)
+- nhiệt kế
+- thước kẻ
+- cân
+= Dụng cụ.
+?2 Không khí chuyển động từ:
++ nơi lạnh đến nơi nóng
+- nơi nóng đến nơi lạnh
+- dưới đất lên trời
+- không chuyển động
+= Nguyên nhân gây gió.
+?2 Gió mạnh, rất mạnh có thể gây:
++ đổ cây, tốc mái nhà
+- làm mát nhẹ
+- phơi khô quần áo nhanh
+- quay chong chóng
+= Tác hại của gió mạnh.
+?2 Gió nhẹ có ích cho:
++ thả diều, làm khô quần áo, quay cối xay gió
+- làm đổ nhà
+- gây lũ lụt
+- làm cháy rừng
+= Lợi ích của gió.
+?3 Ban ngày ở vùng biển, gió thổi từ biển vào đất liền vì:
++ đất liền nóng nhanh hơn biển
+- biển nóng hơn đất liền
+- biển có nhiều sóng
+- đất liền có nhiều cây
+= Không khí di chuyển từ nơi lạnh đến nơi nóng.
+?3 Năng lượng gió có thể dùng để:
++ phát điện, đẩy thuyền buồm
+- làm đông nước
+- tạo ra mưa
+- nấu chín thức ăn trực tiếp
+= Ứng dụng.
+?4 Khi có bão, người dân cần:
++ chằng chống nhà cửa, không ra biển, theo dõi tin dự báo
+- ra biển đánh cá
+- đứng dưới gốc cây to
+- mở hết cửa
+= Phòng tránh bão.
+
+## Bài 6. Ô nhiễm không khí và bảo vệ bầu không khí trong lành
+?1 Nguyên nhân gây ô nhiễm không khí là:
++ khói, bụi từ xe cộ, nhà máy, đốt rác
+- trồng cây xanh
+- dùng xe đạp
+- tiết kiệm điện
+= Nguyên nhân.
+?1 Không khí sạch là không khí:
++ không có khói, bụi, khí độc, vi khuẩn gây hại
+- có nhiều khói bụi
+- có mùi hôi
+- có màu xám
+= Không khí trong lành.
+?2 Ô nhiễm không khí gây ra bệnh về:
++ đường hô hấp
+- răng miệng do kẹo
+- xương do ít canxi
+- mắt do đọc sách tối
+= Tác hại.
+?2 Trồng nhiều cây xanh giúp:
++ làm sạch không khí
+- không khí ô nhiễm hơn
+- tăng khói bụi
+- không có tác dụng
+= Vai trò cây xanh.
+?2 Khi ra đường nhiều khói bụi, em nên:
++ đeo khẩu trang
+- hít thở thật sâu
+- chạy thật nhanh
+- không cần làm gì
+= Bảo vệ sức khỏe.
+?3 Việc làm nào góp phần bảo vệ không khí?
++ đi xe đạp, đi bộ hoặc xe buýt thay cho xe máy riêng
+- đốt rác, đốt rơm rạ ngoài đồng
+- xả khói từ nhà máy không qua xử lí
+- chặt phá rừng
+= Bảo vệ không khí.
+?3 Khói thuốc lá có hại cho:
++ cả người hút và người xung quanh
+- chỉ người hút
+- không ai
+- chỉ cây xanh
+= Tác hại.
+?4 Vì sao không nên đốt rác thải nhựa?
++ vì tạo khí độc gây ô nhiễm không khí và hại sức khỏe
+- vì nhựa không cháy
+- vì tốn thời gian
+- vì làm mất rác
+= Bảo vệ môi trường.
+
+# Chủ đề 2. Năng lượng
+
+## Bài 7. Ánh sáng và sự truyền ánh sáng
+?1 Vật tự phát ra ánh sáng là:
++ Mặt Trời, ngọn đèn đang sáng
+- Mặt Trăng
+- tấm gương
+- quyển sách
+= Nguồn sáng.
+?1 Ánh sáng truyền theo:
++ đường thẳng
+- đường cong
+- đường gấp khúc
+- vòng tròn
+= Sự truyền ánh sáng.
+?2 Vật cho ánh sáng truyền qua gần như hoàn toàn là:
++ tấm kính trong
+- tấm gỗ
+- tấm bìa
+- bức tường
+= Vật trong suốt.
+?2 Bóng tối xuất hiện ở:
++ phía sau vật cản sáng
+- phía trước vật cản sáng
+- ngay trên nguồn sáng
+- khắp nơi
+= Bóng của vật.
+?2 Ta nhìn thấy vật khi:
++ có ánh sáng từ vật truyền vào mắt
+- nhắm mắt lại
+- ở trong bóng tối hoàn toàn
+- vật ở sau lưng ta
+= Điều kiện nhìn thấy.
+?3 Mặt Trăng sáng vào ban đêm là do:
++ phản chiếu ánh sáng của Mặt Trời
+- tự phát sáng
+- có đèn điện
+- có lửa
+= Mặt Trăng không phải nguồn sáng.
+?3 Đưa đèn pin lại gần vật hơn thì bóng của vật trên tường sẽ:
++ to hơn
+- nhỏ hơn
+- biến mất
+- không đổi
+= Thay đổi của bóng.
+?4 Tấm kính mờ cho ánh sáng truyền qua:
++ một phần, nên nhìn vật phía sau không rõ
+- hoàn toàn
+- không chút nào
+- chỉ ban đêm
+= Vật cho một phần ánh sáng đi qua.
+
+## Bài 8. Ánh sáng trong đời sống
+?1 Ánh sáng cần cho:
++ sự sống của con người, động vật và thực vật
+- chỉ cây xanh
+- chỉ con người
+- không ai cả
+= Vai trò ánh sáng.
+?1 Đọc sách nơi thiếu ánh sáng có thể làm:
++ hại mắt
+- mắt sáng hơn
+- đọc nhanh hơn
+- không ảnh hưởng
+= Bảo vệ mắt.
+?2 Cây xanh cần ánh sáng để:
++ quang hợp, tạo chất dinh dưỡng
+- ngủ
+- di chuyển
+- tạo ra tiếng động
+= Vai trò ánh sáng với thực vật.
+?2 Không được nhìn trực tiếp vào Mặt Trời vì:
++ ánh sáng quá mạnh gây hại mắt
+- Mặt Trời quá xa
+- Mặt Trời không sáng
+- sẽ bị lạnh
+= Bảo vệ mắt.
+?2 Khi ngồi học, ánh sáng nên chiếu từ phía:
++ trái (với người viết tay phải)
+- sau lưng che bóng lên vở
+- trực tiếp vào mắt
+- dưới chân
+= Tư thế học đúng.
+?3 Một số động vật như cú, dơi kiếm ăn vào:
++ ban đêm
+- ban ngày nắng gắt
+- buổi trưa
+- không bao giờ
+= Thích nghi với ánh sáng.
+?3 Đèn chiếu sáng quá mạnh vào mắt người lái xe ban đêm có thể:
++ gây chói mắt, dễ xảy ra tai nạn
+- giúp lái xe tốt hơn
+- không ảnh hưởng
+- làm xe chạy nhanh
+= Tác hại của ánh sáng mạnh.
+?4 Vì sao khi xem ti vi nên ngồi cách màn hình một khoảng hợp lí và trong phòng đủ sáng?
++ để giảm mỏi mắt, phòng cận thị
+- để ti vi sáng hơn
+- để nghe rõ hơn
+- để tiết kiệm điện
+= Bảo vệ mắt.
+
+## Bài 9. Âm thanh và sự lan truyền âm thanh
+?1 Âm thanh được phát ra khi:
++ vật rung động
+- vật đứng yên
+- vật ở trong bóng tối
+- vật được chiếu sáng
+= Nguồn âm.
+?1 Âm thanh có thể truyền qua:
++ chất khí, chất lỏng, chất rắn
+- chỉ chất khí
+- chân không
+- chỉ chất rắn
+= Môi trường truyền âm.
+?2 Càng ra xa nguồn âm thì âm thanh nghe được:
++ càng nhỏ
+- càng to
+- không đổi
+- càng cao
+= Âm thanh yếu dần theo khoảng cách.
+?2 Áp tai xuống bàn, gõ nhẹ ở đầu bàn bên kia, ta vẫn nghe được vì:
++ âm thanh truyền qua chất rắn
+- âm thanh truyền qua chân không
+- bàn tự phát ra tiếng
+- tai rất to
+= Truyền âm qua chất rắn.
+?2 Khi gõ trống, mặt trống:
++ rung động
+- đứng yên
+- nóng lên mạnh
+- phát sáng
+= Nguồn âm rung động.
+?3 Trong chân không, âm thanh:
++ không truyền được
+- truyền rất nhanh
+- truyền chậm
+- to hơn
+= Âm cần môi trường để truyền.
+?3 Khi đang lặn dưới nước, ta vẫn nghe tiếng người gõ vào thành bể vì:
++ âm thanh truyền được qua nước
+- nước chặn hết âm thanh
+- tai bị ướt
+- không nghe được
+= Truyền âm qua chất lỏng.
+?4 Dùng tay giữ chặt dây đàn đang rung, tiếng đàn sẽ:
++ tắt đi vì dây ngừng rung
+- to hơn
+- cao hơn
+- không đổi
+= Nguồn âm ngừng rung thì không phát âm.
+
+## Bài 10. Âm thanh trong cuộc sống
+?1 Âm thanh giúp con người:
++ giao tiếp, học tập, thưởng thức âm nhạc
+- nhìn thấy vật
+- nếm thức ăn
+- ngửi mùi hoa
+= Vai trò âm thanh.
+?1 Tiếng ồn quá lớn có thể làm:
++ hại tai, gây mệt mỏi, khó tập trung
+- tai khỏe hơn
+- học tốt hơn
+- ngủ ngon hơn
+= Tác hại tiếng ồn.
+?2 Biện pháp chống tiếng ồn là:
++ trồng cây xanh, đóng cửa, dùng vật liệu cách âm
+- bật loa thật to
+- bóp còi liên tục
+- mở toang cửa
+= Phòng chống tiếng ồn.
+?2 Ở thư viện, bệnh viện, em cần:
++ giữ yên lặng, nói nhỏ
+- nói to, cười đùa
+- bật nhạc
+- chạy nhảy
+= Ứng xử nơi công cộng.
+?2 Tiếng còi xe cứu thương có tác dụng:
++ báo hiệu để mọi người nhường đường
+- làm vui tai
+- làm ồn vô ích
+- đánh thức mọi người
+= Âm thanh báo hiệu.
+?3 Đeo tai nghe nghe nhạc quá to, quá lâu có thể:
++ gây giảm thính lực
+- giúp nghe rõ hơn
+- tốt cho tai
+- không ảnh hưởng
+= Bảo vệ tai.
+?3 Nhạc cụ nào phát âm nhờ thổi hơi?
++ sáo
+- trống
+- đàn bầu
+- đàn piano
+= Nhạc cụ hơi.
+?4 Nhà em ở gần đường lớn rất ồn. Cách giảm tiếng ồn phù hợp là:
++ trồng cây quanh nhà, lắp cửa kính, rèm dày
+- mở cửa suốt ngày
+- bật ti vi to hơn
+- bóp còi xe
+= Biện pháp cách âm.
+
+## Bài 11. Sự truyền nhiệt
+?1 Nhiệt truyền từ:
++ vật nóng hơn sang vật lạnh hơn
+- vật lạnh hơn sang vật nóng hơn
+- vật nhỏ sang vật lớn
+- không truyền
+= Chiều truyền nhiệt.
+?1 Dụng cụ đo nhiệt độ là:
++ nhiệt kế
+- thước kẻ
+- cái cân
+- đồng hồ
+= Dụng cụ.
+?2 Nhúng thìa kim loại vào cốc nước nóng, cán thìa sẽ:
++ nóng lên
+- lạnh đi
+- không đổi
+- chảy ra
+= Kim loại truyền nhiệt.
+?2 Khi bị sốt, chườm khăn mát lên trán vì:
++ nhiệt từ cơ thể truyền sang khăn, làm giảm nhiệt độ
+- khăn truyền nhiệt sang cơ thể
+- để cho đẹp
+- không có tác dụng
+= Ứng dụng truyền nhiệt.
+?2 Nhiệt độ của nước đá đang tan là khoảng:
++ 0 °C
+- 100 °C
+- 37 °C
+- 50 °C
+= Nhiệt độ nóng chảy của nước đá.
+?3 Nước sôi ở nhiệt độ khoảng:
++ 100 °C
+- 0 °C
+- 37 °C
+- 50 °C
+= Nhiệt độ sôi của nước (ở điều kiện thường).
+?3 Đặt cốc nước nóng vào chậu nước lạnh, sau một lúc:
++ nước trong cốc nguội đi, nước trong chậu ấm lên
+- nước trong cốc nóng hơn
+- nước trong chậu lạnh hơn
+- không có gì thay đổi
+= Truyền nhiệt.
+?4 Nhiệt độ cơ thể người khỏe mạnh khoảng 37 °C. Nhiệt kế chỉ 39 °C nghĩa là:
++ người đó bị sốt
+- người đó khỏe mạnh
+- người đó bị lạnh
+- nhiệt kế hỏng chắc chắn
+= Nhiệt độ cao hơn bình thường.
+
+## Bài 12. Vật dẫn nhiệt tốt và vật dẫn nhiệt kém
+?1 Vật dẫn nhiệt tốt là:
++ đồng, nhôm, sắt
+- gỗ, nhựa
+- vải, bông
+- không khí
+= Kim loại dẫn nhiệt tốt.
+?1 Vật dẫn nhiệt kém (cách nhiệt) là:
++ gỗ, nhựa, len, bông
+- đồng
+- nhôm
+- sắt
+= Vật cách nhiệt.
+?2 Xoong, nồi thường làm bằng kim loại vì:
++ kim loại dẫn nhiệt tốt, nấu nhanh chín
+- kim loại nhẹ hơn gỗ
+- kim loại không nóng
+- kim loại đẹp
+= Ứng dụng.
+?2 Quai xoong, nồi thường làm bằng nhựa hoặc gỗ vì:
++ dẫn nhiệt kém, cầm không bị bỏng
+- dẫn nhiệt tốt
+- rẻ tiền
+- để trang trí
+= Ứng dụng.
+?2 Mùa đông mặc áo bông, áo len ấm vì:
++ áo giữ không khí, dẫn nhiệt kém nên giữ ấm cơ thể
+- áo tự tạo ra nhiệt
+- áo dẫn nhiệt tốt
+- áo nặng
+= Vật cách nhiệt.
+?3 Bình giữ nhiệt (phích) giữ nước nóng lâu vì:
++ có lớp cách nhiệt hạn chế truyền nhiệt ra ngoài
+- có bếp bên trong
+- làm bằng kim loại dẫn nhiệt tốt
+- có nắp màu đẹp
+= Cách nhiệt.
+?3 Để ủ cơm lâu nóng, người ta dùng:
++ giỏ ủ bằng bông, rơm
+- chậu nhôm mỏng
+- khay sắt
+- túi ni-lông mỏng
+= Vật dẫn nhiệt kém.
+?4 Vì sao không nên dùng tay không cầm vào nồi kim loại vừa nấu xong?
++ vì kim loại dẫn nhiệt tốt, nồi rất nóng có thể gây bỏng
+- vì nồi rất nặng
+- vì nồi rất lạnh
+- vì nồi dính
+= An toàn khi nấu ăn.

@@ -1,0 +1,559 @@
+// Toán 5 – Kết nối tri thức với cuộc sống – Tập 2
+#! HK2
+# Tỉ số và các bài toán liên quan
+
+## Bài 12. Tỉ số. Tỉ lệ bản đồ
+?1 Tỉ số của 3 và 5 là:
++ 3/5
+- 5/3
+- 8
+- 15
+= Tỉ số a : b viết a/b.
+?1 Lớp có 12 nam và 18 nữ. Tỉ số của số nam và số nữ là:
++ 2/3
+- 3/2
+- 12/30
+- 18/12
+= 12/18 = 2/3.
+?2 Bản đồ tỉ lệ 1 : 1000. Độ dài 5 cm trên bản đồ ứng với thực tế:
++ 50 m
+- 5 m
+- 500 m
+- 5000 m
+= 5 × 1000 = 5000 cm = 50 m.
+?2 Tỉ số của 2 kg và 500 g là:
++ 4
+- 1/4
+- 2/500
+- 250
+= 2000 g : 500 g.
+?2 Tỉ số của chiều rộng 4 m và chiều dài 10 m là:
++ 2/5
+- 5/2
+- 4/14
+- 10/4
+= 4/10 = 2/5.
+?3 Bản đồ tỉ lệ 1 : 500 000. Quãng đường thật 25 km, trên bản đồ dài:
++ 5 cm
+- 50 cm
+- 0,5 cm
+- 2,5 cm
+= 2 500 000 cm : 500 000.
+?3 Số bi xanh gấp 3 lần số bi đỏ. Tỉ số của số bi đỏ và số bi xanh là:
++ 1/3
+- 3
+- 3/1
+- 1/4
+= Đỏ : xanh = 1 : 3.
+?4 Trên bản đồ tỉ lệ 1 : 2 000 000, khoảng cách giữa hai thành phố là 4,5 cm. Khoảng cách thật là:
++ 90 km
+- 9 km
+- 900 km
+- 45 km
+= 4,5 × 2 000 000 = 9 000 000 cm = 90 km.
+
+## Bài 13. Tìm hai số khi biết tổng (hiệu) và tỉ số
+?1 Tổng hai số là 40, tỉ số là 3/5. Số bé là:
++ 15
+- 25
+- 24
+- 8
+= Tổng số phần 8; 40 : 8 × 3.
+?1 Hiệu hai số là 12, tỉ số là 2/5. Số lớn là:
++ 20
+- 8
+- 30
+- 12
+= Hiệu số phần 3; 12 : 3 × 5.
+?2 Hai lớp có 72 học sinh, số học sinh lớp 5A bằng 4/5 số học sinh lớp 5B. Lớp 5B có:
++ 40 học sinh
+- 32 học sinh
+- 36 học sinh
+- 45 học sinh
+= 72 : 9 × 5.
+?2 Mẹ hơn con 28 tuổi, tuổi con bằng 1/5 tuổi mẹ. Tuổi con là:
++ 7 tuổi
+- 35 tuổi
+- 5 tuổi
+- 14 tuổi
+= 28 : 4 × 1.
+?2 Tổng hai số là 100, số thứ nhất bằng 1/4 số thứ hai. Số thứ hai là:
++ 80
+- 20
+- 75
+- 25
+= 100 : 5 × 4.
+?3 Hình chữ nhật có chu vi 64 m, chiều rộng bằng 3/5 chiều dài. Chiều dài là:
++ 20 m
+- 12 m
+- 40 m
+- 24 m
+= Nửa chu vi 32; 32 : 8 × 5.
+?3 Số gạo nếp ít hơn số gạo tẻ 60 kg, số gạo nếp bằng 2/5 số gạo tẻ. Số gạo tẻ là:
++ 100 kg
+- 40 kg
+- 150 kg
+- 60 kg
+= 60 : 3 × 5.
+?4 Hình chữ nhật có chu vi 80 cm, chiều rộng bằng 3/5 chiều dài. Diện tích là:
++ 375 cm²
+- 400 cm²
+- 240 cm²
+- 600 cm²
+= Nửa chu vi 40: dài 25, rộng 15; 25 × 15.
+
+## Bài 14. Tỉ số phần trăm
+?1 Tỉ số phần trăm của 25 và 100 là:
++ 25%
+- 4%
+- 0,25%
+- 125%
+= 25/100.
+?1 0,45 viết thành tỉ số phần trăm là:
++ 45%
+- 4,5%
+- 0,45%
+- 450%
+= 0,45 × 100%.
+?2 Tỉ số phần trăm của 3 và 4 là:
++ 75%
+- 34%
+- 43%
+- 7,5%
+= 3 : 4 = 0,75.
+?2 Lớp có 40 học sinh, 18 học sinh nữ. Số học sinh nữ chiếm:
++ 45%
+- 18%
+- 40%
+- 55%
+= 18 : 40 = 0,45.
+?2 1/2 viết thành tỉ số phần trăm là:
++ 50%
+- 12%
+- 2%
+- 5%
+= 0,5.
+?3 Một cửa hàng định bán 200 kg gạo, đã bán 150 kg. Cửa hàng đã bán được bao nhiêu phần trăm kế hoạch?
++ 75%
+- 25%
+- 150%
+- 50%
+= 150 : 200.
+?3 Một người gửi tiết kiệm, lãi 0,5% mỗi tháng. Tỉ số phần trăm này viết thành số thập phân là:
++ 0,005
+- 0,05
+- 0,5
+- 5
+= 0,5 : 100.
+?4 Một trường có 600 học sinh, số học sinh giỏi chiếm 35%. Trường có bao nhiêu học sinh giỏi?
++ 210
+- 35
+- 390
+- 175
+= 600 × 35 : 100.
+
+## Bài 15. Tìm giá trị phần trăm của một số
+?1 20% của 50 là:
++ 10
+- 20
+- 2,5
+- 40
+= 50 × 20 : 100.
+?1 50% của 80 kg là:
++ 40 kg
+- 50 kg
+- 160 kg
+- 30 kg
+= Một nửa.
+?2 15% của 200 là:
++ 30
+- 15
+- 20
+- 300
+= 200 × 15 : 100.
+?2 Một chiếc áo giá 200 000 đồng, giảm giá 10%. Số tiền được giảm là:
++ 20 000 đồng
+- 10 000 đồng
+- 180 000 đồng
+- 2000 đồng
+= 200 000 × 10%.
+?2 Tìm một số biết 20% của số đó là 30:
++ 150
+- 6
+- 600
+- 50
+= 30 : 20 × 100.
+?3 Một chiếc áo giá 200 000 đồng, giảm giá 10%. Giá sau khi giảm là:
++ 180 000 đồng
+- 190 000 đồng
+- 20 000 đồng
+- 210 000 đồng
+= 200 000 − 20 000.
+?3 Lãi suất 0,6% một tháng. Gửi 5 000 000 đồng thì sau 1 tháng được tiền lãi:
++ 30 000 đồng
+- 300 000 đồng
+- 3000 đồng
+- 60 000 đồng
+= 5 000 000 × 0,6 : 100.
+?4 Một lớp có 32 học sinh, trong đó 25% là học sinh giỏi, 50% là học sinh khá, còn lại là học sinh đạt. Lớp có bao nhiêu học sinh đạt?
++ 8
+- 16
+- 24
+- 4
+= 100% − 25% − 50% = 25%; 32 × 25%.
+
+# Thể tích. Hình hộp chữ nhật, hình lập phương
+
+## Bài 16. Đơn vị đo thể tích
+?1 1 dm³ bằng bao nhiêu cm³?
++ 1000 cm³
+- 100 cm³
+- 10 cm³
+- 10 000 cm³
+= 1 dm³ = 1000 cm³.
+?1 1 m³ bằng bao nhiêu dm³?
++ 1000 dm³
+- 100 dm³
+- 10 dm³
+- 1 000 000 dm³
+= 1 m³ = 1000 dm³.
+?2 1 dm³ nước tương đương với:
++ 1 lít
+- 10 lít
+- 100 ml
+- 1 ml
+= 1 dm³ = 1 l.
+?2 2,5 m³ = … dm³
++ 2500 dm³
+- 250 dm³
+- 25 dm³
+- 25 000 dm³
+= 2,5 × 1000.
+?2 Xăng-ti-mét khối viết tắt là:
++ cm³
+- cm²
+- cm
+- dm³
+= Đơn vị thể tích.
+?3 5000 cm³ = … dm³
++ 5 dm³
+- 50 dm³
+- 0,5 dm³
+- 500 dm³
+= 5000 : 1000.
+?3 Thể tích một bể chứa là 2 m³. Bể chứa được bao nhiêu lít nước?
++ 2000 lít
+- 200 lít
+- 20 lít
+- 20 000 lít
+= 2 m³ = 2000 dm³ = 2000 l.
+?4 Sắp xếp 1,5 m³; 1200 dm³; 1 m³ 400 dm³ theo thứ tự từ lớn đến bé:
++ 1,5 m³; 1 m³ 400 dm³; 1200 dm³
+- 1200 dm³; 1,5 m³; 1 m³ 400 dm³
+- 1 m³ 400 dm³; 1,5 m³; 1200 dm³
+- 1,5 m³; 1200 dm³; 1 m³ 400 dm³
+= Đổi ra dm³: 1500, 1400, 1200.
+
+## Bài 17. Diện tích xung quanh, diện tích toàn phần hình hộp chữ nhật, hình lập phương
+?1 Hình lập phương có mấy mặt?
++ 6
+- 4
+- 8
+- 12
+= Sáu mặt là hình vuông bằng nhau.
+?1 Diện tích xung quanh hình lập phương cạnh a bằng:
++ a × a × 4
+- a × a × 6
+- a × 4
+- a × a
+= Bốn mặt bên.
+?2 Diện tích toàn phần hình lập phương cạnh 3 cm là:
++ 54 cm²
+- 36 cm²
+- 27 cm²
+- 18 cm²
+= 3 × 3 × 6.
+?2 Diện tích xung quanh hình hộp chữ nhật dài 5 cm, rộng 3 cm, cao 4 cm là:
++ 64 cm²
+- 94 cm²
+- 60 cm²
+- 32 cm²
+= (5 + 3) × 2 × 4.
+?2 Diện tích toàn phần hình hộp chữ nhật trên (dài 5, rộng 3, cao 4 cm) là:
++ 94 cm²
+- 64 cm²
+- 79 cm²
+- 60 cm²
+= 64 + 5 × 3 × 2.
+?3 Hình lập phương có diện tích một mặt 16 cm². Diện tích toàn phần là:
++ 96 cm²
+- 64 cm²
+- 16 cm²
+- 80 cm²
+= 16 × 6.
+?3 Người ta sơn 4 mặt xung quanh một thùng hình lập phương cạnh 2 m. Diện tích cần sơn là:
++ 16 m²
+- 24 m²
+- 8 m²
+- 12 m²
+= 2 × 2 × 4.
+?4 Một bể kính hình hộp chữ nhật không nắp dài 1 m, rộng 0,5 m, cao 0,6 m. Diện tích kính làm bể là:
++ 2,3 m²
+- 1,8 m²
+- 2,8 m²
+- 0,3 m²
+= Xung quanh (1 + 0,5) × 2 × 0,6 = 1,8; đáy 0,5; tổng 2,3.
+
+## Bài 18. Thể tích hình hộp chữ nhật, hình lập phương
+?1 Thể tích hình hộp chữ nhật bằng:
++ chiều dài × chiều rộng × chiều cao
+- (dài + rộng) × 2 × cao
+- dài × rộng
+- dài + rộng + cao
+= Công thức.
+?1 Thể tích hình lập phương cạnh a bằng:
++ a × a × a
+- a × a × 6
+- a × 4
+- a × a
+= Công thức.
+?2 Thể tích hình hộp chữ nhật dài 6 cm, rộng 4 cm, cao 5 cm là:
++ 120 cm³
+- 15 cm³
+- 60 cm³
+- 240 cm³
+= 6 × 4 × 5.
+?2 Thể tích hình lập phương cạnh 3 dm là:
++ 27 dm³
+- 9 dm³
+- 54 dm³
+- 18 dm³
+= 3 × 3 × 3.
+?2 Thể tích hình lập phương cạnh 1,5 m là:
++ 3,375 m³
+- 2,25 m³
+- 4,5 m³
+- 13,5 m³
+= 1,5 × 1,5 × 1,5.
+?3 Bể nước hình hộp chữ nhật dài 2 m, rộng 1,5 m, cao 1 m. Bể chứa đầy được bao nhiêu lít nước?
++ 3000 lít
+- 300 lít
+- 4,5 lít
+- 30 000 lít
+= 2 × 1,5 × 1 = 3 m³ = 3000 l.
+?3 Hình hộp chữ nhật có thể tích 60 cm³, đáy dài 5 cm, rộng 3 cm. Chiều cao là:
++ 4 cm
+- 12 cm
+- 20 cm
+- 15 cm
+= 60 : (5 × 3).
+?4 Một bể nước dài 3 m, rộng 2 m, cao 1,5 m đang chứa nước đến 2/3 chiều cao. Bể đang chứa bao nhiêu lít nước?
++ 6000 lít
+- 9000 lít
+- 3000 lít
+- 4500 lít
+= Mực nước 1 m; 3 × 2 × 1 = 6 m³.
+
+# Số đo thời gian, vận tốc, quãng đường, thời gian
+
+## Bài 19. Cộng, trừ, nhân, chia số đo thời gian
+?1 1 giờ bằng:
++ 60 phút
+- 100 phút
+- 30 phút
+- 24 phút
+= Đơn vị thời gian.
+?1 1 năm thường có:
++ 365 ngày
+- 366 ngày
+- 360 ngày
+- 12 ngày
+= Năm nhuận có 366 ngày.
+?2 2 giờ 45 phút + 1 giờ 30 phút = ?
++ 4 giờ 15 phút
+- 3 giờ 75 phút
+- 3 giờ 15 phút
+- 4 giờ 75 phút
+= 3 giờ 75 phút = 4 giờ 15 phút.
+?2 5 giờ 20 phút − 2 giờ 40 phút = ?
++ 2 giờ 40 phút
+- 3 giờ 20 phút
+- 3 giờ 40 phút
+- 2 giờ 20 phút
+= 4 giờ 80 phút − 2 giờ 40 phút.
+?2 1,5 giờ = … phút
++ 90 phút
+- 150 phút
+- 15 phút
+- 105 phút
+= 1,5 × 60.
+?3 3 phút 20 giây × 3 = ?
++ 10 phút
+- 9 phút 6 giây
+- 9 phút 20 giây
+- 10 phút 20 giây
+= 9 phút 60 giây = 10 phút.
+?3 Một người làm 3 sản phẩm hết 1 giờ 30 phút. Trung bình mỗi sản phẩm hết:
++ 30 phút
+- 20 phút
+- 45 phút
+- 1 giờ
+= 90 phút : 3.
+?4 Một chuyến tàu khởi hành lúc 21 giờ 15 phút và đến nơi lúc 5 giờ 45 phút sáng hôm sau. Tàu đi hết:
++ 8 giờ 30 phút
+- 16 giờ 30 phút
+- 7 giờ 30 phút
+- 8 giờ 45 phút
+= Đến 24 giờ: 2 giờ 45 phút; thêm 5 giờ 45 phút.
+
+## Bài 20. Vận tốc, quãng đường, thời gian
+?1 Vận tốc bằng:
++ quãng đường chia cho thời gian
+- quãng đường nhân thời gian
+- thời gian chia quãng đường
+- quãng đường cộng thời gian
+= v = s : t.
+?1 Quãng đường bằng:
++ vận tốc nhân thời gian
+- vận tốc chia thời gian
+- thời gian chia vận tốc
+- vận tốc cộng thời gian
+= s = v × t.
+?2 Một ô tô đi 120 km trong 3 giờ. Vận tốc ô tô là:
++ 40 km/giờ
+- 360 km/giờ
+- 123 km/giờ
+- 30 km/giờ
+= 120 : 3.
+?2 Một người đi xe đạp với vận tốc 12 km/giờ trong 2,5 giờ. Quãng đường đi được là:
++ 30 km
+- 4,8 km
+- 14,5 km
+- 24 km
+= 12 × 2,5.
+?2 Một người đi bộ 6 km với vận tốc 4 km/giờ. Thời gian đi là:
++ 1,5 giờ
+- 24 giờ
+- 2 giờ
+- 0,67 giờ
+= 6 : 4.
+?3 Vận tốc 36 km/giờ bằng bao nhiêu mét/phút?
++ 600 m/phút
+- 36 m/phút
+- 360 m/phút
+- 6000 m/phút
+= 36 000 m : 60 phút.
+?3 Một ô tô đi từ A lúc 7 giờ với vận tốc 50 km/giờ, đến B lúc 9 giờ 30 phút. Quãng đường AB dài:
++ 125 km
+- 100 km
+- 150 km
+- 475 km
+= Thời gian 2,5 giờ; 50 × 2,5.
+?4 Hai xe ô tô xuất phát cùng lúc từ hai đầu quãng đường dài 180 km, đi ngược chiều nhau với vận tốc 40 km/giờ và 50 km/giờ. Sau bao lâu hai xe gặp nhau?
++ 2 giờ
+- 4,5 giờ
+- 3,6 giờ
+- 1,8 giờ
+= 180 : (40 + 50).
+
+# Thống kê và xác suất
+
+## Bài 21. Biểu đồ hình quạt tròn
+?1 Biểu đồ hình quạt tròn thường dùng để biểu diễn:
++ tỉ số phần trăm các phần so với tổng thể
+- nhiệt độ theo giờ
+- độ dài đoạn thẳng
+- số lượng chính xác từng ngày
+= Công dụng.
+?1 Toàn bộ hình tròn trong biểu đồ ứng với:
++ 100%
+- 50%
+- 360%
+- 10%
+= Tổng các phần.
+?2 Biểu đồ: 40% học sinh thích bóng đá, 25% thích bơi, 35% thích cầu lông. Môn được thích nhiều nhất là:
++ bóng đá
+- bơi
+- cầu lông
+- bằng nhau
+= 40% lớn nhất.
+?2 Cùng biểu đồ trên, lớp có 40 học sinh. Số học sinh thích bơi là:
++ 10
+- 25
+- 16
+- 14
+= 40 × 25%.
+?2 Phần hình quạt chiếm một nửa hình tròn ứng với:
++ 50%
+- 25%
+- 100%
+- 75%
+= Một nửa.
+?3 Phần hình quạt chiếm một phần tư hình tròn ứng với:
++ 25%
+- 50%
+- 4%
+- 40%
+= 1/4 = 25%.
+?3 Một biểu đồ có ba phần: 30%, 45% và phần còn lại. Phần còn lại là:
++ 25%
+- 75%
+- 35%
+- 15%
+= 100% − 75%.
+?4 Gia đình chi tiêu 10 000 000 đồng/tháng, trong đó tiền ăn chiếm 40%. Tiền ăn mỗi tháng là:
++ 4 000 000 đồng
+- 400 000 đồng
+- 6 000 000 đồng
+- 40 000 000 đồng
+= 10 000 000 × 40%.
+
+## Bài 22. Tỉ số mô tả số lần lặp lại của một sự kiện
+?1 Tung đồng xu 20 lần, mặt sấp xuất hiện 11 lần. Tỉ số số lần xuất hiện mặt sấp và tổng số lần tung là:
++ 11/20
+- 9/20
+- 20/11
+- 11/9
+= Số lần xuất hiện : tổng số lần.
+?1 Cùng thí nghiệm trên, số lần mặt ngửa xuất hiện là:
++ 9 lần
+- 11 lần
+- 20 lần
+- 31 lần
+= 20 − 11.
+?2 Gieo xúc xắc 30 lần, mặt 6 chấm xuất hiện 5 lần. Tỉ số số lần xuất hiện mặt 6 chấm là:
++ 1/6
+- 5/25
+- 6/30
+- 1/5
+= 5/30 = 1/6.
+?2 Lấy bóng trong hộp 50 lần, có 20 lần lấy được bóng đỏ. Tỉ số phần trăm số lần lấy được bóng đỏ là:
++ 40%
+- 20%
+- 50%
+- 30%
+= 20 : 50.
+?2 Sự kiện "Mặt Trời mọc ở đằng tây" là sự kiện:
++ không thể xảy ra
+- chắc chắn xảy ra
+- có thể xảy ra
+- thường xảy ra
+= Khả năng xảy ra.
+?3 Bắn 40 quả bóng vào rổ, trúng 30 quả. Tỉ số phần trăm số lần trúng là:
++ 75%
+- 30%
+- 25%
+- 70%
+= 30 : 40.
+?3 Hộp có 3 bi đỏ và 7 bi xanh. Lấy ngẫu nhiên 1 bi, khả năng lấy được bi màu nào lớn hơn?
++ bi xanh
+- bi đỏ
+- như nhau
+- không xác định
+= 7 > 3.
+?4 Quay vòng quay 60 lần, kim chỉ vào ô màu đỏ 15 lần, ô màu xanh 25 lần, còn lại ô vàng. Tỉ số tối giản số lần kim chỉ ô vàng so với tổng số lần quay là:
++ 1/3
+- 20/40
+- 1/4
+- 5/12
+= Ô vàng: 60 − 15 − 25 = 20; 20/60 = 1/3.

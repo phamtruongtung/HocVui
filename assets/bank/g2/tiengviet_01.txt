@@ -1,0 +1,412 @@
+// Tiếng Việt 2 – Kết nối tri thức với cuộc sống – Tập 1
+// Bài đọc do Học Vui tự viết.
+#! HK1
+# Học kì 1
+
+## Chủ điểm Em lớn lên từng ngày (1): Từ chỉ sự vật, hoạt động
+?1 Từ nào chỉ sự vật?
++ quyển sách
+- chạy nhảy
+- xinh đẹp
+- đọc
+= Sự vật: người, con vật, đồ vật, cây cối.
+?1 Từ nào chỉ hoạt động?
++ viết
+- bút chì
+- cao lớn
+- cái bàn
+= Hoạt động: việc làm.
+?1 Từ nào chỉ người?
++ học sinh
+- cái cặp
+- con mèo
+- bông hoa
+= Từ chỉ người.
+?2 Trong câu "Bé quét nhà giúp mẹ.", từ chỉ hoạt động là:
++ quét
+- bé
+- nhà
+- mẹ
+= quét nhà.
+?2 Nhóm từ nào đều chỉ đồ dùng học tập?
++ bút, thước, vở
+- bàn, giường, tủ
+- gà, vịt, ngan
+- cam, bưởi, xoài
+= Đồ dùng học tập.
+> Năm nay Hà lên lớp Hai. Hà đã tự mặc quần áo, tự chuẩn bị sách vở. Buổi tối, Hà còn giúp mẹ nhặt rau. Mẹ khen Hà đã lớn thật rồi.
+?3 Hà đã tự làm được những việc gì?
++ tự mặc quần áo, tự chuẩn bị sách vở
+- tự nấu cơm, tự đi chợ
+- tự lái xe đi học
+- tự sửa xe đạp
+= Câu thứ hai.
+?3 Vì sao mẹ khen Hà đã lớn?
++ vì Hà biết tự lo cho mình và giúp đỡ mẹ
+- vì Hà cao hơn mẹ
+- vì Hà có quần áo mới
+- vì Hà được điểm cao
+= Ý nghĩa bài đọc.
+>-
+?4 Câu nào là câu giới thiệu?
++ Em là học sinh lớp Hai.
+- Em đang đọc sách.
+- Em rất vui.
+- Em đi học lúc bảy giờ.
+= Câu giới thiệu theo mẫu "Ai là gì?".
+
+## Chủ điểm Em lớn lên từng ngày (2): Chính tả c/k, g/gh, ng/ngh; dấu câu
+?1 Chọn chữ đúng: "…ể chuyện"
++ k
+- c
+- q
+- kh
+= Đứng trước e, ê, i viết k.
+?1 Chọn chữ đúng: "…ế ngồi"
++ gh
+- g
+- ng
+- ngh
+= Đứng trước e, ê, i viết gh.
+?2 Chọn chữ đúng: "…ỉ ngơi"
++ ngh
+- ng
+- gh
+- g
+= Đứng trước e, ê, i viết ngh.
+?2 Từ nào viết đúng chính tả?
++ con kiến
+- con ciến
+- con quiến
+- con khiến
+= k đứng trước i.
+?2 Câu kể (câu nói về sự việc) thường kết thúc bằng dấu:
++ dấu chấm
+- dấu chấm hỏi
+- dấu chấm than
+- dấu phẩy
+= Dấu câu.
+?3 Điền dấu câu thích hợp: "Bạn tên là gì…"
++ ?
+- .
+- !
+- ,
+= Câu hỏi dùng dấu chấm hỏi.
+?3 Từ nào viết sai chính tả?
++ cồng cềnh
+- gà gô
+- ghi chép
+- ngày nghỉ
+= Phải viết: cồng kềnh (đứng trước ê viết k).
+?4 Câu nào viết đúng chính tả và dấu câu?
++ Hôm nay, em được nghỉ học.
+- hôm nay em được ngỉ học
+- Hôm nay, em được ngỉ học?
+- Hôm nay em được nghỉ học?
+= nghỉ (ngh), câu kể dùng dấu chấm.
+
+## Chủ điểm Đi học vui sao (1): Đọc hiểu
+> Sáng nay là ngày khai giảng. Sân trường rực rỡ cờ hoa. Tiếng trống tùng tùng vang lên. Các bạn học sinh mặc đồng phục mới, ríu rít chào thầy cô. Ai cũng mong một năm học mới thật vui.
+?1 Bài đọc kể về ngày gì?
++ ngày khai giảng
+- ngày Tết
+- ngày sinh nhật
+- ngày nghỉ hè
+= Câu đầu.
+?1 Sân trường được trang trí như thế nào?
++ rực rỡ cờ hoa
+- vắng vẻ
+- đầy lá rụng
+- tối om
+= Câu thứ hai.
+?2 Tiếng trống kêu như thế nào?
++ tùng tùng
+- ò ó o
+- róc rách
+- ầm ầm
+= Từ tượng thanh.
+?2 Các bạn học sinh mặc gì?
++ đồng phục mới
+- áo mưa
+- áo bơi
+- áo ấm dày
+= Câu thứ tư.
+?3 Từ "ríu rít" cho thấy các bạn:
++ vui vẻ, nói cười rộn ràng
+- buồn bã
+- im lặng
+- sợ hãi
+= Từ gợi tả.
+?3 Mọi người mong điều gì?
++ một năm học mới thật vui
+- được nghỉ học
+- được đi chơi xa
+- được ở nhà
+= Câu cuối.
+>-
+?3 Từ nào chỉ đặc điểm?
++ rực rỡ
+- trống
+- trường
+- chào
+= Từ chỉ đặc điểm (màu sắc, tính chất).
+?4 Câu nào là câu nêu hoạt động?
++ Các bạn chào thầy cô.
+- Sân trường rực rỡ.
+- Em là học sinh.
+- Cờ hoa rất đẹp.
+= Câu "Ai làm gì?".
+
+## Chủ điểm Đi học vui sao (2): Từ chỉ đặc điểm, câu "Ai thế nào?"
+?1 Từ nào chỉ màu sắc?
++ xanh biếc
+- chạy
+- bàn ghế
+- học bài
+= Từ chỉ đặc điểm màu sắc.
+?1 Từ nào chỉ hình dáng?
++ cao gầy
+- hát
+- quyển vở
+- vàng tươi
+= Từ chỉ đặc điểm hình dáng.
+?2 Câu "Chiếc cặp của em rất mới." trả lời câu hỏi nào?
++ Chiếc cặp thế nào?
+- Chiếc cặp là gì?
+- Chiếc cặp làm gì?
+- Chiếc cặp ở đâu?
+= Câu nêu đặc điểm.
+?2 Từ trái nghĩa với "chăm chỉ" là:
++ lười biếng
+- cần cù
+- siêng năng
+- chịu khó
+= Trái nghĩa.
+?2 Từ cùng nghĩa với "siêng năng" là:
++ chăm chỉ
+- lười nhác
+- vụng về
+- ồn ào
+= Đồng nghĩa.
+?3 Chọn từ phù hợp: "Bông hoa hồng … quá!"
++ đẹp
+- chạy
+- bàn
+- viết
+= Từ chỉ đặc điểm.
+?3 Câu nào là câu nêu đặc điểm?
++ Cô giáo em rất hiền.
+- Cô giáo đang giảng bài.
+- Cô giáo là người mẹ thứ hai.
+- Cô giáo đi về nhà.
+= Câu "Ai thế nào?".
+?4 Đặt dấu phẩy đúng: "Em có bút thước tẩy."
++ Em có bút, thước, tẩy.
+- Em, có bút thước tẩy.
+- Em có, bút thước, tẩy.
+- Em có bút thước, tẩy,.
+= Dấu phẩy ngăn cách các sự vật cùng loại.
+
+## Chủ điểm Niềm vui tuổi thơ (1): Đọc hiểu
+> Chiều nào bọn trẻ trong xóm cũng ra bãi cỏ thả diều. Những cánh diều đủ màu sắc bay lên cao. Gió thổi, diều lượn qua lượn lại như những chú chim. Tiếng sáo diều vi vu trên bầu trời.
+?1 Chiều nào bọn trẻ cũng làm gì?
++ ra bãi cỏ thả diều
+- đi tắm sông
+- đá bóng
+- chăn trâu
+= Câu đầu.
+?1 Những cánh diều có màu sắc thế nào?
++ đủ màu sắc
+- toàn màu đen
+- không có màu
+- toàn màu trắng
+= Câu thứ hai.
+?2 Cánh diều lượn qua lượn lại được so sánh với:
++ những chú chim
+- những con cá
+- những đám mây
+- những ngôi sao
+= Biện pháp so sánh.
+?2 Tiếng sáo diều kêu như thế nào?
++ vi vu
+- ầm ầm
+- tích tắc
+- róc rách
+= Từ tượng thanh.
+?3 Bài đọc thể hiện điều gì?
++ niềm vui của trẻ em khi thả diều
+- nỗi buồn của trẻ em
+- công việc của người lớn
+- cảnh mưa bão
+= Nội dung chính.
+>-
+?3 Trò chơi dân gian nào sau đây?
++ ô ăn quan
+- trò chơi điện tử
+- xem phim hoạt hình
+- lướt điện thoại
+= Trò chơi dân gian.
+?3 Từ nào chỉ hoạt động vui chơi?
++ nhảy dây
+- học bài
+- quét nhà
+- nấu cơm
+= Hoạt động vui chơi.
+?4 Câu nào dùng dấu chấm than đúng?
++ Ôi, cánh diều đẹp quá!
+- Cánh diều màu gì!
+- Em thả diều!.
+- Cánh diều, đẹp!
+= Câu cảm thể hiện cảm xúc dùng dấu chấm than.
+
+## Chủ điểm Niềm vui tuổi thơ (2): Chính tả s/x, ch/tr, ai/ay
+?1 Chọn chữ đúng: "…ân trường"
++ s
+- x
+- ch
+- tr
+= sân trường.
+?1 Chọn chữ đúng: "…e đạp"
++ x
+- s
+- ch
+- tr
+= xe đạp.
+?2 Chọn chữ đúng: "…ăng sáng"
++ tr
+- ch
+- s
+- x
+= trăng sáng.
+?2 Chọn chữ đúng: "…ơi đùa"
++ ch
+- tr
+- s
+- x
+= chơi đùa.
+?2 Chọn tiếng đúng: "Chiếc … bay lượn trên bầu trời."
++ máy
+- mái
+- mấy
+- mai
+= máy bay: vần ay.
+?3 Từ nào viết đúng chính tả?
++ sạch sẽ
+- xạch sẽ
+- sạch xẽ
+- xạch xẽ
+= sạch sẽ.
+?3 Từ nào viết đúng chính tả?
++ cây tre
+- cây che
+- cây tree
+- cây chre
+= cây tre.
+?4 Câu nào viết đúng chính tả?
++ Chú chim sẻ sà xuống sân.
+- Trú chim xẻ sà suống sân.
+- Chú chim xẻ xà suống sân.
+- Chú chim sẻ xà suống xân.
+= chú, sẻ, sà, xuống, sân.
+
+## Chủ điểm Mái ấm gia đình (1): Đọc hiểu
+> Bà em năm nay đã bảy mươi tuổi. Tóc bà bạc trắng như cước. Bà hay kể chuyện cổ tích cho em nghe. Mỗi khi em ốm, bà ngồi bên quạt cho em ngủ. Em yêu bà nhiều lắm.
+?1 Bà của bạn nhỏ năm nay bao nhiêu tuổi?
++ bảy mươi tuổi
+- năm mươi tuổi
+- tám mươi tuổi
+- sáu mươi tuổi
+= Câu đầu.
+?1 Tóc bà được so sánh với:
++ cước
+- mây đen
+- than
+- lá cây
+= "bạc trắng như cước".
+?2 Bà hay làm gì cho em?
++ kể chuyện cổ tích
+- nấu ăn cho cả xóm
+- đi làm xa
+- dạy bơi
+= Câu thứ ba.
+?2 Khi em ốm, bà làm gì?
++ ngồi bên quạt cho em ngủ
+- đi chơi
+- xem ti vi
+- đi chợ xa
+= Câu thứ tư.
+?3 Tình cảm của bạn nhỏ với bà là:
++ rất yêu quý bà
+- không thích bà
+- sợ bà
+- thờ ơ với bà
+= Câu cuối.
+>-
+?3 Từ nào chỉ tình cảm gia đình?
++ yêu thương
+- ồn ào
+- lạnh lùng
+- giận dữ
+= Từ ngữ về tình cảm.
+?3 Câu "Bà em rất hiền." thuộc kiểu câu:
++ câu nêu đặc điểm
+- câu giới thiệu
+- câu nêu hoạt động
+- câu hỏi
+= Ai thế nào?
+?4 Em nên làm gì để thể hiện tình yêu với ông bà?
++ lễ phép, hỏi thăm, giúp ông bà việc vừa sức
+- cãi lại ông bà
+- làm ồn khi ông bà nghỉ
+- không chào ông bà
+= Bày tỏ tình cảm.
+
+## Chủ điểm Mái ấm gia đình (2): Từ ngữ về gia đình, câu hỏi
+?1 Từ nào chỉ người trong gia đình?
++ anh chị
+- thầy giáo
+- bác sĩ
+- bạn học
+= Từ ngữ về gia đình.
+?1 Mẹ của mẹ em, em gọi là:
++ bà ngoại
+- bà nội
+- cô
+- dì
+= Quan hệ họ hàng.
+?2 Em gái của mẹ, em gọi là:
++ dì
+- cô
+- thím
+- mợ
+= Cách xưng hô.
+?2 Em gái của bố, em gọi là:
++ cô
+- dì
+- mợ
+- bác gái
+= Cách xưng hô.
+?2 Câu hỏi nào dùng để hỏi về thời gian?
++ Khi nào bố đi làm về?
+- Bố đi đâu?
+- Bố là ai?
+- Bố làm nghề gì?
+= Từ hỏi "khi nào".
+?3 Bộ phận trả lời câu hỏi "Ở đâu?" trong câu "Cả nhà ăn cơm ở phòng bếp." là:
++ ở phòng bếp
+- cả nhà
+- ăn cơm
+- cơm
+= Chỉ nơi chốn.
+?3 Thành ngữ nào nói về tình cảm gia đình?
++ Anh em như thể tay chân
+- Chậm như rùa
+- Nhanh như cắt
+- Đen như than
+= Thành ngữ, tục ngữ.
+?4 Câu nào là lời xin lỗi phù hợp khi em làm vỡ cốc của mẹ?
++ Con xin lỗi mẹ, lần sau con sẽ cẩn thận hơn.
+- Tại cái cốc dễ vỡ.
+- Con không làm.
+- Mẹ mua cốc khác đi.
+= Nhận lỗi và hứa sửa.

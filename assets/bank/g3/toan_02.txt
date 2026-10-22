@@ -1,0 +1,457 @@
+// Toán 3 – Kết nối tri thức với cuộc sống – Tập 2
+#! HK2
+# Các số đến 10 000 và 100 000
+
+## Bài 17. Các số có bốn chữ số. Số La Mã
+?1 Số "ba nghìn hai trăm linh sáu" viết là:
++ 3206
+- 3260
+- 30206
+- 326
+= 3 nghìn, 2 trăm, 0 chục, 6 đơn vị.
+?1 Số 5048 đọc là:
++ năm nghìn không trăm bốn mươi tám
+- năm nghìn bốn mươi tám trăm
+- năm trăm bốn mươi tám
+- năm nghìn bốn trăm tám mươi
+= Hàng trăm là 0 đọc "không trăm".
+?2 Số La Mã XII là số:
++ 12
+- 11
+- 7
+- 21
+= X = 10, II = 2.
+?2 Số 9 viết bằng số La Mã là:
++ IX
+- XI
+- VIIII
+- IIX
+= I đứng trước X: 10 − 1.
+?2 Số 7365 gồm:
++ 7 nghìn, 3 trăm, 6 chục, 5 đơn vị
+- 7 trăm, 3 nghìn, 6 chục, 5 đơn vị
+- 73 nghìn, 65 đơn vị
+- 7 nghìn, 36 chục, 5 trăm
+= Cấu tạo số.
+?3 Số tròn nghìn liền sau 6999 là:
++ 7000
+- 6000
+- 7999
+- 8000
+= 6999 + 1 = 7000.
+?3 Làm tròn số 4372 đến hàng trăm được:
++ 4400
+- 4300
+- 4000
+- 4370
+= Chữ số hàng chục là 7 ≥ 5 nên làm tròn lên.
+?4 Số lớn nhất có bốn chữ số khác nhau là:
++ 9876
+- 9999
+- 9870
+- 9678
+= Chọn các chữ số lớn nhất, khác nhau.
+
+## Bài 18. So sánh các số trong phạm vi 10 000 và 100 000
+?1 Dấu cần điền: 4589 … 4598
++ <
+- >
+- =
+- +
+= Hàng chục: 8 < 9.
+?1 Dấu cần điền: 10 000 … 9999
++ >
+- <
+- =
+- −
+= Số có 5 chữ số lớn hơn số có 4 chữ số.
+?2 Số lớn nhất trong các số 23 456, 24 356, 23 654, 24 365 là:
++ 24 365
+- 24 356
+- 23 654
+- 23 456
+= So sánh từng hàng.
+?2 Số "bốn mươi lăm nghìn không trăm hai mươi" viết là:
++ 45 020
+- 45 200
+- 4520
+- 450 020
+= 45 nghìn, 0 trăm, 2 chục.
+?2 Số 70 805 đọc là:
++ bảy mươi nghìn tám trăm linh năm
+- bảy nghìn tám trăm linh năm
+- bảy mươi nghìn tám mươi lăm
+- bảy trăm nghìn tám trăm năm
+= Đọc số có năm chữ số.
+?3 Làm tròn số 38 649 đến hàng nghìn được:
++ 39 000
+- 38 000
+- 38 600
+- 40 000
+= Chữ số hàng trăm là 6 ≥ 5.
+?3 Xếp các số 65 432, 56 432, 65 342 từ bé đến lớn:
++ 56 432, 65 342, 65 432
+- 65 432, 65 342, 56 432
+- 56 432, 65 432, 65 342
+- 65 342, 56 432, 65 432
+= So sánh từng hàng.
+?4 Số bé nhất có năm chữ số khác nhau là:
++ 10 234
+- 10 000
+- 12 345
+- 10 023
+= Các chữ số khác nhau, nhỏ nhất.
+
+## Bài 19. Phép cộng, phép trừ trong phạm vi 10 000 và 100 000
+?1 3456 + 2312 = ?
++ 5768
+- 5668
+- 1144
+- 5778
+= Cộng từng hàng.
+?1 8765 − 4321 = ?
++ 4444
+- 4344
+- 13086
+- 4454
+= Trừ từng hàng.
+?2 4578 + 2635 = ?
++ 7213
+- 7113
+- 6213
+- 7203
+= Cộng có nhớ.
+?2 9000 − 3456 = ?
++ 5544
+- 6544
+- 5644
+- 5554
+= Trừ có nhớ.
+?2 25 300 + 14 700 = ?
++ 40 000
+- 39 000
+- 30 000
+- 41 000
+= Cộng số tròn trăm.
+?3 x − 2500 = 7500. Giá trị của x là:
++ 10 000
+- 5000
+- 9000
+- 10 500
+= 7500 + 2500.
+?3 Một nhà máy tháng đầu sản xuất 3250 sản phẩm, tháng sau sản xuất nhiều hơn 875 sản phẩm. Tháng sau sản xuất:
++ 4125 sản phẩm
+- 2375 sản phẩm
+- 4025 sản phẩm
+- 4135 sản phẩm
+= 3250 + 875.
+?4 Một kho có 45 000 kg gạo. Lần đầu xuất 12 500 kg, lần sau xuất 17 800 kg. Kho còn lại:
++ 14 700 kg
+- 30 300 kg
+- 15 700 kg
+- 75 300 kg
+= 45 000 − 12 500 − 17 800.
+
+## Bài 20. Phép nhân, phép chia trong phạm vi 10 000 và 100 000
+?1 1203 × 3 = ?
++ 3609
+- 3600
+- 1206
+- 3606
+= Nhân từng hàng.
+?1 8406 : 2 = ?
++ 4203
+- 4230
+- 4023
+- 8404
+= Chia từng hàng.
+?2 2156 × 4 = ?
++ 8624
+- 8604
+- 8424
+- 2160
+= Nhân có nhớ.
+?2 7245 : 5 = ?
++ 1449
+- 1409
+- 1450
+- 7240
+= Chia từng lượt.
+?2 12 500 × 4 = ?
++ 50 000
+- 48 000
+- 12 504
+- 5000
+= Nhân số tròn trăm.
+?3 Có 2340 quyển sách xếp đều vào 6 tủ. Mỗi tủ có:
++ 390 quyển
+- 380 quyển
+- 2334 quyển
+- 490 quyển
+= 2340 : 6.
+?3 Một xe chở 1250 kg hàng. 3 xe như thế chở:
++ 3750 kg
+- 3650 kg
+- 1253 kg
+- 3500 kg
+= 1250 × 3.
+?4 Mua 4 quyển truyện, mỗi quyển 15 000 đồng. Đưa người bán 100 000 đồng thì được trả lại:
++ 40 000 đồng
+- 60 000 đồng
+- 85 000 đồng
+- 45 000 đồng
+= 100 000 − 15 000 × 4.
+
+# Chu vi và diện tích
+
+## Bài 21. Chu vi hình tam giác, hình tứ giác, hình chữ nhật, hình vuông
+?1 Chu vi một hình là:
++ tổng độ dài các cạnh của hình đó
+- tích độ dài các cạnh
+- độ dài cạnh dài nhất
+- phần bên trong hình
+= Khái niệm.
+?1 Chu vi hình vuông cạnh 5 cm là:
++ 20 cm
+- 25 cm
+- 10 cm
+- 15 cm
+= 5 × 4.
+?2 Chu vi hình chữ nhật dài 8 cm, rộng 5 cm là:
++ 26 cm
+- 13 cm
+- 40 cm
+- 21 cm
+= (8 + 5) × 2.
+?2 Chu vi hình tam giác có các cạnh 3 cm, 4 cm, 5 cm là:
++ 12 cm
+- 60 cm
+- 7 cm
+- 9 cm
+= 3 + 4 + 5.
+?2 Hình vuông có chu vi 36 cm. Cạnh hình vuông là:
++ 9 cm
+- 18 cm
+- 6 cm
+- 32 cm
+= 36 : 4.
+?3 Mảnh vườn hình chữ nhật dài 20 m, rộng 12 m. Rào xung quanh vườn cần bao nhiêu mét?
++ 64 m
+- 32 m
+- 240 m
+- 44 m
+= (20 + 12) × 2.
+?3 Hình chữ nhật có chu vi 30 cm, chiều dài 10 cm. Chiều rộng là:
++ 5 cm
+- 20 cm
+- 15 cm
+- 10 cm
+= 30 : 2 − 10.
+?4 Một hình vuông và một hình chữ nhật có cùng chu vi. Hình chữ nhật dài 12 cm, rộng 8 cm. Cạnh hình vuông là:
++ 10 cm
+- 20 cm
+- 40 cm
+- 8 cm
+= Chu vi 40 cm; 40 : 4.
+
+## Bài 22. Diện tích. Xăng-ti-mét vuông. Diện tích hình chữ nhật, hình vuông
+?1 Xăng-ti-mét vuông viết tắt là:
++ cm²
+- cm
+- m²
+- m
+= Đơn vị diện tích.
+?1 Diện tích hình chữ nhật bằng:
++ chiều dài nhân chiều rộng (cùng đơn vị)
+- chiều dài cộng chiều rộng
+- (dài + rộng) × 2
+- cạnh × 4
+= Công thức.
+?2 Diện tích hình vuông cạnh 6 cm là:
++ 36 cm²
+- 24 cm²
+- 12 cm²
+- 36 cm
+= 6 × 6.
+?2 Diện tích hình chữ nhật dài 9 cm, rộng 4 cm là:
++ 36 cm²
+- 26 cm²
+- 13 cm²
+- 36 cm
+= 9 × 4.
+?2 Hình A gồm 8 ô vuông 1 cm². Diện tích hình A là:
++ 8 cm²
+- 8 cm
+- 16 cm²
+- 4 cm²
+= Đếm ô vuông.
+?3 Hình vuông có chu vi 20 cm. Diện tích hình vuông là:
++ 25 cm²
+- 20 cm²
+- 16 cm²
+- 100 cm²
+= Cạnh 5 cm; 5 × 5.
+?3 Hình chữ nhật có diện tích 48 cm², chiều rộng 6 cm. Chiều dài là:
++ 8 cm
+- 42 cm
+- 54 cm
+- 12 cm
+= 48 : 6.
+?4 Tờ giấy hình chữ nhật dài 12 cm, rộng 8 cm. Cắt đi một hình vuông cạnh 8 cm. Phần còn lại có diện tích:
++ 32 cm²
+- 64 cm²
+- 96 cm²
+- 40 cm²
+= 12 × 8 − 8 × 8 = 96 − 64.
+
+# Thời gian, tiền tệ, thống kê
+
+## Bài 23. Xem đồng hồ; tháng – năm
+?1 Đồng hồ chỉ 8 giờ 45 phút còn gọi là:
++ 9 giờ kém 15 phút
+- 8 giờ kém 15 phút
+- 9 giờ 15 phút
+- 7 giờ 45 phút
+= 8 giờ 45 = 9 giờ kém 15.
+?1 Tháng 2 năm thường có bao nhiêu ngày?
++ 28 ngày
+- 30 ngày
+- 31 ngày
+- 29 ngày mọi năm
+= Tháng 2 có 28 hoặc 29 ngày.
+?2 Một năm có bao nhiêu tháng có 31 ngày?
++ 7 tháng
+- 6 tháng
+- 5 tháng
+- 12 tháng
+= Tháng 1, 3, 5, 7, 8, 10, 12.
+?2 Bạn An bắt đầu làm bài lúc 7 giờ 15 phút, làm xong lúc 7 giờ 50 phút. An làm bài trong:
++ 35 phút
+- 25 phút
+- 45 phút
+- 65 phút
+= 50 − 15.
+?2 Đồng hồ chỉ 14 giờ 30 phút, tức là:
++ 2 giờ 30 phút chiều
+- 4 giờ 30 phút chiều
+- 2 giờ 30 phút sáng
+- 12 giờ 30 phút
+= 14 − 12 = 2.
+?3 Ngày 30 tháng 8 là thứ Hai. Ngày 2 tháng 9 cùng năm là thứ:
++ thứ Năm
+- thứ Tư
+- thứ Sáu
+- thứ Ba
+= Tháng 8 có 31 ngày: 31/8 thứ Ba, 1/9 thứ Tư, 2/9 thứ Năm.
+?3 Một bộ phim dài 1 giờ 20 phút, bắt đầu lúc 19 giờ 30 phút. Phim kết thúc lúc:
++ 20 giờ 50 phút
+- 20 giờ 30 phút
+- 21 giờ 20 phút
+- 20 giờ 10 phút
+= 19 giờ 30 + 1 giờ 20 phút.
+?4 Năm nay là năm 2026. Năm 2030 cách năm nay bao nhiêu năm và có bao nhiêu tháng?
++ 4 năm, tức 48 tháng
+- 4 năm, tức 40 tháng
+- 5 năm, tức 60 tháng
+- 3 năm, tức 36 tháng
+= 2030 − 2026 = 4; 12 × 4 = 48.
+
+## Bài 24. Tiền Việt Nam
+?1 Tờ tiền có mệnh giá lớn nhất là:
++ 500 000 đồng
+- 200 000 đồng
+- 100 000 đồng
+- 50 000 đồng
+= Tiền Việt Nam.
+?1 2 tờ 10 000 đồng bằng:
++ 20 000 đồng
+- 12 000 đồng
+- 10 000 đồng
+- 200 000 đồng
+= 10 000 × 2.
+?2 Mua quyển sách 25 000 đồng và cái bút 8 000 đồng hết:
++ 33 000 đồng
+- 17 000 đồng
+- 32 000 đồng
+- 23 000 đồng
+= 25 000 + 8 000.
+?2 Đưa tờ 50 000 đồng mua đồ 36 000 đồng, được trả lại:
++ 14 000 đồng
+- 24 000 đồng
+- 86 000 đồng
+- 16 000 đồng
+= 50 000 − 36 000.
+?2 Một hộp bút giá 12 000 đồng. Mua 3 hộp hết:
++ 36 000 đồng
+- 15 000 đồng
+- 32 000 đồng
+- 4 000 đồng
+= 12 000 × 3.
+?3 Có 100 000 đồng mua được nhiều nhất bao nhiêu quyển vở giá 12 000 đồng một quyển?
++ 8 quyển
+- 9 quyển
+- 10 quyển
+- 7 quyển
+= 12 000 × 8 = 96 000; 12 000 × 9 = 108 000.
+?3 5 tờ 20 000 đồng bằng:
++ 100 000 đồng
+- 25 000 đồng
+- 50 000 đồng
+- 120 000 đồng
+= 20 000 × 5.
+?4 Lan có 3 tờ 20 000 đồng và 2 tờ 5 000 đồng. Lan có tất cả:
++ 70 000 đồng
+- 30 000 đồng
+- 65 000 đồng
+- 25 000 đồng
+= 60 000 + 10 000.
+
+## Bài 25. Bảng số liệu. Khả năng xảy ra của một sự kiện
+?1 Bảng số liệu ghi: Lớp 3A có 30 bạn, 3B có 28 bạn, 3C có 32 bạn. Lớp nào đông nhất?
++ 3C
+- 3A
+- 3B
+- bằng nhau
+= 32 lớn nhất.
+?1 Cùng bảng trên, cả ba lớp có tất cả:
++ 90 bạn
+- 88 bạn
+- 92 bạn
+- 60 bạn
+= 30 + 28 + 32.
+?2 Tung đồng xu, khả năng xuất hiện mặt ngửa là:
++ có thể
+- chắc chắn
+- không thể
+- luôn luôn
+= Có thể sấp, có thể ngửa.
+?2 Hộp chỉ có bi xanh. Lấy 1 viên được bi đỏ là sự kiện:
++ không thể
+- chắc chắn
+- có thể
+- thường xuyên
+= Không có bi đỏ.
+?2 Bảng số liệu: Số cây trồng được: tổ 1: 12 cây, tổ 2: 15 cây, tổ 3: 9 cây. Tổ 2 trồng nhiều hơn tổ 3 bao nhiêu cây?
++ 6 cây
+- 3 cây
+- 24 cây
+- 27 cây
+= 15 − 9.
+?3 Gieo một con xúc xắc 6 mặt, sự kiện "xuất hiện mặt 7 chấm" là:
++ không thể
+- chắc chắn
+- có thể
+- luôn luôn
+= Xúc xắc chỉ có 1 đến 6 chấm.
+?3 Gieo một con xúc xắc, sự kiện "số chấm nhỏ hơn 7" là:
++ chắc chắn
+- không thể
+- có thể
+- hiếm khi
+= Mọi mặt đều nhỏ hơn 7.
+?4 Bảng: Thứ Hai bán 45 cái bánh, thứ Ba bán gấp đôi thứ Hai, thứ Tư bán 70 cái. Ngày nào bán nhiều nhất?
++ thứ Ba (90 cái)
+- thứ Hai
+- thứ Tư
+- bằng nhau
+= 45 × 2 = 90 > 70 > 45.

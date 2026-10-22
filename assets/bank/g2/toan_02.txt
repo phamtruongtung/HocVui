@@ -1,0 +1,711 @@
+// Toán 2 – Kết nối tri thức với cuộc sống – Tập 2
+#! HK2
+# Phép nhân, phép chia
+
+## Bài 37. Phép nhân
+?1 2 + 2 + 2 viết thành phép nhân là:
++ 2 × 3
+- 3 × 3
+- 2 × 2
+- 2 + 3
+= 2 được lấy 3 lần.
+?1 5 + 5 + 5 + 5 viết thành phép nhân là:
++ 5 × 4
+- 4 × 4
+- 5 × 5
+- 5 + 4
+= 5 được lấy 4 lần.
+?2 4 × 3 bằng tổng nào?
++ 4 + 4 + 4
+- 3 + 3 + 3
+- 4 + 3
+- 4 + 4 + 4 + 4
+= 4 được lấy 3 lần.
+?2 Mỗi đĩa có 2 quả cam. 5 đĩa có bao nhiêu quả cam?
++ 10
+- 7
+- 25
+- 3
+= 2 × 5.
+?2 Trong phép nhân 2 × 6 = 12, số 12 gọi là:
++ tích
+- thừa số
+- tổng
+- thương
+= Kết quả phép nhân là tích.
+?3 Mỗi con gà có 2 chân. 8 con gà có bao nhiêu chân?
++ 16
+- 10
+- 18
+- 6
+= 2 × 8.
+?3 Phép nhân nào có tích bằng 15?
++ 5 × 3
+- 5 × 2
+- 2 × 7
+- 5 × 4
+= 5 × 3 = 15.
+?4 Mỗi hộp có 5 cái bút. 6 hộp như thế có bao nhiêu cái bút?
++ 30
+- 11
+- 25
+- 35
+= 5 × 6.
+
+## Bài 38. Bảng nhân 2
+?1 2 × 4 = ?
++ 8
+- 6
+- 10
+- 24
+= Bảng nhân 2.
+?1 2 × 7 = ?
++ 14
+- 12
+- 16
+- 9
+= Bảng nhân 2.
+?1 2 × 10 = ?
++ 20
+- 12
+- 10
+- 210
+= Bảng nhân 2.
+?2 2 × 9 = ?
++ 18
+- 16
+- 11
+- 19
+= Bảng nhân 2.
+?2 2 × … = 12. Số cần điền là:
++ 6
+- 5
+- 10
+- 24
+= 2 × 6 = 12.
+?3 Dấu cần điền: 2 × 8 … 2 × 7
++ >
+- <
+- =
+- ×
+= 16 > 14.
+?3 2 × 5 + 3 = ?
++ 13
+- 16
+- 10
+- 7
+= 10 + 3.
+?4 Mỗi bạn nhận 2 quyển vở. Tổ có 9 bạn. Cần bao nhiêu quyển vở?
++ 18
+- 11
+- 16
+- 20
+= 2 × 9.
+
+## Bài 39. Bảng nhân 5
+?1 5 × 3 = ?
++ 15
+- 8
+- 10
+- 20
+= Bảng nhân 5.
+?1 5 × 6 = ?
++ 30
+- 25
+- 35
+- 11
+= Bảng nhân 5.
+?2 5 × 9 = ?
++ 45
+- 40
+- 50
+- 14
+= Bảng nhân 5.
+?2 5 × … = 40. Số cần điền là:
++ 8
+- 7
+- 9
+- 35
+= 5 × 8 = 40.
+?2 5 × 2 = 2 × …
++ 5
+- 2
+- 10
+- 7
+= Đổi chỗ thừa số, tích không đổi.
+?3 5 × 7 − 10 = ?
++ 25
+- 35
+- 45
+- 2
+= 35 − 10.
+?3 Phép tính nào có kết quả bằng 20?
++ 5 × 4
+- 5 × 5
+- 2 × 9
+- 5 × 3
+= 5 × 4 = 20.
+?4 Mỗi bàn tay có 5 ngón. 7 bàn tay có bao nhiêu ngón?
++ 35
+- 12
+- 30
+- 40
+= 5 × 7.
+
+## Bài 40. Phép chia
+?1 Chia đều 6 cái kẹo cho 2 bạn, mỗi bạn được:
++ 3 cái
+- 4 cái
+- 2 cái
+- 12 cái
+= 6 : 2 = 3.
+?1 Trong phép chia 10 : 2 = 5, số 5 gọi là:
++ thương
+- số bị chia
+- số chia
+- tích
+= Kết quả phép chia là thương.
+?2 Từ phép nhân 5 × 3 = 15, ta có phép chia:
++ 15 : 5 = 3
+- 15 : 15 = 1
+- 5 : 3 = 15
+- 3 : 5 = 15
+= Liên hệ nhân – chia.
+?2 Có 8 quả táo chia đều vào 2 đĩa. Mỗi đĩa có:
++ 4 quả
+- 6 quả
+- 10 quả
+- 16 quả
+= 8 : 2.
+?2 Có 12 bông hoa, cắm mỗi lọ 2 bông. Cần mấy lọ?
++ 6
+- 10
+- 14
+- 24
+= 12 : 2.
+?3 Trong phép chia 20 : 5 = 4, số bị chia là:
++ 20
+- 5
+- 4
+- 25
+= Số bị chia đứng trước dấu chia.
+?3 Có 15 học sinh chia đều thành 5 nhóm. Mỗi nhóm có:
++ 3 học sinh
+- 10 học sinh
+- 20 học sinh
+- 5 học sinh
+= 15 : 5.
+?4 Một sợi dây dài 10 dm được cắt thành các đoạn, mỗi đoạn 2 dm. Cắt được mấy đoạn?
++ 5
+- 8
+- 12
+- 20
+= 10 : 2.
+
+## Bài 41. Bảng chia 2, bảng chia 5
+?1 16 : 2 = ?
++ 8
+- 7
+- 14
+- 32
+= 2 × 8 = 16.
+?1 25 : 5 = ?
++ 5
+- 20
+- 4
+- 6
+= 5 × 5 = 25.
+?2 18 : 2 = ?
++ 9
+- 8
+- 16
+- 20
+= 2 × 9 = 18.
+?2 45 : 5 = ?
++ 9
+- 8
+- 40
+- 50
+= 5 × 9 = 45.
+?2 … : 5 = 6. Số cần điền là:
++ 30
+- 11
+- 1
+- 25
+= 5 × 6 = 30.
+?3 Dấu cần điền: 20 : 2 … 40 : 5
++ >
+- <
+- =
+- :
+= 10 > 8.
+?3 35 : 5 + 3 = ?
++ 10
+- 7
+- 38
+- 4
+= 7 + 3.
+?4 Có 40 quả cam xếp đều vào 5 giỏ. Mỗi giỏ có bao nhiêu quả cam?
++ 8
+- 35
+- 45
+- 9
+= 40 : 5.
+
+# Hình khối và các số trong phạm vi 1000
+
+## Bài 44. Khối trụ, khối cầu
+?1 Quả bóng có dạng:
++ khối cầu
+- khối trụ
+- khối lập phương
+- khối hộp chữ nhật
+= Hình khối quanh em.
+?1 Lon nước ngọt có dạng:
++ khối trụ
+- khối cầu
+- khối lập phương
+- hình tam giác
+= Hình khối quanh em.
+?2 Vật nào có dạng khối trụ?
++ hộp sữa hình ống tròn
+- quả cam
+- con xúc xắc
+- quyển sách
+= Khối trụ có hai mặt đáy hình tròn.
+?2 Vật nào có dạng khối cầu?
++ quả địa cầu
+- cốc nước thẳng đứng
+- hộp bánh vuông
+- viên gạch
+= Khối cầu tròn đều mọi phía.
+?2 Khối nào lăn được về mọi hướng?
++ khối cầu
+- khối lập phương
+- khối hộp chữ nhật
+- viên gạch
+= Đặc điểm khối cầu.
+?3 Có 3 khối cầu và 4 khối trụ. Có tất cả bao nhiêu khối?
++ 7
+- 1
+- 12
+- 6
+= 3 + 4.
+?3 Mặt đáy của khối trụ là hình:
++ hình tròn
+- hình vuông
+- hình tam giác
+- hình chữ nhật
+= Đặc điểm khối trụ.
+?4 Bạn An xếp 2 khối trụ chồng lên nhau, mỗi khối cao 5 cm. Chồng khối cao:
++ 10 cm
+- 7 cm
+- 5 cm
+- 25 cm
+= 5 + 5.
+
+## Bài 46. Đơn vị, chục, trăm, nghìn
+?1 10 chục bằng:
++ 1 trăm
+- 1 nghìn
+- 10 đơn vị
+- 1 chục
+= 10 chục = 100.
+?1 10 trăm bằng:
++ 1 nghìn
+- 1 trăm
+- 10 chục
+- 100 nghìn
+= 10 trăm = 1000.
+?2 Số 300 gồm:
++ 3 trăm
+- 3 chục
+- 30 trăm
+- 3 nghìn
+= Số tròn trăm.
+?2 Số tròn trăm lớn nhất có ba chữ số là:
++ 900
+- 999
+- 100
+- 990
+= 9 trăm.
+?2 5 trăm viết là:
++ 500
+- 50
+- 5000
+- 5
+= Số tròn trăm.
+?3 Số tròn chục liền sau 340 là:
++ 350
+- 341
+- 330
+- 440
+= Đếm thêm 10.
+?3 Số tròn trăm liền trước 700 là:
++ 600
+- 699
+- 690
+- 800
+= Đếm bớt 100.
+?4 Có 4 hộp, mỗi hộp 100 viên bi, và 2 túi, mỗi túi 10 viên bi. Có tất cả bao nhiêu viên bi?
++ 420
+- 402
+- 42
+- 240
+= 4 trăm và 2 chục.
+
+## Bài 48. Số có ba chữ số. So sánh
+?1 Số "bốn trăm hai mươi lăm" viết là:
++ 425
+- 452
+- 40025
+- 245
+= 4 trăm, 2 chục, 5 đơn vị.
+?1 Số 607 đọc là:
++ sáu trăm linh bảy
+- sáu trăm bảy mươi
+- sáu không bảy
+- sáu mươi bảy
+= Hàng chục là 0 đọc "linh".
+?2 Số 381 viết thành tổng trăm, chục, đơn vị:
++ 300 + 80 + 1
+- 3 + 8 + 1
+- 300 + 8 + 1
+- 38 + 1
+= Phân tích cấu tạo số.
+?2 Dấu cần điền: 579 … 597
++ <
+- >
+- =
+- +
+= Cùng 5 trăm; 7 chục < 9 chục.
+?2 Số lớn nhất trong các số 456, 465, 546, 564 là:
++ 564
+- 546
+- 465
+- 456
+= So sánh từng hàng.
+?3 Số có ba chữ số bé nhất là:
++ 100
+- 101
+- 111
+- 999
+= Số có ba chữ số.
+?3 Xếp các số 802, 280, 820 từ bé đến lớn:
++ 280, 802, 820
+- 820, 802, 280
+- 802, 280, 820
+- 280, 820, 802
+= So sánh từng hàng.
+?4 Số gồm 7 trăm và 5 đơn vị là:
++ 705
+- 750
+- 75
+- 7005
+= Hàng chục bằng 0.
+
+# Độ dài và tiền Việt Nam
+
+## Bài 51. Mét, ki-lô-mét
+?1 1 m bằng bao nhiêu xăng-ti-mét?
++ 100 cm
+- 10 cm
+- 1000 cm
+- 1 cm
+= 1 m = 100 cm.
+?1 1 km bằng bao nhiêu mét?
++ 1000 m
+- 100 m
+- 10 m
+- 10000 m
+= 1 km = 1000 m.
+?2 1 dm bằng bao nhiêu xăng-ti-mét?
++ 10 cm
+- 100 cm
+- 1 cm
+- 1000 cm
+= 1 dm = 10 cm.
+?2 Để đo quãng đường từ Hà Nội đến Hải Phòng, ta dùng đơn vị:
++ ki-lô-mét
+- xăng-ti-mét
+- mét vuông
+- lít
+= Quãng đường dài.
+?2 25 m + 17 m = ?
++ 42 m
+- 32 m
+- 8 m
+- 42 km
+= Cộng có nhớ.
+?3 Chiều cao của cửa ra vào khoảng:
++ 2 m
+- 2 cm
+- 2 km
+- 20 m
+= Ước lượng độ dài.
+?3 Quãng đường từ nhà đến trường dài 3 km, từ trường đến nhà bà dài 5 km. Từ nhà qua trường đến nhà bà dài:
++ 8 km
+- 2 km
+- 35 km
+- 15 km
+= 3 + 5.
+?4 Sợi dây dài 1 m, cắt đi 35 cm. Sợi dây còn lại dài:
++ 65 cm
+- 75 cm
+- 34 cm
+- 135 cm
+= 100 − 35.
+
+## Bài 53. Tiền Việt Nam
+?1 Đơn vị tiền Việt Nam là:
++ đồng
+- đô la
+- yên
+- ki-lô-gam
+= Tiền Việt Nam.
+?1 Tờ tiền mệnh giá lớn nhất trong các tờ sau là:
++ 500 đồng
+- 200 đồng
+- 100 đồng
+- 50 đồng
+= So sánh mệnh giá.
+?2 Hai tờ 200 đồng có giá trị là:
++ 400 đồng
+- 500 đồng
+- 200 đồng
+- 2000 đồng
+= 200 + 200 = 400 đồng.
+?2 Mua một cái bút giá 500 đồng và một quyển vở giá 200 đồng hết:
++ 700 đồng
+- 300 đồng
+- 500 đồng
+- 900 đồng
+= 500 + 200.
+?2 Em có 1000 đồng, mua kẹo hết 600 đồng. Em còn lại:
++ 400 đồng
+- 1600 đồng
+- 600 đồng
+- 500 đồng
+= 1000 − 600.
+?3 Năm tờ 100 đồng có giá trị bằng:
++ 500 đồng
+- 100 đồng
+- 105 đồng
+- 1000 đồng
+= 100 × 5.
+?3 Lan có 2 tờ 500 đồng. Lan có tất cả:
++ 1000 đồng
+- 500 đồng
+- 700 đồng
+- 502 đồng
+= 500 + 500.
+?4 Một cái thước giá 800 đồng. Em đưa tờ 1000 đồng, người bán trả lại:
++ 200 đồng
+- 800 đồng
+- 1800 đồng
+- 300 đồng
+= 1000 − 800.
+
+# Phép cộng, phép trừ trong phạm vi 1000
+
+## Bài 56. Phép cộng (không nhớ, có nhớ) trong phạm vi 1000
+?1 200 + 300 = ?
++ 500
+- 50
+- 5000
+- 230
+= 2 trăm + 3 trăm.
+?1 432 + 125 = ?
++ 557
+- 547
+- 657
+- 307
+= Cộng từng hàng.
+?2 345 + 27 = ?
++ 372
+- 362
+- 615
+- 382
+= 5 + 7 = 12 nhớ 1.
+?2 268 + 154 = ?
++ 422
+- 412
+- 322
+- 432
+= 8 + 4 = 12 nhớ 1; 6 + 5 + 1 = 12 nhớ 1; 2 + 1 + 1 = 4.
+?2 500 + 70 + 6 = ?
++ 576
+- 567
+- 5706
+- 657
+= 5 trăm, 7 chục, 6 đơn vị.
+?3 … + 150 = 400. Số cần điền là:
++ 250
+- 550
+- 350
+- 150
+= 400 − 150.
+?3 Dấu cần điền: 456 + 44 … 500
++ =
+- >
+- <
+- +
+= 456 + 44 = 500.
+?4 Trường có 324 học sinh nam và 298 học sinh nữ. Trường có tất cả bao nhiêu học sinh?
++ 622
+- 612
+- 26
+- 522
+= 324 + 298.
+
+## Bài 57. Phép trừ (không nhớ, có nhớ) trong phạm vi 1000
+?1 700 − 400 = ?
++ 300
+- 1100
+- 30
+- 400
+= 7 trăm − 4 trăm.
+?1 586 − 243 = ?
++ 343
+- 333
+- 829
+- 353
+= Trừ từng hàng.
+?2 452 − 27 = ?
++ 425
+- 435
+- 479
+- 415
+= 12 − 7 = 5, nhớ 1.
+?2 631 − 248 = ?
++ 383
+- 393
+- 483
+- 417
+= 11 − 8 = 3 nhớ 1; 13 − 5 = 8 nhớ 1; 6 − 3 = 3.
+?2 1000 − 200 = ?
++ 800
+- 1200
+- 900
+- 980
+= 10 trăm − 2 trăm.
+?3 … − 135 = 265. Số cần điền là:
++ 400
+- 130
+- 300
+- 390
+= 265 + 135.
+?3 900 − … = 450. Số cần điền là:
++ 450
+- 550
+- 1350
+- 350
+= 900 − 450.
+?4 Một cửa hàng có 750 kg gạo, đã bán 285 kg. Cửa hàng còn lại bao nhiêu ki-lô-gam gạo?
++ 465 kg
+- 475 kg
+- 535 kg
+- 1035 kg
+= 750 − 285.
+
+# Làm quen với yếu tố thống kê, xác suất
+
+## Bài 60. Thu thập, phân loại, kiểm đếm. Biểu đồ tranh
+?1 Biểu đồ tranh dùng để:
++ biểu diễn số liệu bằng hình ảnh
+- vẽ cho đẹp
+- đo độ dài
+- tính tiền
+= Khái niệm.
+?1 Lớp có 12 bạn thích bóng đá, 8 bạn thích cầu lông. Môn nào được nhiều bạn thích hơn?
++ bóng đá
+- cầu lông
+- bằng nhau
+- không biết
+= 12 > 8.
+?2 Biểu đồ tranh: mỗi hình ★ ứng với 1 bạn. Hàng "Thích đọc sách" có ★★★★★. Có mấy bạn thích đọc sách?
++ 5
+- 4
+- 6
+- 1
+= Đếm số hình.
+?2 Kiểm đếm số con vật: gà 7 con, vịt 5 con. Gà nhiều hơn vịt mấy con?
++ 2
+- 12
+- 7
+- 5
+= 7 − 5.
+?2 Tổ em có 4 bạn thích màu đỏ, 3 bạn thích màu xanh, 2 bạn thích màu vàng. Tổ có bao nhiêu bạn?
++ 9
+- 7
+- 8
+- 10
+= 4 + 3 + 2.
+?3 Trong biểu đồ tranh, mỗi hình ● ứng với 2 quả. Hàng "Cam" có ●●●. Có bao nhiêu quả cam?
++ 6
+- 3
+- 5
+- 2
+= 2 + 2 + 2.
+?3 Bảng kiểm đếm: thứ Hai 5 bạn đi muộn, thứ Ba 2 bạn, thứ Tư 0 bạn. Ngày nào không có bạn đi muộn?
++ thứ Tư
+- thứ Hai
+- thứ Ba
+- cả ba ngày
+= 0 bạn.
+?4 Biểu đồ tranh: mỗi hình ■ ứng với 5 quyển sách. Lớp 2A có ■■■■, lớp 2B có ■■. Lớp 2A quyên góp nhiều hơn lớp 2B bao nhiêu quyển?
++ 10
+- 2
+- 20
+- 5
+= 2A: 20 quyển, 2B: 10 quyển.
+
+## Bài 61. Chắc chắn, có thể, không thể
+?1 "Mặt Trời mọc ở đằng đông" là sự việc:
++ chắc chắn
+- có thể
+- không thể
+- không biết
+= Luôn xảy ra.
+?1 "Con mèo biết bay như chim" là sự việc:
++ không thể
+- chắc chắn
+- có thể
+- luôn luôn
+= Không bao giờ xảy ra.
+?2 "Ngày mai trời có mưa" là sự việc:
++ có thể
+- chắc chắn
+- không thể
+- luôn luôn
+= Có thể xảy ra hoặc không.
+?2 Hộp có 5 quả bóng đều màu đỏ. Lấy 1 quả, sự việc "lấy được bóng đỏ" là:
++ chắc chắn
+- có thể
+- không thể
+- không biết
+= Chỉ có bóng đỏ.
+?2 Hộp có 5 quả bóng đều màu đỏ. Sự việc "lấy được bóng xanh" là:
++ không thể
+- chắc chắn
+- có thể
+- luôn luôn
+= Không có bóng xanh.
+?3 Hộp có 3 bóng đỏ và 2 bóng xanh. Lấy 1 quả, sự việc "lấy được bóng xanh" là:
++ có thể
+- chắc chắn
+- không thể
+- luôn luôn
+= Có thể đỏ, có thể xanh.
+?3 "Sau thứ Hai là thứ Ba" là sự việc:
++ chắc chắn
+- có thể
+- không thể
+- thỉnh thoảng
+= Luôn đúng.
+?4 Túi có 4 viên bi xanh và 1 viên bi vàng. Lấy 1 viên, khả năng lấy được bi màu nào nhiều hơn?
++ bi xanh
+- bi vàng
+- như nhau
+- không thể lấy được
+= Có nhiều bi xanh hơn.
