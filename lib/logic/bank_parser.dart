@@ -178,7 +178,7 @@ String bankQuestionId(int grade, String subject, String lessonTitle, int index) 
 
 /// Tên file → (lớp, môn). Ví dụ 'assets/bank/g7/toan_01.txt' → (7, 'toan').
 (int, String)? bankFileKey(String path) {
-  final m = RegExp(r'g([6-9])/([a-z]+)_\d+\.txt$').firstMatch(path);
+  final m = RegExp(r'g([1-9])/([a-z]+)_\d+\.txt$').firstMatch(path);
   if (m == null) return null;
   return (int.parse(m.group(1)!), m.group(2)!);
 }

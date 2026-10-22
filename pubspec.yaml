@@ -1,9 +1,9 @@
 name: hoc_vui
-description: "Học Vui - ôn bài mỗi ngày cho học sinh lớp 6–9 theo kiểu game."
+description: "Học Vui - ôn bài mỗi ngày cho học sinh lớp 1–9 theo kiểu game."
 publish_to: 'none'
 # Đổi phiên bản: sửa dòng này VÀ kAppVersion trong lib/version.dart (test kiểm tra
 # hai chỗ khớp nhau). Số sau dấu + (mã bản dựng) phải tăng mỗi lần build bản mới.
-version: 0.1.0+1
+version: 0.1.1+2
 
 environment:
   sdk: '>=3.5.0 <4.0.0'
@@ -33,6 +33,11 @@ flutter:
   uses-material-design: true
   # Thư viện đề soạn sẵn (xem lib/logic/bank_parser.dart để biết định dạng).
   assets:
+    - assets/bank/g1/
+    - assets/bank/g2/
+    - assets/bank/g3/
+    - assets/bank/g4/
+    - assets/bank/g5/
     - assets/bank/g6/
     - assets/bank/g7/
     - assets/bank/g8/

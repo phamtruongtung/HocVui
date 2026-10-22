@@ -8,19 +8,31 @@ import '../../state/session.dart';
 import '../../theme.dart';
 import '../../widgets/common.dart';
 
-class LeaderboardTab extends StatelessWidget {
-  const LeaderboardTab({super.key});
+/// Bảng xếp hạng tuần. Quản trị viên dùng [browse] = true để xem cả các tuần trước.
+class LeaderboardTab extends StatefulWidget {
+  const LeaderboardTab({super.key, this.browse = false});
+  final bool browse;
+
+  @override
+  State<LeaderboardTab> createState() => _LeaderboardTabState();
+}
+
+class _LeaderboardTabState extends State<LeaderboardTab> {
+  /// 0 = tuần này, 1 = tuần trước, …
+  int _weeksAgo = 0;
 
   @override
   Widget build(BuildContext context) {
     final session = context.read<Session>();
     final me = session.profile!.uid;
-    final now = DateTime.now();
+    final today = DateTime.now();
+    final now = DateTime(today.year, today.month, today.day - 7 * _weeksAgo);
     final week = weekKey(now);
     final monday = parseDay(week);
     final sunday = DateTime(monday.year, monday.month, monday.day + 6);
-    final daysLeft = 7 - now.weekday;
+    final daysLeft = 7 - today.weekday;
     return StreamBuilder<List<LeaderRow>>(
+      key: ValueKey(week),
       stream: session.repo.watchLeaderboard(week),
       builder: (context, snap) {
         if (snap.hasError) return ErrorView('Không tải được bảng xếp hạng: ${snap.error}');
@@ -29,13 +41,31 @@ class LeaderboardTab extends StatelessWidget {
         return AppPage(children: [
           Row(children: [
             Expanded(child: Text('Xếp hạng tuần', style: display(24))),
-            Pill(daysLeft == 0 ? 'Chốt tối nay' : 'Còn $daysLeft ngày', bg: AppColors.seaSoft, fg: AppColors.seaInk),
+            if (widget.browse) ...[
+              IconButton(
+                tooltip: 'Tuần trước',
+                icon: const Icon(Icons.chevron_left_rounded),
+                onPressed: () => setState(() => _weeksAgo++),
+              ),
+              IconButton(
+                tooltip: 'Tuần sau',
+                icon: const Icon(Icons.chevron_right_rounded),
+                onPressed: _weeksAgo == 0 ? null : () => setState(() => _weeksAgo--),
+              ),
+            ],
+            if (_weeksAgo == 0)
+              Pill(daysLeft == 0 ? 'Chốt tối nay' : 'Còn $daysLeft ngày', bg: AppColors.seaSoft, fg: AppColors.seaInk)
+            else
+              Pill('Đã chốt', bg: AppColors.paper, fg: AppColors.muted),
           ]),
           Text('Tuần ${monday.day}/${monday.month} – ${sunday.day}/${sunday.month} · xếp chung các lớp',
               style: const TextStyle(fontSize: 12.5, color: AppColors.muted)),
           if (rows.length >= 3) _podium(rows),
           for (var i = 0; i < rows.length; i++) _row(i + 1, rows[i], rows[i].uid == me),
-          if (rows.isEmpty) const EmptyView('Tuần này chưa ai làm bài. Làm đề đầu tiên để đứng đầu bảng!'),
+          if (rows.isEmpty)
+            EmptyView(widget.browse
+                ? 'Tuần này chưa có học sinh nào làm bài.'
+                : 'Tuần này chưa ai làm bài. Làm đề đầu tiên để đứng đầu bảng!'),
           Text(
             'Điểm thi đua = tổng điểm các đề trong tuần (mỗi đề tối đa 10) + ${earlyBonusPoints.toInt()} điểm '
             'mỗi ngày xong cả bài trước 21:00. Bằng điểm thì ai làm nhanh hơn đứng trên. '

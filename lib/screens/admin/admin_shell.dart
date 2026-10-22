@@ -8,6 +8,7 @@ import '../../state/session.dart';
 import '../../theme.dart';
 import '../../widgets/common.dart';
 import '../student/exam_screens.dart';
+import '../student/leaderboard_tab.dart';
 import '../student/profile_tab.dart';
 import 'library_tab.dart';
 
@@ -26,6 +27,7 @@ class _AdminShellState extends State<AdminShell> {
     (Icons.list_alt_rounded, 'Mục lục'),
     (Icons.quiz_rounded, 'Câu hỏi'),
     (Icons.local_library_rounded, 'Thư viện'),
+    (Icons.emoji_events_rounded, 'Xếp hạng'),
     (Icons.auto_awesome_rounded, 'Sinh bằng AI'),
     (Icons.settings_rounded, 'Cài đặt'),
   ];
@@ -38,6 +40,7 @@ class _AdminShellState extends State<AdminShell> {
       CurriculumTab(),
       QuestionsTab(),
       LibraryTab(),
+      LeaderboardTab(browse: true),
       GenerateTab(),
       AdminSettingsTab(),
     ]);
@@ -85,19 +88,26 @@ class GradeSubjectPicker extends StatelessWidget {
   final void Function(int grade, Subject subject) onChanged;
 
   @override
-  Widget build(BuildContext context) => Wrap(spacing: 12, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
-        SegmentedButton<int>(
-          segments: [for (final g in grades) ButtonSegment(value: g, label: Text('Lớp $g'))],
-          selected: {grade},
-          showSelectedIcon: false,
-          onSelectionChanged: (s) => onChanged(s.first, subject),
-        ),
-        DropdownButton<Subject>(
-          value: subject,
-          items: [for (final s in Subject.values) DropdownMenuItem(value: s, child: Text(s.label))],
-          onChanged: (s) => onChanged(grade, s ?? subject),
-        ),
-      ]);
+  Widget build(BuildContext context) {
+    final subjects = subjectsForGrade(grade);
+    return Wrap(spacing: 12, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
+      DropdownButton<int>(
+        value: grade,
+        items: [for (final g in grades) DropdownMenuItem(value: g, child: Text('Lớp $g'))],
+        onChanged: (g) {
+          if (g == null) return;
+          // Lớp mới không học môn đang chọn (ví dụ Ngữ văn ở lớp 3) thì chọn môn đầu tiên.
+          final list = subjectsForGrade(g);
+          onChanged(g, list.contains(subject) ? subject : list.first);
+        },
+      ),
+      DropdownButton<Subject>(
+        value: subjects.contains(subject) ? subject : subjects.first,
+        items: [for (final s in subjects) DropdownMenuItem(value: s, child: Text(s.label))],
+        onChanged: (s) => onChanged(grade, s ?? subject),
+      ),
+    ]);
+  }
 }
 
 // =========================== Tài khoản ===========================

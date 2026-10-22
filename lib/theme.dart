@@ -38,6 +38,9 @@ Color subjectColor(Subject s) => switch (s) {
       Subject.anh => AppColors.plum,
       Subject.khtn => AppColors.leaf,
       Subject.lsdl => AppColors.flame,
+      Subject.tiengviet => AppColors.rose,
+      Subject.tnxh => AppColors.leaf,
+      Subject.khoahoc => AppColors.leaf,
     };
 
 const levelColors = [Color(0xFF9BDDB7), Color(0xFF6FC6E8), Color(0xFFF6B44B), Color(0xFFF07856)];

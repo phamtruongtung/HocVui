@@ -173,7 +173,7 @@ class Repo {
     }
     if (displayName.trim().isEmpty) throw const AppError('Hãy nhập họ tên.');
     if (password.length < 6) throw const AppError('Mật khẩu cần ít nhất 6 ký tự.');
-    if (role == Role.student && !grades.contains(grade)) throw const AppError('Hãy chọn lớp 6, 7, 8 hoặc 9.');
+    if (role == Role.student && !grades.contains(grade)) throw const AppError('Hãy chọn lớp từ 1 đến 9.');
 
     FirebaseApp helper;
     try {
@@ -401,8 +401,8 @@ class Repo {
   }
 
   Future<void> _createDayPlan(Profile p, String today) async {
-    final primary = subjectsForDay(today);
-    final order = [...primary, ...fallbackOrder(today)];
+    final primary = subjectsForDay(today, p.grade);
+    final order = [...primary, ...fallbackOrder(today, p.grade)];
     final chosen = <(Subject, List<Question>)>[];
     final skipped = <Subject>[];
     for (final s in order) {
@@ -414,7 +414,7 @@ class Repo {
       final rng = Random();
       final qs = buildExam(
         pool: pool,
-        levelCounts: s.blueprint,
+        levelCounts: blueprintFor(s, p.grade),
         recentIds: recent,
         upTo: cur.lessons.isEmpty ? 0 : cur.effectiveUpTo(DateTime.now()),
         rng: rng,
@@ -500,7 +500,7 @@ class Repo {
     final coins = examCoins(correctByLevel, score);
     final started = fresh.startedAt ?? now;
     var seconds = now.difference(started).inSeconds;
-    if (seconds > examMinutes * 60) seconds = examMinutes * 60;
+    if (seconds > e.minutes * 60) seconds = e.minutes * 60;
     if (seconds < 0) seconds = 0;
 
     final dayRef = _sub(uid, 'days').doc(e.day);

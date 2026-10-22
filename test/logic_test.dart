@@ -68,6 +68,26 @@ void main() {
       }
     });
 
+    test('tiểu học: mỗi ngày 2 môn khác nhau, đều thuộc môn của lớp', () {
+      for (final g in [1, 2, 3, 4, 5]) {
+        for (var i = 0; i < 12; i++) {
+          final s = subjectsForDay(addDays('2026-10-01', i), g);
+          expect(s.length, 2);
+          expect(s[0] == s[1], isFalse);
+          expect(s.every(subjectsForGrade(g).contains), isTrue);
+        }
+      }
+    });
+
+    test('thời gian và số câu theo lớp', () {
+      expect(examMinutesFor(1), 15);
+      expect(examMinutesFor(3), 20);
+      expect(examMinutesFor(5), 25);
+      expect(examMinutesFor(9), 30);
+      expect(blueprintFor(Subject.toan, 2).fold(0, (a, b) => a + b), 10);
+      expect(blueprintFor(Subject.toan, 6), Subject.toan.blueprint);
+    });
+
     test('số câu mỗi đề', () {
       expect(Subject.toan.questionCount, 15);
       expect(Subject.anh.questionCount, 30);

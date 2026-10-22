@@ -74,7 +74,7 @@ class _ExamIntroScreenState extends State<ExamIntroScreen> {
         Row(children: [
           _fact('$total', 'câu hỏi'),
           const SizedBox(width: 8),
-          _fact("$examMinutes'", 'thời gian'),
+          _fact("${e.minutes}'", 'thời gian'),
           const SizedBox(width: 8),
           _fact('~$maxCoins', 'xu tối đa'),
         ]),
@@ -105,13 +105,29 @@ class _ExamIntroScreenState extends State<ExamIntroScreen> {
               child: Text(
                 e.subject.needsScratchPaper
                     ? 'Chuẩn bị giấy nháp và bút. Nhiều câu cần tính ra giấy trước khi chọn. '
-                        'Đồng hồ không dừng được, hết $examMinutes phút bài tự nộp.'
-                    : 'Đọc kỹ từng câu trước khi chọn. Đồng hồ không dừng được, hết $examMinutes phút bài tự nộp.',
+                        'Đồng hồ không dừng được, hết ${e.minutes} phút bài tự nộp.'
+                    : 'Đọc kỹ từng câu trước khi chọn. Đồng hồ không dừng được, hết ${e.minutes} phút bài tự nộp.',
                 style: const TextStyle(fontSize: 13),
               ),
             ),
           ]),
         ),
+        if (e.grade <= 2)
+          const AppCard(
+            color: AppColors.seaSoft,
+            border: AppColors.seaSoft,
+            child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+              Icon(Icons.family_restroom_rounded, color: AppColors.sea, size: 28),
+              SizedBox(width: 8),
+              Expanded(
+                child: Text(
+                  'Bố mẹ ơi: nếu con chưa đọc thạo, hãy ngồi cạnh và đọc câu hỏi cùng con, '
+                  'để con tự chọn đáp án nhé.',
+                  style: TextStyle(fontSize: 13, color: AppColors.seaInk),
+                ),
+              ),
+            ]),
+          ),
         BigButton('Bắt đầu làm bài', onPressed: _start, loading: _busy),
       ]),
     );
@@ -162,7 +178,7 @@ class _ExamScreenState extends State<ExamScreen> {
   }
 
   Duration _remaining() {
-    final deadline = _exam.deadline ?? DateTime.now().add(const Duration(minutes: examMinutes));
+    final deadline = _exam.deadline ?? DateTime.now().add(Duration(minutes: _exam.minutes));
     return deadline.difference(DateTime.now());
   }
 

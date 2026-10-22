@@ -261,7 +261,8 @@ class Exam {
 
   bool get submitted => submittedAt != null;
   bool get started => startedAt != null;
-  DateTime? get deadline => startedAt?.add(const Duration(minutes: examMinutes));
+  int get minutes => examMinutesFor(grade);
+  DateTime? get deadline => startedAt?.add(Duration(minutes: minutes));
 
   factory Exam.fromDoc(DocumentSnapshot<Map<String, dynamic>> doc) {
     final d = doc.data() ?? const {};

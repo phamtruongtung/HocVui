@@ -21,6 +21,8 @@ void main() {
       final key = bankFileKey(path);
       expect(key, isNotNull, reason: 'Tên file sai quy ước g{lớp}/{môn}_{số}.txt: $path');
       expect(subjectFromId(key!.$2), isNotNull, reason: 'Môn không hợp lệ trong $path');
+      expect(subjectsForGrade(key.$1).contains(subjectFromId(key.$2)), isTrue,
+          reason: 'Lớp ${key.$1} không học môn ${key.$2}: $path');
       final b = parseBank(path, f.readAsStringSync());
       errors.addAll(b.errors);
       final setKey = '${key.$1}_${key.$2}';

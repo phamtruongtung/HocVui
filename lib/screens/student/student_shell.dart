@@ -209,7 +209,7 @@ class _HomeTabState extends State<HomeTab> {
       final left = e.deadline!.difference(DateTime.now());
       status = left.isNegative ? 'Hết giờ, chạm để nộp bài' : 'Đang làm · còn ${clock(left)}';
     } else {
-      status = '${e.questions.length} câu · $examMinutes phút${e.subject.needsScratchPaper ? ' · cần giấy nháp' : ''}';
+      status = '${e.questions.length} câu · ${e.minutes} phút${e.subject.needsScratchPaper ? ' · cần giấy nháp' : ''}';
     }
     return AppCard(
       onTap: () => _openExam(e),
@@ -236,6 +236,8 @@ class _HomeTabState extends State<HomeTab> {
     );
   }
 
+  int get _grade => context.read<Session>().profile?.grade ?? 6;
+
   Widget _weekPlan(DateTime now) {
     final monday = DateTime(now.year, now.month, now.day - (now.weekday - 1));
     return AppCard(
@@ -248,7 +250,7 @@ class _HomeTabState extends State<HomeTab> {
         ]),
         const SizedBox(height: 8),
         Wrap(spacing: 10, runSpacing: 4, children: [
-          for (final s in Subject.values)
+          for (final s in subjectsForGrade(_grade))
             Row(mainAxisSize: MainAxisSize.min, children: [
               Container(width: 10, height: 10, decoration: BoxDecoration(color: subjectColor(s), borderRadius: BorderRadius.circular(3))),
               const SizedBox(width: 4),
@@ -261,7 +263,7 @@ class _HomeTabState extends State<HomeTab> {
 
   Widget _dayCell(DateTime day, DateTime now) {
     final isToday = dayKey(day) == dayKey(now);
-    final subjects = subjectsForDay(dayKey(day));
+    final subjects = subjectsForDay(dayKey(day), _grade);
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 2),
       padding: const EdgeInsets.symmetric(vertical: 6),

@@ -32,7 +32,7 @@ class AiService {
   }
 
   static const _system = '''
-Bạn là giáo viên THCS giàu kinh nghiệm ở Việt Nam, soạn câu hỏi trắc nghiệm ôn tập
+Bạn là giáo viên phổ thông (tiểu học và THCS) giàu kinh nghiệm ở Việt Nam, soạn câu hỏi trắc nghiệm ôn tập
 theo Chương trình giáo dục phổ thông 2018 và bộ sách giáo khoa "Kết nối tri thức với cuộc sống"
 (NXB Giáo dục Việt Nam).
 

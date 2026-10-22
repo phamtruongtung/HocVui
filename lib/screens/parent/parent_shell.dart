@@ -250,7 +250,7 @@ class _KidDashboardState extends State<KidDashboard> {
             builder: (context, es) {
               if (es.hasError) return Text('Lỗi tải bài làm: ${es.error}');
               if (!es.hasData) return const LinearProgressIndicator();
-              return _examsSection(es.data!.where((e) => e.submitted).toList());
+              return _examsSection(es.data!.where((e) => e.submitted).toList(), kid.grade);
             },
           ),
           const SizedBox(height: 12),
@@ -315,7 +315,7 @@ class _KidDashboardState extends State<KidDashboard> {
         ),
       );
 
-  Widget _examsSection(List<Exam> exams) {
+  Widget _examsSection(List<Exam> exams, int grade) {
     // Số đề xong theo ngày (7 ngày qua).
     final days = [for (var i = 6; i >= 0; i--) addDays(_todayKey, -i)];
     final perDay = {for (final d in days) d: exams.where((e) => e.day == d).length};
@@ -364,7 +364,7 @@ class _KidDashboardState extends State<KidDashboard> {
         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
           const SectionLabel('Điểm trung bình theo môn (7 ngày)'),
           const SizedBox(height: 6),
-          for (final s in Subject.values)
+          for (final s in subjectsForGrade(grade))
             Padding(
               padding: const EdgeInsets.symmetric(vertical: 4),
               child: Row(children: [
