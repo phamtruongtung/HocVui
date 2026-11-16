@@ -8,6 +8,7 @@ import '../../services/sound.dart';
 import '../../state/session.dart';
 import '../../theme.dart';
 import '../../version.dart';
+import '../../widgets/avatar_picker.dart';
 import '../../widgets/common.dart';
 
 class ProfileTab extends StatefulWidget {
@@ -56,12 +57,13 @@ class _ProfileTabState extends State<ProfileTab> {
     final p = context.watch<Session>().profile!;
     return AppPage(children: [
       Row(children: [
-        Avatar(p.initials, color: avatarColor(p.uid), size: 52),
+        AvatarPicker(profile: p, size: 64),
         const SizedBox(width: 12),
         Expanded(
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
             Text(p.displayName, style: display(21)),
             Text('${p.username} · Lớp ${p.grade}', style: const TextStyle(color: AppColors.muted)),
+            const Text('Chạm vào ảnh để đổi ảnh đại diện', style: TextStyle(fontSize: 11.5, color: AppColors.muted)),
           ]),
         ),
       ]),

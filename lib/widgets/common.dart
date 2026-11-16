@@ -1,8 +1,10 @@
 import 'dart:math';
 
+import 'package:flutter/foundation.dart' show Uint8List;
 import 'package:flutter/material.dart';
 
 import '../logic/subjects.dart';
+import '../services/avatars.dart';
 import '../theme.dart';
 
 /// "8,7"
@@ -166,19 +168,44 @@ class SubjectBadge extends StatelessWidget {
       );
 }
 
+/// Ảnh đại diện tròn. Có [uid] thì hiện ảnh người dùng đã chọn (nếu có),
+/// chưa có ảnh thì hiện chữ cái đầu tên trên nền màu.
 class Avatar extends StatelessWidget {
-  const Avatar(this.initials, {super.key, this.color = AppColors.sea, this.size = 38});
+  const Avatar(this.initials, {super.key, this.color = AppColors.sea, this.size = 38, this.uid});
   final String initials;
   final Color color;
   final double size;
-  @override
-  Widget build(BuildContext context) => Container(
+  final String? uid;
+
+  Widget _letters() => Container(
         width: size,
         height: size,
         alignment: Alignment.center,
         decoration: BoxDecoration(color: color, shape: BoxShape.circle),
         child: Text(initials, style: display(size * 0.36, color: Colors.white)),
       );
+
+  @override
+  Widget build(BuildContext context) {
+    final id = uid;
+    if (id == null || id.isEmpty) return _letters();
+    return ListenableBuilder(
+      listenable: AvatarStore.instance,
+      builder: (context, _) => FutureBuilder<Uint8List?>(
+        future: AvatarStore.instance.get(id),
+        builder: (context, snap) {
+          final bytes = snap.data;
+          if (bytes == null) return _letters();
+          return Container(
+            width: size,
+            height: size,
+            decoration: BoxDecoration(shape: BoxShape.circle, border: Border.all(color: color, width: 2)),
+            child: ClipOval(child: Image.memory(bytes, fit: BoxFit.cover, gaplessPlayback: true)),
+          );
+        },
+      ),
+    );
+  }
 }
 
 Color avatarColor(String seed) {

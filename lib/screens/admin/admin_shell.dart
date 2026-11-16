@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 
 import '../../logic/subjects.dart';
 import '../../models/models.dart';
+import '../../services/avatars.dart';
 import '../../services/repo.dart';
 import '../../state/session.dart';
 import '../../theme.dart';
@@ -159,6 +160,19 @@ class _AccountsTabState extends State<AccountsTab> {
               title: const Text('Cho phép đăng nhập'),
               onChanged: (v) => setD(() => active = v),
             ),
+            TextButton.icon(
+              style: TextButton.styleFrom(foregroundColor: AppColors.bad, padding: EdgeInsets.zero),
+              icon: const Icon(Icons.hide_image_outlined, size: 18),
+              label: const Text('Xóa ảnh đại diện'),
+              onPressed: () async {
+                try {
+                  await AvatarStore.instance.remove(p.uid);
+                  if (c.mounted) showSnack(c, 'Đã xóa ảnh đại diện.');
+                } catch (e) {
+                  if (c.mounted) showSnack(c, 'Không xóa được: $e', error: true);
+                }
+              },
+            ),
             const Text(
               'Đặt lại mật khẩu: chạy workflow "Reset password" trên GitHub (xem README).',
               style: TextStyle(fontSize: 12, color: AppColors.muted),
@@ -206,7 +220,7 @@ class _AccountsTabState extends State<AccountsTab> {
               onTap: u.role == Role.admin ? null : () => _edit(u),
               padding: const EdgeInsets.all(10),
               child: Row(children: [
-                Avatar(u.initials, color: avatarColor(u.uid), size: 34),
+                Avatar(u.initials, color: avatarColor(u.uid), size: 34, uid: u.uid),
                 const SizedBox(width: 10),
                 Expanded(
                   child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [

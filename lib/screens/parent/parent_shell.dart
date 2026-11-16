@@ -141,7 +141,7 @@ class _ParentOverviewTabState extends State<ParentOverviewTab> {
                   child: ChoiceChip(
                     selected: k.kidUid == selected,
                     onSelected: (_) => setState(() => _kid = k.kidUid),
-                    avatar: Avatar(_ini(k.kidName), color: avatarColor(k.kidUid), size: 26),
+                    avatar: Avatar(_ini(k.kidName), color: avatarColor(k.kidUid), size: 26, uid: k.kidUid),
                     label: Text('${k.kidName.split(' ').last} · Lớp ${k.kidGrade}'),
                   ),
                 ),
@@ -736,7 +736,7 @@ class _ParentSettingsTabState extends State<ParentSettingsTab> {
                 child: AppCard(
                   padding: const EdgeInsets.all(10),
                   child: Row(children: [
-                    Avatar(r.kidName.isEmpty ? '?' : r.kidName.characters.first.toUpperCase(), color: avatarColor(r.kidUid)),
+                    Avatar(r.kidName.isEmpty ? '?' : r.kidName.characters.first.toUpperCase(), color: avatarColor(r.kidUid), uid: r.kidUid),
                     const SizedBox(width: 10),
                     Expanded(
                       child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [

@@ -80,7 +80,7 @@ class _LeaderboardTabState extends State<LeaderboardTab> {
   Widget _podium(List<LeaderRow> rows) {
     Widget col(LeaderRow r, int place, double height, Color color) => Expanded(
           child: Column(mainAxisAlignment: MainAxisAlignment.end, children: [
-            Avatar(_initials(r.name), color: avatarColor(r.uid), size: place == 1 ? 44 : 36),
+            Avatar(_initials(r.name), color: avatarColor(r.uid), size: place == 1 ? 44 : 36, uid: r.uid),
             const SizedBox(height: 4),
             Text(r.name, maxLines: 1, overflow: TextOverflow.ellipsis, style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 12.5)),
             Text('L${r.grade} · ${fmtScore(r.points)}', style: const TextStyle(fontSize: 11, color: AppColors.muted)),
@@ -114,7 +114,7 @@ class _LeaderboardTabState extends State<LeaderboardTab> {
         ),
         child: Row(children: [
           SizedBox(width: 24, child: Text('$place', style: display(17, color: AppColors.muted))),
-          Avatar(_initials(r.name), color: avatarColor(r.uid), size: 30),
+          Avatar(_initials(r.name), color: avatarColor(r.uid), size: 30, uid: r.uid),
           const SizedBox(width: 10),
           Expanded(
             child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
